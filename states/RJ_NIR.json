@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Ratan Kia, Kuchaman",
+            "address3": "Dist-Kuchaman -Didwana, Rajasthan 341508",
+            "lng": "74.849044",
+            "address2": ", Ajmer Road, Kuchaman City ,",
+            "cityCode": "NIR",
+            "address1": "Patta No. 553/03, Opp. New Bus Stand",
+            "phone2": "9828818111",
+            "phone1": "9828818111",
+            "cityName": "Kuchaman City",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ518",
+            "lat": "27.129514"
+        },
+        {
+            "dealerName": "Ratan Kia, Kuchaman",
+            "address3": "Dist-Kuchaman -Didwana, Rajasthan 341508",
+            "lng": "74.84904",
+            "address2": ", Ajmer Road, Kuchaman City ,",
+            "cityCode": "NIR",
+            "address1": "Patta No. 553/03, Opp. New Bus Stand",
+            "phone2": "7300057521",
+            "phone1": "7300057521",
+            "cityName": "Kuchaman City",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ518",
+            "email": "servicektc@ratankia.net",
+            "lat": "27.129514"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.abhishek-kia-balaghat.com",
+            "dealerName": "Abhishek Kia, Balaghat",
+            "address3": "Madhya Pradesh- 481001",
+            "lng": "80.206918",
+            "address2": "Madhya Pradesh- 481001",
+            "cityCode": "WAF",
+            "address1": "Khasra No. 102, Gram Kosmi, Balaghat,",
+            "phone2": "8817404821",
+            "phone1": "8817404821",
+            "cityName": "Balaghat",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP507",
+            "email": "sales@abhishekkia.in",
+            "lat": "21.800622"
+        },
+        {
+            "website": "https://www.abhishek-kia-balaghat.com",
+            "dealerName": "Abhishek Kia, Balaghat",
+            "address3": "Madhya Pradesh- 481001",
+            "lng": "21.800729",
+            "address2": "Madhya Pradesh- 481001",
+            "cityCode": "WAF",
+            "address1": "Khasra No. 102, Gram Kosmi, Balaghat,",
+            "phone2": "8817404837",
+            "phone1": "8817404837",
+            "cityName": "Balaghat",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP507",
+            "email": "servicemanager@abhishekkia.in",
+            "lat": "21.800729"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

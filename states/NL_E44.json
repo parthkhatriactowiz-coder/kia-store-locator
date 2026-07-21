@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.vertex-kia-6th-mile.com",
+            "dealerName": "Vertex Kia, Dimapur",
+            "address3": "Dimapur,  Nagaland - 797115",
+            "lng": "25.84072222",
+            "address2": "Near NSC Petrol Pump ,N.H.29, 6Th Mile,",
+            "cityCode": "E44",
+            "address1": "P No 17, Dag No 37,",
+            "phone2": "9436010417",
+            "phone1": "9615243601",
+            "cityName": "Dimapur",
+            "stateName": "Nagaland",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "NL",
+            "id": "NL301",
+            "email": "vertexautomobilepvtltd@gmail.com",
+            "lat": "93.77450000"
+        },
+        {
+            "website": "https://www.vertex-kia-6th-mile.com",
+            "dealerName": "Vertex Kia, Dimapur",
+            "address3": "Dimapur,  Nagaland - 797115",
+            "lng": "25.84805556",
+            "address2": "Near NSC Petrol Pump ,N.H.29, 6Th Mile,",
+            "cityCode": "E44",
+            "address1": "P No 17, Dag No 37,",
+            "phone2": "9436010417",
+            "phone1": "7364074232",
+            "cityName": "Dimapur",
+            "stateName": "Nagaland",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "NL",
+            "id": "NL301",
+            "email": "vertexautomobilepvtltd@gmail.com",
+            "lat": "93.73675000"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

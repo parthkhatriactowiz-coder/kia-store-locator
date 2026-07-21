@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Malwa Kia, Gohana",
+            "address3": "Teh Gohana, Sonipat, Haryana -131301",
+            "lng": "76.734474",
+            "address2": "Nr Sonepat Flyover, Rohtak Panipat Bypass, VPO Bar",
+            "cityCode": "NCO",
+            "address1": "K No. 545, Killa No. 20/1, Muraba No. 38",
+            "phone2": "9810155479",
+            "phone1": "8950633375",
+            "cityName": "Gohana",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR509",
+            "lat": "29.124094"
+        },
+        {
+            "dealerName": "Malwa Kia, Gohana",
+            "address3": "Teh Gohana, Sonipat, Haryana -131301",
+            "lng": "76.7343",
+            "address2": "Nr Sonepat Flyover, Rohtak Panipat Bypass, VPO Bar",
+            "cityCode": "NCO",
+            "address1": "K No. 545, Killa No. 20/1, Muraba No. 38",
+            "phone2": "7419788801",
+            "phone1": "7419788801",
+            "cityName": "Gohana",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR509",
+            "email": "cgmservice@malwakia.in",
+            "lat": "29.1239"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

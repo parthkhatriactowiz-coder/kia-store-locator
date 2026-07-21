@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.incheon-kia-palakad.com",
+            "dealerName": "Incheon Kia, Kannadi, Palakkad",
+            "address3": "Kerala - 678701",
+            "lng": "76.6358985",
+            "address2": "Vadakkumuri, Kannadi, Palakkad,",
+            "cityCode": "S76",
+            "address1": "Re Sy No: 778/11, 779/36,",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Palakkad",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL311",
+            "email": "enquiry@incheonkia.com",
+            "lat": "10.7384459"
+        },
+        {
+            "website": "https://www.incheon-kia-palakad.com",
+            "dealerName": "Incheon Kia, Kannadi, Palakkad",
+            "address3": "Palakkad, Kerala -678701",
+            "lng": "76.5534958",
+            "address2": "Vadakkumuri, Kannadi,",
+            "cityCode": "S76",
+            "address1": "Re Sy No: 778/11, 779/36,",
+            "phone2": "8848001239",
+            "phone1": "8848001239",
+            "cityName": "Palakkad",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL311",
+            "email": "service.palakkad@incheonkia.com",
+            "lat": "10.7384298"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

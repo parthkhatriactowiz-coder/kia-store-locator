@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Incheon Kia, Nilamel",
+            "address3": "Kerala, 691535",
+            "lng": "76.88236108",
+            "address2": "Kadakkal, Nilamel, Kollam,",
+            "cityCode": "SNM",
+            "address1": "10/892, Ground Floor of G Square,",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Nilamel",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL601",
+            "email": "sm.kollam1@incheonkia.com",
+            "lat": "8.821869838"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

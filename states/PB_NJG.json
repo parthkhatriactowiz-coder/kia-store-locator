@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.lally-kia-nawanshahar.com",
+            "dealerName": "Lally Kia, Nawanshahr",
+            "address3": "Punjab- 144516",
+            "lng": "31.10939",
+            "address2": "Chandigarh Road, Nawanshahr,",
+            "cityCode": "NJG",
+            "address1": "41, Vill- Langorya,",
+            "phone2": "9490300007",
+            "phone1": "9490300007",
+            "cityName": "Nawanshahr",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB507",
+            "email": "saleshead@lallykia.in",
+            "lat": "76.16368"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

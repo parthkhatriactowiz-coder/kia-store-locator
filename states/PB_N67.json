@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.lally-motors-hoshiarpur-kia.com",
+            "dealerName": "Lally Kia, Hoshiarpur",
+            "address3": "Punjab -146022",
+            "lng": "75.857288",
+            "address2": "Jalandhar Road, Hoshiarpur,",
+            "cityCode": "N67",
+            "address1": "HB 245,",
+            "phone2": "8552900009",
+            "phone1": "8552900009",
+            "cityName": "Hoshiarpur",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB310",
+            "email": "smhsp@lallykia.in",
+            "lat": "31.503997"
+        },
+        {
+            "website": "https://www.lally-motors-hoshiarpur-kia.com",
+            "dealerName": "Lally Kia, Hoshiarpur",
+            "address3": "Punjab -146022",
+            "lng": "31.50633333",
+            "address2": "Jalandhar Road, Hoshiarpur,",
+            "cityCode": "N67",
+            "address1": "HB 245,",
+            "phone2": "8968777478",
+            "phone1": "8968777478",
+            "cityName": "Hoshiarpur",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB310",
+            "email": "serviceheadhsp@lallykia.in",
+            "lat": "75.85661111"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

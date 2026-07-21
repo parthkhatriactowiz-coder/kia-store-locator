@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "SAS Kia, Barabanki",
+            "address3": " Uttar Pradesh -225001",
+            "lng": "81.13075",
+            "address2": "Tehsil -Nawabganj , Barabanki,",
+            "cityCode": "NAS",
+            "address1": "Khasra No. 12, Village-Palhari,",
+            "phone2": "9935038228",
+            "phone1": "8114006730",
+            "cityName": "Barabanki",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP606",
+            "lat": "26.55460"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

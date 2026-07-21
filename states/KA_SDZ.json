@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.miraculum-kia-bagalkote.com",
+            "dealerName": "Miraculum Kia, Bagalkote",
+            "address3": "Navanagar, Bagalkote, Karnataka- 587103",
+            "lng": "75.614136",
+            "address2": "Agro Tech Park, Kiadb Industrial Area,",
+            "cityCode": "SDZ",
+            "address1": "Unit No. 1, Plot No. 18 & 19,",
+            "phone2": "9449475476",
+            "phone1": "9090979761",
+            "cityName": "BAGALKOT",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA319",
+            "email": "salesmanager.bgk@miraculumkia.in",
+            "lat": "16.168979"
+        },
+        {
+            "dealerName": "Miraculum Kia, Bagalkote",
+            "address3": "Navanagar, Bagalkote, Karnataka- 587103",
+            "lng": "75.61411",
+            "address2": "Agro Tech Park, Kiadb Industrial Area,",
+            "cityCode": "SDZ",
+            "address1": "Unit No. 1, Plot No. 18 & 19,",
+            "phone2": "8310157850",
+            "phone1": "8310157850",
+            "cityName": "BAGALKOT",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA319",
+            "email": "servicemgr.bgk@miraculumkia.in",
+            "lat": "16.16893"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

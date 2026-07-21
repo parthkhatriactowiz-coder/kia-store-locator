@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dealerName": "Kun Kia, Thoothukudi",
+            "address3": "Thoothukudi, Tamil Nadu -628902",
+            "lng": "78.126644",
+            "address2": " National High Road , Ettayapuram,",
+            "cityCode": "SJD",
+            "address1": "Sy No 4, Pulli Panchakulam Ettaiyapuram",
+            "phone2": "7825856123",
+            "phone1": "9751812332",
+            "cityName": "Thoothukudi",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN320",
+            "email": "edp.tcr@kunkia.in",
+            "lat": "8.835628"
+        },
+        {
+            "dealerName": "Kun Kia, Thoothukudi",
+            "address3": "Thoothukudi, Tamil Nadu -628902",
+            "lng": "78.12614",
+            "address2": " National High Road , Ettayapuram,",
+            "cityCode": "SJD",
+            "address1": "Sy No 4, Pulli Panchakulam Ettaiyapuram",
+            "phone2": "7825891338",
+            "cityName": "Thoothukudi",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN320",
+            "lat": "8.83597"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

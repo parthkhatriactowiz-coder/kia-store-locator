@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.bhavna-wheels-nerul-kia.com",
+            "dealerName": "Bhavna Kia, Nerul",
+            "address3": "Navi Mumbai, 400706",
+            "lng": "73.019652",
+            "address2": "Near L P Bridge, Nerul East, ",
+            "cityCode": "WBO",
+            "address1": "Plot No. 49, Sector 1, ",
+            "phone2": "9115142477",
+            "phone1": "9115142477",
+            "cityName": "NAVI MUMBAI",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH405",
+            "email": "info@bhavnakia.com",
+            "lat": "19.05174"
+        },
+        {
+            "website": "https://www.bhavna-wheels-nerul-kia.com",
+            "dealerName": "Bhavna Kia CPO, Panvel",
+            "address3": "Navi Mumbai  Maharashtra -400705",
+            "lng": "73.005163",
+            "address2": "Sector-19C , Next to croma, plam beach road, vashi, ",
+            "cityCode": "WBO",
+            "address1": "Shop no-1, grond flr Plot no-25,",
+            "phone2": "9324941533",
+            "phone1": "9769839364",
+            "cityName": "NAVI MUMBAI",
+            "stateName": "Maharashtra",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "MH",
+            "id": "MH405",
+            "email": "preowned@bhavnakia.com",
+            "lat": "19.081797"
+        },
+        {
+            "website": "https://www.bhavna-wheels-nerul-kia.com",
+            "dealerName": "Bhavna Kia, Nerul",
+            "address3": "Turbhe, Navi Mumbai–400705",
+            "lng": "73.019652",
+            "address2": "TTC Industrial Estate",
+            "cityCode": "WBO",
+            "address1": "Plot No.D-67",
+            "phone2": "02261805127",
+            "phone1": "02261805127",
+            "cityName": "NAVI MUMBAI",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH405",
+            "email": "servicemanager@bhavnakia.com",
+            "lat": "19.05174"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

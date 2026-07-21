@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://punya-kia-imphal.com",
+            "dealerName": "Punya Kia, Imphal",
+            "address3": "Imphal West, Manipur-795001",
+            "lng": "93.899471",
+            "address2": "Changangei Uchekon,",
+            "cityCode": "E46",
+            "address1": "Opp.Bir Tikendrajit Intnl Airport,",
+            "phone2": "8794740552",
+            "phone1": "8794740552",
+            "cityName": "Imphal",
+            "stateName": "Manipur",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MN",
+            "id": "MN301",
+            "email": "kiaindiaimphal@gmail.com",
+            "lat": "24.768817"
+        },
+        {
+            "website": "https://punya-kia-imphal.com",
+            "dealerName": "Punya Kia, Imphal",
+            "address3": "Imphal West, Manipur-795001",
+            "lng": "93.899471",
+            "address2": "Changangei Uchekon,",
+            "cityCode": "E46",
+            "address1": "Opp.Bir Tikendrajit Intnl Airport,",
+            "phone2": "9402983938",
+            "phone1": "9402983938",
+            "cityName": "Imphal",
+            "stateName": "Manipur",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MN",
+            "id": "MN301",
+            "email": "kiaindiaimphal@gmail.com",
+            "lat": "24.768817"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.sunrise-kia-mancherial.com",
+            "dealerName": "Sunrise Kia, Mancherial",
+            "address3": "Telangana -504302",
+            "lng": "79.46152778",
+            "address2": "Karimnagar Road, Mancherial",
+            "cityCode": "SEH",
+            "address1": "33-108/221,",
+            "phone2": "9849377757",
+            "phone1": "7995944481",
+            "cityName": "MANCHERIAL",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS504",
+            "email": "ravikiran@sunrisekia.in",
+            "lat": "18.86261111"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

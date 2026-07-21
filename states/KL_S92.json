@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.dkh-motors-kia-santhosh-nagar-kasaragod.com",
+            "dealerName": "DKH Kia, Kasargod",
+            "address3": "Kasargod, Kerala, 671541",
+            "lng": "12.51013889",
+            "address2": "Indira nagar, Chengala, ",
+            "cityCode": "S92",
+            "address1": "42/6, 42/8, DKH MOTORS LLP, ",
+            "phone2": "9207024000",
+            "phone1": "9207637000",
+            "cityName": "Kasaragod",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL508",
+            "email": "ceo@dkhkia.com",
+            "lat": "75.03241667"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

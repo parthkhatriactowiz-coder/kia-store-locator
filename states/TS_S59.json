@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.sunrise-kia-mandal-dichpally.com",
+            "dealerName": "Sunrise Kia, Nizamabad",
+            "address3": "Dist. Nizamabad, Telangana -503230",
+            "lng": "78.17690",
+            "address2": "Village Bardipur, Mandal Dichpally,",
+            "cityCode": "S59",
+            "address1": "G.P. No. 3-108/75/32,",
+            "phone2": "7995999841",
+            "phone1": "7995999841",
+            "cityName": "Nizamabad",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS303",
+            "email": "gmservice@sunrisekia.in",
+            "lat": "18.63517"
+        },
+        {
+            "website": "https://www.sunrise-kia-mandal-dichpally.com",
+            "dealerName": "Sunrise Kia, Nizamabad",
+            "address3": "Dist. Nizamabad, Telangana -503230",
+            "lng": "78.17611102",
+            "address2": "Village Bardipur, Mandal Dichpally,",
+            "cityCode": "S59",
+            "address1": "G.P. No. 3-108/75/32,",
+            "phone2": "7995949992",
+            "phone1": "7995949992",
+            "cityName": "Nizamabad",
+            "stateName": "Telangana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TS",
+            "id": "TS303",
+            "email": "service.nzb@sunrisekia.in",
+            "lat": "18.63507"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

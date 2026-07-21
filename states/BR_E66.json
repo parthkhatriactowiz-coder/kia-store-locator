@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.goberdhan-kia-dariyapur-kafen.com",
+            "dealerName": "Goberdhan Kia, Dariyapur Kafen",
+            "address3": "Muzaffarpur-844127",
+            "lng": "85.364636",
+            "address2": "Patna Road",
+            "cityCode": "E66",
+            "address1": "Kafen, NH-77",
+            "phone2": "040-48215127",
+            "phone1": "040-48215127",
+            "cityName": "Muzaffarpur",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR301",
+            "email": "kiamuzaffarpur@gmail.com",
+            "lat": "26.058204"
+        },
+        {
+            "website": "https://www.goberdhan-kia-dariyapur-kafen.com",
+            "dealerName": "Goberdhan Kia, Dariyapur Kafen",
+            "address3": "Muzaffarpur-844127",
+            "lng": "85.364636",
+            "address2": "Patna Road",
+            "cityCode": "E66",
+            "address1": "Kafen, NH-77",
+            "phone2": "9297932626",
+            "phone1": "9297932626",
+            "cityName": "Muzaffarpur",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR301",
+            "email": "Servicemanager@goberdhankia.com",
+            "lat": "26.058204"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

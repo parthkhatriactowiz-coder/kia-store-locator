@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "dealerName": "Shubh Kia, Vikasnagar",
+            "address3": "Uttarakhand - 248198",
+            "lng": "77.78370512",
+            "address2": "Mauza Rasoolpur, Vikasnagar, Dehradun,",
+            "cityCode": "NAV",
+            "address1": "Ground Floor,Rasoolpur, Khasra No 3914,",
+            "phone2": "9582860202",
+            "cityName": "Vikasnagar",
+            "stateName": "Uttarakhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UK",
+            "id": "UK601",
+            "lat": "30.475212587457086"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

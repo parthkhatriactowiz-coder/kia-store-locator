@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.rc-kia-sanjauli-shimla.com",
+            "dealerName": "RC Kia, Shimla",
+            "address3": "Himachal Pradesh-171006",
+            "lng": "77.20207597 ",
+            "address2": "Bhattakufer, Shimla",
+            "cityCode": "N05",
+            "address1": "Platinum Mall 9 Frood,",
+            "phone2": "9816184888",
+            "phone1": "9816184888",
+            "cityName": "Shimla",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP502",
+            "email": "sales@rckiashimla.com",
+            "lat": "31.09869193 "
+        },
+        {
+            "website": "https://www.rc-kia-shimla.com",
+            "dealerName": "RC Kia, Shimla",
+            "address3": "Himachal Pradesh-171006",
+            "lng": "77.110520",
+            "address2": "Bhattakufer, Shimla",
+            "cityCode": "N05",
+            "address1": "Platinum Mall 9 Frood,",
+            "phone2": "8894780882",
+            "phone1": "8894780882",
+            "cityName": "Shimla",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP502",
+            "email": "after.sales@rckiashimla.com",
+            "lat": "31.038184"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

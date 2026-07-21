@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.dkh-motors-calicut-kia.com",
+            "dealerName": "DKH Kia, Vadakara",
+            "address3": "Kozhikode, Kerala, 673101",
+            "lng": "11.57744444",
+            "address2": "Panvel Kochi Kanyakumari Highway, ",
+            "cityCode": "SGC",
+            "address1": "236/18, 236/22, DKH MOTORS LLP, ",
+            "phone2": "9207024000",
+            "phone1": "9947445566",
+            "cityName": "VADAKARA",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL507",
+            "email": "info@dkhkia.com ",
+            "lat": "75.60322222"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dealerName": "Majesty Kia, Balangir",
+            "address3": "Bolangir, Odisha -767002",
+            "lng": "83.494722",
+            "address2": "Bolangir No. 161, Plot No. 504, NH26,",
+            "cityCode": "EAP",
+            "address1": "Madhiapali, Holding No. 128, P.S. –",
+            "phone2": "9937787177",
+            "cityName": "Balangir",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD601",
+            "lat": "20.73475"
+        },
+        {
+            "dealerName": "Majesty Kia, Balangir",
+            "address3": "Bolangir, Odisha -767002",
+            "lng": "83.494935",
+            "address2": "Bolangir No. 161, Plot No. 504, NH26,",
+            "cityCode": "EAP",
+            "address1": "Madhiapali, Holding No. 128, P.S. –",
+            "phone2": "8249681965",
+            "phone1": "8249681965",
+            "cityName": "Balangir",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD601",
+            "email": "smbolangir@majestykia.com",
+            "lat": "20.734916"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

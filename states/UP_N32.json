@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "website": "https://www.smart-city-cb-ganj-kia.com",
+            "dealerName": "Smart Kia, CB Ganj",
+            "lng": "79.38463",
+            "address2": "Bareilly, Uttar Pradesh-243001",
+            "cityCode": "N32",
+            "address1": "4,5 KM Rampur Delhi Road C.B Ganj",
+            "phone2": "999999999",
+            "phone1": "9105678001",
+            "cityName": "Bareilly",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP303",
+            "email": "sales.bareilly@ambay-kia.com",
+            "lat": "28.38415"
+        },
+        {
+            "website": "https://www.smart-city-cb-ganj-kia.com",
+            "dealerName": "Smart Kia CPO, Bareilly",
+            "address3": "Uttar Pradesh - 243001",
+            "lng": "79.4305",
+            "address2": "Near Cakes 24, Bareilly",
+            "cityCode": "N32",
+            "address1": "C 18, Ekta Nagar",
+            "phone2": "9045599611",
+            "phone1": "9045599611",
+            "cityName": "Bareilly",
+            "stateName": "Uttar Pradesh",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "UP",
+            "id": "UP303",
+            "email": "sales.cpobareillyambay-kia.com",
+            "lat": "28.3825"
+        },
+        {
+            "website": "https://www.smart-city-cb-ganj-kia.com",
+            "dealerName": "Smart Kia, CB Ganj",
+            "lng": "79.38463",
+            "address2": "Bareilly, Uttar Pradesh-243001",
+            "cityCode": "N32",
+            "address1": "4,5 KM Rampur Delhi Road C.B Ganj",
+            "phone2": "9105678032",
+            "phone1": "8937075000",
+            "cityName": "Bareilly",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP303",
+            "email": "service.bareilly@ambay-kia.com",
+            "lat": "28.38415"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

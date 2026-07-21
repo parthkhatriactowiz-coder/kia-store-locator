@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.aaryaman-auto-kia-panipat.com",
+            "dealerName": "Aaryaman Kia, Panipat",
+            "address3": "Haryana- 132103",
+            "lng": "76.988277",
+            "address2": "GT Road, Panipat,",
+            "cityCode": "N69",
+            "address1": "Killa No. 16/2, Village Sewah,",
+            "phone2": "7298000355",
+            "phone1": "7298000355",
+            "cityName": "Panipat",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR310",
+            "email": "edp.panipat@aaryamankia.in",
+            "lat": "29.325314"
+        },
+        {
+            "website": "https://www.aaryaman-auto-kia-panipat.com",
+            "dealerName": "Aaryaman Kia CPO, Panipat",
+            "address3": "Phase 1, Panipat, Haryana -132103",
+            "lng": "76.978041",
+            "address2": "Sector 25 Huda Industrial Area, ",
+            "cityCode": "N69",
+            "address1": "Plot Number 24,",
+            "phone2": "7027715555",
+            "phone1": "7027715555",
+            "cityName": "Panipat",
+            "stateName": "Haryana",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "HR",
+            "id": "HR310",
+            "email": "sales.panipat@aaryamankia.in",
+            "lat": "29.371118"
+        },
+        {
+            "website": "https://www.aaryaman-auto-kia-panipat.com",
+            "dealerName": "Aaryaman Kia, Panipat",
+            "address3": "Haryana- 132103",
+            "lng": "76.988673",
+            "address2": "GT Road, Panipat,",
+            "cityCode": "N69",
+            "address1": "Killa No. 16/2, Village Sewah,",
+            "phone2": "7298000359",
+            "phone1": "7298000359",
+            "cityName": "Panipat",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR310",
+            "email": "servicehead@aaryamankia.in",
+            "lat": "29.325221"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

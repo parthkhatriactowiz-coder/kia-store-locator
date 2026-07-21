@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.vst-central-kia-chennai.com",
+            "dealerName": "VST Kia, Red Hills, Chennai",
+            "address3": "Chennai, Tamilnadu - 600066",
+            "lng": "13.174669",
+            "address2": "GNT Road, Thantakazhani Puzhal,",
+            "cityCode": "SJC",
+            "address1": "No.55, Sivanthi Athithanar Nagar,",
+            "phone2": "7305032085",
+            "phone1": "7305032085",
+            "cityName": "Red hills - Chennai",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN510",
+            "email": "Salesmanager1.chn@vstcentral-kia.in",
+            "lat": "80.196696"
+        },
+        {
+            "website": "https://www.vst-central-kia-chennai.com",
+            "dealerName": "VST Kia, Red Hills, Chennai",
+            "address3": "Chennai, Tamilnadu - 600066",
+            "lng": "80.19670",
+            "address2": "GNT Road, Thantakazhani Puzhal,",
+            "cityCode": "SJC",
+            "address1": "No.55, Sivanthi Athithanar Nagar,",
+            "phone2": "8925831966",
+            "phone1": "9087211113",
+            "cityName": "Red hills - Chennai",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN510",
+            "email": "Info.chn@vstcentral-kia.in",
+            "lat": "13.17459"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

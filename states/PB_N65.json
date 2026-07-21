@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.silversevenspeedways-kia-dalhousie-road-pathankot.com",
+            "dealerName": "Speedways Kia, Pathankot",
+            "address3": "Punjab- 145001",
+            "lng": "32.27486",
+            "address2": "Near Simbal Chowk, Pathankot,",
+            "cityCode": "N65",
+            "address1": "Adjoining Subway, Dalhousie Road,",
+            "phone2": "7743002158",
+            "phone1": "7743002158",
+            "cityName": "Pathankot",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB311",
+            "email": "salesptk@kiaspeedways.in ",
+            "lat": "75.68814"
+        },
+        {
+            "dealerName": "Speedways Kia, Pathankot",
+            "address3": "Punjab- 145001",
+            "lng": "32.27486",
+            "address2": "Near Simbal Chowk, Pathankot,",
+            "cityCode": "N65",
+            "address1": "Adjoining Subway, Dalhousie Road,",
+            "phone2": "7888832480",
+            "phone1": "7743002158",
+            "cityName": "Pathankot",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB311",
+            "email": "serviceptk@kiaspeedways.in",
+            "lat": "75.68814"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

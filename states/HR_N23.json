@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.ritu-kia-o-p-jindal-marg.com",
+            "dealerName": "Ritu Kia, O P Jindal marg",
+            "address3": "Haryana-125001",
+            "lng": "75.80502",
+            "address2": "O P Jindal Marg, Hisar",
+            "cityCode": "N23",
+            "address1": "9th KM Stone",
+            "phone2": "999999999",
+            "phone1": "7419994999",
+            "cityName": "Hisar",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR302",
+            "email": "Info@ritukia.in",
+            "lat": "29.11936"
+        },
+        {
+            "website": "https://www.ritu-kia-o-p-jindal-marg.com",
+            "dealerName": "Ritu Kia CPO, O P Jindal Marg",
+            "address3": "Haryana-125001",
+            "lng": "75.80502",
+            "address2": "Opposite BBMB, Delhi Road",
+            "cityCode": "N23",
+            "address1": "O.P. Jindal Marg, Near Orion Hyundai",
+            "phone2": "999999999",
+            "phone1": "7419994999",
+            "cityName": "Hisar",
+            "stateName": "Haryana",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "HR",
+            "id": "HR302",
+            "email": "Info@ritukia.in",
+            "lat": "29.11936"
+        },
+        {
+            "website": "https://www.ritu-kia-o-p-jindal-marg.com",
+            "dealerName": "Ritu Kia, O P Jindal marg",
+            "address3": "Haryana-125001",
+            "lng": "75.80502",
+            "address2": "O P Jindal Marg, Hisar",
+            "cityCode": "N23",
+            "address1": "9th KM Stone",
+            "phone2": "999999999",
+            "phone1": "9053009822",
+            "cityName": "Hisar",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR302",
+            "email": "smservicehisar@ritukia.in",
+            "lat": "29.11936"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

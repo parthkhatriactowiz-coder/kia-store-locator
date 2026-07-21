@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.prem-wheels-aligarh-kia.com",
+            "dealerName": "Prem Kia, Aligarh",
+            "address3": "Aligarh, UP - 202001",
+            "lng": "78.026682",
+            "address2": "Khasra No 12B, Vill Sikandarpur,",
+            "cityCode": "N29",
+            "address1": "Bhukrawali,Tehsil Kol,",
+            "phone2": "7302980375",
+            "phone1": "7302980375",
+            "cityName": "Aligarh",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP313",
+            "email": "gmsalesaligarh@premkia.com",
+            "lat": "27.928564"
+        },
+        {
+            "website": "https://www.prem-wheels-aligarh-kia.com",
+            "dealerName": "Prem Kia, Aligarh",
+            "address3": "Aligarh, UP - 202001",
+            "lng": "78.026682",
+            "address2": "Khasra No 12B, Vill Sikandarpur,",
+            "cityCode": "N29",
+            "address1": "Bhukrawali,Tehsil Kol,",
+            "phone2": "7302980378",
+            "phone1": "7302980378",
+            "cityName": "Aligarh",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP313",
+            "email": "ashutosh@premkia.com",
+            "lat": "27.928564"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

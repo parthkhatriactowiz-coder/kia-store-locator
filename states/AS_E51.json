@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.meridian-motors-at-road-kia.com",
+            "dealerName": "Meridian Kia, AT Road",
+            "address3": "Near R.D. Motors, Nagaon –782002",
+            "lng": "92.683800",
+            "address2": "Mouza Kachamary, Khutikatia",
+            "cityCode": "E51",
+            "address1": "Patta No. 68, Daag No.302,",
+            "phone2": "6901273610",
+            "phone1": "6901273610",
+            "cityName": "Nagaon",
+            "stateName": "Assam",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AS",
+            "id": "AS402",
+            "email": "gm.nagaon.tezpur@meridiankia.in",
+            "lat": "26.348000"
+        },
+        {
+            "website": "https://www.meridian-motors-at-road-kia.com",
+            "dealerName": "Meridian Kia, AT Road",
+            "address3": "A T Road, Near Khutikatia SBI Branch",
+            "lng": "92.683800",
+            "address2": "Khutikatia, Mouza Kachamary",
+            "cityCode": "E51",
+            "address1": "Dag No.298 & 297, Patta No.126 & 325",
+            "phone2": "7099050397",
+            "phone1": "7099050397",
+            "cityName": "Nagaon",
+            "stateName": "Assam",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AS",
+            "id": "AS402",
+            "email": "service.nagaon@meridiankia.in",
+            "lat": "26.348000"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

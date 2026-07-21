@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Global Kia, Rampur",
+            "address3": "Uttar Pradesh -244901",
+            "lng": "79.030314",
+            "address2": "Nainital Road, Civil Lines, Rampur,",
+            "cityCode": "NCZ",
+            "address1": "Khasra No.-699 , Madayyan Nadar Bagh,",
+            "phone2": "7055600801",
+            "phone1": "9557192893",
+            "cityName": "Rampur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP603",
+            "lat": "28.787207"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

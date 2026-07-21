@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.sree-karpagamoorthy-motors-kia-karaikudi.com",
+            "dealerName": "SKMM Kia, Karaikudi",
+            "address3": "Tamilnadu -630007",
+            "lng": "78.739858",
+            "address2": "Koviloor Post Karaikudi,Sivaganga Dist, ",
+            "cityCode": "SCY",
+            "address1": "4.3.95 Madurai Main Road,",
+            "phone2": "6384111777",
+            "phone1": "6384111777",
+            "cityName": "Karaikudi",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN508",
+            "email": "salesmanager.kkdi@skmmkia.com",
+            "lat": "10.076617"
+        },
+        {
+            "website": "https://www.sree-karpagamoorthy-motors-kia-karaikudi.com",
+            "dealerName": "SKMM Kia, Karaikudi",
+            "address3": "Tamilnadu -630007",
+            "lng": "78.742838",
+            "address2": "Koviloor Post Karaikudi, Sivaganga Dist, ",
+            "cityCode": "SCY",
+            "address1": "4.3.95 Madurai Main Road,",
+            "phone2": "9363406219",
+            "phone1": "9363406219",
+            "cityName": "Karaikudi",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN508",
+            "email": "servicehead@skmmkia.com",
+            "lat": "10.077881"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

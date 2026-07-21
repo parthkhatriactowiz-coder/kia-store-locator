@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.sairam-kia-durg.com",
+            "dealerName": "Sairam Kia, Sikola, Bhilai",
+            "address3": "Chattisgarh – 491001",
+            "lng": "21.214996",
+            "address2": " Sikola, Durg,",
+            "cityCode": "W58",
+            "address1": "Khasra No. 24/2, NH - 53,",
+            "phone2": "6262020333",
+            "phone1": "6262020333",
+            "cityName": "Bhilai",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG304",
+            "email": "srichand_batra@yahoo.co.in",
+            "lat": "21.214996"
+        },
+        {
+            "website": "https://www.sairam-kia-durg.com",
+            "dealerName": "Sairam Kia, Sikola, Bhilai",
+            "address3": "Chattisgarh – 491001",
+            "lng": "81.28528",
+            "address2": " Sikola, Durg,",
+            "cityCode": "W58",
+            "address1": "Khasra No. 24/2, NH - 53,",
+            "phone2": "6262020333",
+            "phone1": "6262020333",
+            "cityName": "Bhilai",
+            "stateName": "Chhattisgarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CG",
+            "id": "CG304",
+            "email": "srichand_batra@yahoo.co.in",
+            "lat": "21.215765"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

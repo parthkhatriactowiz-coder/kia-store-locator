@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.yashodha-kia-rajpura-road.com",
+            "dealerName": "Yashodha Kia, Rajpura road",
+            "address3": "Patiala",
+            "lng": "76.494752",
+            "address2": "Khasra No. 532/2(5-9),",
+            "cityCode": "N62",
+            "address1": "Rajpura Road, Patiala",
+            "phone2": "8751900002",
+            "phone1": "8751900002",
+            "cityName": "Patiala",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB304",
+            "email": "sales@yashodha-kia.in",
+            "lat": "30.388298"
+        },
+        {
+            "website": "https://www.yashodha-kia-rajpura-road.com",
+            "dealerName": "Yashodha Kia CPO, Rajpur Raod",
+            "address3": "Patiala, Punjab -147001",
+            "lng": "76.494752",
+            "address2": "Khasra No. 532/2(5-9),",
+            "cityCode": "N62",
+            "address1": "Rajpura Road, Patiala",
+            "phone2": "875190002",
+            "phone1": "9619884788",
+            "cityName": "Patiala",
+            "stateName": "Punjab",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "PB",
+            "id": "PB304",
+            "email": "crmsales@yashodha-kia.in",
+            "lat": "30.388298"
+        },
+        {
+            "website": "https://www.yashodha-kia-rajpura-road.com",
+            "dealerName": "Yashodha Kia, Rajpura road",
+            "address3": "Patiala",
+            "lng": "76.494752",
+            "address2": "Khasra No. 532/2(5-9),",
+            "cityCode": "N62",
+            "address1": "Rajpura Road, Patiala",
+            "phone2": "9217031080",
+            "phone1": "9217031080",
+            "cityName": "Patiala",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB304",
+            "email": "service@yashodha-kia.in ",
+            "lat": "30.388298"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

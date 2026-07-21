@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Sanjib Kia, Bhadrak",
+            "address3": "Thana No. 111, Bhadrak, Odisha - 756100",
+            "lng": "86.507439",
+            "address2": "Khata No. 776/3423, Mouza- Mathasahi,",
+            "cityCode": "EDM",
+            "address1": "Plot No. 701/8755, Plot No. 701/8755,",
+            "phone2": "8118030001",
+            "phone1": "7735300001",
+            "cityName": "Bhadrak",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD602",
+            "lat": "21.077078"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

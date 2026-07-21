@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.gopinathji-kia-godhra.com",
+            "dealerName": "Gopinathji Kia, Godhra",
+            "address3": "Gujarat, 389001",
+            "lng": "73.642167",
+            "address2": "Compound, Godhra, Panchmahals, Gujarat, 389001",
+            "cityCode": "W68",
+            "address1": "Shri Gopinathji Agancy Moon Light ",
+            "phone2": "9898369333",
+            "phone1": "7574831313",
+            "cityName": "Godhra",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ501",
+            "email": "sales@gopinathjikia.in",
+            "lat": "22.775028"
+        },
+        {
+            "website": "https://www.gopinathji-kia-godhra.com",
+            "dealerName": "Gopinathji Kia, Godhra",
+            "address3": "Gujarat - 389001",
+            "lng": "73.642167",
+            "address2": "Compound, Godhra, Panchmahals, Gujarat - 389001",
+            "cityCode": "W68",
+            "address1": "Shri Gopinathji Agancy, Moon Light ",
+            "phone2": "9898369333",
+            "phone1": "9898369333",
+            "cityName": "Godhra",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ501",
+            "email": "Service.godhra@gopinathjikia.in",
+            "lat": "22.775028"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

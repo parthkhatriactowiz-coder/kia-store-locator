@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.seth-kia-sagar.com",
+            "dealerName": "Seth Kia, Sagar",
+            "address3": "Madhya Pradesh - 470004",
+            "lng": "78.82974844",
+            "address2": "Makronia, Rajakhedi, Sagar,",
+            "cityCode": "W63",
+            "address1": "House No 698 A,",
+            "phone2": "9201969649",
+            "phone1": "9201969649",
+            "cityName": "Sagar",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP310",
+            "email": "Sales@sethkia.in",
+            "lat": "23.88653577"
+        },
+        {
+            "website": "https://www.seth-kia-sagar.com",
+            "dealerName": "Seth Kia CPO, Sagar",
+            "address3": "Sagar, Madhya Pradesh - 470004",
+            "lng": "78.83083",
+            "address2": "Jabalpur Road, Sidguwan, Baheria Gadgad, ",
+            "cityCode": "W63",
+            "address1": "Opp. Seth Kia New Car showroom",
+            "phone2": "9201969641",
+            "phone1": "9201969641",
+            "cityName": "Sagar",
+            "stateName": "Madhya Pradesh",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "MP",
+            "id": "MP310",
+            "email": "SALES@SETHKIA.IN",
+            "lat": "23.88593"
+        },
+        {
+            "website": "https://www.seth-kia-sagar.com",
+            "dealerName": "Seth Kia, Sagar",
+            "address3": "Madhya Pradesh - 470004",
+            "lng": "77.02957923",
+            "address2": "Makronia, Rajakhedi, Sagar,",
+            "cityCode": "W63",
+            "address1": "House No 698 A,",
+            "phone2": "9202954591",
+            "phone1": "9201969653",
+            "cityName": "Sagar",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP310",
+            "email": "ccmsagar@sethkia.in",
+            "lat": "28.97348215"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

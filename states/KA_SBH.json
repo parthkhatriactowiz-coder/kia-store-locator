@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.nagshanti-kia-sirsi.com",
+            "dealerName": "Nagshanti Kia, Sirsi",
+            "address3": "Karnataka-581402",
+            "lng": "74.868613",
+            "address2": "Goudalli, Sirsi, Uttara Kannada,",
+            "cityCode": "SBH",
+            "address1": "Sy # 20/A3, Somanalli Cross,",
+            "phone2": "8088758724",
+            "phone1": "8088758724",
+            "cityName": "Sirsi",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA512",
+            "email": "sirsi3s@nagshantikia.com",
+            "lat": "14.649999"
+        },
+        {
+            "dealerName": "Nagshanti Kia, Sirsi",
+            "address3": "Karnataka-581402",
+            "lng": "74.86876",
+            "address2": "Goudalli, Sirsi, Uttara Kannada,",
+            "cityCode": "SBH",
+            "address1": "Sy # 20/A3, Somanalli Cross,",
+            "phone2": "9019929176",
+            "phone1": "9019928667",
+            "cityName": "Sirsi",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA512",
+            "email": "ka512sm@nagshantikia.com",
+            "lat": "14.64984"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

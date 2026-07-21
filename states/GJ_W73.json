@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.shreenath-cars-bardoli-kia.com",
+            "dealerName": "Shreenath Cars Kia, Bardoli",
+            "address3": "Surat, Gujarat -394601",
+            "lng": "73.07986114370375",
+            "address2": "Bardoli Road, Barasadi, Bardoli,",
+            "cityCode": "W73",
+            "address1": "Sy No 202, Beside Nakoda Marble,",
+            "phone2": "9824148181",
+            "phone1": "9725077777",
+            "cityName": "Bardoli",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ322",
+            "email": "sm.bardoli@shreenathkia.in",
+            "lat": "21.122000433041034"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

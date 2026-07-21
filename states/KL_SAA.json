@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.incheon-kia-pathirappally.com",
+            "dealerName": "Incheon Kia, Alleppey",
+            "address3": "Pathirappally-Alappuzha, Kerala -688521",
+            "lng": "76.19394",
+            "address2": "Mararikulam South, Aikyabharatham,",
+            "cityCode": "SAA",
+            "address1": "Sy.No.519/5, Panvel-Kanyakumari Highway,",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Alappuzha",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL510",
+            "email": "enquiry@incheonkia.com",
+            "lat": "9.32463"
+        },
+        {
+            "website": "https://www.incheon-kia-pathirappally.com",
+            "dealerName": "Incheon Kia, Alleppey",
+            "address3": "Pathirappally-Alappuzha, Kerala -688521",
+            "lng": "76.19394",
+            "address2": "Mararikulam South, Aikyabharatham,",
+            "cityCode": "SAA",
+            "address1": "Sy.No.519/5, Panvel-Kanyakumari Highway,",
+            "phone2": "8848001242",
+            "phone1": "8848001242",
+            "cityName": "Alappuzha",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL510",
+            "email": "servicemanager.alleppey@incheonkia.com",
+            "lat": "9.32463"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

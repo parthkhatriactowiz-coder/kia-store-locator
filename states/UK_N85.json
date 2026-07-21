@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.avs-kia-bhaderabad.com",
+            "dealerName": "AVS KIA, Bhaderabad",
+            "address3": "Haridwar Uttarakhand-249402",
+            "lng": "78.35643",
+            "address2": "709, 710, Ranipur Jhaal,",
+            "cityCode": "N85",
+            "address1": "Bhaderabad,",
+            "phone2": "9897036244",
+            "phone1": "9105910022",
+            "cityName": "Haridwar",
+            "stateName": "Uttarakhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UK",
+            "id": "UK302",
+            "lat": "29.55602"
+        },
+        {
+            "website": "https://www.avs-kia-bhaderabad.com",
+            "dealerName": "AVS KIA, Bhaderabad",
+            "address3": "Haridwar Uttarakhand-249402",
+            "lng": "78.35643",
+            "address2": "709, 710, Ranipur Jhaal,",
+            "cityCode": "N85",
+            "address1": "Bhaderabad,",
+            "phone2": "9258158631",
+            "phone1": "9258158631",
+            "cityName": "Haridwar",
+            "stateName": "Uttarakhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UK",
+            "id": "UK302",
+            "lat": "29.55602"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

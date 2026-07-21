@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "website": "https://www.west-coast-village-motipura-kia.com",
+            "dealerName": "West Coast Kia, Village motipura",
+            "address3": "District Sabarkantha-383001",
+            "lng": "72.9577163",
+            "address2": "Village Motipura, Himatnagar ",
+            "cityCode": "W47",
+            "address1": "Survey No. 57/P, Plot No. 9 & 10",
+            "phone2": "999999999",
+            "phone1": "9099033395",
+            "cityName": "Himmatnagar",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ302",
+            "email": "kia.himmatnagar@karnavati.co",
+            "lat": "23.5763426"
+        },
+        {
+            "dealerName": "West Coast Kia, Vill Piplodi",
+            "address3": "Himmatnagar, Sabarkantha, Gujarat-383001",
+            "lng": "72.95500",
+            "address2": "Vill Piplodi, NH48, GIDC Motipura,",
+            "cityCode": "W47",
+            "address1": "P No 13,14,18, S No 10, 6,Old S No 51,",
+            "phone2": "9925236269",
+            "phone1": "9925236269",
+            "cityName": "Himmatnagar",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ208",
+            "email": "servicemanager.hmt@karnavati.co",
+            "lat": "23.56649"
+        },
+        {
+            "website": "https://www.west-coast-village-motipura-kia.com",
+            "dealerName": "West Coast Kia, Village motipura",
+            "address3": "District Sabarkantha-383001",
+            "lng": "72.9577163",
+            "address2": "Village Motipura, Himatnagar ",
+            "cityCode": "W47",
+            "address1": "Survey No. 57/P, Plot No. 9 & 10",
+            "phone2": "999999999",
+            "phone1": "999999999",
+            "cityName": "Himmatnagar",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ302",
+            "email": "kuldeepsingh.rathod@karnavati.co",
+            "lat": "23.5763426"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

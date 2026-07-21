@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.sarvagya-kia-shahdol.com",
+            "dealerName": "Sarvagya Kia, Burhar Road",
+            "address3": "Madhya Pradesh-484001",
+            "lng": "81.39581026509404",
+            "address2": "Burhar Road, Shahdol,",
+            "cityCode": "WCY",
+            "address1": "Khasra No 183, 193 NH-43,",
+            "phone2": "8889306663",
+            "phone1": "9303782595",
+            "cityName": "Shahdol",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP308",
+            "email": "sales.kia@sarvagya.in",
+            "lat": "23.295705593191087"
+        },
+        {
+            "website": "https://www.sarvagya-kia-shahdol.com",
+            "dealerName": "Sarvagya Kia, Burhar Road",
+            "address3": "Madhya Pradesh-484001",
+            "lng": "81.395839",
+            "address2": "Burhar Road, Shahdol,",
+            "cityCode": "WCY",
+            "address1": "Khasra No 183, 193 NH-43,",
+            "phone2": "9003782596",
+            "phone1": "9003782596",
+            "cityName": "Shahdol",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP308",
+            "email": "service.kia@sarvagya.in",
+            "lat": "23.295955"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.jayanti-kia-hapur.com",
+            "dealerName": "Jayanti Kia, Chamri, Hapur",
+            "address3": "Uttar Pradesh -245101",
+            "lng": "77.75857",
+            "address2": "Meenakshi Rd, Hapur,",
+            "cityCode": "NCS",
+            "address1": "Nabi Karim, 830 830,",
+            "phone2": "9654939393",
+            "phone1": "9654939393",
+            "cityName": "Hapur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP519",
+            "email": "salesheadhapur@jayantikia.in",
+            "lat": "28.72766"
+        },
+        {
+            "dealerName": "Jayanti Kia, Chamri, Hapur",
+            "address3": "Hapur, Uttar Pradesh - 245101",
+            "lng": "77.72142",
+            "address2": "Village Chamri, Hapur,",
+            "cityCode": "NCS",
+            "address1": "Plot No. 18/354,",
+            "phone2": "9355962867",
+            "phone1": "9355962868",
+            "cityName": "Hapur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP519",
+            "email": "servicehapur@jayantikia.in",
+            "lat": "28.72112"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

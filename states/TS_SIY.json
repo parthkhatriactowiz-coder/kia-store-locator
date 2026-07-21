@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.automotive-kia-Shadnagar.com",
+            "dealerName": "Automotive Kia, Shadnagar",
+            "address3": "Mahabubnagar,Telangana- 509216",
+            "lng": "17.04787",
+            "address2": "Sri Sai Balaji Township, Shadnagar Municipality,",
+            "cityCode": "SIY",
+            "address1": "Sy.No. 139, 140, 145, Plot No: 87,",
+            "phone2": "7036444432",
+            "phone1": "7036444432",
+            "cityName": "Shadnagar",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS601",
+            "email": "gmsales.kiangl@automotiveml.com",
+            "lat": "78.20184"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

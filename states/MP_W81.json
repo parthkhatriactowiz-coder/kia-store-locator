@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.somya-kia-sagar-road-vidisha.com",
+            "dealerName": "Somya Kia, Vidisha",
+            "address3": "Madhya Pradesh 464001",
+            "lng": "77.827157",
+            "address2": "Nh 86 , Vidisha - Sagar Road,",
+            "cityCode": "W81",
+            "address1": "Near St. Mary P.G. College,",
+            "phone2": "911180966",
+            "phone1": "9111809666",
+            "cityName": "Vidisha",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP511",
+            "lat": "23.528879"
+        },
+        {
+            "dealerName": "Somya Kia, Vidisha",
+            "address3": "Madhya Pradesh 464001",
+            "lng": "77.82722",
+            "address2": "Nh 86 , Vidisha - Sagar Road,",
+            "cityCode": "W81",
+            "address1": "Near St. Mary P.G. College,",
+            "phone2": "9109107456",
+            "phone1": "9109107456",
+            "cityName": "Vidisha",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP511",
+            "email": "gmservicekia@somyagroup.co.in",
+            "lat": "23.52886"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

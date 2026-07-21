@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Surya Kia, Una",
+            "address3": "Himachal Pradesh -174303",
+            "lng": "76.2338365",
+            "address2": "Tehsil and Distt Una,",
+            "cityCode": "NDZ",
+            "address1": "Khasara-36, Vill Rainsary, P.O Jhalera,",
+            "phone2": "9817166201",
+            "phone1": "6230916608",
+            "cityName": "Una",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP503",
+            "email": "smsales@suryakia.com",
+            "lat": "31.4954871"
+        },
+        {
+            "dealerName": "Surya Kia, Una",
+            "address3": "Himachal Pradesh -174303",
+            "lng": "76.233190",
+            "address2": "Tehsil & Distt Una,",
+            "cityCode": "NDZ",
+            "address1": "Khasara-37, Vill Rainsary, P.O Jhalera,",
+            "phone2": "6230915890",
+            "phone1": "6230915890",
+            "cityName": "Una",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP503",
+            "email": "wmserviceuna@suryakia.com",
+            "lat": "31.495415"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

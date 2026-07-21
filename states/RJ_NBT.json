@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.kumbhat-pachpadara-road-balotra-kia.com",
+            "dealerName": "Kumbhat Kia, Balotra",
+            "address3": "Dist- Barmer, Rajasthan -344022",
+            "lng": "72.250998",
+            "address2": "Pachpadra road, Balotra,",
+            "cityCode": "NBT",
+            "address1": "Khasra No.279, Ward No 35,",
+            "phone2": "9829022241",
+            "phone1": "9873898953",
+            "cityName": "Balotra",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ510",
+            "email": "info@kumbhatkia.in",
+            "lat": "25.849370"
+        },
+        {
+            "website": "https://www.kumbhat-pachpadara-road-balotra-kia.com",
+            "dealerName": "Kumbhat Kia, Balotra",
+            "address3": "Dist- Barmer, Rajasthan-344022",
+            "lng": "72.203980",
+            "address2": "Nr 4th Railway Crossing, Balotra,",
+            "cityCode": "NBT",
+            "address1": "P No.6, Ambe Valley Industrial Park,",
+            "phone2": "6377205282",
+            "phone1": "6377205282",
+            "cityName": "Balotra",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ510",
+            "email": "service510@kumbhatkia.in",
+            "lat": "25.844351"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

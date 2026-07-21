@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Pal Kia, Rajouri",
+            "address3": "Rajouri, Jammu & Kashmir -185131",
+            "lng": "74.32703",
+            "address2": "Highway, Near JK Bank Zonal Office,",
+            "cityCode": "NAK",
+            "address1": "Khasra No. 444, Khata No. 76, National",
+            "phone2": "6006800830",
+            "phone1": "6006800830",
+            "cityName": "Rajouri",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JK",
+            "id": "JK502",
+            "lat": "33.32148"
+        },
+        {
+            "dealerName": "Pal Kia, Rajouri",
+            "address3": "Rajouri, Jammu & Kashmir -185131",
+            "lng": "74.32616",
+            "address2": "Highway, Near JK Bank Zonal Office,",
+            "cityCode": "NAK",
+            "address1": "Khasra No. 444, Khata No. 76, National",
+            "phone2": "9103998028",
+            "phone1": "9103998028",
+            "cityName": "Rajouri",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JK",
+            "id": "JK502",
+            "email": "service.custcare@palkia.in",
+            "lat": "33.32415"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.shivam-kia-junagarh.com",
+            "dealerName": "Shivam Kia, Junagadh",
+            "address3": "Junagadh, Gujarat -362037",
+            "lng": "70.471984",
+            "address2": "Rajkot-Junagadh Highway, Near Bhesan Chowkdi,",
+            "cityCode": "W40",
+            "address1": "Plot no 16/A & 16 B,",
+            "phone2": "7227979540",
+            "phone1": "7227979491",
+            "cityName": "Junagadh",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ315",
+            "email": "sales-jnd@shivamkia.in",
+            "lat": "21.577647"
+        },
+        {
+            "website": "https://www.shivam-kia-junagarh.com",
+            "dealerName": "Shivam Kia, Junagadh",
+            "address3": "Junagadh, Gujarat -362037",
+            "lng": "70.471972",
+            "address2": "Rajkot-Junagadh Highway, Near Bhesan Chowkdi,",
+            "cityCode": "W40",
+            "address1": "Plot no 16/A & 16 B,",
+            "phone2": "9913229058",
+            "phone1": "9913229058",
+            "cityName": "Junagadh",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ315",
+            "email": "ccmservice-junagadh@shivamkia.in",
+            "lat": "21.577639"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.pressana-kia-karur.com",
+            "dealerName": "Pressana Kia, Karur",
+            "address3": "Manmangalam Taluk- 639001",
+            "lng": "78.060447",
+            "address2": "Nh-7 Salem By Pass Road,",
+            "cityCode": "S32",
+            "address1": "Sf No: 265/1F, Near Kongu College",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Karur",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN505",
+            "email": "info@pressanakia.in",
+            "lat": "10.992586"
+        },
+        {
+            "website": "https://www.pressana-kia-karur.com",
+            "dealerName": "Pressana Kia, Karur",
+            "address3": "Manmangalam Taluk- 639001",
+            "lng": "78.060447",
+            "address2": "Nh-7 Salem By Pass Road,",
+            "cityCode": "S32",
+            "address1": "Sf No: 265/1F, Near Kongu College",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Karur",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN505",
+            "email": "info@pressanakia.in",
+            "lat": "10.992586"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

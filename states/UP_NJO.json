@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Bright Kia, Akbarpur, Kanpur Dehat",
+            "address3": "Uttar Pradesh -209101",
+            "lng": "79.980338",
+            "address2": " Near Amarvilla Hotel, Kanpur Dehat,",
+            "cityCode": "NJO",
+            "address1": "Ambedakar Nagar, Akbarpur, NH-2 Highway,",
+            "phone2": "7985072496",
+            "phone1": "7985072496",
+            "cityName": "Kanpur Dehat",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP604",
+            "lat": "26.379259"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

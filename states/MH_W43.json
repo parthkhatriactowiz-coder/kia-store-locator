@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.akshay-kia-dhule.com",
+            "dealerName": "Akshay Kia, Dhule",
+            "address3": "Dhule, Maharastra - 424006",
+            "lng": "74.763068",
+            "address2": "Near Punyanagari Press Unit, Malegaon Road,",
+            "cityCode": "W43",
+            "address1": "P-21, Additional MIDC, Avadhan",
+            "phone2": "8408881100",
+            "phone1": "8408881100",
+            "cityName": "Dhule",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH505",
+            "email": "smsales@akshaykia.com",
+            "lat": "20.850732"
+        },
+        {
+            "website": "https://www.akshay-kia-dhule.com",
+            "dealerName": "Akshay Kia, Dhule",
+            "address3": "Dhule, Maharastra - 424006",
+            "lng": "74.763068",
+            "address2": "Near Punyanagari Press Unit, Malegaon Road,",
+            "cityCode": "W43",
+            "address1": "P-21, Additional MIDC, Avadhan",
+            "phone2": "9372788111",
+            "phone1": "9372788111",
+            "cityName": "Dhule",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH505",
+            "lat": "20.850732"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

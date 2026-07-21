@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.iconic-kia-muzzaffarnagar.com",
+            "dealerName": "Iconic Kia, Muzaffarnagar",
+            "address3": "Uttar Pradesh-251001",
+            "lng": "77.66899099",
+            "address2": "Opp. Moolchand Resort, Muzaffarnagar,",
+            "cityCode": "N54",
+            "address1": "K No. 193, NH 58, Delhi-Dehradun Road,",
+            "phone2": "7252888111",
+            "phone1": "9105902574",
+            "cityName": "Muzaffarnagar",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP320",
+            "lat": "29.0285572"
+        },
+        {
+            "dealerName": "Iconic Kia, Muzaffarnagar",
+            "address3": "Uttar Pradesh-251001",
+            "lng": "77.7021219",
+            "address2": "Opp. Moolchand Resort, Muzaffarnagar,",
+            "cityCode": "N54",
+            "address1": "K No. 193, NH 58, Delhi-Dehradun Road,",
+            "phone2": "8869064400",
+            "phone1": "6397995871",
+            "cityName": "Muzaffarnagar",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP320",
+            "email": "gm.service@kiameerut.com",
+            "lat": "29.3883734"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.akshay-kia-nandurbar.com",
+            "dealerName": "Akshay Kia, Nandurbar",
+            "address3": "Maharashtra -425412",
+            "lng": "74.2763714448032",
+            "address2": "Nadurbar-Dhule National Highway, Nadurbar,",
+            "cityCode": "WGB",
+            "address1": "Sr 315, Nadurbar Shivar, Nr. Hotel Rajda",
+            "phone2": "8408881100",
+            "phone1": "7770023145",
+            "cityName": "Nandurbar",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH513",
+            "email": "akshaycars2014@gmail.com",
+            "lat": "21.35709"
+        },
+        {
+            "dealerName": "Akshay Kia, Nandurbar",
+            "address3": "Maharashtra -425412",
+            "lng": "74.276109",
+            "address2": "Nadurbar-Dhule National Highway, Nadurbar,",
+            "cityCode": "WGB",
+            "address1": "Sr 315, Nadurbar Shivar, Nr. Hotel Rajda",
+            "phone2": "7770011486",
+            "phone1": "8657568904",
+            "cityName": "Nandurbar",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH513",
+            "email": "info.ndr@akshaykia.com",
+            "lat": "21.356952"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

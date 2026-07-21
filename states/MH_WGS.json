@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Konduskar Kia, Prabhuchaya Potdar Colony",
+            "address3": "Kolhapur, Maharashtra -416502",
+            "lng": "74.3736592",
+            "address2": "Near Lic Office, Gadhinglaj,",
+            "cityCode": "WGS",
+            "address1": "24 Prabhuchaya Potdar Colony,",
+            "phone2": "9923804050",
+            "phone1": "7796632301",
+            "cityName": "Gadhinglaj",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH607",
+            "lat": "16.2368205"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

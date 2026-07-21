@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.supernova-kia-sanand-ahmedabad.com",
+            "dealerName": "Supernova Kia, Sanand",
+            "address3": "Sanand, Gujarat- 382110",
+            "lng": "72.395546",
+            "address2": "Opp. Prerna Aatika Shopping Mall,",
+            "cityCode": "WAJ",
+            "address1": "Showroom No.40, 41, 42 & 43, Eklingji",
+            "phone2": "9978831883",
+            "phone1": "9978831883",
+            "cityName": "Sanand",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ108",
+            "email": "gm@supernovakia.com",
+            "lat": "22.985764"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

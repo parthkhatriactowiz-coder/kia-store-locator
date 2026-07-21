@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.allied-kia-rajasmand-rajasthan.com",
+            "dealerName": "Allied Kia, Rajasmand",
+            "address3": "Rajasthan- 313324",
+            "lng": "73.847881",
+            "address2": "Rajasmand, Village Devpuria Piparda,",
+            "cityCode": "NBF",
+            "address1": "Khasra No. 4292/4128,",
+            "phone2": "9971374568",
+            "phone1": "9319767333",
+            "cityName": "Rajsamand",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ514",
+            "email": "gmsales.udr@allied-kia.in",
+            "lat": "25.003588"
+        },
+        {
+            "dealerName": "Allied Kia, Rajasmand",
+            "address3": "Rajasthan- 313324",
+            "lng": "73.848308",
+            "address2": "Rajasmand, Village Devpuria Piparda,",
+            "cityCode": "NBF",
+            "address1": "Khasra No. 4292/4128,",
+            "phone2": "9971374568",
+            "phone1": "7073037879",
+            "cityName": "Rajsamand",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ514",
+            "email": "smservice.rs@allied-kia.in",
+            "lat": "25.002944"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

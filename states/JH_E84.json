@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dealerName": "Elgen Kia, Pachamba, Giridih",
+            "address3": "Jharkhand- 815316",
+            "lng": "86.25628",
+            "address2": " Rd, Nr. Pachamba High School, Giridih,",
+            "cityCode": "E84",
+            "address1": "K No 2, P No. 2, Pachamba Kayandih Main",
+            "phone2": "9263767030",
+            "cityName": "Giridih",
+            "stateName": "Jharkhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JH",
+            "id": "JH503",
+            "lat": "24.20464"
+        },
+        {
+            "dealerName": "Elgen Kia, Pachamba, Giridih",
+            "address3": "Jharkhand- 815316",
+            "lng": "86.256204",
+            "address2": " Rd, Nr. Pachamba High School, Giridih,",
+            "cityCode": "E84",
+            "address1": "K No 2, P No. 2, Pachamba Kayandih Main",
+            "phone2": "8879882453",
+            "phone1": "9263768426",
+            "cityName": "Giridih",
+            "stateName": "Jharkhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JH",
+            "id": "JH503",
+            "email": "servicegrouphead@elgenkia.com",
+            "lat": "24.204339"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

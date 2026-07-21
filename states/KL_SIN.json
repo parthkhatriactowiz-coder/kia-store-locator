@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.automotive-kia-attingal.com",
+            "dealerName": "Automotive Kia, Attingal",
+            "address3": "Thiruvananthapuram, Kerala- 695102",
+            "lng": "76.812607",
+            "address2": "Attingal Taluk, Trivandrum, Alamcode,",
+            "cityCode": "SIN",
+            "address1": "Sy No 495/A2, 495/B21,",
+            "phone2": "7780756858",
+            "phone1": "7780756858 ",
+            "cityName": "Attingal",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL504",
+            "email": "salesmanager.kiatvm@automotiveml.com",
+            "lat": "8.724609"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

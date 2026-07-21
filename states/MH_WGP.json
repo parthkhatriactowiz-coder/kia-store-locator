@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.celebrate-osmanabad-upla-kia.com",
+            "dealerName": "Celebrate Kia, Dharashiv",
+            "address3": "Highway, Dharashiv, MH -413501",
+            "lng": "76.0391949",
+            "address2": "Rajashri Shahu Maharaj Chowk, Beed Solapur",
+            "cityCode": "WGP",
+            "address1": "P 1, Gat 99, Nr Terna Collage,",
+            "phone2": "9890902020",
+            "phone1": "9322923959",
+            "cityName": "Dharashiv",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH508",
+            "email": "rohan@celebratekia.com",
+            "lat": "18.2210454"
+        },
+        {
+            "website": "https://www.celebrate-osmanabad-upla-kia.com",
+            "dealerName": "Celebrate Kia, Dharashiv",
+            "address3": "Highway, Dharashiv, MH -413501",
+            "lng": "76.039232",
+            "address2": "Rajashri Shahu Maharaj Chowk, Beed Solapur",
+            "cityCode": "WGP",
+            "address1": "P 1, Gat 99, Nr Terna Collage,",
+            "phone2": "9804184184",
+            "phone1": "8879062326",
+            "cityName": "Dharashiv",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH508",
+            "email": "rohan@celebratekia.com",
+            "lat": "18.221026"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Central Kia, Berhampur",
+            "address3": "Dist. Ganjam,  Odisha-760007",
+            "lng": "84.8844088",
+            "address2": "Mandiapalli, Jaganathpur, Berhampur,",
+            "cityCode": "E74",
+            "address1": "Plot No-689/4922, Nh-16,",
+            "phone2": "9124563167",
+            "phone1": "9124563167",
+            "cityName": "Berhampur",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD503",
+            "email": "sales.bpur@centralkia.in",
+            "lat": "19.3269176"
+        },
+        {
+            "dealerName": "Central Kia, Berhampur",
+            "address3": "Dist. Ganjam,  Odisha-760007",
+            "lng": "19.33342843",
+            "address2": "Mandiapalli, Jaganathpur, Berhampur,",
+            "cityCode": "E74",
+            "address1": "Plot No-689/4922, Nh-16,",
+            "phone2": "9124563180",
+            "phone1": "9937004095",
+            "cityName": "Berhampur",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD503",
+            "email": "vishal@consortiumauto.com",
+            "lat": "84.88701767"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

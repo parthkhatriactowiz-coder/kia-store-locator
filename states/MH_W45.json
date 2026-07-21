@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.celebrate-kia-pune-highway.com",
+            "dealerName": "Celebrate Kia, Pune Highway",
+            "address3": "Kondi,Solapur-413255",
+            "lng": "75.8333308",
+            "address2": "Near Vinayak Petrol Pump",
+            "cityCode": "W45",
+            "address1": "Gate No.304/2B,Solapur Pune Highway",
+            "phone2": "9804184184",
+            "phone1": "9804184184",
+            "cityName": "Solapur",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH307",
+            "email": "salesm@celebratekia.com",
+            "lat": "17.7302443"
+        },
+        {
+            "website": "https://www.celebrate-kia-pune-highway.com",
+            "dealerName": "Celebrate Kia, Pune Highway",
+            "address3": "Kondi,Solapur-413255",
+            "lng": "75.8333308",
+            "address2": "Near Vinayak Petrol Pump",
+            "cityCode": "W45",
+            "address1": "Gate No.304/2B,Solapur Pune Highway",
+            "phone2": "9804184184",
+            "phone1": "9804184184",
+            "cityName": "Solapur",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH307",
+            "email": "servicem@celebratekia.com",
+            "lat": "17.7302443"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

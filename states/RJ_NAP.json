@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.rajesh-motors-kia-dausa.com",
+            "dealerName": "Rajesh Kia, Dausa",
+            "address3": "Dausa, Rajasthan -303303",
+            "lng": "26.897459",
+            "address2": "Shiv Sakti Nagar, Jaipur Road,",
+            "cityCode": "NAP",
+            "address1": "Plot No. - 217, 218, 219, 220,",
+            "phone2": "9257099901",
+            "phone1": "9257055531",
+            "cityName": "Dausa",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ506",
+            "email": "info.dausa@rajeshkia.in",
+            "lat": "76.307475"
+        },
+        {
+            "website": "https://www.rajesh-motors-kia-dausa.com",
+            "dealerName": "Rajesh Kia, Dausa",
+            "address3": "Dausa, Rajasthan -303303",
+            "lng": "26.897459",
+            "address2": "Shiv Sakti Nagar, Jaipur Road,",
+            "cityCode": "NAP",
+            "address1": "Plot No. - 217, 218, 219, 220,",
+            "phone2": "9571554141",
+            "phone1": "9571554141",
+            "cityName": "Dausa",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ506",
+            "email": "siddharth@rajeshmotors.com",
+            "lat": "76.307475"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

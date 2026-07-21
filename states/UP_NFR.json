@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Empire Kia, Ballia",
+            "address3": "Uttar Pradesh -277503",
+            "lng": "84.080043",
+            "address2": "Phephna, Ballia,",
+            "cityCode": "NFR",
+            "address1": "Khasra No. 1412, Vaina,",
+            "phone2": "9621051808",
+            "phone1": "9621051808",
+            "cityName": "Ballia",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP605",
+            "lat": "25.761199"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

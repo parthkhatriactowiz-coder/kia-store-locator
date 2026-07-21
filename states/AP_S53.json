@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "website": "https://www.kantipudi-kia-lalacheruvu.com",
+            "dealerName": "Kantipudi Kia, Lalacheruvu",
+            "lng": "81.80148400726034",
+            "address2": "haskar Nagar, Lalacheruvu, Rajahmundry",
+            "cityCode": "S53",
+            "address1": "Plot No:4, Block NO:4, Gandhipuram -4, B",
+            "phone2": "999999999",
+            "phone1": "9015112345",
+            "cityName": "Rajahmundry",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP401",
+            "email": "info@kantipudikia.co.in ",
+            "lat": "17.024531474427324"
+        },
+        {
+            "website": "https://kantipudi-kia-lalacheruvu.com",
+            "dealerName": "Kantipudi Kia",
+            "address3": "Velugubanda Rajahmundry Rural",
+            "lng": "81.87142508",
+            "address2": "RS No-502/1,",
+            "cityCode": "S53",
+            "address1": "Near Nannayya University ,NH-5",
+            "phone2": "7799977469",
+            "phone1": "7799977469",
+            "cityName": "Rajahmundry",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP201",
+            "email": "bsm@kantipudikia.co.in",
+            "lat": "17.06013892"
+        },
+        {
+            "website": "https://www.kantipudi-kia-lalacheruvu.com",
+            "dealerName": "Kantipudi Kia, Lalacheruvu",
+            "address3": "Pin:533103",
+            "lng": "81.801198",
+            "address2": "Rajahmundry,EGDist,AP,",
+            "cityCode": "S53",
+            "address1": "Dno:85-10-8,Srinagar,",
+            "phone2": "999999999",
+            "phone1": "7799977533",
+            "cityName": "Rajahmundry",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP401",
+            "email": "wm@kiakantipudikia.in",
+            "lat": "16.998267"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

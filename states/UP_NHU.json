@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Shubham Kia, Siddharthnagar",
+            "address3": "Uttar Pradesh -272207",
+            "lng": "69.60937",
+            "address2": "Pakari, Siddharthnagar,",
+            "cityCode": "NHU",
+            "address1": "Plot No 444,",
+            "phone2": "9935597604",
+            "phone1": "9670222220",
+            "cityName": "SIDDHARTHNAGAR",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP602",
+            "lat": "21.64126"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

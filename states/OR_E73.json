@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.krishna-kia-beldihi.com",
+            "dealerName": "Krishna Kia, Beldihi",
+            "address3": "Beldihi - 770031",
+            "lng": "84.754812",
+            "address2": "Kalunga Industrial Estate",
+            "cityCode": "E73",
+            "address1": "Plot - BL/8",
+            "phone2": "7852941115",
+            "phone1": "7852941115",
+            "cityName": "Rourkela",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD302",
+            "email": "krishnakiarourkela@gmail.com",
+            "lat": "22.238036"
+        },
+        {
+            "website": "https://www.krishna-kia-beldihi.com",
+            "dealerName": "Krishna Kia, Beldihi",
+            "address3": "Beldihi - 770031",
+            "lng": "84.754812",
+            "address2": "Kalunga Industrial Estate",
+            "cityCode": "E73",
+            "address1": "Plot - BL/8",
+            "phone2": "7852941741",
+            "phone1": "7852941741",
+            "cityName": "Rourkela",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD302",
+            "email": "krishnakiarourkela@gmail.com",
+            "lat": "22.238036"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

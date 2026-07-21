@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "dealerName": "Central Kia, Sambalpur",
+            "address3": "Sambalpur, Odisha -768004",
+            "lng": "84.006451",
+            "address2": "Ainthapali, Village, Pardhiapali,",
+            "cityCode": "E71",
+            "address1": "Plot No.234,235,236,237,250,",
+            "phone2": "7440004263",
+            "phone1": "7440004263",
+            "cityName": "Sambalpur",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD306",
+            "email": "customercare.sbp@centralkia.in",
+            "lat": "21.516865"
+        },
+        {
+            "dealerName": "Central Kia CPO, Sambalpur",
+            "address3": "Odisha -768006",
+            "lng": "21.51700981",
+            "address2": "Sambalpur,",
+            "cityCode": "E71",
+            "address1": "Pardhiapali, Jharsuguda Road",
+            "phone2": "7440004264",
+            "phone1": "7440003032",
+            "cityName": "Sambalpur",
+            "stateName": "Odisha",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "OR",
+            "id": "OD306",
+            "email": "bm.sbp@centralkia.in",
+            "lat": "84.00900747"
+        },
+        {
+            "dealerName": "Central Kia, Sambalpur",
+            "address3": "Sambalpur, Odisha -768004",
+            "lng": "84.008676",
+            "address2": "Ainthapali, Village, Pardhiapali,",
+            "cityCode": "E71",
+            "address1": "Plot No.234,235,236,237,250,",
+            "phone2": "7440002933",
+            "phone1": "9937004095",
+            "cityName": "Sambalpur",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD306",
+            "email": "vishal@consortiumauto.com",
+            "lat": "21.517523"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

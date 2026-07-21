@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.ratan-kia-shyam-vihar-colony.com",
+            "dealerName": "Ratan Kia, Nagaur",
+            "address3": "Nagaur, Rajasthan -341001",
+            "lng": "73.12764",
+            "address2": "Shyam Vihar Colony, Bikaner Road, NH 62,",
+            "cityCode": "NIG",
+            "address1": "Plot No. 1, 2, 1-A, 2-A, 1-B,",
+            "phone2": "9828818111",
+            "phone1": "9828818111",
+            "cityName": "Nagaur",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ411",
+            "lat": "27.215705"
+        },
+        {
+            "website": "https://www.ratan-kia-shyam-vihar-colony.com",
+            "dealerName": "Ratan Kia, Nagaur",
+            "address3": "Rajasthan -341001",
+            "lng": "73.700741",
+            "address2": ", IID Industrial Area, Nagaur,",
+            "cityCode": "NIG",
+            "address1": "H-1/252, Gogelaw Road, NH 62, IID Center",
+            "phone2": "9257026683",
+            "phone1": "9257026683",
+            "cityName": "Nagaur",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ411",
+            "email": "SERVICE@RATANKIA.NET",
+            "lat": "27.22375"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

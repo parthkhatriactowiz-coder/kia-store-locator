@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "dealerName": "Lally Kia, Dasuya",
+            "address3": "Punjab  -144205",
+            "lng": "75.659553",
+            "address2": "Grand Trunk Road, Dasuya,",
+            "cityCode": "NEV",
+            "address1": " Ward No. 2,",
+            "phone2": "9876500002",
+            "cityName": "DASUYA",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB601",
+            "lat": "31.819419"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

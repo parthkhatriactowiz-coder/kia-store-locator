@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.borah-kia-kumaranichiga-tiniali.com",
+            "dealerName": "Borah Kia, Dibrugarh",
+            "address3": "New Tekela Gaon- 786008",
+            "lng": "94.883466",
+            "address2": "Kumarinichiga Tiniali",
+            "cityCode": "E41",
+            "address1": "Nh-37",
+            "phone2": "03732370069",
+            "phone1": "0373-2370069",
+            "cityName": "Dibrugarh",
+            "stateName": "Assam",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AS",
+            "id": "AS301",
+            "email": "borahkiasales@gmail.com",
+            "lat": "27.455805"
+        },
+        {
+            "website": "https://www.borah-kia-kumaranichiga-tiniali.com",
+            "dealerName": "Borah Kia, Dibrugarh",
+            "address3": "New Tekela Gaon- 786008",
+            "lng": "94.883466",
+            "address2": "Kumarinichiga Tiniali",
+            "cityCode": "E41",
+            "address1": "Nh-37",
+            "phone2": "03732370069",
+            "phone1": "8876449484",
+            "cityName": "Dibrugarh",
+            "stateName": "Assam",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AS",
+            "id": "AS301",
+            "email": "borahkiaservice@gmail.com",
+            "lat": "27.455805"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

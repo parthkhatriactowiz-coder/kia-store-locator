@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.aaryaman-kia-gt-road.com",
+            "dealerName": "Aaryaman Kia, GT road",
+            "address3": "HARYANA -132001",
+            "lng": "76.9853677",
+            "address2": " GT ROAD KARNAL, ",
+            "cityCode": "N21",
+            "address1": "117/6 KM STONE,",
+            "phone2": "999999999",
+            "phone1": "7298000345",
+            "cityName": "Karnal",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR301",
+            "email": "sales@aaryamankia.in",
+            "lat": "29.6508978"
+        },
+        {
+            "website": "https://www.aaryaman-kia-gt-road.com",
+            "dealerName": "Aaryaman Kia CPO",
+            "address3": "Panipat, Haryana -132103 ",
+            "lng": "76.978041",
+            "address2": "Huda Industrial Area, Phase 1, ",
+            "cityCode": "N21",
+            "address1": "Plot Number 24, Sector 25, ",
+            "phone2": "7027715555",
+            "phone1": "7027715555",
+            "cityName": "Karnal",
+            "stateName": "Haryana",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "HR",
+            "id": "HR301",
+            "email": "sales.panipat@aaryamankia.in",
+            "lat": "29.371118"
+        },
+        {
+            "website": "https://www.aaryaman-kia-gt-road.com",
+            "dealerName": "Aaryaman Kia, GT road",
+            "address3": "HARYANA -132001",
+            "lng": "76.9853677",
+            "address2": " GT ROAD KARNAL, ",
+            "cityCode": "N21",
+            "address1": "117/6 KM STONE,",
+            "phone2": "999999999",
+            "phone1": "7298000378",
+            "cityName": "Karnal",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR301",
+            "email": "servicehead@aaryamankia.in",
+            "lat": "29.6508978"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

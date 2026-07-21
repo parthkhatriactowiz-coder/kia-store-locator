@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.aravali-automobiles-kia-bhiwadi.com",
+            "dealerName": "Aravali Kia, Bhiwadi",
+            "address3": "Nr Kajaria Greens, Bhiwadi, Raj-301019",
+            "lng": "76.832570",
+            "address2": "Main Alwar-Bhiwadi By Pass Road,",
+            "cityCode": "NFP",
+            "address1": "K No. 436, 668/435, Ward No.1,",
+            "phone2": "7406346600",
+            "phone1": "7406346600",
+            "cityName": "BHIWADI",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ507",
+            "email": "sales.bhiwadi@aravalikia.in",
+            "lat": "28.064880"
+        },
+        {
+            "website": "https://www.aravali-automobiles-kia-bhiwadi.com",
+            "dealerName": "Aravali Kia, Bhiwadi",
+            "address3": "Rajasthan -301019",
+            "lng": "76.8498830",
+            "address2": "Near Capital Mall, Bhiwadi,",
+            "cityCode": "NFP",
+            "address1": "P No. 812/F-41, Riico Industrial Area,",
+            "phone2": "9799996290",
+            "phone1": "8306355535",
+            "cityName": "BHIWADI",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ507",
+            "email": "krishan@aravalikia.in",
+            "lat": "28.2030180"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

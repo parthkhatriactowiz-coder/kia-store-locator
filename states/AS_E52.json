@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Dhansri Kia, Makum Bypass",
+            "address3": "Assam -786183",
+            "lng": "95.316788",
+            "address2": ", Okanimuriya Bongali Gaon, Tinsukia,",
+            "cityCode": "E52",
+            "address1": "C/o Dhansri Auto-Ventures, Makum Bypass",
+            "phone2": "8486019539",
+            "phone1": "9181079611",
+            "cityName": "Tinsukia",
+            "stateName": "Assam",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AS",
+            "id": "AS304",
+            "email": "sales.kia@dhansri.com",
+            "lat": "27.492753"
+        },
+        {
+            "dealerName": "Dhansri Kia, Makum Bypass",
+            "address3": "Assam -786183",
+            "lng": "95.316788",
+            "address2": ", Okanimuriya Bongali Gaon, Tinsukia,",
+            "cityCode": "E52",
+            "address1": "C/o Dhansri Auto-Ventures, Makum Bypass",
+            "phone2": "9181079622",
+            "phone1": "9181079622",
+            "cityName": "Tinsukia",
+            "stateName": "Assam",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AS",
+            "id": "AS304",
+            "email": "service.kia@dhansri.com",
+            "lat": "27.492753"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

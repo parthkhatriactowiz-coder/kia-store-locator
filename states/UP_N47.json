@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.pitambra-kia-jhansi.com",
+            "dealerName": "Pitambra Kia, Jhansi",
+            "address3": "Goramachhiya",
+            "lng": "78.669481",
+            "address2": "Kanpur road",
+            "cityCode": "N47",
+            "address1": "11th mile",
+            "phone2": "7705023462",
+            "phone1": "9415401191",
+            "cityName": "Jhansi",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP310",
+            "email": "salesmanager@jaipitambrakia.in",
+            "lat": "25.469861"
+        },
+        {
+            "website": "https://www.pitambra-kia-jhansi.com",
+            "dealerName": "Pitambra Kia, Jhansi",
+            "address3": "Goramachhiya",
+            "lng": "78.669481",
+            "address2": "Kanpur road",
+            "cityCode": "N47",
+            "address1": "11th mile",
+            "phone2": "8957024373",
+            "phone1": "8957024373",
+            "cityName": "Jhansi",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP310",
+            "email": "servicehead@jaipitambrakia.in",
+            "lat": "25.469861"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

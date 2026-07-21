@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.abhishek-kia-nagpur-road.com",
+            "dealerName": "Abhishek Kia, Nagpur road",
+            "address3": "Nagpur Road-480001",
+            "lng": "78.9297081",
+            "address2": "Gram Shikarpur",
+            "cityCode": "W59",
+            "address1": "Near Podar School",
+            "phone2": "8226006863",
+            "phone1": "8226006863",
+            "cityName": "Chhindwara",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP305",
+            "email": "gm@abhishekkia.in",
+            "lat": "21.9887211"
+        },
+        {
+            "website": "https://www.abhishek-kia-nagpur-road.com",
+            "dealerName": "Abhishek Kia, Nagpur road",
+            "address3": "Nagpur Road-480001",
+            "lng": "78.9297081",
+            "address2": "Gram Shikarpur",
+            "cityCode": "W59",
+            "address1": "Near Podar School",
+            "phone2": "8226006863",
+            "phone1": "8226006863",
+            "cityName": "Chhindwara",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP305",
+            "email": "gm@abhishekkia.in",
+            "lat": "21.9887211"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

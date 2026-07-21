@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Pitambra Kia, Orai",
+            "address3": " Uttar Pradesh -285001",
+            "lng": "79.498541",
+            "address2": " Dhaba, Shayama Sarovar Hotel, Orai,",
+            "cityCode": "NAX",
+            "address1": "NH 27, Jhansi Kanpur Highway, Near Bittu",
+            "phone2": "7705023462",
+            "phone1": "9415401191",
+            "cityName": "Orai",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP521",
+            "email": "shubh.khanna@jaipitambrakia.in",
+            "lat": "25.9865"
+        },
+        {
+            "dealerName": "Pitambra Kia, Orai",
+            "address3": " Uttar Pradesh -285001",
+            "lng": "79.498254",
+            "address2": " Dhaba, Shayama Sarovar Hotel, Orai,",
+            "cityCode": "NAX",
+            "address1": "NH 27, Jhansi Kanpur Highway, Near Bittu",
+            "phone2": "8957024373",
+            "phone1": "8957024373",
+            "cityName": "Orai",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP521",
+            "email": "serviceorai@jaipitambrakia.in",
+            "lat": "25.986613"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

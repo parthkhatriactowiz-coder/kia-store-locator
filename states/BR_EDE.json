@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.mavra-kia-tamkuhi-road.com",
+            "dealerName": "Mavra Kia, Gopalganj",
+            "address3": "Gopalganj, Bihar -841505",
+            "lng": "26.503751",
+            "address2": "In-Front of Indian Petrol Pump,",
+            "cityCode": "EDE",
+            "address1": "Plot No 107/13, NH-27, Tamkuhi Road,",
+            "phone2": "9117155001",
+            "phone1": "9117155001",
+            "cityName": "Gopalganj",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR303",
+            "email": "GMSALES@MAVRAKIA.COM",
+            "lat": "84.380172"
+        },
+        {
+            "website": "https://www.mavra-kia-tamkuhi-road.com",
+            "dealerName": "Mavra Kia, Gopalganj",
+            "address3": "Gopalganj, Bihar -841505",
+            "lng": "84.38008",
+            "address2": "In-Front of Indian Petrol Pump,",
+            "cityCode": "EDE",
+            "address1": "Plot No 107/13, NH-27, Tamkuhi Road,",
+            "phone2": "9117155006",
+            "phone1": "9117155006",
+            "cityName": "Gopalganj",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR303",
+            "email": "service@mavrakia.com",
+            "lat": "26.50339"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

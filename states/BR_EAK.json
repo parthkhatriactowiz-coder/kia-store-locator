@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.broadway-kia-begusarai.com",
+            "dealerName": "Broadway Kia, Begusarai",
+            "address3": "Bihar - 851134",
+            "lng": "86.085975",
+            "address2": "Amraur Kiratpur Singhoul, Begusarai,",
+            "cityCode": "EAK",
+            "address1": "Tauji No 826, NH-31,",
+            "phone2": "9955502555",
+            "phone1": "9955502555",
+            "cityName": "BEGUSARAI",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR305",
+            "email": "dealerprincipal@broadwaykia.com",
+            "lat": "25.433387"
+        },
+        {
+            "dealerName": "Broadway Kia, Begusarai",
+            "address3": "Bihar - 851134",
+            "lng": "86.08624",
+            "address2": "Amraur Kiratpur Singhoul, Begusarai,",
+            "cityCode": "EAK",
+            "address1": "Tauji No 826, NH-31,",
+            "phone2": "8797545111",
+            "phone1": "7070700519",
+            "cityName": "BEGUSARAI",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR305",
+            "email": "sm.service@broadwaykia.in",
+            "lat": "25.43353"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

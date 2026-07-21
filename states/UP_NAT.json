@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.sahib-kia-basti.com",
+            "dealerName": "Sahib Kia, Basti",
+            "address3": "Basti, Uttar Pradesh -272001",
+            "lng": "83.7896083",
+            "address2": "Plastic Complex, Industrial Area,",
+            "cityCode": "NAT",
+            "address1": "Plot No. B-2 & B-3,",
+            "phone2": "9151685555",
+            "phone1": "9151685555",
+            "cityName": "Basti",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP512",
+            "email": "md@sahibkia.in",
+            "lat": "26.8048387"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

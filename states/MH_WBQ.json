@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.konduskar-ratnagiri-kia.com",
+            "dealerName": "Konduskar Kia, Ratnagiri",
+            "address3": "Maharashtra -415639",
+            "lng": "73.3358934",
+            "address2": "Mirajole  MIDC, Ratnagiri,",
+            "cityCode": "WBQ",
+            "address1": "Plot No.A-34,",
+            "phone2": "7798804050",
+            "phone1": "7798804050",
+            "cityName": "Ratnagiri",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH313",
+            "email": "rohit@konduskar-kia.in",
+            "lat": "16.9985502"
+        },
+        {
+            "website": "https://www.konduskar-ratnagiri-kia.com",
+            "dealerName": "Konduskar Kia, Ratnagiri",
+            "address3": "Maharashtra -415639",
+            "lng": "73.335679",
+            "address2": "Mirajole  MIDC, Ratnagiri,",
+            "cityCode": "WBQ",
+            "address1": "Plot No.A-34,",
+            "phone2": "7798804050",
+            "phone1": "7798804050",
+            "cityName": "Ratnagiri",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH313",
+            "email": "ccm.ratnagiri@konduskar-kia.in",
+            "lat": "16.998270"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

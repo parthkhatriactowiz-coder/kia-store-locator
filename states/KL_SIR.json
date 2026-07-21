@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.incheon-kia-kanjirappilly.com",
+            "dealerName": "Incheon Kia, Kanjirappally",
+            "address3": "Kanjirappally, Kerala -686518",
+            "lng": "76.81295833",
+            "address2": " Road, Palampara Po, 26Th Mile,",
+            "cityCode": "SIR",
+            "address1": "Sy.No. 58/7, Kottayam-Kumili",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Kanjirappally",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL511",
+            "email": "enquiry@incheonkia.com",
+            "lat": "9.56166667"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

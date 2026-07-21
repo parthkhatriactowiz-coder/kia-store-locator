@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.raja-kia-jind.com",
+            "dealerName": "Raja Kia, Jind",
+            "address3": "Jind, Haryana -126102",
+            "lng": "76.32326",
+            "address2": "Rohtak Road,",
+            "cityCode": "NIT",
+            "address1": "Opposite Hyundai Showroom,",
+            "phone2": "9138800857",
+            "phone1": "9138800857",
+            "cityName": "Jind",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR506",
+            "email": "vijayta@rajakia.net",
+            "lat": "29.29143"
+        },
+        {
+            "website": "https://www.raja-kia-jind.com",
+            "dealerName": "Raja Kia, Jind",
+            "address3": "Jind, Haryana -126102",
+            "lng": "76.32095",
+            "address2": "Rohtak Road,",
+            "cityCode": "NIT",
+            "address1": "Opposite Hyundai Showroom,",
+            "phone2": "9138800870",
+            "phone1": "9138800870",
+            "cityName": "Jind",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR506",
+            "email": "smservicesjind@rajakia.net",
+            "lat": "29.29317"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.skydac-kia-sitapur.com",
+            "dealerName": "Skydac Kia, Sitapur",
+            "address3": " Uttar Pradesh -261125",
+            "lng": "80.714546",
+            "address2": "Near Power House, Lucknow Road, Sitapur,",
+            "cityCode": "NCH",
+            "address1": "Gata No. 98/101, Bijwar Khurd,",
+            "phone2": "9936449999",
+            "phone1": "9936449999",
+            "cityName": "Sitapur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP515",
+            "lat": "27.54751"
+        },
+        {
+            "dealerName": "Skydac Kia, Sitapur",
+            "address3": " Uttar Pradesh -261125",
+            "lng": "80.7107",
+            "address2": "Near Power House, Lucknow Road, Sitapur,",
+            "cityCode": "NCH",
+            "address1": "Gata No. 98/101, Bijwar Khurd,",
+            "phone2": "8188065813",
+            "phone1": "8188065813",
+            "cityName": "Sitapur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP515",
+            "email": "service.manager515@skydac.in",
+            "lat": "27.5454"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

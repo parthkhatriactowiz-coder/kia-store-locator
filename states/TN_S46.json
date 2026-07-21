@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.vst-central-vellore-kia.com",
+            "dealerName": "VST Kia, Gandhi Nagar, Vellore",
+            "address3": "Vellore, TN -632006",
+            "lng": "79.136777",
+            "address2": "Gandhi Nagar,",
+            "cityCode": "S46",
+            "address1": "No.43, Katpadi Main road,",
+            "phone2": "9840899490",
+            "phone1": "7305047846",
+            "cityName": "Vellore",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN310",
+            "email": "Salesmanager.vlr@vstcentral-kia.in",
+            "lat": "12.951726"
+        },
+        {
+            "website": "https://www.vst-central-vellore-kia.com",
+            "dealerName": "VST Kia, Gandhi Nagar, Vellore",
+            "address3": "Vellore, TN -632006",
+            "lng": "79.136792",
+            "address2": "Gandhi Nagar,",
+            "cityCode": "S46",
+            "address1": "No.43, Katpadi Main road,",
+            "phone2": "9384877756",
+            "phone1": "9384877756",
+            "cityName": "Vellore",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN310",
+            "email": "Servicemanager.vlr@vstcentral-kia.in",
+            "lat": "12.951522"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

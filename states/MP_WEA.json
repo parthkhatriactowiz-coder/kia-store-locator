@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Updesh Kia, Ratlam Road",
+            "address3": "Mandsaur, Madhya Pradesh – 458001",
+            "lng": "75.082108",
+            "address2": ", Sondhani, Arniya Bhatti, Ratlam Road,",
+            "cityCode": "WEA",
+            "address1": "1,Mandsaur Main Road, Swami Satsang Beas",
+            "phone2": "9144444473",
+            "phone1": "9144444473",
+            "cityName": "Mandsaur",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP604",
+            "lat": "24.041519"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

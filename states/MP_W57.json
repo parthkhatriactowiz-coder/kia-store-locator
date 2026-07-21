@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.shri-kia-ratlam.com",
+            "dealerName": "Shri Kia, Mhow Neemuch Road, Ratlam",
+            "address3": "Madhya Pradesh - 457001",
+            "lng": "75.067091",
+            "address2": "Sala Khedi Mhow Neemuch Road, Ratlam",
+            "cityCode": "W57",
+            "address1": "P No 146/3 Opp. Lavanya Palace,",
+            "phone2": "9826612384",
+            "phone1": "9826612384",
+            "cityName": "Ratlam",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP309",
+            "email": "Shaktis.kia@sbil.in",
+            "lat": "23.307703"
+        },
+        {
+            "website": "https://www.shri-kia-ratlam.com",
+            "dealerName": "Shri Kia, Mhow Neemuch Road, Ratlam",
+            "address3": "Ratlam, MP- 457001",
+            "lng": "75.067101",
+            "address2": "Sala Khedi Mhow Neemuch Road,",
+            "cityCode": "W57",
+            "address1": "P No 146/3 Opp. Lavanya Palace,",
+            "phone2": "6262626803",
+            "phone1": "6262626803",
+            "cityName": "Ratlam",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP309",
+            "email": "shrikia.ratlam@sbil.in",
+            "lat": "23.307707"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

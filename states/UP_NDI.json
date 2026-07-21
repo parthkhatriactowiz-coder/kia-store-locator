@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Balaji Kia, Sultanpur",
+            "address3": "Uttar Pradesh -228001",
+            "lng": "81.2566",
+            "address2": "Amhat, Sultanpur,",
+            "cityCode": "NDI",
+            "address1": "Near Surya School, Lucknow-Highway,",
+            "phone2": "9415415155",
+            "phone1": "9119803461",
+            "cityName": "SULTANPUR",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP520",
+            "lat": "26.2212"
+        },
+        {
+            "dealerName": "Balaji Kia, Sultanpur",
+            "address3": "Uttar Pradesh -228001",
+            "lng": "82.031288",
+            "address2": "Amhat, Sultanpur,",
+            "cityCode": "NDI",
+            "address1": "Near Surya School, Lucknow-Highway,",
+            "phone2": "9119803462",
+            "phone1": "9119602915",
+            "cityName": "SULTANPUR",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP520",
+            "email": "kiaservice.slp@balajikia.in",
+            "lat": "26.258271"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

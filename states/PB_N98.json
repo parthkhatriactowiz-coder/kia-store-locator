@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.joshi-ventures-kia-ropar.com",
+            "dealerName": "Joshi Kia, NH-21, Ropar-Chd Road",
+            "address3": "Chandigarh Road,Rupnagar,Punjab- 140001",
+            "lng": "76.53006234",
+            "address2": "Nr. Bhatha Sahib Gurudwara Chowk, Ropar-",
+            "cityCode": "N98",
+            "address1": "Vill. Sukhrampur, Hadbast No.179, NH-21,",
+            "phone2": "7087080444",
+            "phone1": "7087080444",
+            "cityName": "Ropar",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB510",
+            "email": "info.rpr@joshikia.in",
+            "lat": "30.95315016"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

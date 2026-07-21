@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Central Kia, Cuttack",
+            "address3": "Manglabag, Cuttack, Odisha -753001",
+            "lng": "85.8847577",
+            "address2": " Adjacent Srusti Hospital, Ring Road,",
+            "cityCode": "E72",
+            "address1": "P No  9 & 10, K  No 84 & 45/23,",
+            "phone2": "9237304769",
+            "phone1": "9237304769",
+            "cityName": "Cuttack",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD101",
+            "email": "sm2.bbsr@centralkia.in",
+            "lat": "20.476674"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

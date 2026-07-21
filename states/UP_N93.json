@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.prem-wheels-mathura-kia.com",
+            "dealerName": "Prem Kia, Mathura",
+            "address3": "Mathura, UP- 281006",
+            "lng": "77.69457",
+            "address2": "Near Basera food grain ware house,",
+            "cityCode": "N93",
+            "address1": "NH2 Baad,",
+            "phone2": "9837056843",
+            "phone1": "9837056843",
+            "cityName": "Mathura",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP314",
+            "email": "sales.mathura@premkia.com",
+            "lat": "27.39786"
+        },
+        {
+            "website": "https://www.prem-wheels-mathura-kia.com",
+            "dealerName": "Prem Kia, Mathura",
+            "address3": "Mathura, UP- 281006",
+            "lng": "77.694",
+            "address2": "Near Basera food grain ware house,",
+            "cityCode": "N93",
+            "address1": "NH2 Baad,",
+            "phone2": "7302980417",
+            "phone1": "7302980417",
+            "cityName": "Mathura",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP314",
+            "email": "ashutosh@premkia.com",
+            "lat": "27.397"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

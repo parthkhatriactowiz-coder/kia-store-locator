@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "website": "https://www.platinum-kia-srivijayapuram.com",
+            "dealerName": "Platinum Kia, Port Blair",
+            "address3": "Andaman and Nicobar Island- 744105",
+            "lng": "92.7125",
+            "address2": "Garacharma Road, Port Blair, South Andaman,",
+            "cityCode": "EEE",
+            "address1": "Garacharam sub post office, ",
+            "phone2": "9933210660",
+            "phone1": "9933210660",
+            "cityName": "Port Blair",
+            "stateName": "Andaman and Nico.Is.",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AN",
+            "id": "AN401",
+            "lat": "11.619722"
+        },
+        {
+            "dealerName": "Platinum Kia, Port Blair",
+            "address3": "Andaman & Nicobar Islands -744105",
+            "lng": "92.708611",
+            "address2": "Garacharma, Port Blair, South Andaman,",
+            "cityCode": "EEE",
+            "address1": "P no 331 Attam Pahar Rd,",
+            "phone2": "9933210660",
+            "phone1": "9933210660",
+            "cityName": "Port Blair",
+            "stateName": "Andaman and Nico.Is.",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AN",
+            "id": "AN401",
+            "lat": "11.623889"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

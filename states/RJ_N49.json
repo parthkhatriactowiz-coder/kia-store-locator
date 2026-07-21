@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.sandeep-cars-ajmer-road-kia.com",
+            "dealerName": "Sandeep Kia, Ajmer Road",
+            "address3": "Bhilwara - 311001",
+            "lng": "74.625280",
+            "address2": "Ajmer Road, Subhash Nagar",
+            "cityCode": "N49",
+            "address1": "Opp. Shriji Resort",
+            "phone2": "9772754444",
+            "phone1": "9772754444",
+            "cityName": "Bhilwara",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ407",
+            "email": "gm@sandeepcars.com",
+            "lat": "25.369164"
+        },
+        {
+            "website": "https://www.sandeep-cars-ajmer-road-kia.com",
+            "dealerName": "Sandeep Kia, Ajmer Road",
+            "address3": "Bhilwara, Rajasthan - 311001",
+            "lng": "74.60463399999999",
+            "address2": "Village Biliya Khurd",
+            "cityCode": "N49",
+            "address1": "H-7, Evergreen Tax Park",
+            "phone2": "7230091030",
+            "phone1": "7230091030",
+            "cityName": "Bhilwara",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ407",
+            "email": "gmservice@sandeepcars.com",
+            "lat": "25.362335"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

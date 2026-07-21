@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Celebrate Kia, Akluj- Velapur Road",
+            "address3": "Dist. Solapur, Maharashtra -413101",
+            "lng": "75.030024",
+            "address2": "Near Pharnacy college, Malewadi, Akluj,",
+            "cityCode": "WAX",
+            "address1": "Gat no 35/1A/3, Akluj-Velapur Road,",
+            "phone2": "9822430107",
+            "phone1": "9322923959",
+            "cityName": "Akluj",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH604",
+            "email": "salesm@celebratekia.com",
+            "lat": "17.875678"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

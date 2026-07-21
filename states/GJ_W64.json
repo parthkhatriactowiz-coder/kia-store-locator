@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.western-kia-rajkot-road.com",
+            "dealerName": "Western Kia, Rajkot road",
+            "address3": "Rajkot Road, Bhavnagar",
+            "lng": "72.0776856",
+            "address2": " P1-P2 Nari to Vartej",
+            "cityCode": "W64",
+            "address1": "Plot No.C3/C4, RS No 196",
+            "phone2": "07948058648",
+            "phone1": "07948058648",
+            "cityName": "Bhavnagar",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ313",
+            "email": "sm.sales@westernkia.in ",
+            "lat": "21.7451011 "
+        },
+        {
+            "website": "https://www.western-kia-rajkot-road.com",
+            "dealerName": "Western Kia, Rajkot road",
+            "address3": "Rajkot Road, Bhavnagar",
+            "lng": "72.0776856",
+            "address2": " P1-P2 Nari to Vartej",
+            "cityCode": "W64",
+            "address1": "Plot No.C3/C4, RS No 196",
+            "phone2": "07948058648",
+            "phone1": "07948058648",
+            "cityName": "Bhavnagar",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ313",
+            "lat": "21.7451011 "
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Ganges Kia, Berhampore",
+            "address3": "West Bengal -742165",
+            "lng": "88.26774",
+            "address2": "Berhampore, Dist.Murshidabad,",
+            "cityCode": "E17",
+            "address1": "NH 34, Balarampur,",
+            "phone2": "9830022060",
+            "phone1": "9830855200",
+            "cityName": "Berhampore",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB503",
+            "email": "anshulh@gangeskia.com",
+            "lat": "24.07777"
+        },
+        {
+            "dealerName": "Ganges Kia, Berhampore",
+            "address3": "West Bengal -742165",
+            "lng": "88.26774",
+            "address2": "Berhampore, Dist.Murshidabad,",
+            "cityCode": "E17",
+            "address1": "NH 34, Balarampur,",
+            "phone2": "9830022060",
+            "phone1": "9830753816",
+            "cityName": "Berhampore",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB503",
+            "email": "anshulh@gangeskia.com",
+            "lat": "24.07777"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

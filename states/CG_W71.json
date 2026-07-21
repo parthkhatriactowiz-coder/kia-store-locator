@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.mahadeva-kia-jagdalpur.com",
+            "dealerName": "Mahadeva Kia, Jagdalpur",
+            "address3": "Chhattisgarh - 494001",
+            "lng": "81.890280",
+            "address2": "Geedam Road, Jagdalpur,",
+            "cityCode": "W71",
+            "address1": "Beside Surya College,",
+            "phone2": "8358887000",
+            "phone1": "8358887000",
+            "cityName": "Jagdalpur",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG503",
+            "lat": "19.123880"
+        },
+        {
+            "dealerName": "Mahadeva Kia, Jagdalpur",
+            "address3": "Chhattisgarh - 494001",
+            "lng": "81.969757",
+            "address2": "Geedam Road, Jagdalpur,",
+            "cityCode": "W71",
+            "address1": "Beside Surya College,",
+            "phone2": "7880144982",
+            "phone1": "9772004456",
+            "cityName": "Jagdalpur",
+            "stateName": "Chhattisgarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CG",
+            "id": "CG503",
+            "email": "cxmkia@mahadevakia.co.in",
+            "lat": "19.066661"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

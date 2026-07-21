@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.automotive-kia-mahbubnagar.com",
+            "dealerName": "Automotive Kia, Mahbubnagar",
+            "address3": "Mahabubnagar 509001",
+            "lng": "78.069083",
+            "address2": "Appannapally Village,",
+            "cityCode": "SCA",
+            "address1": "Sy.No 174/A ,Hyderabad Road,",
+            "phone2": "6309908186",
+            "phone1": "6309908110",
+            "cityName": "Mahbubnagar",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS502",
+            "email": "service.kiambnr@automotiveml.com",
+            "lat": "16.762320"
+        },
+        {
+            "website": "https://www.automotive-kia-mahbubnagar.com",
+            "dealerName": "Automotive Kia, Mahbubnagar",
+            "address3": "Mahabubnagar 509001",
+            "lng": "78.069083",
+            "address2": "Appannapally Village,",
+            "cityCode": "SCA",
+            "address1": "Sy.No 174/A ,Hyderabad Road,",
+            "phone2": "6309908186",
+            "phone1": "6309908186",
+            "cityName": "Mahbubnagar",
+            "stateName": "Telangana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TS",
+            "id": "TS502",
+            "email": "service.kiambnr@automotiveml.com",
+            "lat": "16.762320"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

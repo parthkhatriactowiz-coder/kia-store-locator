@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.pal-kia-shrinagar.com",
+            "dealerName": "Pal Kia, Srinagar",
+            "address3": "U.T. Jammu & Kashmir -191101",
+            "lng": "74.875707",
+            "address2": "Athwajan Main Road, Srinagar,",
+            "cityCode": "N51",
+            "address1": "Khasra No. 173 and 174, Pantha Chowk,",
+            "phone2": "6006800809",
+            "phone1": "6006800801",
+            "cityName": "Srinagar",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JK",
+            "id": "JK302",
+            "email": "anil.kotwal@palkia.in",
+            "lat": "34.040963"
+        },
+        {
+            "website": "https://www.pal-kia-shrinagar.com",
+            "dealerName": "Pal Kia CPO, Srinagar",
+            "address3": "U.T. Jammu & Kashmir -191101",
+            "lng": "74.875707",
+            "address2": "Athwajan Main Road, Srinagar,",
+            "cityCode": "N51",
+            "address1": "Khasra No. 173 and 174, Pantha Chowk,",
+            "phone2": "9541934734",
+            "phone1": "9541934734",
+            "cityName": "Srinagar",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "JK",
+            "id": "JK302",
+            "email": "exchange.sgr@palkia.in",
+            "lat": "34.040963"
+        },
+        {
+            "website": "https://www.pal-kia-shrinagar.com",
+            "dealerName": "Pal Kia, Srinagar",
+            "address3": "U.T. Jammu & Kashmir -191101",
+            "lng": "74.875707",
+            "address2": "Athwajan Main Road, Srinagar,",
+            "cityCode": "N51",
+            "address1": "Khasra No. 173 and 174, Pantha Chowk,",
+            "phone2": "9541934732",
+            "phone1": "9541934732",
+            "cityName": "Srinagar",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JK",
+            "id": "JK302",
+            "email": "nishantluthra@luthragroup.net",
+            "lat": "34.040963"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

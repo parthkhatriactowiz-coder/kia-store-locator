@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.simha-kia-indira-autonagar.com",
+            "dealerName": "Simha Kia, Indira Autonagar",
+            "address3": "Guntur-522001",
+            "lng": "80.4755",
+            "address2": "Block No. 4, Phase IV, Autonagar",
+            "cityCode": "S57",
+            "address1": "Plot No. 2",
+            "phone2": "999999999",
+            "phone1": "7331122066",
+            "cityName": "Guntur",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP402",
+            "email": "salesmanager.gnt@simha-kia.in",
+            "lat": "16.32077"
+        },
+        {
+            "website": "https://www.simha-kia-indira-autonagar.com",
+            "dealerName": "Simha Kia, Indira Autonagar",
+            "address3": "Guntur-522001",
+            "lng": "80.48051",
+            "address2": "Block No. 38, Autonagar",
+            "cityCode": "S57",
+            "address1": "Plot No.5",
+            "phone2": "999999999",
+            "phone1": "8688836555",
+            "cityName": "Guntur",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP402",
+            "email": "Servicemanager.gnt@simha-kia.in",
+            "lat": "16.31865"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.arm-kia-udupi.com",
+            "dealerName": "A R M Kia, Udyavara",
+            "address3": "Udupi, Karnataka -574118",
+            "lng": "13.301113",
+            "address2": "Near sode matta, NH-66,",
+            "cityCode": "S87",
+            "address1": "Sy.No 31/46, Udyavara Main Road,",
+            "phone2": "9606035534",
+            "phone1": "9606035534",
+            "cityName": "Udupi",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA317",
+            "email": "service.udupi@armkia.com",
+            "lat": "74.745135"
+        },
+        {
+            "website": "https://www.arm-kia-udupi.com",
+            "dealerName": "A R M Kia, Udyavara",
+            "address3": "Udupi, Karnataka -574118",
+            "lng": "74.74516078158229",
+            "address2": "Near sode matta, NH-66,",
+            "cityCode": "S87",
+            "address1": "Sy.No 31/46, Udyavara Main Road,",
+            "phone2": "9606035534",
+            "phone1": "9606035534",
+            "cityName": "Udupi",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA317",
+            "email": "service.udupi@armkia.com",
+            "lat": "13.301283219993072"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

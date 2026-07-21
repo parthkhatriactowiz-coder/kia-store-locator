@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.hoshi-kia-chittoor.com",
+            "dealerName": "Hoshi Kia, Chittoor",
+            "address3": " Andhra Pradesh -517001",
+            "lng": "79.0727155",
+            "address2": "Iruvaram, Chittoor,",
+            "cityCode": "SEE",
+            "address1": "26/267/5, Gudiyatham Road,",
+            "phone2": "9014211012",
+            "phone1": "9014211012",
+            "cityName": "Chittoor",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP507",
+            "email": "sadeenu1@gmail.com",
+            "lat": "13.1948874"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

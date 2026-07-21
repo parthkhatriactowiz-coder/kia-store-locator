@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Ramani Kia, Kumbakonam",
+            "address3": "Thanjavur, Tamil Nadu -612501",
+            "lng": "79.401722",
+            "address2": "Koranattu Karuppur 1, Kumbakonam,",
+            "cityCode": "SCK",
+            "address1": "Door No.2047, Chennai Bypass Road,",
+            "phone2": "9384354443",
+            "phone1": "9500988904",
+            "cityName": "Kumbakonam",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN604",
+            "email": "sathyan@ramanikia.com",
+            "lat": "10.99978"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

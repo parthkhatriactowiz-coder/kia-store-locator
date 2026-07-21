@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.krishna-kia-main-road-korba.com",
+            "dealerName": "Krishna Kia, Main Road Korba",
+            "address3": "Korba, Chhattisgarh - 495678",
+            "lng": "82.701213",
+            "address2": "Main Road",
+            "cityCode": "W62",
+            "address1": "Plot No. 487/32",
+            "phone2": "8815104502",
+            "phone1": "8815104502",
+            "cityName": "Korba",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG401",
+            "email": "Salesmanager.korba@krishnakia.om",
+            "lat": "22.342383"
+        },
+        {
+            "website": "https://www.krishna-kia-main-road-korba.com",
+            "dealerName": "Krishna Kia, Main Road Korba",
+            "address3": "Korba, Chhattisgarh - 495678",
+            "lng": "82.695955",
+            "address2": "Champa - Janjagir Road,",
+            "cityCode": "W62",
+            "address1": "Plot No. 732/19, 20,",
+            "phone2": "8815104502",
+            "phone1": "8815104502",
+            "cityName": "Korba",
+            "stateName": "Chhattisgarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CG",
+            "id": "CG401",
+            "email": "service.korba@krishnakia.com",
+            "lat": "22.362151"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

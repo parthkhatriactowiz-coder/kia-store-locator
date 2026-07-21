@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.ajinkya-nanded-kia.com",
+            "dealerName": "Ajinkya Kia, Nagpur Highway",
+            "address3": "Nanded - 431606",
+            "lng": "77.349716 ",
+            "address2": "Gut No. 88/89/97, NH361,",
+            "cityCode": "W41",
+            "address1": " Pimpalgao (M), Nanded - Nagpur Highway",
+            "phone2": "7066043066",
+            "phone1": "7066043066",
+            "cityName": "Nanded",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH309",
+            "email": "salesnanded@ajinkyakia.in",
+            "lat": "19.217391 "
+        },
+        {
+            "website": "https://www.ajinkya-nanded-kia.com",
+            "dealerName": "Ajinkya Kia, Nagpur Highway",
+            "address3": "Nanded - 431606",
+            "lng": "77.349716 ",
+            "address2": "Gut No. 88/89/97, NH361,",
+            "cityCode": "W41",
+            "address1": " Pimpalgao (M), Nanded - Nagpur Highway",
+            "phone2": "7066043066",
+            "phone1": "7066043066",
+            "cityName": "Nanded",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH309",
+            "email": "Servicenanded.ajinkya@ajinkyakia.com",
+            "lat": "19.217391 "
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

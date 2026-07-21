@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.surya-kia-hamirpur.com",
+            "dealerName": "Surya Kia, Hamirpur",
+            "address3": "Hamirpur,Himachal Pradesh -177001",
+            "lng": "76.552339",
+            "address2": "NH 103,  Near Reliance Petrol Pump,",
+            "cityCode": "N83",
+            "address1": "Village Chattar, Bhira,",
+            "phone2": "9817166201",
+            "phone1": "9317079366",
+            "cityName": "Hamirpur",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP303",
+            "email": "gmsales@suryakia.com",
+            "lat": "31.648178"
+        },
+        {
+            "website": "https://www.surya-kia-hamirpur.com",
+            "dealerName": "Surya Kia, Hamirpur",
+            "address3": "Hamirpur,Himachal Pradesh -177001",
+            "lng": "76.552553",
+            "address2": "NH 103,  Near Reliance Petrol Pump,",
+            "cityCode": "N83",
+            "address1": "Village Chattar, Bhira,",
+            "phone2": "9817166201",
+            "phone1": "9350687645",
+            "cityName": "Hamirpur",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP303",
+            "email": "wmservice@suryakia.com",
+            "lat": "31.648068"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.shubh-kia-saharanpur.com",
+            "dealerName": "Shubh Kia, Saharanpur",
+            "address3": "Sahranpur, UP-247001",
+            "lng": "77.530592",
+            "address2": "Opp ITI Bijli Gher, Delhi Sahranpur Rd,",
+            "cityCode": "N52",
+            "address1": "Near Maharaja Place,",
+            "phone2": "9259536660",
+            "phone1": "9259536660",
+            "cityName": "Saharanpur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP510",
+            "email": "gmsales@shubhia.com",
+            "lat": "29.929933"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

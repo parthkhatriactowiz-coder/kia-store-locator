@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.jansi-kia-davanagere.com",
+            "dealerName": "Jansi Kia, Davanagere",
+            "address3": "Davanagere, Karnataka-577002",
+            "lng": "14.47445",
+            "address2": "Karur Village, Old PB Road",
+            "cityCode": "SCR",
+            "address1": "Plot No.174/4, Sy. No.11/1",
+            "phone2": "9538551444",
+            "phone1": "9538551444",
+            "cityName": "DAVANAGERE",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA506",
+            "email": "dvgsales@jansikia.in",
+            "lat": "75.88448"
+        },
+        {
+            "website": "https://www.jansi-kia-davanagere.com",
+            "dealerName": "Jansi Kia, Davanagere",
+            "address3": "Davanagere, Karnataka-577002",
+            "lng": "14.47445",
+            "address2": "Karur Village, Old PB Road",
+            "cityCode": "SCR",
+            "address1": "Plot No.174/4, Sy. No.11/1",
+            "phone2": "8884853333",
+            "phone1": "8884853333",
+            "cityName": "DAVANAGERE",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA506",
+            "email": "dvgsales@jansikia.in",
+            "lat": "75.88448"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

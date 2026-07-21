@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.malik-kia-warangal.com",
+            "dealerName": "Malik Kia, Rangampet",
+            "address3": "Rangampet, Warangal- 506002",
+            "lng": "79.587111",
+            "address2": "Old Ramakrishna Theatre",
+            "cityCode": "S55",
+            "address1": "15-1-318, KMC Road",
+            "phone2": "9121601111",
+            "phone1": "9121601111",
+            "cityName": "Warangal",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS301",
+            "email": "karanmalik@malikkia.in",
+            "lat": "17.998222"
+        },
+        {
+            "website": "https://www.malik-kia-warangal.com",
+            "dealerName": "Malik Kia, Rangampet",
+            "address3": "Rangampet, Warangal- 506002",
+            "lng": "79.587111",
+            "address2": "Old Ramakrishna Theatre",
+            "cityCode": "S55",
+            "address1": "15-1-318, KMC Road",
+            "phone1": "08886646245",
+            "cityName": "Warangal",
+            "stateName": "Telangana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TS",
+            "id": "TS301",
+            "email": "karanmalik@malikkia.in",
+            "lat": "17.998222"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

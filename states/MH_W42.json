@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.jps-kia-ridhora.com",
+            "dealerName": "JPS KIA, Akola",
+            "address3": "Maharashtra- 444302",
+            "lng": "20.692515",
+            "address2": "Balapur Road, Ridhora, Dist: Akola,",
+            "cityCode": "W42",
+            "address1": "Plot No. 40/1,",
+            "phone2": "8855099718",
+            "phone1": "8855099718",
+            "cityName": "Akola",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH512",
+            "email": "sales@jpskia.com",
+            "lat": "20.692515"
+        },
+        {
+            "dealerName": "JPS KIA, Akola",
+            "address3": "Maharashtra- 444302",
+            "lng": "76.950395",
+            "address2": "Balapur Road, Ridhora, Dist: Akola,",
+            "cityCode": "W42",
+            "address1": "Plot No. 40/1,",
+            "phone2": "8855099718",
+            "phone1": "8855099718",
+            "cityName": "Akola",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH512",
+            "email": "service.akola@jpskia.com",
+            "lat": "20.6918659"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

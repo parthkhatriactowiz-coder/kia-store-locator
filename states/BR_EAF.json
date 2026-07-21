@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Goberdhan Kia, Darbhanga",
+            "address3": "Bihar - 846004",
+            "lng": "85.897851",
+            "address2": "Basudeopur, NH-57, Darbhanga,",
+            "cityCode": "EAF",
+            "address1": "Dilli More, Bus Stand,",
+            "phone2": "9297932601",
+            "phone1": "9297932601",
+            "cityName": "Darbhanga",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR501",
+            "email": "kiadarbhanga@gmail.com",
+            "lat": "26.187471"
+        },
+        {
+            "dealerName": "Goberdhan Kia, Darbhanga",
+            "address3": "Bihar - 846004",
+            "lng": "26.18739",
+            "address2": "Basudeopur, NH-57, Darbhanga,",
+            "cityCode": "EAF",
+            "address1": "Dilli More, Bus Stand,",
+            "phone2": "9031053302",
+            "phone1": "9297932600",
+            "cityName": "Darbhanga",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR501",
+            "email": "kiadarbhanga@gmail.com",
+            "lat": "85.897886"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

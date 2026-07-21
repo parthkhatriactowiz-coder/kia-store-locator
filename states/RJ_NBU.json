@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Galaxy Kia, Bundi",
+            "address3": "Rajasthan -323001",
+            "lng": "75.623038",
+            "address2": "Raghuveer Pura, Bundi,",
+            "cityCode": "NBU",
+            "address1": "Khasra No. 516/287, Chittor Road,",
+            "phone2": "9251984543",
+            "phone1": "9251984543",
+            "cityName": "Bundi",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ601",
+            "lat": "25.425469"
+        },
+        {
+            "dealerName": "Galaxy Kia, Bundi",
+            "address3": "Rajasthan -323001",
+            "lng": "75.62310",
+            "address2": "Raghuveer Pura, Bundi,",
+            "cityCode": "NBU",
+            "address1": "Khasra No. 516/287, Chittor Road,",
+            "phone2": "9251654640",
+            "phone1": "9251654640",
+            "cityName": "Bundi",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ601",
+            "email": "service@galaxykia.in",
+            "lat": "25.42543"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

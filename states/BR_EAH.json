@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.kosi-kiapurnia.com",
+            "dealerName": "Kosi Kia,Purnia",
+            "address3": "Purnia-854326",
+            "lng": "87.5704845573463 ",
+            "address2": "Barsoni",
+            "cityCode": "EAH",
+            "address1": "NH 31",
+            "phone2": "7283000470",
+            "phone1": "7283000470",
+            "cityName": "Purnia",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR402",
+            "email": "sales@kosikia.com",
+            "lat": "25.798753769927536"
+        },
+        {
+            "website": "https://www.kosi-kiapurnia.com",
+            "dealerName": "Kosi Kia,Purnia",
+            "address3": "Purnia-854301",
+            "lng": "87.49540723923847",
+            "address2": "Belori, Madhavpara",
+            "cityCode": "EAH",
+            "address1": "NH 31 Bypass Road",
+            "phone2": "7283000475",
+            "phone1": "7283000475",
+            "cityName": "Purnia",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR402",
+            "email": "service@kosikia.com",
+            "lat": "25.76430489334257"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

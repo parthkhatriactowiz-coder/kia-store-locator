@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "website": "https://www.sant-autocraft-muhal-otta-gutkar-kia.com",
+            "dealerName": "Sant Kia, Muhal Otta Gutkar",
+            "address3": "District Mandi (H.P) 175021",
+            "lng": "76.94422",
+            "address2": "NH-21, Muhul Otta Gutkar",
+            "cityCode": "N80",
+            "address1": "Plot Khasra No. 51/1",
+            "phone2": "9899063696",
+            "phone1": "9899063696",
+            "cityName": "Mandi",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP301",
+            "email": "sm@santautocraft-kia.in",
+            "lat": "31.66385"
+        },
+        {
+            "website": "https://sant-autocraft-muhal-otta-gutkar-kia.com",
+            "dealerName": "Sant Kia, Mandi",
+            "address3": "District Mandi (H.P) 175021",
+            "lng": "76.31234",
+            "address2": "Mohal Bagla, Tehsil Balh",
+            "cityCode": "N80",
+            "address1": "Khasra No. 514/19, ",
+            "phone2": "999999999",
+            "phone1": "999999999",
+            "cityName": "Mandi",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP201",
+            "lat": "32.10945"
+        },
+        {
+            "website": "https://www.sant-autocraft-muhal-otta-gutkar-kia.com",
+            "dealerName": "Sant Kia, Muhal Otta Gutkar",
+            "address3": "District Mandi (H.P) 175021",
+            "lng": "76.94422",
+            "address2": "NH-21, Muhul Otta Gutkar",
+            "cityCode": "N80",
+            "address1": "Plot Khasra No. 51/1",
+            "phone2": "7876907055",
+            "phone1": "7876907055",
+            "cityName": "Mandi",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP301",
+            "email": "service@santautocraft-kia.in",
+            "lat": "31.66385"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

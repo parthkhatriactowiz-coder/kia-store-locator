@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dealerName": "Acropolis Kia, Laitkor",
+            "address3": "Meghalaya -793010",
+            "lng": "91.88896",
+            "address2": "East Khasi Hills, Shillong,",
+            "cityCode": "E43",
+            "address1": "Laitkor Mawrie Lumheh,",
+            "phone2": "9862922354",
+            "phone1": "9615243601",
+            "cityName": "Shillong",
+            "stateName": "Meghalaya",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "ML",
+            "id": "ML401",
+            "lat": "25.523986"
+        },
+        {
+            "dealerName": "Acropolis Kia, Laitkor",
+            "address3": "Meghalaya -793010",
+            "lng": "91.88581",
+            "address2": "East Khasi Hills. Shillong.",
+            "cityCode": "E43",
+            "address1": "Laitkor, Mawarliang,",
+            "phone2": "8900533722",
+            "phone1": "9615243601",
+            "cityName": "Shillong",
+            "stateName": "Meghalaya",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "ML",
+            "id": "ML401",
+            "lat": "25.52908"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

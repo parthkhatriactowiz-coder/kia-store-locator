@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Harish Kia, Manesar",
+            "address3": " Manesar, Gurugram, Haryana -122051",
+            "lng": "76.937901",
+            "address2": " 25/3/2/2-30/2/2, Opp Kasan Road, NH 48,",
+            "cityCode": "NCQ",
+            "address1": "Main Bus Stand, Khasra No. 42, Kila No.",
+            "phone2": "9810701195",
+            "phone1": "9971500229",
+            "cityName": "MANESAR",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR510",
+            "lat": "28.354768"
+        },
+        {
+            "dealerName": "Harish Kia, Manesar",
+            "address3": " Manesar, Gurugram, Haryana -122051",
+            "lng": "76.949008",
+            "address2": " 25/3/2/2-30/2/2, Opp Kasan Road, NH 48,",
+            "cityCode": "NCQ",
+            "address1": "Main Bus Stand, Khasra No. 42, Kila No.",
+            "phone2": "7056662729",
+            "phone1": "7056662701",
+            "cityName": "MANESAR",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR510",
+            "email": "hcmotors.llp@gmail.com",
+            "lat": "28.373293"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

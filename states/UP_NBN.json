@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.empire-sadar-azamgarh-kia.com",
+            "dealerName": "Empire Kia, Azamgarh",
+            "address3": "Sadar Azamagrh, UP - 276001",
+            "lng": "83.1355039",
+            "address2": "Chakkhairullah, Azamgarh-Varanasi Road,",
+            "cityCode": "NBN",
+            "address1": "Plot No 174,",
+            "phone2": "9651250919",
+            "phone1": "9651250919",
+            "cityName": "Azamgarh",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP407",
+            "email": "sales@empirekia.in",
+            "lat": "26.0195423"
+        },
+        {
+            "website": "https://www.empire-sadar-azamgarh-kia.com",
+            "dealerName": "Empire Kia, Azamgarh",
+            "address3": "Sadar Azamagrh, UP - 276001",
+            "lng": "83.120250",
+            "address2": "Chakkhairullah, Azamgarh-Varanasi Road,",
+            "cityCode": "NBN",
+            "address1": "Plot No 174,",
+            "phone2": "7570909902",
+            "phone1": "9120207222",
+            "cityName": "Azamgarh",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP407",
+            "email": "service@empirekia.in",
+            "lat": "26.005127"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.miraculum-kia-belagavi.com",
+            "dealerName": "Miraculum Kia, Khanapur Road",
+            "address3": "Belgavi (Belgaum), Karnataka-590008",
+            "lng": "74.485366",
+            "address2": "Survey  No. 317/6",
+            "cityCode": "S88",
+            "address1": "Khanapur Road",
+            "phone2": "9090979761",
+            "phone1": "9090979761",
+            "cityName": "Belgaum",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA314",
+            "email": "salesinfo.bgm@miraculumkia.in",
+            "lat": "15.805583"
+        },
+        {
+            "website": "https://www.miraculum-kia-belagavi.com",
+            "dealerName": "Miraculum Kia, Khanapur Road",
+            "address3": "Belgavi (Belgaum), Karnataka-590008",
+            "lng": "74.4855106",
+            "address2": "Survey  No. 317/6",
+            "cityCode": "S88",
+            "address1": "Khanapur Road",
+            "phone2": "8310158153",
+            "phone1": "8310158153",
+            "cityName": "Belgaum",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA314",
+            "email": "crmservice.bgm@miraculumkia.in",
+            "lat": "15.8058743"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

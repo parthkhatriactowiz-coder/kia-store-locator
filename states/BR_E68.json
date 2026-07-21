@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Kosi Kia, Bhagalpur",
+            "address3": "Bihar -813210",
+            "lng": "25.254078",
+            "address2": "Sabour Road, Bhagalpur,",
+            "cityCode": "E68",
+            "address1": "Ranitalab, NH-80,",
+            "phone2": "9234391443",
+            "phone1": "9234391443",
+            "cityName": "Bhagalpur",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR502",
+            "email": "sales@kosikia.com",
+            "lat": "25.254078"
+        },
+        {
+            "dealerName": "Kosi Kia, Bhagalpur",
+            "address3": "Bihar -813210",
+            "lng": "87.050400",
+            "address2": "Sabour Road, Bhagalpur,",
+            "cityCode": "E68",
+            "address1": "Ranitalab, NH-80,",
+            "phone2": "9153881497",
+            "phone1": "9153881497",
+            "cityName": "Bhagalpur",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR502",
+            "email": "Service.bgp@kosikia.com",
+            "lat": "25.250069"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

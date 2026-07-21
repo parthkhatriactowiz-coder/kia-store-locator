@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.gitansh-kia-ferozepur.com",
+            "dealerName": "Gitansh Kia, Ferozepur",
+            "address3": "Ferozepur, Punjab-152004",
+            "lng": "74.636560",
+            "address2": " Adjoining Genesis Dental College,",
+            "cityCode": "N79",
+            "address1": "Vill. Malwal Qudim, Moga-Ferozepur Road,",
+            "phone2": "8264633033",
+            "phone1": "8264633033",
+            "cityName": "Ferozepur",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB308",
+            "email": "edp@gitanshkia.in",
+            "lat": "30.929860"
+        },
+        {
+            "website": "https://www.gitansh-kia-ferozepur.com",
+            "dealerName": "Gitansh Kia CPO, Ferozepur",
+            "address3": "Ferozepur, Punjab-152004",
+            "lng": "74.636560",
+            "address2": " Adjoining Genesis Dental College,",
+            "cityCode": "N79",
+            "address1": "Vill. Malwal Qudim, Moga-Ferozepur Road,",
+            "phone2": "8288081850",
+            "phone1": "8288081850",
+            "cityName": "Ferozepur",
+            "stateName": "Punjab",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "PB",
+            "id": "PB308",
+            "email": "gm@gitanshkia.in",
+            "lat": "30.929860"
+        },
+        {
+            "website": "https://www.gitansh-kia-ferozepur.com",
+            "dealerName": "Gitansh Kia, Ferozepur",
+            "address3": "Ferozepur, Punjab-152004",
+            "lng": "74.67032",
+            "address2": " Adjoining Genesis Dental College,",
+            "cityCode": "N79",
+            "address1": "Vill. Malwal Qudim, Moga-Ferozepur Road,",
+            "phone2": "8264633033",
+            "phone1": "8264633033",
+            "cityName": "Ferozepur",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB308",
+            "email": "gitanshautowheels@gmail.com",
+            "lat": "30.90692"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Global Kia, Gajraula",
+            "address3": "Dist. Amroha, Uttar Pradesh -244221",
+            "lng": "78.323097",
+            "address2": "Gajraula, Tehsil Dhanaura,",
+            "cityCode": "NJM",
+            "address1": "Gate No. 216, Bhanpur Khalsa,",
+            "phone2": "7055600801",
+            "phone1": "7055600801",
+            "cityName": "Gajraula",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP526",
+            "lat": "28.83636"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

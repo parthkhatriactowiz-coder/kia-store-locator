@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Mavra Kia, Bettiah",
+            "address3": "Bettiah, Pashchim Champaran, Bihar- 8454",
+            "lng": "84.561625",
+            "address2": "No-433, Barwat Nh-727, Near Machali Lok,",
+            "cityCode": "E79",
+            "address1": "GF, Bettiah, Bettiah Motihari Rd, Plot",
+            "phone2": "9117155005",
+            "phone1": "9117155005",
+            "cityName": "Bettiah",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR503",
+            "email": "sales@mavrakia.com",
+            "lat": "26.783101"
+        },
+        {
+            "dealerName": "Mavra Kia, Bettiah",
+            "address3": "Bettiah, Pashchim Champaran, Bihar- 8454",
+            "lng": "84.561434",
+            "address2": "No-433, Barwat Nh-727, Near Machali Lok,",
+            "cityCode": "E79",
+            "address1": "GF, Bettiah, Bettiah Motihari Rd, Plot",
+            "phone2": "9031608885",
+            "phone1": "9031608885",
+            "cityName": "Bettiah",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR503",
+            "email": "servicebth@mavrakia.com",
+            "lat": "26.783154"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

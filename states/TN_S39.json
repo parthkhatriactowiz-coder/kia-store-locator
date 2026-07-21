@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.pressana-kia-tirupur.com",
+            "dealerName": "Pressana Kia, Tirupur",
+            "address3": "TIRUPPUR, TAMIL NADU-641605",
+            "lng": "77.31171",
+            "address2": "PALLADAM TIRUPPUR MAIN ROAD",
+            "cityCode": "S39",
+            "address1": "SF NO.137/1, KARAIPUDUR",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Tirupur",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN305",
+            "email": "info@pressanakia.in",
+            "lat": "11.03564"
+        },
+        {
+            "website": "https://www.pressana-kia-tirupur.com",
+            "dealerName": "Pressana Kia CPO, Tirupur",
+            "address3": "Tiruppur -641654   ",
+            "lng": "77.29093",
+            "address2": "Tiruppur-Avinashi  Main ",
+            "cityCode": "S39",
+            "address1": "SF no: 474/6",
+            "phone2": "6384441003",
+            "phone1": "6384441003 ",
+            "cityName": "Tirupur",
+            "stateName": "Tamil Nadu",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "TN",
+            "id": "TN305",
+            "email": "cpomanager@pressanakia.in ",
+            "lat": "11.17698"
+        },
+        {
+            "website": "https://www.pressana-kia-tirupur.com",
+            "dealerName": "Pressana Kia, Tirupur",
+            "address3": "TIRUPPUR, TAMIL NADU-641605",
+            "lng": "77.31171",
+            "address2": "PALLADAM TIRUPPUR MAIN ROAD",
+            "cityCode": "S39",
+            "address1": "SF NO.137/1, KARAIPUDUR",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Tirupur",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN305",
+            "email": "info@pressanakia.in",
+            "lat": "11.03564"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

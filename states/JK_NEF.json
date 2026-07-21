@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Pal Kia, Anantnag",
+            "address3": "Jammu and Kashmir - 192124",
+            "lng": "75.12233",
+            "address2": "Village- Uranhall, Anantnag,",
+            "cityCode": "NEF",
+            "address1": "Khasra no. - 161,",
+            "phone2": "9810269827",
+            "phone1": "9103997300",
+            "cityName": "Anantnag",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JK",
+            "id": "JK601",
+            "email": "mushtaq.wani@palkia.in",
+            "lat": "33.765766"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

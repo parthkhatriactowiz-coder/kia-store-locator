@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.nivan-balaji-kia-ayodhya.com",
+            "dealerName": "Balaji Kia, Faizabad",
+            "address3": "Faizabad, Ayodhya, UP -224001",
+            "lng": "82.10397063504071",
+            "address2": " Near RKBK Petrol Pump,",
+            "cityCode": "N92",
+            "address1": "K No 189, 187/1003, Faizabad-Lucknow Byp",
+            "phone2": "9119803443",
+            "phone1": "9119803443",
+            "cityName": "Faizabad",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP318",
+            "email": "gmsalesfzd@balajikia.in",
+            "lat": "26.76932813"
+        },
+        {
+            "website": "https://www.nivan-balaji-kia-ayodhya.com",
+            "dealerName": "Balaji Kia, Faizabad",
+            "address3": "Faizabad, Ayodhya, UP -224001",
+            "lng": "82.102911",
+            "address2": "Bypass, Near RKBK Petrol Pump,",
+            "cityCode": "N92",
+            "address1": "K No 189, 187/1003, Faizabad-Lucknow",
+            "phone2": "9511115189",
+            "phone1": "9511115189",
+            "cityName": "Faizabad",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP318",
+            "email": "navneetpandey82@gmail.com",
+            "lat": "26.767624"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.skydac-kia-manna-purva.com",
+            "dealerName": "Skydac Kia, Hardoi",
+            "address3": "Hardoi, Uttar Pradesh -241001",
+            "lng": "80.145465",
+            "address2": "Bahloli, Behta Chand,",
+            "cityCode": "NBV",
+            "address1": "Manna Purva,  Lucknow-Hardoi Road,",
+            "phone2": "8188065851",
+            "phone1": "8188065851",
+            "cityName": "Hardoi",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP319",
+            "email": "sales.hardoi@skydac.in",
+            "lat": "27.374239"
+        },
+        {
+            "website": "https://www.skydac-kia-manna-purva.com",
+            "dealerName": "Skydac Kia, Hardoi",
+            "address3": "Hardoi, Uttar Pradesh -241001",
+            "lng": "80.14525",
+            "address2": "Bahloli, Behta Chand,",
+            "cityCode": "NBV",
+            "address1": "Manna Purva,  Lucknow-Hardoi Road,",
+            "phone2": "8189054922",
+            "phone1": "8189054922",
+            "cityName": "Hardoi",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP319",
+            "email": "servicemanager.hdi@skydac.in",
+            "lat": "27.37396"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

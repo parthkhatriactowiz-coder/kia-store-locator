@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.dkh-motors-kannur-kia.com",
+            "dealerName": "DKH Kia, Kannur",
+            "address3": "KANNUR, KERALA, 670007",
+            "lng": "75.4180034",
+            "address2": "THOTTADA, KANNUR, ",
+            "cityCode": "S75",
+            "address1": "DKH MOTORS LLP, 5/127, ",
+            "phone2": "999999999",
+            "phone1": "9207624000",
+            "cityName": "Kannur",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL306",
+            "email": "info@dkhkia.com",
+            "lat": "11.8490608"
+        },
+        {
+            "website": "https://www.dkh-motors-kannur-kia.com",
+            "dealerName": "DKH Kia, Kannur CPO",
+            "address3": "Kannur. 670007",
+            "lng": "75.4180034",
+            "address2": "Thottada",
+            "cityCode": "S75",
+            "address1": "Near Junior Technical High School",
+            "phone2": "999999999",
+            "phone1": "9656032000",
+            "cityName": "Kannur",
+            "stateName": "Kerala",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "KL",
+            "id": "KL306",
+            "email": "cpo.knr@dkhkia.com",
+            "lat": "11.8490608"
+        },
+        {
+            "website": "https://www.dkh-motors-kannur-kia.com",
+            "dealerName": "DKH Kia, Kannur",
+            "address3": "KANNUR, KERALA, 670007",
+            "lng": "75.4180034",
+            "address2": "THOTTADA, KANNUR, ",
+            "cityCode": "S75",
+            "address1": "DKH MOTORS LLP, 5/127, ",
+            "phone2": "999999999",
+            "phone1": "8111994405",
+            "cityName": "Kannur",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL306",
+            "email": "servicemanagerkannur@dkhkia.com",
+            "lat": "11.8490608"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

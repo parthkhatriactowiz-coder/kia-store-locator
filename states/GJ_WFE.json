@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Parin Kia, Nr. Vniyak Hotel",
+            "address3": "Devbhumi Dwarka, Gujarat-361305",
+            "lng": "69.68160",
+            "address2": "Highway, Brijalgram, Khambhalia,",
+            "cityCode": "WFE",
+            "address1": "P No.1, S No.499, Jamnagar-Khambhalia",
+            "phone2": "9033055655",
+            "phone1": "9033055655",
+            "cityName": "Khambhalia",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ602",
+            "email": "khambhaliya.sales@parinmotors.com",
+            "lat": "22.24415"
+        },
+        {
+            "dealerName": "Parin Kia, Nr. Vniyak Hotel",
+            "address3": "Devbhumi Dwarka, Gujarat-361305",
+            "lng": "69.68160",
+            "address2": "Highway, Brijalgram, Khambhalia,",
+            "cityCode": "WFE",
+            "address1": "P No.1, S No.499, Jamnagar-Khambhalia",
+            "phone2": "9033055644",
+            "phone1": "9033055644",
+            "cityName": "Khambhalia",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ602",
+            "email": "gmservice.kia@parinmotors.com",
+            "lat": "22.24415"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

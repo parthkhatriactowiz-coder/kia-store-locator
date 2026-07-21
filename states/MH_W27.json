@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.pipada-kia-manmad-highway.com",
+            "dealerName": "Pipada Kia, Manmad Highway",
+            "address3": "Manmad Highway",
+            "lng": "74.748000",
+            "address2": "Manmad Highway, Dudh Dairy Chowk",
+            "cityCode": "W27",
+            "address1": "Beside Age Petrol Pump,  MIDC Office",
+            "phone2": "7507611111",
+            "phone1": "7507611111",
+            "cityName": "Ahmednagar",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH308",
+            "email": "sm@pipadakia.in",
+            "lat": "19.094800"
+        },
+        {
+            "website": "https://www.pipada-kia-manmad-highway.com",
+            "dealerName": "Pipada Kia, Manmad Highway",
+            "address3": "Manmad Highway",
+            "lng": "74.748000",
+            "address2": "Manmad Highway, Dudh Dairy Chowk",
+            "cityCode": "W27",
+            "address1": "Beside Age Petrol Pump,  MIDC Office",
+            "phone2": "7507611111",
+            "phone1": "7507611111",
+            "cityName": "Ahmednagar",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH308",
+            "lat": "19.094800"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.akshay-kia-midc-area.com",
+            "dealerName": "AKSHAY KIA, MIDC Area",
+            "address3": "Jalgaon, Maharashtra - 425003",
+            "lng": "75.593097",
+            "address2": "MIDC Area, Ajanta road",
+            "cityCode": "W28",
+            "address1": "Plot No. H-2/1,",
+            "phone2": "9372788111",
+            "phone1": "9372788111",
+            "cityName": "Jalgaon",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH305",
+            "email": "info@akshaykia.com",
+            "lat": "20.980087"
+        },
+        {
+            "website": "https://www.akshay-kia-midc-area.com",
+            "dealerName": "AKSHAY KIA, MIDC Area",
+            "address3": "Jalgaon, Maharashtra - 425003",
+            "lng": "75.593097",
+            "address2": "MIDC Area, Ajanta road",
+            "cityCode": "W28",
+            "address1": "Plot No. H-2/1,",
+            "phone2": "9325744888",
+            "phone1": "9325744888",
+            "cityName": "Jalgaon",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH305",
+            "lat": "20.980087"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

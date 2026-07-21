@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.smart-city-kia-niyazpur.com",
+            "dealerName": "Smart Kia, Shahjahanpur",
+            "address3": "Shahjahanpur, UP -242001",
+            "lng": "79.94166667",
+            "address2": "Gata No. 687, NH 24, Near Mandi Parishad, ",
+            "cityCode": "NBK",
+            "address1": "Vill. Ahmadpur,Niyazpur,",
+            "phone2": "9412287602",
+            "phone1": "9412287602",
+            "cityName": "Sahajanpur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP509",
+            "email": "anmolagarwal76@Gmail.Com",
+            "lat": "27.85361111"
+        },
+        {
+            "website": "https://www.smart-city-kia-niyazpur.com",
+            "dealerName": "Smart Kia, Shahjahanpur",
+            "address3": "Shahjahanpur, UP -242001",
+            "lng": "79.94166667",
+            "address2": "Gata No.687, NH 24, Near Mandi Parishad, ",
+            "cityCode": "NBK",
+            "address1": "Vill. Ahmadpur,Niyazpur,",
+            "phone2": "9412287602",
+            "phone1": "9412287602",
+            "cityName": "Sahajanpur",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP509",
+            "email": "anmolagarwal76@Gmail.Com",
+            "lat": "27.85361111"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

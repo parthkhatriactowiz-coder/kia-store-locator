@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.incheon-kia-muvattupuzha.com",
+            "dealerName": "Incheon Kia, Muvattupuzha",
+            "address3": "Kunnackal, Muvattupuzha, Kerala-682316",
+            "lng": "76.5287757",
+            "address2": "Opp Sree Ayyappa Mechanical & Electrical Engineering Ind.",
+            "cityCode": "S77",
+            "address1": "Sy.No.202/1-2-2,",
+            "phone2": "8111879117",
+            "phone1": "8111879111",
+            "cityName": "Muvattupuzha",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL313",
+            "email": "enquiry@incheonkia.com",
+            "lat": "9.9767663"
+        },
+        {
+            "website": "https://www.incheon-kia-muvattupuzha.com",
+            "dealerName": "Incheon Kia, Muvattupuzha",
+            "address3": "Kunnackal, Muvattupuzha, Kerala-682316",
+            "lng": "76.314348",
+            "address2": "Opp Sree Ayyappa Mechanical & Electrical Engineering Ind.",
+            "cityCode": "S77",
+            "address1": "Sy.No.202/1-2-2,",
+            "phone2": "9037118396",
+            "phone1": "9037118396",
+            "cityName": "Muvattupuzha",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL313",
+            "email": "servicemanager.muvattupuzha@inceonkia.com",
+            "lat": "9.583627"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

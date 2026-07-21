@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.seth-kia-chhatarpur-nawgongroad.com",
+            "dealerName": "Seth Kia, Chhatarpur",
+            "address3": "Madhya Pradesh -471001",
+            "lng": "79.581",
+            "address2": "Jawahar Marg, Chhatarpur,",
+            "cityCode": "WFG",
+            "address1": "Plot No 108/1, Ward No 1,",
+            "phone2": "9752534889",
+            "phone1": "9201971717",
+            "cityName": "Chhatarpur",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP509",
+            "email": "sales.chh@sethkia.in",
+            "lat": "24.924"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

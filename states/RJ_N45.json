@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.aravali-kia-keshav-nagar.com",
+            "dealerName": "Aravali Kia, Keshav Nagar",
+            "address3": "Jai Marg",
+            "lng": "76.619523 ",
+            "address2": "Near Overbridge",
+            "cityCode": "N45",
+            "address1": "Plot No. 4 Keshav Nagar",
+            "phone2": "7406346600",
+            "phone1": "7406346600",
+            "cityName": "Alwar",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ406",
+            "email": "sm@aravalikia.in",
+            "lat": "27.569829"
+        },
+        {
+            "website": "https://www.aravali-kia-keshav-nagar.com",
+            "dealerName": "Aravali Kia, Keshav Nagar",
+            "address3": "Samola Chohraha, Alwar-301001",
+            "lng": "76.626854",
+            "address2": "Old industrial Area",
+            "cityCode": "N45",
+            "address1": "Main Itarana Road, Near Vijay Solvex",
+            "phone2": "8306355533",
+            "phone1": "7668632668",
+            "cityName": "Alwar",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ406",
+            "email": "gmservice@aravalikia.in",
+            "lat": "27.540310"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

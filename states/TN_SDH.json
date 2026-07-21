@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.aras-kia-marthandam.com",
+            "dealerName": "ARAS Kia, Marthandam",
+            "address3": "Kuzhithurai, Marthandam -629163",
+            "lng": "77.199630",
+            "address2": "Trivandrum-Nagercoil Highway,",
+            "cityCode": "SDH",
+            "address1": "T.S.No.A3/46,A3/48(Part),",
+            "phone2": "9952211318",
+            "phone1": "9952211318",
+            "cityName": "Marthandam",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN511",
+            "email": "asm.mrtdm@aras-kia.in",
+            "lat": "8.317939"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

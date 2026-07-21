@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.elgen-kia-dumarjore.com",
+            "dealerName": "Elgen KIA, Bokaro",
+            "address3": "Jharkhand - 827013",
+            "lng": "86.199738",
+            "address2": "Chas-28, Paragona, Khaspel, Bokaro",
+            "cityCode": "E64",
+            "address1": "Plot no. 927, Mouza- Dumarjore,",
+            "phone2": "9234111050",
+            "phone1": "9234111050",
+            "cityName": "Bokaro",
+            "stateName": "Jharkhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JH",
+            "id": "JH304",
+            "email": "sales@elgenkia.com",
+            "lat": "23.656868"
+        },
+        {
+            "website": "https://www.elgen-kia-dumarjore.com",
+            "dealerName": "Elgen KIA, Bokaro",
+            "address3": "Bokaro, Jharkhand - 827013",
+            "lng": "86.200185",
+            "address2": "Chas-28, Paragona, Khaspel,",
+            "cityCode": "E64",
+            "address1": "Plot no. 927, Mouza- Dumarjore,",
+            "phone2": "9263855020",
+            "phone1": "9263855020",
+            "cityName": "Bokaro",
+            "stateName": "Jharkhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JH",
+            "id": "JH304",
+            "email": "gmservice@elgenkia.com",
+            "lat": "23.656659"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

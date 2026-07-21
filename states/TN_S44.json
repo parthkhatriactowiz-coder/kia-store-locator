@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.presanna-kia-veerapampalayam.com",
+            "dealerName": "Pressana Kia, Veerappanpalayam",
+            "address3": "THINDAL PO, ERODE -638012",
+            "lng": "77.6917",
+            "address2": "VEERAPAMPALAYAM",
+            "cityCode": "S44",
+            "address1": "NO.1, CHINNAKADU THOTTAM",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Erode",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN304",
+            "email": "info@pressanakia.in",
+            "lat": "11.3273"
+        },
+        {
+            "website": "https://www.presanna-kia-veerapampalayam.com",
+            "dealerName": "Pressana Kia CPO , Erode",
+            "address3": "Tamil Nadu -638012",
+            "lng": "77.6917",
+            "address2": "Veerapampalayam, Thindal Po, Erode",
+            "cityCode": "S44",
+            "address1": "No.1, Chinnakadu Thottam",
+            "phone2": "6384444019",
+            "phone1": "6384444019",
+            "cityName": "Erode",
+            "stateName": "Tamil Nadu",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "TN",
+            "id": "TN304",
+            "email": "cpomanager@pressanakia.in",
+            "lat": "11.3273"
+        },
+        {
+            "website": "https://www.presanna-kia-veerapampalayam.com",
+            "dealerName": "Pressana Kia, Veerappanpalayam",
+            "address3": "THINDAL PO, ERODE-638012",
+            "lng": "77.6917",
+            "address2": "VEERAPAMPALAYAM",
+            "cityCode": "S44",
+            "address1": "NO.1, CHINNAKADU THOTTAM",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Erode",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN304",
+            "email": "info@pressanakia.in",
+            "lat": "11.3273"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

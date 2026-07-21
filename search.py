@@ -1,21 +1,29 @@
-import os
+import json
 import requests
 from pathlib import Path
 
 
-def do_search(domain_api_url, state, headers):
+def do_search(domain_api_url, payload, headers):
 
-    url = f"{domain_api_url}{state}"
+    state_code = payload.get("state", "unknown")
+    city_code = payload.get("city", "unknown")
 
-    os.makedirs("states", exist_ok=True)
+    folder_path = Path("states")
+    folder_path.mkdir(exist_ok=True)
 
-    filename = os.path.basename(state) + ".html"
-    file_path = Path("states") / filename
+    file_path = folder_path / f"{state_code}_{city_code}.json"
 
-    response = requests.get(url, headers=headers)
+    response = requests.post(
+        domain_api_url,
+        headers=headers,
+        data=payload,
+    )
+
     response.raise_for_status()
 
-    file_path.write_text(response.text, encoding="utf-8")
+    data = response.json()
 
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
 
-    return file_path
+    return data["data"]

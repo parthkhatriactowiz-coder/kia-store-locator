@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Parin Kia, Jasdan",
+            "address3": "Gujarat - 360050",
+            "lng": "71.191794",
+            "address2": "Jasdan, Dist Rajkot,",
+            "cityCode": "WEW",
+            "address1": "Opp GIDC,",
+            "phone2": "9906699066",
+            "phone1": "9033055655",
+            "cityName": "Jasdan",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ601",
+            "email": "parin@parinfurniture.com",
+            "lat": "22.029092"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

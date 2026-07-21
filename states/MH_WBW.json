@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.ajinkya-autowheels-barsi-road-kia.com",
+            "dealerName": "Ajinkya Kia, Barsi road",
+            "address3": "Latur 413512",
+            "lng": "76.5268884",
+            "address2": "Barsi Road",
+            "cityCode": "WBW",
+            "address1": "103, Beside Pramod Petrol Pump",
+            "phone2": "999999999",
+            "phone1": "9142121111",
+            "cityName": "Latur",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH302",
+            "email": "ajinkyaautowheels@gmail.com",
+            "lat": "18.4089879"
+        },
+        {
+            "website": "https://www.ajinkya-autowheels-barsi-road-kia.com",
+            "dealerName": "Ajinkya Kia, Barsi road",
+            "lng": "76.5268884",
+            "address2": "Barsi Road, Latur-413512",
+            "cityCode": "WBW",
+            "address1": "103, Beside Pramod Petrol Pump",
+            "phone2": "9142121111",
+            "phone1": "9142121111",
+            "cityName": "Latur",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH302",
+            "email": "smservicelatur@ajinkyakia.in",
+            "lat": "18.4089879"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

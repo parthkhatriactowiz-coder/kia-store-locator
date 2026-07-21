@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "website": "https://www.ib-kia-mehsana.com",
+            "dealerName": "IB Kia, Mehsana",
+            "address3": ", Nr Bypass Circle, Mahesana, GJ- 384001",
+            "lng": "72.37772",
+            "address2": ", Shobhasan, Ahmedabad-Mahesana Highway",
+            "cityCode": "W35",
+            "address1": "SR No 1, S No 210.001, Sukhpurda, S No 3",
+            "phone2": "9328933755",
+            "phone1": "7227979457",
+            "cityName": "Mehsana",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ325",
+            "email": "gm-mehsana@ibkia.in",
+            "lat": "23.54881"
+        },
+        {
+            "dealerName": "IB Kia CPO, Mehsana",
+            "address3": ", Gujarat - 384001",
+            "lng": "72.3677",
+            "address2": "Opp. Wide Angle, Nagalpur, Mehsana ",
+            "cityCode": "W35",
+            "address1": " Near Asopalav Party Plot",
+            "phone2": "9328933771",
+            "phone1": "9328933771",
+            "cityName": "Mehsana",
+            "stateName": "Gujarat",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "GJ",
+            "id": "GJ325",
+            "email": "cpo-mehsana@ibkia.in",
+            "lat": "23.5797"
+        },
+        {
+            "dealerName": "IB Kia, Mehsana",
+            "address3": ", Nr Bypass Circle, Mahesana, GJ- 384001",
+            "lng": "72.37772",
+            "address2": ", Shobhasan, Ahmedabad-Mahesana Highway",
+            "cityCode": "W35",
+            "address1": "SR No 1, S No 210.001, Sukhpurda, S No 3",
+            "phone2": "9328933760",
+            "phone1": "9328933755",
+            "cityName": "Mehsana",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ325",
+            "email": "sm-mehsana@ibkia.in",
+            "lat": "23.54881"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

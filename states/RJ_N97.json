@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.rajesh-motors-kia-bharatpur.com",
+            "dealerName": "Rajesh Kia, Bharatpur",
+            "address3": "Bharatpur, Rajasthan -321001",
+            "lng": "27.205653",
+            "address2": "Anah, Sewar Road,",
+            "cityCode": "N97",
+            "address1": "Plot -7, Opp Chamunda Devi Temple,",
+            "phone2": "9414064864",
+            "phone1": "9257099908",
+            "cityName": "Bharatpur",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ505",
+            "email": "siddharth@rajeshmotors.com",
+            "lat": "77.470336"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

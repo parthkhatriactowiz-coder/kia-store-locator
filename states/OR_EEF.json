@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.sanjib-kia-jajpur.com",
+            "dealerName": "Sanjib Kia, Panikoili",
+            "address3": ", Byasanagar, Jajpur, Odisha -755019",
+            "lng": "86.210733",
+            "address2": "16, Thana No. 195, Mouza Mohammad Jamalpur",
+            "cityCode": "EEF",
+            "address1": "P No. 1082/1775, P No. 1079/1772, K No.",
+            "phone2": "9439320001",
+            "phone1": "9439320001",
+            "cityName": "Panikoili",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD308",
+            "email": "sm.sales@sanjibkia.com",
+            "lat": "20.920608"
+        },
+        {
+            "dealerName": "Sanjib Kia, Panikoili",
+            "address3": ", Byasanagar, Jajpur, Odisha -755019",
+            "lng": "86.21069",
+            "address2": "16, Thana No. 195, Mouza Mohammad Jamalpur",
+            "cityCode": "EEF",
+            "address1": "P No. 1082/1775, P No. 1079/1772, K No.",
+            "phone2": "9124661073",
+            "phone1": "9124661073",
+            "cityName": "Panikoili",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD308",
+            "email": "service@sanjibkia.com",
+            "lat": "20.92063"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

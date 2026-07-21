@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.dkh-kia-panangangara.com",
+            "dealerName": "DKH KIA, Panangangara",
+            "address3": "Malappuram,Kerala,679321",
+            "lng": "76.161028",
+            "address2": "RAMAPURAM, MALAPPURAM,",
+            "cityCode": "S79",
+            "address1": "4/312A, DKHMOTORS, ",
+            "phone2": "9947445566",
+            "phone1": "9947445566",
+            "cityName": "Malappuram",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL307",
+            "email": "sales@dkhkia.com",
+            "lat": "10.993250"
+        },
+        {
+            "website": "https://www.dkh-kia-panangangara.com",
+            "dealerName": "DKH Kia, Mallapuram",
+            "address3": "Kerala - 679321",
+            "lng": "76.161028",
+            "address2": "Perinthalmanna, Malapuram",
+            "cityCode": "S79",
+            "address1": "NH 966, Panangangara",
+            "phone2": "9947445566",
+            "phone1": "9947445566",
+            "cityName": "Malappuram",
+            "stateName": "Kerala",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "KL",
+            "id": "KL307",
+            "email": "gmservice@dkhkia.com",
+            "lat": "10.993250"
+        },
+        {
+            "website": "https://www.dkh-kia-panangangara.com",
+            "dealerName": "DKH KIA, Panangangara",
+            "address3": "Malappuram,Kerala,679321 ",
+            "lng": "76.161028",
+            "address2": "RAMAPURAM, MALAPPURAM,",
+            "cityCode": "S79",
+            "address1": "4/312A, DKHMOTORS, ",
+            "phone2": "9947445566",
+            "phone1": "9947445566",
+            "cityName": "Malappuram",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL307",
+            "email": "gmservice@dkhkia.com",
+            "lat": "10.993250"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

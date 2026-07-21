@@ -37,7 +37,6 @@ def get_state_urls(url, headers):
                 {"state": state_name, "city": city_name, "url": dealer_url}
             )
 
-            print(dealer_url)
 
     with open("dealer_urls.json", "w", encoding="utf-8") as f:
         json.dump(dealer_urls, f, indent=4, ensure_ascii=False)

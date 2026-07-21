@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.jansi-kia-vidyanagar.com",
+            "dealerName": "Jansi Kia, Vidyanagar",
+            "address3": "By-Pass Road",
+            "lng": "75.587779",
+            "address2": "Nanjappa Layout",
+            "cityCode": "S84",
+            "address1": "# 1, Urgadur Extesion,",
+            "phone2": "8884854444",
+            "phone1": "8884854444",
+            "cityName": "Shimoga",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA308",
+            "email": "sales@jansikia.com",
+            "lat": "13.913811"
+        },
+        {
+            "website": "https://www.jansi-kia-vidyanagar.com",
+            "dealerName": "Jansi Kia, Vidyanagar",
+            "address3": "By-Pass Road",
+            "lng": "75.587779",
+            "address2": "Nanjappa Layout",
+            "cityCode": "S84",
+            "address1": "# 1, Urgadur Extesion,",
+            "phone2": "8884854444",
+            "phone1": "8884854444",
+            "cityName": "Shimoga",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA308",
+            "email": "service@jansikia.in",
+            "lat": "13.913811"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

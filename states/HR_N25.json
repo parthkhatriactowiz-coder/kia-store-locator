@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.mohan-kia-jagadhri.com",
+            "dealerName": "Mohan Kia, Yamunanangar",
+            "address3": "Yamunanagar, Haryana -135003",
+            "lng": "77.310686",
+            "address2": "Near Agrasen Chowk, Jagadhri,",
+            "cityCode": "N25",
+            "address1": "K No 430/33, Court Road,",
+            "phone2": "9817707100",
+            "phone1": "9817707100",
+            "cityName": "Yamunanagar",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR408",
+            "email": "ynr@mohankia.in",
+            "lat": "30.156273"
+        },
+        {
+            "website": "https://www.mohan-kia-jagadhri.com",
+            "dealerName": "Mohan Kia, Yamunanangar",
+            "address3": "Yamunanagar, Haryana -135003",
+            "lng": "77.306873",
+            "address2": "Puran Vihar, Jagadhri,",
+            "cityCode": "N25",
+            "address1": "Plot No.33A-33B, Khasra No.102,",
+            "phone2": "9817707100",
+            "phone1": "7015991253",
+            "cityName": "Yamunanagar",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR408",
+            "email": "ynr@mohankia.in",
+            "lat": "30.15609"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

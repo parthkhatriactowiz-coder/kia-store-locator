@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.aaryaman-auto-kia-kurukshetra.com",
+            "dealerName": "Aaryaman Kia, Kurukshetra",
+            "address3": "Kurukshetra, Haryana- 136131",
+            "lng": "76.92291741",
+            "address2": " Khewat No.102, State Highway 06,",
+            "cityCode": "N77",
+            "address1": "Killa / Khasra No.9,",
+            "phone2": "7027333361",
+            "phone1": "7027333361",
+            "cityName": "Kurukshetra",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR507",
+            "email": "sales.kkr@aaryamankia.in",
+            "lat": "29.98094369"
+        },
+        {
+            "website": "https://www.aaryaman-auto-kia-kurukshetra.com",
+            "dealerName": "Aaryaman Kia, Kurukshetra",
+            "address3": "Kurukshetra, Haryana- 136131",
+            "lng": "76.92287",
+            "address2": " Khewat No.102, State Highway 06,",
+            "cityCode": "N77",
+            "address1": "Killa / Khasra No.9,",
+            "phone2": "9053622555",
+            "phone1": "9053622555",
+            "cityName": "Kurukshetra",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR507",
+            "email": "service.kkr@aaryamankia.in",
+            "lat": "29.98442"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

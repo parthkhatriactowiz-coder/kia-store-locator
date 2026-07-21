@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.iconic-kia-bijnor.com",
+            "dealerName": "Iconic Kia, Bijnor",
+            "address3": "Uttar Pradesh-246701",
+            "lng": "78.14229",
+            "address2": "Bijnor Moradabad Road, Bijnor",
+            "cityCode": "NDF",
+            "address1": "Ladapura Code No1593, Opp SBI Branch,",
+            "phone2": "9927944455",
+            "phone1": "7252888111",
+            "cityName": "Bijnor",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP508",
+            "email": "gm.sales@kiameerut.com",
+            "lat": "29.36544"
+        },
+        {
+            "website": "https://www.iconic-kia-bijnor.com",
+            "dealerName": "Iconic Kia, Bijnor",
+            "address3": "Bijnor, UP -246701",
+            "lng": "29.356122",
+            "address2": "Adjacent BPCL Petrol Pump, Bijnor Moradabad Road,",
+            "cityCode": "NDF",
+            "address1": "K No. 39 & 66, Opp AN International Scho",
+            "phone2": "9927944455",
+            "phone1": "7252888222",
+            "cityName": "Bijnor",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP508",
+            "email": "j.abhi07@gmail.com",
+            "lat": "78.15372"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

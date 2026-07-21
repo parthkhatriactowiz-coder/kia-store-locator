@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.yashoda-kia-kapurthala.com",
+            "dealerName": "Yashodha Kia, Kapurthala",
+            "address3": "Punjab- 144601",
+            "lng": "75.366762",
+            "address2": "Sultanpur Road, Kapurthala,",
+            "cityCode": "NEY",
+            "address1": "Near Kapurthala Haveli,",
+            "phone2": "8751900002",
+            "phone1": "8751900002",
+            "cityName": "KAPURTHALA",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB508",
+            "email": "gmsalespta@yashodha-kia.in",
+            "lat": "31.358659"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

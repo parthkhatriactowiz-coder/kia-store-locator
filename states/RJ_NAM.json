@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Maharia Kia, Churu",
+            "address3": "Churu, Rajasthan -331001",
+            "lng": "28.2909298",
+            "address2": "Near Apno Fuel Station, Rajgarh Road,",
+            "cityCode": "NAM",
+            "address1": "Khasra No. 3052/2654,",
+            "phone2": "8107710001",
+            "phone1": "7300003120",
+            "cityName": "Churu",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ511",
+            "email": "gm.sales@mahariakia.co.in",
+            "lat": "74.9979557"
+        },
+        {
+            "dealerName": "Maharia Kia, Churu",
+            "address3": "Churu, Rajasthan -331001",
+            "lng": "74.99405889",
+            "address2": "Near Apno Fuel Station, Rajgarh Road,",
+            "cityCode": "NAM",
+            "address1": "Khasra No. 3052/2654,",
+            "phone2": "7300003119",
+            "phone1": "9251875942",
+            "cityName": "Churu",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ511",
+            "email": "gm.service@mahariakia.co.in",
+            "lat": "28.29482205"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

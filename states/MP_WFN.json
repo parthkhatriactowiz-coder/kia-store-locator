@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.baderiya-kia-singrauli.com",
+            "dealerName": "Baderiya Kia, Singrauli (Waidhan)",
+            "address3": "Madhya Pradesh - 486886",
+            "lng": "82.585260",
+            "address2": "Cinemas, Dist - Singrauli (Waidhan)",
+            "cityCode": "WFN",
+            "address1": "Khasra No 1045, Majan Mod, Near Carnival",
+            "phone2": "0731-4626702",
+            "phone1": "7247770707",
+            "cityName": "Singrauli",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP510",
+            "email": "saleswaidhan@baderiyakia.in",
+            "lat": "24.075303"
+        },
+        {
+            "website": "https://www.baderiya-kia-singrauli.com",
+            "dealerName": "Baderiya Kia, Singrauli (Waidhan)",
+            "address3": "Madhya Pradesh - 486886",
+            "lng": "82.585260",
+            "address2": "Cinemas, Dist - Singrauli (Waidhan)",
+            "cityCode": "WFN",
+            "address1": "Khasra No 1045, Majan Mod, Near Carnival",
+            "phone2": "7247770704",
+            "phone1": "7247770708",
+            "cityName": "Singrauli",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP510",
+            "email": "servicewaidhan@baderiyakia.in",
+            "lat": "24.075303"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

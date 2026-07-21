@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.morvi-kia-jaipur-road.com",
+            "dealerName": "Morvi Kia, Jaipur Road",
+            "address3": " Bikaner, Rajasthan-334001",
+            "lng": "73.37282890707323",
+            "address2": "Plot No.-08A, 08B, Amar Colony,",
+            "cityCode": "N44",
+            "address1": "Jaipur Road,",
+            "phone2": "8094936666",
+            "phone1": "7230036326",
+            "cityName": "Bikaner",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ102",
+            "email": "sales1s@morvikia.in",
+            "lat": "28.020967885811242 "
+        },
+        {
+            "website": "https://www.morvi-kia-gangashahar-road.com",
+            "dealerName": "Morvi Kia, Gangashahar Road",
+            "address3": "Gangashahar",
+            "lng": "73.30753207",
+            "address2": "Gangashahar Road,",
+            "cityCode": "N44",
+            "address1": "Opposite Rail Dada Bari",
+            "phone2": "8094936666",
+            "phone1": "8094936666",
+            "cityName": "Bikaner",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ302",
+            "email": "sales@morvikia.in",
+            "lat": "27.99692986"
+        },
+        {
+            "website": "https://www.morvi-kia-gangashahar-road.com",
+            "dealerName": "Morvi Kia, Gangashahar Road",
+            "address3": "Gangashahar",
+            "lng": "73.30753207",
+            "address2": "Gangashahar Road,",
+            "cityCode": "N44",
+            "address1": "Opposite Rail Dada Bari",
+            "phone2": "8094936666",
+            "phone1": "8094936666",
+            "cityName": "Bikaner",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ302",
+            "email": "service@morvikia.in",
+            "lat": "27.99692986"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

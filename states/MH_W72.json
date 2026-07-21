@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.dhone-wheels-baramati-kia.com",
+            "dealerName": "Dhone Kia, Baramati",
+            "address3": "Baramati, Maharastra - 413102",
+            "lng": "74.561921",
+            "address2": "Baramati Moregaon Road,Khandoba Nagar,",
+            "cityCode": "W72",
+            "address1": "Sr.No.210/1/A/1,",
+            "phone2": "02112-223434",
+            "phone1": "9307300400",
+            "cityName": "Baramati",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH311",
+            "email": "sales.baramati@dhonekia.com",
+            "lat": "18.156542"
+        },
+        {
+            "website": "https://www.dhone-wheels-baramati-kia.com",
+            "dealerName": "Dhone Kia, Baramati",
+            "address3": "Baramati, Maharastra - 413102",
+            "lng": "74.56192",
+            "address2": "Baramati Moregaon Road,Khandoba Nagar,",
+            "cityCode": "W72",
+            "address1": "Sr.No.210/1/A/1,",
+            "phone2": "02112-223434",
+            "phone1": "02112-223434",
+            "cityName": "Baramati",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH311",
+            "email": "gmsales@dhonekia.com",
+            "lat": "18.15634"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

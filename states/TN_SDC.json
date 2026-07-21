@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.asj-cars-kia-kudikkadu.com",
+            "dealerName": "ASJ Kia, Cuddalore",
+            "address3": "Cuddalore, Tamil Nadu-607005",
+            "lng": "11.684971",
+            "address2": "Chidambaram Main Road, Kudikkadu,",
+            "cityCode": "SDC",
+            "address1": "No.1389, Mettu Street,",
+            "phone2": "6384445015",
+            "phone1": "6384445015",
+            "cityName": "Cuddalore",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN107",
+            "email": "sm.cud@asjcarskia.com",
+            "lat": "79.751863"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

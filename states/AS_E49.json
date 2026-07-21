@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.goyal-kia-jorhat.com",
+            "dealerName": "Goyal Kia, Jorhat",
+            "address3": "Pulibor Jorhat,Assam-785006",
+            "lng": "94.174182",
+            "address2": "Dag No. 1199, Patta No. 24,A.T. Road,",
+            "cityCode": "E49",
+            "address1": "Bhatemara Gaon,  Near Deka Gaon,",
+            "phone2": "08047092297",
+            "phone1": "08047092297",
+            "cityName": "Jorhat",
+            "stateName": "Assam",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AS",
+            "id": "AS403",
+            "email": "sales@goyalkia.com",
+            "lat": "26.748831"
+        },
+        {
+            "website": "https://www.goyal-kia-jorhat.com",
+            "dealerName": "Goyal Kia, Jorhat",
+            "address3": "Pulibor Jorhat,Assam-785006",
+            "lng": "94.163954",
+            "address2": "Dag No. 2041, 2042, Patta No. - 978, Dag No.1717,",
+            "cityCode": "E49",
+            "address1": " Patta No. 776, A.T Road, Hezari Gaon,",
+            "phone2": "08047092297",
+            "phone1": "08047092297",
+            "cityName": "Jorhat",
+            "stateName": "Assam",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AS",
+            "id": "AS403",
+            "email": "gmservice@goyalkia.com",
+            "lat": "26.744483"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

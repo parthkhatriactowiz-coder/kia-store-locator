@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Shivam Kia, Vanana GIDC",
+            "address3": ", Gujarat -360550",
+            "lng": "69.70698",
+            "address2": "Vanana GIDC, Rajkot Highway, Porbandar",
+            "cityCode": "WCH",
+            "address1": "KP Industries, Plot No. 279/2,",
+            "phone2": "7227979451",
+            "phone1": "7227979451",
+            "cityName": "Porbandar",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ603",
+            "lat": "21.662839"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

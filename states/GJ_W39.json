@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "website": "https://www.shivam-kia-hapa.com",
+            "dealerName": "Shivam Kia, HAPA",
+            "address3": " HAPA, Jamnagar",
+            "lng": "70.114473",
+            "address2": "Jamnagar – Rajkot Highway, Opp. Ravi Petrol Pump,",
+            "cityCode": "W39",
+            "address1": "Savan IB Automotive Private Limited,",
+            "phone2": "7228080804",
+            "phone1": "7228080804",
+            "cityName": "Jamnagar",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ307",
+            "email": "ccm@shivamkia.in",
+            "lat": "22.478498"
+        },
+        {
+            "website": "https://shivam-kia-hapa.com",
+            "dealerName": "Shivam Kia, Rajkot Highway",
+            "address3": " Jamnagar-361120",
+            "lng": "70.114945",
+            "address2": "Plot No. 24, HAPA",
+            "cityCode": "W39",
+            "address1": "Jamnagar, Rajkot Highway",
+            "phone2": "9925099977",
+            "phone1": "9925099977",
+            "cityName": "Jamnagar",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ202",
+            "lat": "22.476401"
+        },
+        {
+            "website": "https://www.shivam-kia-hapa.com",
+            "dealerName": "Shivam Kia, HAPA",
+            "address3": "Jamnagar",
+            "lng": "70.114473",
+            "address2": "Opp. Ravi Petrol Pump, HAPA, Jamnagar",
+            "cityCode": "W39",
+            "address1": "Jamnagar–Rajkot Highway,",
+            "phone2": "7228080804",
+            "phone1": "7227979511",
+            "cityName": "Jamnagar",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ307",
+            "email": "service-jamnagar@shivamkia.in",
+            "lat": "22.478498"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

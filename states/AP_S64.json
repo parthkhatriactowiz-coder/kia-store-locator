@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.sankar-kia-ongole.com",
+            "dealerName": "Sankar Kia, Ongole",
+            "address3": " Prakasam, Andhra Pradesh-523001",
+            "lng": "80.051261",
+            "address2": "Revenue Ward No 45, Ongole,",
+            "cityCode": "S64",
+            "address1": "45-127-85, NH 16, Throvagunta,",
+            "phone2": "8886624966",
+            "phone1": "8886624966",
+            "cityName": "Ongole",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP307",
+            "email": "gmsales@sankarraoautomotives.com",
+            "lat": "15.538083"
+        },
+        {
+            "website": "https://www.sankar-rao-automotives-kia-ongole.com",
+            "dealerName": "Sankar Kia, Ongole",
+            "address3": " Prakasam, Andhra Pradesh-523001",
+            "lng": "80.051261",
+            "address2": "Revenue Ward No 45, Ongole,",
+            "cityCode": "S64",
+            "address1": "45-127-85, NH 16, Throvagunta,",
+            "phone2": "8886624950",
+            "phone1": "8886624950",
+            "cityName": "Ongole",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP307",
+            "email": "servicemanager@sankarraoautomotives.com",
+            "lat": "15.538083"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

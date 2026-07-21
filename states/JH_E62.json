@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.juhi-kia-gt-road-barwadda.com",
+            "dealerName": "Juhi Kia, GT road, Barwadda",
+            "address3": "Jharkhand - 826004",
+            "lng": "86.4361",
+            "address2": "Barwadda, Dhanbad,",
+            "cityCode": "E62",
+            "address1": "Plot No. 807 GT Road,",
+            "phone2": "999999999",
+            "phone1": "9297942222",
+            "cityName": "Dhanbad",
+            "stateName": "Jharkhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JH",
+            "id": "JH301",
+            "email": "sales.kia@juhimotor.com",
+            "lat": "23.8495"
+        },
+        {
+            "website": "https://www.juhi-kia-gt-road-barwadda.com",
+            "dealerName": "Juhi Kia, GT road, Barwadda",
+            "address3": "Jharkhand - 826004",
+            "lng": "86.4361",
+            "address2": "Barwadda, Dhanbad,",
+            "cityCode": "E62",
+            "address1": "Plot No. 807 GT Road,",
+            "phone2": "999999999",
+            "phone1": "9297946666",
+            "cityName": "Dhanbad",
+            "stateName": "Jharkhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JH",
+            "id": "JH301",
+            "email": "service.kia@juhimotor.com",
+            "lat": "23.8495"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "website": "https://www.ajinkya-kia-jalna.com",
+            "dealerName": "Ajinkya Kia, Jalna",
+            "address3": "Jalna, Maharashtra-431203",
+            "lng": "75.90179",
+            "address2": "Services, Aurangabad Road, Beside Hotel Merit, ",
+            "cityCode": "WBV",
+            "address1": "P No K1, CTS No 11438, Deepali Multi",
+            "phone2": "7066320000",
+            "phone1": "7066320000",
+            "cityName": "JALNA",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH511",
+            "lat": "19.95099"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

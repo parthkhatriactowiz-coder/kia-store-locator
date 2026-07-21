@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.asj-cars-villupuram-main-road-kia.com",
+            "dealerName": "ASJ Kia, Villupuram main road",
+            "address3": "PUDUCHERRY, 605010",
+            "lng": "79.78252513",
+            "address2": "MOOLAKULAM, ",
+            "cityCode": "S20",
+            "address1": "107/4, VILLIANUR MAIN ROAD, ",
+            "phone2": "999999999",
+            "phone1": "6384447001",
+            "cityName": "Puducherry",
+            "stateName": "Puducherry",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PY",
+            "id": "PY401",
+            "email": "asjcarspondy@gmail.com",
+            "lat": "11.92825969"
+        },
+        {
+            "website": "https://www.asj-cars-villupuram-main-road-kia.com",
+            "dealerName": "ASJ Kia, Villupuram main road",
+            "address3": "Pondicherry",
+            "lng": "79.7795676",
+            "address2": "Manapet, Bahour Commune, Pondicherry",
+            "cityCode": "S20",
+            "address1": "RS No. 151/7A, Pillaiarkuppam & RS No. ",
+            "phone2": "999999999",
+            "phone1": "6384445001",
+            "cityName": "Puducherry",
+            "stateName": "Puducherry",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PY",
+            "id": "PY401",
+            "email": "servicemanager@asjcarskia.com ",
+            "lat": "11.80792908"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

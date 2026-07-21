@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.samradh-kia-jaipur-road.com",
+            "dealerName": "Samradh Kia, Jaipur Road",
+            "address3": "Rajasthan",
+            "lng": "74.637136",
+            "address2": "Ajmer",
+            "cityCode": "N46",
+            "address1": "393/10, Opp Patel Stadium Jaipur Road",
+            "phone2": "8905986914",
+            "phone1": "8905986914",
+            "cityName": "Ajmer",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ402",
+            "email": "sm@samradhkia.in",
+            "lat": "26.467001"
+        },
+        {
+            "website": "https://www.samradh-kia-jaipur-road.com",
+            "dealerName": "Samradh Kia CPO, Ajmer",
+            "address3": "Rajasthan -305001",
+            "lng": "74.777979",
+            "address2": "Ajmer",
+            "cityCode": "N46",
+            "address1": "khasra no 320, Bhoonaboy, JAIPUR ROAD ",
+            "phone2": "9929094317",
+            "phone1": "9929094317",
+            "cityName": "Ajmer",
+            "stateName": "Rajasthan",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "RJ",
+            "id": "RJ402",
+            "email": "sm@samradhkia.in",
+            "lat": "26.4919614"
+        },
+        {
+            "website": "https://www.samradh-kia-jaipur-road.com",
+            "dealerName": "Samradh Kia, Jaipur Road",
+            "address3": "Jaipur Road, Ajmer",
+            "lng": "74.678245",
+            "address2": "Bhoonaboy",
+            "cityCode": "N46",
+            "address1": "Khasra No. 319/320",
+            "phone2": "9799494131",
+            "phone1": "9929094316",
+            "cityName": "Ajmer",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ402",
+            "email": "sh@samradhkia.in",
+            "lat": "26.492226"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

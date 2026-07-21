@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dealerName": "Infinity Kia, Sonai Road",
+            "address3": "Silchar, Assam-788006",
+            "lng": "92.805800",
+            "address2": ", Patta No.19 & 45, Dag No.140 & 142,",
+            "cityCode": "E50",
+            "address1": "Sonai Road, Nr Truck Drivers Association",
+            "phone2": "7948220643",
+            "phone1": "7948220643",
+            "cityName": "Silchar",
+            "stateName": "Assam",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AS",
+            "id": "AS303",
+            "lat": "24.795900"
+        },
+        {
+            "dealerName": "Infinity Kia, Sonai Road",
+            "address3": "Silchar, Assam-788006",
+            "lng": "92.805768",
+            "address2": ", Patta No.19 & 45, Dag No.140 & 142,",
+            "cityCode": "E50",
+            "address1": "Sonai Road, Nr Truck Drivers Association",
+            "phone2": "9287981723",
+            "phone1": "9435071239",
+            "cityName": "Silchar",
+            "stateName": "Assam",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AS",
+            "id": "AS303",
+            "lat": "24.795961"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

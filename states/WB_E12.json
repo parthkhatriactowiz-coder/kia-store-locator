@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.rudra-kia-shristinagar.com",
+            "dealerName": "Rudra Kia, Asansol",
+            "address3": "Dist-Paschim Burdwan, Pin-713305",
+            "lng": "86.9478684",
+            "address2": "Block-A, Shristinagar, PO- Ramkrishna Mission",
+            "cityCode": "E12",
+            "address1": "UG-005,006, at Asansol Sentrum Office",
+            "phone2": "9083013000",
+            "phone1": "9083013000",
+            "cityName": "Asansol",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB404",
+            "email": "rudrakiaasansol@rudrakia.com",
+            "lat": "23.7045052"
+        },
+        {
+            "website": "https://www.rudra-kia-shristinagar.com",
+            "dealerName": "Rudra Kia CPO, Asansol",
+            "address3": "Dist-Paschim Burdwan,West Bengal-713305",
+            "lng": "86.9478684",
+            "address2": "Block-A, Shristinagar, PO- Ramkrishna Mission",
+            "cityCode": "E12",
+            "address1": "UG-005,006, at Asansol Sentrum Office",
+            "phone2": "7479003536",
+            "phone1": "7479003536",
+            "cityName": "Asansol",
+            "stateName": "West Bengal",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "WB",
+            "id": "WB404",
+            "email": "kiaexchange@rudrakia.com",
+            "lat": "23.7045052"
+        },
+        {
+            "website": "https://www.rudra-kia-shristinagar.com",
+            "dealerName": "Rudra Kia, Asansol",
+            "address3": "Asansol – 713303",
+            "lng": "86.9478684",
+            "address2": "Dist - Paschim Burdwan",
+            "cityCode": "E12",
+            "address1": "Ushagram, G T Road (East),",
+            "phone2": "9083045000",
+            "phone1": "9083045000",
+            "cityName": "Asansol",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB404",
+            "email": "rudrakiaasansol@rudrakia.com",
+            "lat": "23.7045052"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.jansi-kia-nariguddenahalli.com",
+            "dealerName": "Jansi Kia, Chikkamagaluru",
+            "address3": "Karnataka -577102",
+            "lng": "75.7941423",
+            "address2": "Nariguddanahalli, Chikkamagaluru,",
+            "cityCode": "SCN",
+            "address1": "1, 1, Sri Basaveshwara Road,",
+            "phone2": "8182296666",
+            "phone1": "9364892682",
+            "cityName": "CHICKMANGALUR",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA511",
+            "email": "ckmsales@jansikia.in ",
+            "lat": "13.3272773"
+        },
+        {
+            "website": "https://www.jansi-kia-nariguddenahalli.com",
+            "dealerName": "Jansi Kia, Chikkamagaluru",
+            "address3": "Chikkamagaluru, Karnataka -577102",
+            "lng": "75.794712",
+            "address2": "By-pass Road, Kalyananagar,",
+            "cityCode": "SCN",
+            "address1": "JCS English School,",
+            "phone2": "8182296666",
+            "phone1": "7349771426",
+            "cityName": "CHICKMANGALUR",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA511",
+            "email": "ckmservice@jansikia.in",
+            "lat": "13.327554"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

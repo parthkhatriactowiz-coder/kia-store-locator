@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.shri-kia-dewas-road.com",
+            "dealerName": "Shri kia, Dewas Road",
+            "address3": "Ujjain, Madhya Pradesh - 456006",
+            "lng": "75.8341575",
+            "address2": "Village Chandsari, Dewas  Road",
+            "cityCode": "WDE",
+            "address1": "Survey No. 1/2/3, Meen - 1",
+            "phone2": "9171605000",
+            "phone1": "9171605000",
+            "cityName": "UJJAIN",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP401",
+            "email": "Ujjainsales.shrikia@sbil.in",
+            "lat": "23.1283699"
+        },
+        {
+            "website": "https://www.shri-kia-dewas-road.com",
+            "dealerName": "Shri kia, Dewas Road",
+            "address3": "Madhya Pradesh-456006",
+            "lng": "75.803484",
+            "address2": "Agar Road, Ujjain",
+            "cityCode": "WDE",
+            "address1": "111, Chak Kame d",
+            "phone2": "9171605000",
+            "phone1": "9171605000",
+            "cityName": "UJJAIN",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP401",
+            "email": "wmujjain.shrikia@sbil.in",
+            "lat": "23.228510"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dealerName": "Mahadeva Kia, Dhamtari",
+            "address3": "Chhattisgarh - 493773",
+            "lng": "81.57351042",
+            "address2": "Vishakhapatnam Road, Dhamtari,",
+            "cityCode": "W74",
+            "address1": "Sehradabri, Raipur-Jagdalpur-",
+            "phone2": "7880144292",
+            "phone1": "7880144292",
+            "cityName": "Dhamtari",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG601",
+            "lat": "20.73893002"
+        },
+        {
+            "dealerName": "Mahadeva Kia, Dhamtari",
+            "address3": "Chhattisgarh - 493773",
+            "lng": "81.57351042",
+            "address2": "Vishakhapatnam Road, Dhamtari,",
+            "cityCode": "W74",
+            "address1": "Sehradabri, Raipur-Jagdalpur-",
+            "phone2": "7880144260",
+            "phone1": "7880144260",
+            "cityName": "Dhamtari",
+            "stateName": "Chhattisgarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CG",
+            "id": "CG601",
+            "lat": "20.73893002"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

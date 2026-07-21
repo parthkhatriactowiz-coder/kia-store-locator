@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.lsb-kia-aizawl.com",
+            "dealerName": "LBS KIA, Aizawl",
+            "address3": "AIZAWL, MIZORAM-796007",
+            "lng": "92.743106",
+            "address2": "F-A17(B)",
+            "cityCode": "E42",
+            "address1": "FALKLAND NEAR SBI BANK,",
+            "phone2": "7005705596",
+            "phone1": "7005705596",
+            "cityName": "Aizawl",
+            "stateName": "Mizoram",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MZ",
+            "id": "MZ401",
+            "email": "sales@lbskia.co.in",
+            "lat": "23.739393"
+        },
+        {
+            "website": "https://www.lsb-kia-aizawl.com",
+            "dealerName": "LBS KIA, Aizawl",
+            "address3": "AIZAWL, MIZORAM -796014",
+            "lng": "92.7294954",
+            "address2": "H/NO-N10/51",
+            "cityCode": "E42",
+            "address1": "BAWNGKAWN BRIGADE VENG,",
+            "phone2": "9233094779",
+            "phone1": "9233094779",
+            "cityName": "Aizawl",
+            "stateName": "Mizoram",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MZ",
+            "id": "MZ401",
+            "email": "service@lbskia.co.in",
+            "lat": "23.7568511"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

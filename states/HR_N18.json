@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.harish-kia-delhi-mathura-road.com",
+            "dealerName": "Harish Kia, Huda Chowk, Palwal",
+            "address3": "Palwal, Haryana-121102",
+            "lng": "28.1554",
+            "address2": "Near Huda Chowk, Delhi Agra Highway,",
+            "cityCode": "N18",
+            "address1": "57Th Milestone, Near Pappan Plaza,",
+            "phone2": "9810701195",
+            "phone1": "9599444682",
+            "cityName": "Palwal",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR312",
+            "email": "saleshead@harishkia.com",
+            "lat": "77.3264"
+        },
+        {
+            "website": "https://www.harish-kia-delhi-mathura-road.com",
+            "dealerName": "Harish Kia, Huda Chowk, Palwal",
+            "address3": "Palwal, Haryana-121102",
+            "lng": "77.32437",
+            "address2": "Near Huda Chowk, Delhi Agra Highway,",
+            "cityCode": "N18",
+            "address1": "57Th Milestone, Near Pappan Plaza,",
+            "phone2": "7056661833",
+            "phone1": "7056661833",
+            "cityName": "Palwal",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR312",
+            "email": "ccm_service@harishkia.com",
+            "lat": "28.15697"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

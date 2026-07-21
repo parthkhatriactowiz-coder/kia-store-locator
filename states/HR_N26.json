@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.klg-kia-panchkula.com",
+            "dealerName": "KLG KIA, Panchkula",
+            "address3": "Panchkula, Haryana-134113",
+            "lng": "77.30897",
+            "address2": "Plot No. 171 P,",
+            "cityCode": "N26",
+            "address1": "Industrial Area - 1,",
+            "phone2": "9876222333",
+            "phone1": "9876222333",
+            "cityName": "Panchkula",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR307",
+            "email": "gmsales@klgkia.in",
+            "lat": "28.45882"
+        },
+        {
+            "website": "https://www.klg-kia-panchkula.com",
+            "dealerName": "KLG Kia CPO, Panchkula",
+            "address3": "Haryana-134113",
+            "lng": "30.6833457",
+            "address2": "INDUSTRIAL AREA, PANCHKULA ",
+            "cityCode": "N26",
+            "address1": "PLOT NO.310, PHASE 2 , ",
+            "phone2": "6283281657",
+            "phone1": "6283281657",
+            "cityName": "Panchkula",
+            "stateName": "Haryana",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "HR",
+            "id": "HR307",
+            "email": "info@klgkia.in",
+            "lat": "76.8318702"
+        },
+        {
+            "website": "https://www.klg-kia-panchkula.com",
+            "dealerName": "KLG KIA, Panchkula",
+            "address3": "Panchkula, Haryana-134113",
+            "lng": "77.30897",
+            "address2": "Plot No. 171 P,",
+            "cityCode": "N26",
+            "address1": "Industrial Area - 1,",
+            "phone2": "8068097777",
+            "phone1": "8068097777",
+            "cityName": "Panchkula",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR307",
+            "email": "gmaftersales@klgkia.in",
+            "lat": "28.45882"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

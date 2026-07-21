@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.shreenath-cars-vyara-kia.com",
+            "dealerName": "Shreenath Cars Kia, Vyara",
+            "address3": "Vyara Gujarat",
+            "lng": "73.4155509315654",
+            "address2": "Vyara - Songad Road",
+            "cityCode": "W99",
+            "address1": "Plot No. 61/4, Tadkua,",
+            "phone2": "9725077777",
+            "phone1": "9725077777",
+            "cityName": "Vyara",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ508",
+            "email": "smvyara@shreenathkia.in",
+            "lat": "21.1180670325715"
+        },
+        {
+            "website": "https://www.shreenath-cars-vyara-kia.com",
+            "dealerName": "Shreenath Cars Kia, Vyara",
+            "address3": "Vyara Gujarat",
+            "lng": "73.4155509315654",
+            "address2": "Vyara - Songad Road",
+            "cityCode": "W99",
+            "address1": "Plot No. 61/4, Tadkua,",
+            "phone2": "9725077777",
+            "phone1": "9725077777",
+            "cityName": "Vyara",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ508",
+            "lat": "21.1180670325715"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

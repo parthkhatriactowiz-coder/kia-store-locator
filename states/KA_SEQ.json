@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.arm-kia-kushalnagar.com",
+            "dealerName": "A.R.M kia, Kushalnagar",
+            "address3": "Kushalnagar , Karnataka",
+            "lng": "75.94259924",
+            "address2": "SLN Timbers , BM Road ,Madhapatna",
+            "cityCode": "SEQ",
+            "address1": "Survey No – 88/1",
+            "phone2": "9999999999",
+            "phone1": "9606055314",
+            "cityName": "KUSHAL NAGAR",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA507",
+            "email": "sales.coorg@armkia.com",
+            "lat": "12.44966077"
+        },
+        {
+            "website": "https://www.arm-kia-kushalnagar.com",
+            "dealerName": "A.R.M kia, Kushalnagar",
+            "address3": "Kushalnagar , Karnataka",
+            "lng": "75.94259924",
+            "address2": "SLN Timbers , BM Road ,Madhapatna",
+            "cityCode": "SEQ",
+            "address1": "Survey No – 88/1",
+            "phone2": "9606055313",
+            "phone1": "9606055313",
+            "cityName": "KUSHAL NAGAR",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA507",
+            "email": "service.coorg@armkia.com",
+            "lat": "12.44966077"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

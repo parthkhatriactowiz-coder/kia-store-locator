@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.parshv-kia-gadchiroli.com",
+            "dealerName": "Parshv Kia, Gadchiroli",
+            "address3": "Maharashtra -442605",
+            "lng": "79.973309",
+            "address2": "Mul Road, Navegaon, Gadchiroli,",
+            "cityCode": "WGQ",
+            "address1": "Near Moreshwar Petrol Pump,",
+            "phone2": "8805044000",
+            "phone1": "8805044000",
+            "cityName": "Gadchiroli",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH509",
+            "email": "PARSHVKIA@GMAIL.COM",
+            "lat": "20.162866"
+        },
+        {
+            "dealerName": "Parshv Kia, Gadchiroli",
+            "address3": "Maharashtra -442605",
+            "lng": "79.234242",
+            "address2": "Mul Road, Navegaon, Gadchiroli,",
+            "cityCode": "WGQ",
+            "address1": "Near Moreshwar Petrol Pump,",
+            "phone2": "8208854105",
+            "phone1": "8208854105",
+            "cityName": "Gadchiroli",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH509",
+            "email": "gadchiroliservice@parshvkia.com",
+            "lat": "20.008177"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

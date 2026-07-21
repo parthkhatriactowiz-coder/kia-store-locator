@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.aras-kia-sivakasi.com",
+            "dealerName": "ARAS Kia, Amattur",
+            "address3": "Tamil Nadu -626005",
+            "lng": "77.874013",
+            "address2": " SH42, Amattur, Virudunagar,",
+            "cityCode": "SIO",
+            "address1": " SH42, Amattur, Virudunagar,",
+            "phone2": "7418687788",
+            "phone1": "9944714146",
+            "cityName": "Virudhunagar",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN514",
+            "email": "asm.vnr@aras-kia.in",
+            "lat": "9.569298"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.jps-kia-amravati.com",
+            "dealerName": "JPS Kia, Amravati",
+            "address3": "Maharashtra - 444607",
+            "lng": "77.745914",
+            "address2": "Badnera Road, Amravati,",
+            "cityCode": "W38",
+            "address1": "Plot 63/2, Shashi Nagar,",
+            "phone2": "8855002120",
+            "phone1": "8855002120",
+            "cityName": "Amravati",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH315",
+            "email": "jpsmotocorp@gmail.com",
+            "lat": "20.885661"
+        },
+        {
+            "website": "https://www.jps-kia-amravati.com",
+            "dealerName": "JPS Kia CPO, Amrawati",
+            "address3": "Maharashtra - 444607",
+            "lng": "77.745914",
+            "address2": "Badnera Road, Amravati,",
+            "cityCode": "W38",
+            "address1": "Plot 63/2, Shashi Nagar,",
+            "phone2": "8855082456",
+            "phone1": "8855082456",
+            "cityName": "Amravati",
+            "stateName": "Maharashtra",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "MH",
+            "id": "MH315",
+            "email": "cpo@jspkia.com",
+            "lat": "20.885661"
+        },
+        {
+            "website": "https://www.jps-kia-amravati.com",
+            "dealerName": "JPS Kia, Amravati",
+            "address3": "Maharashtra - 444607",
+            "lng": "77.746105",
+            "address2": "Badnera Road, Amravati,",
+            "cityCode": "W38",
+            "address1": "Plot 63/2, Shashi Nagar,",
+            "phone2": "8855002130",
+            "phone1": "8855002130",
+            "cityName": "Amravati",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH315",
+            "email": "service@jpskia.com",
+            "lat": "20.885577"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

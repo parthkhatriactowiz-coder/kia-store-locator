@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.parshv-kia-chandrapur.com",
+            "dealerName": "Parshv Kia, Chandrapur",
+            "address3": "Maharashtra -442406",
+            "lng": "79.234196",
+            "address2": "Nagpur Road, Chandrapur,",
+            "cityCode": "W29",
+            "address1": "206/1A, Near Shani Mandir,",
+            "phone2": "7774074707",
+            "phone1": "7774074707",
+            "cityName": "Chandrapur",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH314",
+            "email": "parshvkia@gmail.com",
+            "lat": "20.007974"
+        },
+        {
+            "website": "https://www.parshv-kia-chandrapur.com",
+            "dealerName": "Parshv Kia CPO, Chandrapur",
+            "address3": "Maharashtra -442406",
+            "lng": "79.234196",
+            "address2": "Nagpur Road, Chandrapur,",
+            "cityCode": "W29",
+            "address1": "206/1A, Near Shani Mandir,",
+            "phone2": "9890755802",
+            "phone1": "9890755802",
+            "cityName": "Chandrapur",
+            "stateName": "Maharashtra",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "MH",
+            "id": "MH314",
+            "email": "cpo@parshvkia.com",
+            "lat": "20.007974"
+        },
+        {
+            "website": "https://www.parshv-kia-chandrapur.com",
+            "dealerName": "Parshv Kia, Chandrapur",
+            "address3": "Maharashtra -442406",
+            "lng": "79.234192",
+            "address2": "Nagpur Road, Chandrapur,",
+            "cityCode": "W29",
+            "address1": "206/1A, Near Shani Mandir,",
+            "phone2": "7733885660",
+            "phone1": "7733885660",
+            "cityName": "Chandrapur",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH314",
+            "email": "service@parshvkia.com",
+            "lat": "20.007975"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "IB Kia, Kadi",
+            "address3": "Mahsana, Gujarat-384440",
+            "lng": "72.3822686",
+            "address2": "Near Hotel Zephyr, Karannagar, Kadi,",
+            "cityCode": "W77",
+            "address1": "Near Hotel Zephyr, Kadi Kalol Road,",
+            "phone2": "7227979457",
+            "phone1": "6357101520",
+            "cityName": "Kadi",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ516",
+            "email": "Salessm-mehsana@ibkia.in",
+            "lat": "23.2834418"
+        },
+        {
+            "dealerName": "IB Kia, Kadi",
+            "address3": "Mahsana, Gujarat-384440",
+            "lng": "72.391355",
+            "address2": "Near Hotel Zephyr, Karannagar, Kadi,",
+            "cityCode": "W77",
+            "address1": "Near Hotel Zephyr, Kadi Kalol Road,",
+            "phone2": "9265920492",
+            "phone1": "9265920492",
+            "cityName": "Kadi",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ516",
+            "email": "sm-kadi@ibkia.in",
+            "lat": "23.281070"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

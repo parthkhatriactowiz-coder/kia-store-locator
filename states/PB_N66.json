@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.dada-motors-mansa-road-kia.com",
+            "dealerName": "Dada Kia, Mansa Road",
+            "address3": "Pin-151001",
+            "lng": "74.9809545",
+            "address2": "Adjoining Sushant City 2 ",
+            "cityCode": "N66",
+            "address1": "VPO Jassi Pauwali , G.T.Road(Mansa Road)",
+            "phone2": "8557889999",
+            "phone1": "8557889999",
+            "cityName": "Bathinda",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB305",
+            "email": "kiabtisaleshead@dadamotors.com",
+            "lat": "30.1572076"
+        },
+        {
+            "website": "https://www.dada-motors-mansa-road-kia.com",
+            "dealerName": "Dada Kia CPO, Bhatinda",
+            "address3": "Punjab -151001",
+            "lng": "74.98041",
+            "address2": "Adjoining Sushant City 2, Bhatinda",
+            "cityCode": "N66",
+            "address1": "VPO- Jassi Pauwali, GT Road (Mansa Road)",
+            "phone2": "8557889999",
+            "phone1": "8557889999",
+            "cityName": "Bathinda",
+            "stateName": "Punjab",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "PB",
+            "id": "PB305",
+            "email": "kiabtisaleshead@dadamotors.com",
+            "lat": "30.15637"
+        },
+        {
+            "website": "https://www.dada-motors-mansa-road-kia.com",
+            "dealerName": "Dada Kia, Mansa Road",
+            "address3": "Pin-151001",
+            "lng": "74.9809545",
+            "address2": "Adjoining Sushant City 2 ",
+            "cityCode": "N66",
+            "address1": "VPO Jassi Pauwali , G.T.Road(Mansa Road)",
+            "phone2": "8557889999",
+            "phone1": "8557889999",
+            "cityName": "Bathinda",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB305",
+            "email": "headoffice@dadamotors.com",
+            "lat": "30.1572076"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

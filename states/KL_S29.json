@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.incheon-kia-kayamkulam.com",
+            "dealerName": "Incheon Kia, Kayamkulam",
+            "address3": "Kayamkulam, Alappuzha District",
+            "lng": "76.4697871",
+            "address2": "Cheppad Village, Karthikappally",
+            "cityCode": "S29",
+            "address1": "Block No.14, Sy No.23/7",
+            "phone2": "06282016120",
+            "phone1": "06282016120",
+            "cityName": "Kayamkulam",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL309",
+            "email": "sales.kayamkulam@incheonkia.com",
+            "lat": "9.2447373"
+        },
+        {
+            "website": "https://www.incheon-kia-kayamkulam.com",
+            "dealerName": "Incheon Kia, Kayamkulam",
+            "address3": "Kayamkulam, Alappuzha District",
+            "lng": "76.4932436",
+            "address2": "Cheppad Village, Karthikappally",
+            "cityCode": "S29",
+            "address1": "Block No.14, Sy No.23/7",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Kayamkulam",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL309",
+            "email": "naeemshahul@gmail.com",
+            "lat": "9.1766562"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

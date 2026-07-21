@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Jansi Kia, Jambagar, Shivmogga Road",
+            "address3": "Karnataka -577401",
+            "lng": "75.054833",
+            "address2": "Shivamogga Road, Sagara,",
+            "cityCode": "SJF",
+            "address1": "Survey No 61/1, Jambagar,",
+            "phone2": "9535774432",
+            "phone1": "9364892699",
+            "cityName": "Sagara",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA601",
+            "lat": "14.162929"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

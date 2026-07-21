@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "website": "https://www.meher-kia-sawai-madhopur.com",
+            "dealerName": "Meher Kia, Sawai Madhopur",
+            "address3": " Sawai Madhopur, Rajasthan -322027",
+            "lng": "76.364633",
+            "address2": "Lalsot-Jaipur Road, Karmoda,",
+            "cityCode": "NGE",
+            "address1": "Khasra No 1640,2188/1635,",
+            "phone2": "7413929292",
+            "phone1": "7413929292",
+            "cityName": "Sawai Madhopur",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ305",
+            "lat": "26.053998"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Elite Kia, Rewari Road",
+            "address3": ", Narnaul, Mahendragarh, Haryana -123001",
+            "lng": "76.12164",
+            "address2": " No 2594, Rewari Road, Kailash Nagar",
+            "cityCode": "NCN",
+            "address1": "Khatauni No 1643, Khewat No 1255, Khasra",
+            "phone2": "9729792299",
+            "phone1": "9729792299",
+            "cityName": "Narnaul",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR511",
+            "lat": "28.05810"
+        },
+        {
+            "dealerName": "Elite Kia, Rewari Road",
+            "address3": "Mahendragarh, Haryana -123001",
+            "lng": "76.640752",
+            "address2": "Rewari Road, Narnaul,",
+            "cityCode": "NCN",
+            "address1": "Khewat No 32, Khatauni No 40,",
+            "phone2": "7419980621",
+            "phone1": "7419980621",
+            "cityName": "Narnaul",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR511",
+            "email": "Gm.service@elitekia.in",
+            "lat": "28.200574"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

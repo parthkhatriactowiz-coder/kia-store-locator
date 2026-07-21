@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Avantika Kia, Robertsganj",
+            "address3": "Uttar Pradesh - 231216",
+            "lng": "83.060001",
+            "address2": "Chapka, Robertsganj,",
+            "cityCode": "N19",
+            "address1": "Arazi 332-P,",
+            "phone2": "9151039605",
+            "phone1": "9151829877",
+            "cityName": "Robertsganj",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP523",
+            "lat": "24.657501"
+        },
+        {
+            "dealerName": "Avantika Kia, Robertsganj",
+            "address3": "Uttar Pradesh - 231216",
+            "lng": "83.05968",
+            "address2": "Chapka, Robertsganj,",
+            "cityCode": "N19",
+            "address1": "Arazi 332-P,",
+            "phone2": "9151829877",
+            "phone1": "9151829877",
+            "cityName": "Robertsganj",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP523",
+            "email": "kia.avantikasonbhadra@gmail.com",
+            "lat": "24.65715"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

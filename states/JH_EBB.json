@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Elgen Kia, Deoghar",
+            "address3": "Kabilashpur, Deoghar, Deoghar, Jharkhand",
+            "lng": "86.741",
+            "address2": "Godda Road, Near Lila Mandir Ashram,",
+            "cityCode": "EBB",
+            "address1": "P No-54, Thana-685, khata No-2, Jamtara",
+            "phone2": "9263767050",
+            "phone1": "7050336333",
+            "cityName": "DEOGHAR",
+            "stateName": "Jharkhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JH",
+            "id": "JH504",
+            "lat": "24.491"
+        },
+        {
+            "dealerName": "Elgen Kia, Deoghar",
+            "address3": "Kabilashpur, Deoghar, Deoghar, Jharkhand",
+            "lng": "86.74123",
+            "address2": "Godda Road, Near Lila Mandir Ashram,",
+            "cityCode": "EBB",
+            "address1": "P No-54, Thana-685, khata No-2, Jamtara",
+            "phone2": "9263767050",
+            "phone1": "9263768426",
+            "cityName": "DEOGHAR",
+            "stateName": "Jharkhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JH",
+            "id": "JH504",
+            "email": "smservice.dgr@elgenkia.com",
+            "lat": "24.49183"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.global-kia-moradabad.com",
+            "dealerName": "Global Kia, Delhi Road, Moradabad",
+            "address3": "Uttar Pradesh -244001",
+            "lng": "78.726806",
+            "address2": "Delhi Road, Moradabad,",
+            "cityCode": "N28",
+            "address1": "Moja Lakadi Fajalpur,",
+            "phone2": "7055600802",
+            "phone1": "7055600802",
+            "cityName": "Moradabad",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP317",
+            "email": "sales@globalkiambd.com",
+            "lat": "28.827833"
+        },
+        {
+            "website": "https://www.global-kia-moradabad.com",
+            "dealerName": "Global Kia, Delhi Road, Moradabad",
+            "address3": "Uttar Pradesh -244001",
+            "lng": "78.726658",
+            "address2": "Delhi Road, Moradabad,",
+            "cityCode": "N28",
+            "address1": "Moja Lakadi Fajalpur,",
+            "phone2": "9700000444",
+            "phone1": "7055600821",
+            "cityName": "Moradabad",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP317",
+            "email": "ccmservice@globalkiambd.com",
+            "lat": "28.827934"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

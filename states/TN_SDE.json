@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.asj-cars-villupuram-main-road-kia.com",
+            "dealerName": "ASJ Kia, Villupuram",
+            "address3": "Tamil Nadu-605602",
+            "lng": "79.477546 ",
+            "address2": "Near Gingee rd Crossing, Viluppuram,",
+            "cityCode": "SDE",
+            "address1": "204/3C, Chennai- Trichy Bye Pass Rd,",
+            "phone2": "6384447001",
+            "phone1": "6384445012",
+            "cityName": "Villupuram",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN516",
+            "email": "sm.vpm@asjcarskia.com",
+            "lat": "11.95422"
+        },
+        {
+            "website": "https://www.asj-cars-villupuram-main-road-kia.com",
+            "dealerName": "ASJ Kia, Villupuram",
+            "address3": "Villupuram, Tamil Nadu-607107",
+            "lng": "79.420362",
+            "address2": "NH 45 Trichy -Chennai Bye Pass Arasur,",
+            "cityCode": "SDE",
+            "address1": "R/S No.184/18C,",
+            "phone2": "7448897001",
+            "phone1": "7448897001",
+            "cityName": "Villupuram",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN516",
+            "email": "gm.service@asjcarskia.com",
+            "lat": "11.818387"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

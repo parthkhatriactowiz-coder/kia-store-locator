@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.budhav-kia-hajipur.com",
+            "dealerName": "Budhav Kia, Nh22 Dighi, Near Police Line",
+            "address3": "Bihar- 844102",
+            "lng": "85.233705",
+            "address2": "Ward No -04, Hajipur,",
+            "cityCode": "E83",
+            "address1": "Dighi Kala, Hajipur Muzaffarpur Highway,",
+            "phone2": "9504422111",
+            "phone1": "9031069721",
+            "cityName": "Hajipur",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR304",
+            "lat": "25.720629"
+        },
+        {
+            "dealerName": "Budhav Kia, Nh22 Dighi, Near Police Line",
+            "address3": "Bihar- 844102",
+            "lng": "85.233705",
+            "address2": "Ward No -04, Hajipur,",
+            "cityCode": "E83",
+            "address1": "Dighi Kala, Hajipur Muzaffarpur Highway,",
+            "phone2": "9031069721",
+            "phone1": "9031069721",
+            "cityName": "Hajipur",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR304",
+            "email": "servicemanager@budhavkia.com",
+            "lat": "25.720629"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

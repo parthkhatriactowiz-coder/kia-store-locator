@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.khushi-kia-Malegaon.com",
+            "dealerName": "Khushi Kia, Malegaon",
+            "address3": "Malegaon, Maharashtra -423203",
+            "lng": "74.518626",
+            "address2": "Old Agra Road, Near Girna Pool,",
+            "cityCode": "WAZ",
+            "address1": "Sr. No 572,",
+            "phone2": "9422257058",
+            "phone1": "8767804818",
+            "cityName": "Malegaon",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH507",
+            "email": "salesmgr.5047@khushikia.in",
+            "lat": "20.533757"
+        },
+        {
+            "website": "https://www.khushi-kia-Malegaon.com",
+            "dealerName": "Khushi Kia, Malegaon",
+            "address3": "Malegaon, Maharashtra -423203",
+            "lng": "74.518474",
+            "address2": "Old Agra Road, Near Girna Pool,",
+            "cityCode": "WAZ",
+            "address1": "Sr. No 572,",
+            "phone2": "9226538368",
+            "phone1": "9723777696",
+            "cityName": "Malegaon",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH507",
+            "email": "hemantchopda@hotmail.com",
+            "lat": "20.533632"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

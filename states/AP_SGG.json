@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "MG Brothers Kia, Nandyal",
+            "address3": " Dist, Andhra Pradesh -518502",
+            "lng": "78.510001",
+            "address2": "Deebaguntla Vill, Gospadu Mandal, Nandyal",
+            "cityCode": "SGG",
+            "address1": "Sy No. 78/B2B, NH40, Kadapa Hwy,",
+            "phone2": "8688829685",
+            "phone1": "8688829685",
+            "cityName": "Nandyal",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP508",
+            "email": "salesndyl@mgbrotherskia.in",
+            "lat": "15.397197"
+        },
+        {
+            "dealerName": "MG Brothers Kia, Nandyal",
+            "address3": " Dist, Andhra Pradesh -518502",
+            "lng": "78.510001",
+            "address2": "Deebaguntla Vill, Gospadu Mandal, Nandyal",
+            "cityCode": "SGG",
+            "address1": "Sy No. 78/B2B, NH40, Kadapa Hwy,",
+            "phone2": "8328212788",
+            "phone1": "8328212788",
+            "cityName": "Nandyal",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP508",
+            "email": "servicendyl@mgbrotherskia.in",
+            "lat": "15.397197"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

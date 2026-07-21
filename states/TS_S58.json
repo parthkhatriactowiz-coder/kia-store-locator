@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.malik-kia-karimnagar.com",
+            "dealerName": "Malik Kia, Rampur",
+            "address3": "Rampur Locality, Karimnagar",
+            "lng": "79.138463",
+            "address2": "M No.8-6-316/1/2",
+            "cityCode": "S58",
+            "address1": "S No. 766/B & 766/D",
+            "phone2": "9999999999",
+            "phone1": "8019770555",
+            "cityName": "Karimnagar",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS302",
+            "email": "karanmalik@malikkia.in",
+            "lat": "18.411542"
+        },
+        {
+            "website": "https://www.malik-kia-karimnagar.com",
+            "dealerName": "Malik Kia, Rampur",
+            "address3": "Rampur Locality, Karimnagar",
+            "lng": "79.138200",
+            "address2": "M No.8-6-316/1/2",
+            "cityCode": "S58",
+            "address1": "S No. 766/B & 766/D",
+            "phone2": "7207807788",
+            "phone1": "7207807788",
+            "cityName": "Karimnagar",
+            "stateName": "Telangana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TS",
+            "id": "TS302",
+            "email": "vpservice@malikkia.in",
+            "lat": "18.411695"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

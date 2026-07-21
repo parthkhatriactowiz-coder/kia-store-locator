@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "dealerName": "Parvati Kia, Yavatmal",
+            "address3": "Maharashtra - 445001",
+            "lng": "78.080899",
+            "address2": "Yavatmal Industrial Area, Yavatmal,",
+            "cityCode": "WBA",
+            "address1": "Plot No P-13, MIDC,",
+            "phone2": "9403363382",
+            "phone1": "9403363382",
+            "cityName": "Yavatmal",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH318",
+            "lat": "20.384812"
+        },
+        {
+            "dealerName": "Parvati Kia CPO, Yavatmal",
+            "address3": "Maharashtra - 445001",
+            "lng": "78.080899",
+            "address2": "Yavatmal Industrial Area, Yavatmal,",
+            "cityCode": "WBA",
+            "address1": "Plot No P-13, MIDC,",
+            "phone2": "7972423294",
+            "phone1": "7972423294",
+            "cityName": "Yavatmal",
+            "stateName": "Maharashtra",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "MH",
+            "id": "MH318",
+            "email": "gm.parvatikia@parvatigroup.org",
+            "lat": "20.384812"
+        },
+        {
+            "dealerName": "Parvati Kia, Yavatmal",
+            "address3": "Maharashtra - 445001",
+            "lng": "78.080899",
+            "address2": "Yavatmal Industrial Area, Yavatmal,",
+            "cityCode": "WBA",
+            "address1": "Plot No P-13, MIDC,",
+            "phone2": "9271293401",
+            "phone1": "9271293401",
+            "cityName": "Yavatmal",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH318",
+            "email": "service.parvatikia@parvatigroup.org",
+            "lat": "20.384812"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

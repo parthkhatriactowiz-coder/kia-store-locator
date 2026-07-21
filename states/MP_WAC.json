@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.baderiya-kia-rewa.com",
+            "dealerName": "Baderiya Kia, Rewa",
+            "address3": "Rewa, Madhya Pradesh-486001",
+            "lng": "81.20582",
+            "address2": "S.No. 149/1 Beside Goel Filling Station,",
+            "cityCode": "WAC",
+            "address1": "Satna Rewa Rd, Umari,",
+            "phone2": "07314626701",
+            "phone1": "07314626701",
+            "cityName": "Rewa",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP506",
+            "lat": "24.50014"
+        },
+        {
+            "website": "https://www.baderiya-kia-rewa.com",
+            "dealerName": "Baderiya Kia, Rewa",
+            "address3": "Rewa, Madhya Pradesh-486001",
+            "lng": "24.500864",
+            "address2": "S.No. 149/1 Beside Goel Filling Station,",
+            "cityCode": "WAC",
+            "address1": "Satna Rewa Rd, Umari,",
+            "phone2": "9770000801",
+            "phone1": "9770000801",
+            "cityName": "Rewa",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP506",
+            "email": "satnasolvent@gmail.com",
+            "lat": "24.500864"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

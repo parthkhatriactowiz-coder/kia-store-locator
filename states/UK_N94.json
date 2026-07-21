@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.classic-kia-rudrapur.com",
+            "dealerName": "Classic Kia, Rudrapur",
+            "address3": "Uttarakhand - 263153",
+            "lng": "79.41646144",
+            "address2": "Rudrapur,",
+            "cityCode": "N94",
+            "address1": "Kichcha Bypass Road,",
+            "phone2": "9068965763",
+            "phone1": "9068965763",
+            "cityName": "Rudrapur",
+            "stateName": "Uttarakhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UK",
+            "id": "UK303",
+            "email": "gmsalesrdp@classickia.in",
+            "lat": "28.96347092"
+        },
+        {
+            "website": "https://www.classic-kia-rudrapur.com",
+            "dealerName": "Classic Kia, Rudrapur",
+            "address3": "Uttarakhand - 263153",
+            "lng": "79.41646144",
+            "address2": "Rudrapur,",
+            "cityCode": "N94",
+            "address1": "Kichcha Bypass Road,",
+            "phone2": "9068965763",
+            "phone1": "9068965763",
+            "cityName": "Rudrapur",
+            "stateName": "Uttarakhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UK",
+            "id": "UK303",
+            "email": "gmsalesrdp@classickia.in",
+            "lat": "28.96347092"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

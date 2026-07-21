@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.kanse-kia-pirwadi-satara.com",
+            "dealerName": "Kanse Kia, National Highway, Satara",
+            "address3": "Maharashatra -415003",
+            "lng": "74.02456007",
+            "address2": "opp. Mahendra Execetive Hotel, Satara,",
+            "cityCode": "W48",
+            "address1": "P No 1, Sr No 5, National Highway No 4,",
+            "phone2": "7350500345",
+            "phone1": "7350500345",
+            "cityName": "Satara",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH418",
+            "lat": "17.69340512"
+        },
+        {
+            "dealerName": "Kanse Kia, National Highway, Satara",
+            "address3": "Maharashatra -415004",
+            "lng": "74.02648",
+            "address2": "Old MIDC, Satara,",
+            "cityCode": "W48",
+            "address1": "Plot No A-4,",
+            "phone2": "7030900430",
+            "phone1": "7030900430",
+            "cityName": "Satara",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH418",
+            "email": "service.kia@kansegroup.in",
+            "lat": "17.67820"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

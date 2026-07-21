@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.shivam-kia-morbi.com",
+            "dealerName": "Shivam Kia, Morbi",
+            "lng": "71.01617",
+            "address2": "Morbi-Rajkot Highway,Morbi-363641",
+            "cityCode": "WAL",
+            "address1": "Nr. Solar Clock,Opp Uma Party Plot",
+            "phone2": "7228080803",
+            "phone1": "7228080803",
+            "cityName": "Morbi",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ504",
+            "email": "ccm@shivamkia.in",
+            "lat": "22.87694"
+        },
+        {
+            "website": "https://www.shivam-kia-morbi.com",
+            "dealerName": "Shivam Kia, Morbi",
+            "lng": "71.01617",
+            "address2": "Morbi-Rajkot Highway,Morbi-363641",
+            "cityCode": "WAL",
+            "address1": "Nr. Solar Clock,Opp Uma Party Plot",
+            "phone2": "7227979453",
+            "phone1": "7228080803",
+            "cityName": "Morbi",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ504",
+            "email": "service-morbi@shivamkia.in",
+            "lat": "22.87694"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

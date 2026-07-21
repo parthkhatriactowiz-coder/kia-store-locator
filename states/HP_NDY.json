@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "dealerName": "Surya Kia, Bilaspur",
+            "address3": "Distt. Bilaspur, Himachal Pradesh-174004",
+            "lng": "76.747631",
+            "address2": "Opposite Vyas Hospital, Tehsil Sadar,",
+            "cityCode": "NDY",
+            "address1": "Khasra no. 201/135/29 VPO Chandpur,",
+            "phone2": "9817166201",
+            "cityName": "BILASPUR-HP",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP601",
+            "lat": "31.359188"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

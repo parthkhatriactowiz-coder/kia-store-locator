@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.aras-kia-tirunelveli.com",
+            "dealerName": "ARAS Kia, Jothipuram",
+            "address3": " Tirunelveli-627007",
+            "lng": "77.71513",
+            "address2": "jothipuram, Konganthanparai Post.",
+            "cityCode": "S42",
+            "address1": "No. 1183/3, Kanyakumari road",
+            "phone2": "999999999",
+            "phone1": "8110000722",
+            "cityName": "Tirunelveli",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN306",
+            "email": "sales.tnvl@aras-kia.in",
+            "lat": "8.66218"
+        },
+        {
+            "website": "https://www.aras-kia-tirunelveli.com",
+            "dealerName": "ARAS Kia, Jothipuram",
+            "address3": " Tirunelveli-627007",
+            "lng": "77.71513",
+            "address2": "jothipuram, Konganthanparai Post.",
+            "cityCode": "S42",
+            "address1": "No. 1183/3, Kanyakumari road",
+            "phone2": "999999999",
+            "phone1": "8110000652",
+            "cityName": "Tirunelveli",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN306",
+            "email": "servicemanager.tnvl@aras-kia.in  ",
+            "lat": "8.66218"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

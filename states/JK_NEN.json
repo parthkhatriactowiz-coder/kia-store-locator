@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.am-kia-udhampur.com",
+            "dealerName": "AM Kia, Omara Morh, Udhampur",
+            "address3": "Jammu & Kashmir -182101",
+            "lng": "75.1178969",
+            "address2": "Devika Plaza, Udhampur,",
+            "cityCode": "NEN",
+            "address1": "Omara Morh,",
+            "phone2": "9650040000",
+            "phone1": "9419183277",
+            "cityName": "UDHAMPUR",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JK",
+            "id": "JK501",
+            "lat": "32.918296"
+        },
+        {
+            "dealerName": "AM Kia, Omara Morh, Udhampur",
+            "address3": "Jammu & Kashmir -182101",
+            "lng": "75.1444",
+            "address2": "IID Centre, SICOP, Udhampur,",
+            "cityCode": "NEN",
+            "address1": "Plot No. 7, Industrial Estate,",
+            "phone2": "9484320914",
+            "phone1": "9469544441",
+            "cityName": "UDHAMPUR",
+            "stateName": "Jammu and Kashmir",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JK",
+            "id": "JK501",
+            "email": "udhampur.sales@amkia.in",
+            "lat": "32.7346"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "dealerName": "West Coast Kia, Tirupati Nagar",
+            "address3": "Rajasthan -327001",
+            "cityName": "BANSWARA",
+            "address2": "Nr. HP Petrol Pump, Banswara,",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "cityCode": "NGI",
+            "address1": "Tirupati Nagar, Udaipur Road,",
+            "phone2": "9825006262",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ519"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

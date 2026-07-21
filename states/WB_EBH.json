@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "SPL Kia, Algaria, Barasat",
+            "address3": "North Twenty Four Parganas, West Bengal-",
+            "lng": "88.4860637",
+            "address2": "PO Noapara, Pargana- Anwarpur, Algaria,",
+            "cityCode": "EBH",
+            "address1": "Dag No.609, NH12 Rd (Previously NH34),",
+            "phone2": "9830232377",
+            "phone1": "9830232377",
+            "cityName": "Barasat",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB504",
+            "email": "ceo@splkia.in",
+            "lat": "22.7485806"
+        },
+        {
+            "dealerName": "SPL Kia, Algaria, Barasat",
+            "address3": "North Twenty Four Parganas, West Bengal-",
+            "lng": "88.486543",
+            "address2": "PO Noapara, Pargana- Anwarpur, Algaria,",
+            "cityCode": "EBH",
+            "address1": "Dag No.609, NH12 Rd (Previously NH34),",
+            "phone2": "9830232377",
+            "phone1": "9830232377",
+            "cityName": "Barasat",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB504",
+            "email": "ceo@splkia.in",
+            "lat": "22.748279"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

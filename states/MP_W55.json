@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.baderiya-kia-rewa-road.com",
+            "dealerName": "Baderiya KIA, Rewa road",
+            "address3": "Kripalpur, Satna",
+            "lng": "80.8842796",
+            "address2": "Near Satsang Bhawan, Rewa Road",
+            "cityCode": "W55",
+            "address1": "Ward No. 17",
+            "phone2": "07314626700",
+            "phone1": "07314626700",
+            "cityName": "Satna",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP306",
+            "email": "sales@baderiyakia.in",
+            "lat": "24.5674258"
+        },
+        {
+            "website": "https://www.baderiya-kia-rewa-road.com",
+            "dealerName": "Baderiya KIA, Rewa road",
+            "address3": "Kripalpur, Satna",
+            "lng": "80.8842796",
+            "address2": "Near Satsang Bhawan, Rewa Road",
+            "cityCode": "W55",
+            "address1": "Ward No. 17",
+            "phone2": "07314855077",
+            "phone1": "7489900925",
+            "cityName": "Satna",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP306",
+            "email": "service@baderiyakia.in",
+            "lat": "24.5674258"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

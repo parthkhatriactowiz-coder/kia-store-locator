@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Trupti Kia, Keonjhar",
+            "address3": "Keonjhar, Odisha-758013",
+            "lng": "85.59672",
+            "address2": "PO Dhurpada, Keonjhar-Narbil Main Road,",
+            "cityCode": "ECB",
+            "address1": "22/756, Mochi Gaon,",
+            "phone2": "9776600888",
+            "phone1": "7064414005",
+            "cityName": "KEONJHAR",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD504",
+            "email": "truptikia@gmail.com",
+            "lat": "21.64836"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

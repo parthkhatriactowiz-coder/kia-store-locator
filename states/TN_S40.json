@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.vst-central-meyyannur-main-road-kia.com",
+            "dealerName": "VST Kia, Meyyannur Main Road",
+            "address3": "Tamilnadu 636004",
+            "lng": "78.136097",
+            "address2": "Main Road, Salem",
+            "cityCode": "S40",
+            "address1": "No: 250/2, Meyyannur Block 1, Meyyannur",
+            "phone2": "999999999",
+            "phone1": "8124811113",
+            "cityName": "Salem",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN301",
+            "email": "salescrm.slm@vstcentral-kia.in",
+            "lat": "11.667629"
+        },
+        {
+            "website": "https://www.vst-central-meyyannur-main-road-kia.com",
+            "dealerName": "VST Kia CPO, Salem",
+            "address3": " Salem, Tamilnadu 636010",
+            "lng": "78.13912135328309",
+            "address2": "Nattamangalam, Kondalampatti,",
+            "cityCode": "S40",
+            "address1": "5-486, Kaatu Kottai Po, ",
+            "phone2": "9384084440",
+            "phone1": "7305060894",
+            "cityName": "Salem",
+            "stateName": "Tamil Nadu",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "TN",
+            "id": "TN301",
+            "email": "manimaran.r@vstcentral-kia.in",
+            "lat": "11.6272726991147 "
+        },
+        {
+            "website": "https://www.vst-central-meyyannur-main-road-kia.com",
+            "dealerName": "VST Kia, Meyyannur Main Road",
+            "address3": "Tamilnadu 636004",
+            "lng": "78.136097",
+            "address2": "Main Road, Salem",
+            "cityCode": "S40",
+            "address1": "No: 250/2, Meyyannur Block 1, Meyyannur",
+            "phone2": "999999999",
+            "phone1": "7550294185",
+            "cityName": "Salem",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN301",
+            "email": "servicemanager.slm@vstcentral-kia.in ",
+            "lat": "11.667629"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

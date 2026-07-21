@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.mg-brothers-kurnool-kia.com",
+            "dealerName": "MG Brothers Kia, Kurnool",
+            "address3": "Kurnool Dist 518218",
+            "lng": "78.0006683",
+            "address2": "Peddatekuru Vill, Kallur Mandal, ",
+            "cityCode": "S56",
+            "address1": "Sy No. 187/1, NH44, Hyderabad Hwy, ",
+            "phone2": "999999999",
+            "phone1": "9492581344",
+            "cityName": "Kurnool",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP302",
+            "email": "gmknl@mgbrotherskia.in",
+            "lat": "15.7216137"
+        },
+        {
+            "website": "https://www.mg-brothers-kurnool-kia.com",
+            "dealerName": "MG Brothers Kia, Kurnool",
+            "address3": "Kurnool Dist 518218",
+            "lng": "78.0006683",
+            "address2": "Peddatekuru Vill, Kallur Mandal, ",
+            "cityCode": "S56",
+            "address1": "Sy No. 187/1, NH44, Hyderabad Hwy, ",
+            "phone2": "999999999",
+            "phone1": "8500296423",
+            "cityName": "Kurnool",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP302",
+            "email": "serviceknl@mgbrotherskia.in",
+            "lat": "15.7216137"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Intara Kia, Rajnandgaon",
+            "address3": "Chhattisgarh-491441",
+            "lng": "81.045631",
+            "address2": "Mansukhlal Petrol Pump, Rajnandgaon,",
+            "cityCode": "W83",
+            "address1": "NH-6, GE Road, Beside",
+            "phone2": "7440405222",
+            "phone1": "7440405222",
+            "cityName": "Rajnandgaon",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG602",
+            "email": "account@intarakia.com",
+            "lat": "21.099207"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

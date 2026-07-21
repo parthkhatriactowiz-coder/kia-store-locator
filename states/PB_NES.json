@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.gitansh-kia-batala-amritsar-highway.com",
+            "dealerName": "Gitansh Kia, Batala",
+            "address3": "Gurdaspur, Punjab -143505",
+            "lng": "75.159661",
+            "address2": " Batala Amritsar Highway, Batala,",
+            "cityCode": "NES",
+            "address1": "G T Road Opposite VMS College,",
+            "phone2": "8054733033",
+            "phone1": "9115500430",
+            "cityName": "BATALA",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB509",
+            "email": "smsales.btl@gitanshkia.in",
+            "lat": "31.799509"
+        },
+        {
+            "dealerName": "Gitansh Kia, Batala",
+            "address3": "Gurdaspur, Punjab -143505",
+            "lng": "75.159661",
+            "address2": " Batala Amritsar Highway, Batala,",
+            "cityCode": "NES",
+            "address1": "G T Road Opposite VMS College,",
+            "phone2": "8054733033",
+            "phone1": "9115500433",
+            "cityName": "BATALA",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB509",
+            "email": "service.btl@gitanshkia.in",
+            "lat": "31.799509"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

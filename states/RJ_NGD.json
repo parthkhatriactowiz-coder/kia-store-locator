@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Meher Kia, Tonk",
+            "address3": "Rajasthan -304001",
+            "lng": "75.813635",
+            "address2": "Nearby Kamdhenu Circle, Tonk,",
+            "cityCode": "NGD",
+            "address1": "Plot No. 51, Jaipur Kota Road,",
+            "phone2": "9376000826",
+            "phone1": "9376000826",
+            "cityName": "TONK",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ513",
+            "lat": "26.178394"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

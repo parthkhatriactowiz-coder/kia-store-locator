@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.athena-kia-hospet-road.com",
+            "dealerName": "Athena Kia, Hospet Road",
+            "address3": "Bellary  583104",
+            "lng": "76.867792",
+            "address2": "Hospete Road",
+            "cityCode": "S86",
+            "address1": "Opp To  FCAI, Allipura ",
+            "phone2": "6364922843",
+            "phone1": "6364922843",
+            "cityName": "Ballari",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA309",
+            "email": "gm.sales@athenakia.com",
+            "lat": "15.162723"
+        },
+        {
+            "website": "https://www.athena-kia-hospet-road.com",
+            "dealerName": "Athena Kia, Hospet Road",
+            "address3": "Bellary  583104",
+            "lng": "76.867792",
+            "address2": "Hospete Road",
+            "cityCode": "S86",
+            "address1": "Opp To  FCAI, Allipura ",
+            "phone2": "6364922873",
+            "phone1": "6364922873",
+            "cityName": "Ballari",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA309",
+            "email": "gm.service@athenakia.com",
+            "lat": "15.162723"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

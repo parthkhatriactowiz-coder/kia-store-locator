@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://meridian-motors-tezpur-kia.com",
+            "dealerName": "Meridian Kia, Tezpur",
+            "address3": "Sonitpur, Assam-784001",
+            "lng": "92.791778",
+            "address2": "Patta No.531, Nikamul,Tezpur,",
+            "cityCode": "E56",
+            "address1": "Dag No.1076,",
+            "phone2": "6901273610",
+            "phone1": "6901273610",
+            "cityName": "Tezpur",
+            "stateName": "Assam",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AS",
+            "id": "AS501",
+            "email": "gm.nagaon.tezpur@meridiankia.in",
+            "lat": "26.652778"
+        },
+        {
+            "website": "https://meridian-motors-tezpur-kia.com",
+            "dealerName": "Meridian Kia, Tezpur",
+            "address3": "Sonitpur, Assam-784001",
+            "lng": "92.791778",
+            "address2": "Patta No.531, Nikamul,Tezpur,",
+            "cityCode": "E56",
+            "address1": "Dag No.1076,",
+            "phone2": "9707394080",
+            "phone1": "9707394080",
+            "cityName": "Tezpur",
+            "stateName": "Assam",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AS",
+            "id": "AS501",
+            "email": "service.nagaon@meridiankia.in",
+            "lat": "26.652778"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

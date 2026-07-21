@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.halleys-kia-patan.com",
+            "dealerName": "Halleys Kia, Patan",
+            "address3": "Patan-384265",
+            "lng": "72.13792798",
+            "address2": "Deesa-Chanasma Highway",
+            "cityCode": "W23",
+            "address1": "Opp. Prajapati Hostel",
+            "phone2": "9512033700",
+            "phone1": "9512033700",
+            "cityName": "Patan",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ507",
+            "email": "sales.patan@halleyskia.com",
+            "lat": "23.85619817"
+        },
+        {
+            "website": "https://www.halleys-kia-patan.com",
+            "dealerName": "Halleys Kia, Patan",
+            "address3": "Patan-384265",
+            "lng": "72.13792798",
+            "address2": "Deesa-Chanasma Highway",
+            "cityCode": "W23",
+            "address1": "Opp. Prajapati Hostel",
+            "phone2": "8758303333",
+            "phone1": "8758303333",
+            "cityName": "Patan",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ507",
+            "email": "sales.patan@halleyskia.com",
+            "lat": "23.85619817"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

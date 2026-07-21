@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Shubh Kia, Srinagar",
+            "address3": "Distt-Pauri Garhwal, Uttarakhand-246174",
+            "lng": "75.511024",
+            "address2": "Village-Ufalda, Po-Shrinagar Garhwal,",
+            "cityCode": "N51",
+            "address1": "Ward No.39, RC Memorial Public School,",
+            "phone2": "9286836115",
+            "phone1": "8751900002",
+            "cityName": "Srinagar",
+            "stateName": "Uttarakhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UK",
+            "id": "UK602",
+            "lat": "30.328386"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

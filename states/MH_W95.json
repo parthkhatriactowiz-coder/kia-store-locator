@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.modi-kia-kalyan.com",
+            "dealerName": "Modi Kia, Kongaon, Kalyan",
+            "address3": " Kalyan MH -421311",
+            "lng": "73.091889",
+            "address2": "Near MGL CNG Station, Sapna Ind. Area,  Pimpalgaon",
+            "cityCode": "W95",
+            "address1": "Balaji Archade, Kalyan Biwandi Rd,",
+            "phone2": "8238089600",
+            "phone1": "8238089600",
+            "cityName": "Kalyan",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH312",
+            "email": "info@modikia.com",
+            "lat": "19.260646"
+        },
+        {
+            "website": "https://www.modi-kia-kalyan.com",
+            "dealerName": "Modi Kia, Kongaon, Kalyan",
+            "address3": " Kalyan MH -421311",
+            "lng": "73.09286767368022",
+            "address2": "Near MGL CNG Station, Sapna Ind. Area,  Pimpalgaon",
+            "cityCode": "W95",
+            "address1": "Balaji Archade, Kalyan Biwandi Rd,",
+            "phone2": "8655720582",
+            "phone1": "8655720582",
+            "cityName": "Kalyan",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH312",
+            "lat": "19.259757334161037"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

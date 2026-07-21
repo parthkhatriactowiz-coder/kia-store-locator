@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "JPS Kia, Hingoli Road",
+            "address3": " Washim, Maharashtra -444505",
+            "lng": "77.142885",
+            "address2": "Utsav Lawn, Near APMC Market Pusad Naka,",
+            "cityCode": "WBC",
+            "address1": "GF, Survey No. 84/1, Hingoli Road, Near",
+            "phone2": "8888886996",
+            "phone1": "8855075873",
+            "cityName": "Washim",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH603",
+            "lat": "20.097764"
+        },
+        {
+            "dealerName": "JPS Kia, Hingoli Road",
+            "address3": " Washim, Maharashtra -444505",
+            "lng": "77.142875",
+            "address2": "Utsav Lawn, Near APMC Market Pusad Naka,",
+            "cityCode": "WBC",
+            "address1": "GF, Survey No. 84/1, Hingoli Road, Near",
+            "phone2": "8956970653",
+            "phone1": "895670653",
+            "cityName": "Washim",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH603",
+            "email": "washim@jpskia.com",
+            "lat": "20.098685"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

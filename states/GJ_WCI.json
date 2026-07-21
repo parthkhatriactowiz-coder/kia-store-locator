@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.parin-kia-surendranagar.com",
+            "dealerName": "Parin Kia, Surendranagar",
+            "address3": "Surendranagar, Gujarat -363003",
+            "lng": "71.67092397253697",
+            "address2": " Opp Marketing Yard, Eadgwan,",
+            "cityCode": "WCI",
+            "address1": "Plot No 106, Near Sarvo Petrol Pump,",
+            "phone2": "7600930093",
+            "phone1": "7600930093",
+            "cityName": "Surendranagar",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ511",
+            "email": "info@parinmotors.com",
+            "lat": "22.721289575613028"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

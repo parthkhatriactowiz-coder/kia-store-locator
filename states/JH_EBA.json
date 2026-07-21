@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Horizon Kia, Daltonganj",
+            "address3": "Palamu, Jharkhand- 822101",
+            "lng": "84.084496",
+            "address2": "Ranchi Road, Redma, Medininagar,",
+            "cityCode": "EBA",
+            "address1": "RS Plot No 642,643,644,647,651,",
+            "phone2": "7520003101",
+            "phone1": "7520003101",
+            "cityName": "DALTONGANJ",
+            "stateName": "Jharkhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JH",
+            "id": "JH502",
+            "email": "Saleshead@horizonkia.com",
+            "lat": "24.031833"
+        },
+        {
+            "dealerName": "Horizon Kia, Daltonganj",
+            "address3": "Palamu, Jharkhand- 822101",
+            "lng": "84.084496",
+            "address2": "Ranchi Road, Redma, Medininagar,",
+            "cityCode": "EBA",
+            "address1": "RS Plot No 642,643,644,647,651,",
+            "phone2": "9031017659",
+            "phone1": "9031017686",
+            "cityName": "DALTONGANJ",
+            "stateName": "Jharkhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JH",
+            "id": "JH502",
+            "email": "service@horizonkia.com",
+            "lat": "24.031833"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Smart Kia, Pilibhit",
+            "address3": "Uttar Pradesh -262001",
+            "lng": "79.802204",
+            "address2": "Bareilly-Tanakpur Road, Pilibhit,",
+            "cityCode": "NDM",
+            "address1": "Khasra No-754/1,755/2,753,",
+            "phone2": "9412287602",
+            "phone1": "9758221271",
+            "cityName": "Pilibhit",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP525",
+            "lat": "28.618878"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

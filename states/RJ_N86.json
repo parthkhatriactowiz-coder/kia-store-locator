@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.MAHARIA-kia-JHUNJHUNU.com",
+            "dealerName": "Maharia Kia, Jhunjhunu",
+            "address3": "Rajasthan -333001",
+            "lng": "75.407893",
+            "address2": "Adarsh Nagar, Shiv Colony, Jhunjhunu,",
+            "cityCode": "N86",
+            "address1": "Somra Complex, Loharu-Sikar Road,",
+            "phone2": "7300003119",
+            "phone1": "7300003121",
+            "cityName": "Jhunjhunu",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ509",
+            "email": "gm.sales@mahariakia.co.in",
+            "lat": "28.118354"
+        },
+        {
+            "website": "https://www.MAHARIA-kia-JHUNJHUNU.com",
+            "dealerName": "Maharia Kia, Jhunjhunu",
+            "address3": "Rajasthan -333001",
+            "lng": "75.37828053",
+            "address2": " Shastri Nagar, Jhunjhunu,",
+            "cityCode": "N86",
+            "address1": "F-162, Riico Industrial Area,",
+            "phone2": "7300003119",
+            "phone1": "7300003119",
+            "cityName": "Jhunjhunu",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ509",
+            "email": "gm.service@mahariakia.co.in",
+            "lat": "28.09308924"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

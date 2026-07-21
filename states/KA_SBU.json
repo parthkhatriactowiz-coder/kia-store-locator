@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.aadarsh-kia-hassan.com",
+            "dealerName": "Aadarsh Kia, Hassan",
+            "address3": "Hassan-573201",
+            "lng": "76.073583",
+            "address2": "Doddamandiganahalli",
+            "cityCode": "SBU",
+            "address1": "#1016 & 1017, Kandali Village Panchayat",
+            "phone2": "9606034050",
+            "phone1": "9606034050",
+            "cityName": "Hassan",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA504",
+            "email": "saleshassan@volanzokia.in",
+            "lat": "12.993944"
+        },
+        {
+            "website": "https://www.aadarsh-kia-hassan.com",
+            "dealerName": "Aadarsh Kia, Hassan",
+            "address3": "Hassan-573201",
+            "lng": "76.073583",
+            "address2": "Doddamandiganahalli",
+            "cityCode": "SBU",
+            "address1": "#1016 & 1017, Kandali Village Panchayat",
+            "phone2": "9606039188",
+            "phone1": "9606039188",
+            "cityName": "Hassan",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA504",
+            "email": "gmservice@volanzokia.in",
+            "lat": "12.993944"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

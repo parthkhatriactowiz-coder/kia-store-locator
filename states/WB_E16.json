@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.rudra-kia-muchipara.com",
+            "dealerName": "Rudra Kia, Durgapur",
+            "address3": "Dist- Paschim Bardhaman- 713212",
+            "lng": "87.36387",
+            "address2": "Bashkopa,GT Road,NH2,Mouza Bamunara",
+            "cityCode": "E16",
+            "address1": "Under Bamunara G.P,P.S-Kanksa",
+            "phone2": "7479003582",
+            "phone1": "7479003582",
+            "cityName": "Durgapur",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB304",
+            "email": "gmsales@rudrakia.com",
+            "lat": "23.494694"
+        },
+        {
+            "website": "https://www.rudra-kia-muchipara.com",
+            "dealerName": "Rudra Kia, Durgapur",
+            "address3": "Dist- Paschim Bardhaman- 713212",
+            "lng": "87.36387",
+            "address2": "Bashkopa,GT Road,NH2,Mouza Bamunara",
+            "cityCode": "E16",
+            "address1": "Under Bamunara G.P,P.S-Kanksa",
+            "phone2": "9434745001",
+            "phone1": "9434745001",
+            "cityName": "Durgapur",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB304",
+            "lat": "23.494694"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

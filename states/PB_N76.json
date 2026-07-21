@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.yashodha-kia-sangrur.com",
+            "dealerName": "Yashodha Kia,Sangrur",
+            "address3": "Sangrur-148001",
+            "lng": "75.845358",
+            "address2": "Mehlan - Delhi Road",
+            "cityCode": "N76",
+            "address1": "Khasra No.171",
+            "phone2": "6280500001",
+            "phone1": "6280500001",
+            "cityName": "Sangrur",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB504",
+            "email": "sales@yashodha-kia.in",
+            "lat": "30.231217"
+        },
+        {
+            "website": "https://www.yashodha-kia-sangrur.com",
+            "dealerName": "Yashodha Kia,Sangrur",
+            "address3": "Sangrur-148001",
+            "lng": "75.845358",
+            "address2": "Mehlan - Delhi Road",
+            "cityCode": "N76",
+            "address1": "Khasra No.171",
+            "phone2": "6280500001",
+            "phone1": "6280500001",
+            "cityName": "Sangrur",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB504",
+            "email": "Service.sngr@yashodha-kia.in",
+            "lat": "30.231217"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.simha-kia-undi-highway.com",
+            "dealerName": "Simha Kia, Undi Highway",
+            "address3": "Bhimavaram – 534202",
+            "lng": "81.496515",
+            "address2": "Near Agriculture Check post, ",
+            "cityCode": "S61",
+            "address1": "SY No:140/2B, Pedamiram Undi Road, ",
+            "phone2": "999999999",
+            "phone1": "7331122044",
+            "cityName": "Bhimavaram",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP306",
+            "email": "salesmanager.bvrm@simha-kia.in",
+            "lat": "16.562355"
+        },
+        {
+            "website": "https://www.simha-kia-undi-highway.com",
+            "dealerName": "Simha Kia, Undi Highway",
+            "address3": "Bhimavaram – 534202",
+            "lng": "81.496515",
+            "address2": "Near Agriculture Check post, ",
+            "cityCode": "S61",
+            "address1": "SY No:140/2B, Pedamiram Undi Road, ",
+            "phone2": "999999999",
+            "phone1": "8688836598",
+            "cityName": "Bhimavaram",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP306",
+            "email": "Servicemanager.bvrm@simha-kia.in",
+            "lat": "16.562355"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

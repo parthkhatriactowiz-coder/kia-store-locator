@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "SNR Kia, Sehore",
+            "address3": "Sehore, Madhya Pradesh-466001",
+            "lng": "77.0251978",
+            "address2": "Indore Naka, Bhopal Indore Highway,",
+            "cityCode": "WAK",
+            "address1": "Plot No.- 324, Near Mantri Petrol Pump,",
+            "phone2": "9171151313",
+            "phone1": "7999676798",
+            "cityName": "Sehore",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP603",
+            "email": "gmsales@snrkia.com",
+            "lat": "23.2185173"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

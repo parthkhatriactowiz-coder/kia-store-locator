@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.ritu-kia-bhiwani.com",
+            "dealerName": "Ritu Kia, Bhiwani",
+            "address3": "Bhiwani, Haryana -127021",
+            "lng": "76.167938",
+            "address2": "Opposite Central School, Rohtak Road,",
+            "cityCode": "N74",
+            "address1": "Kila No 188/25/1,",
+            "phone2": "9992800000",
+            "phone1": "7419990999",
+            "cityName": "Bhiwani",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR410",
+            "email": "ccmbhiwani@ritukia.in",
+            "lat": "28.796967"
+        },
+        {
+            "website": "https://www.ritu-kia-bhiwani.com",
+            "dealerName": "Ritu Kia, Bhiwani",
+            "address3": "Haryana -127021",
+            "lng": "76.16763",
+            "address2": "Industrial Area, Bhiwani,",
+            "cityCode": "N74",
+            "address1": "Plot No-19,  Sector -21,",
+            "phone2": "9053009868",
+            "phone1": "9053009820",
+            "cityName": "Bhiwani",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR410",
+            "email": "ccmbhiwani@ritukia.in",
+            "lat": "28.79690"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

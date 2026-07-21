@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Destination Kia, Nadiad",
+            "address3": "Nadiad, Dist. Kheda, Gujarat -387370",
+            "lng": "72.892263",
+            "address2": "Plot, Uttarsanda, Nadiad-Uttarsanda Rd,",
+            "cityCode": "WCM",
+            "address1": "Block No 1041,1042, Nr. Sangaath Party",
+            "phone2": "9825017714",
+            "phone1": "9099656565",
+            "cityName": "NADIAD",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ514",
+            "lat": "22.666096"
+        },
+        {
+            "dealerName": "Destination Kia, Nadiad",
+            "address3": "Nadiad, Dist. Kheda, Gujarat -387370",
+            "lng": "72.89217",
+            "address2": "Plot, Uttarsanda, Nadiad-Uttarsanda Rd,",
+            "cityCode": "WCM",
+            "address1": "Block No 1041,1042, Nr. Sangaath Party",
+            "phone2": "9586962727",
+            "phone1": "9586962727",
+            "cityName": "NADIAD",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ514",
+            "email": "servicemanager@destinationkia.in",
+            "lat": "22.66604"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

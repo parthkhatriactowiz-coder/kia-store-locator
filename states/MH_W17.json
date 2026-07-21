@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Parshv Kia, Ring Road",
+            "address3": "Bhiwapur, Maharashtra – 442001",
+            "lng": "78.6315931",
+            "address2": "Ring Road, Wardha,",
+            "cityCode": "W17",
+            "address1": "Plot N. 5, Shegaokar City,",
+            "phone2": "8805044000",
+            "phone1": "7774074707",
+            "cityName": "Wardha",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH602",
+            "email": "sales@parshavkia.com",
+            "lat": "20.769948"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

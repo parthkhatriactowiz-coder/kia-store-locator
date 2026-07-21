@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Seth Kia, Damoh",
+            "address3": "Madhya Pradesh -470661",
+            "lng": "23.83257",
+            "address2": "Sagar Road, Damoh,",
+            "cityCode": "WDB",
+            "address1": "Infront Of Power Grid,",
+            "phone2": "9201969641",
+            "phone1": "9201969641",
+            "cityName": "DAMOH",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP601",
+            "email": "sales@sethkia.in",
+            "lat": "79.43215"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

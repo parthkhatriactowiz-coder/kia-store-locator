@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.dhingra-kia-sohna-gurgaon.com",
+            "dealerName": "Dhingra Kia, Sohna",
+            "address3": "Sohna, Gurugram, Haryana, 122103",
+            "lng": "77.066775",
+            "address2": "Adj. GD Goenka School, Gurgaon Alwar Road Sohna,",
+            "cityCode": "NCT",
+            "address1": "No. 97, Kila No. 4(8-0), 5(3-6), 6 (3-10",
+            "phone2": "8745900045",
+            "phone1": "8929900045",
+            "cityName": "SOHNA",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR508",
+            "email": "gmsales.sohan@dhingaramotors.com",
+            "lat": "28.263649"
+        },
+        {
+            "dealerName": "Dhingra Kia, Sohna",
+            "address3": "Sohna, Gurugram, Haryana, 122103",
+            "lng": "77.063885",
+            "address2": "Adj. GD Goenka School, Gurgaon Alwar Road Sohna,",
+            "cityCode": "NCT",
+            "address1": "No. 97, Kila No. 4(8-0), 5(3-6), 6 (3-10",
+            "phone2": "7065745000",
+            "phone1": "7065745000",
+            "cityName": "SOHNA",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR508",
+            "email": "sohna@dhingrakia.in",
+            "lat": "28.26467"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

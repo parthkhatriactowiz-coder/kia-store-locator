@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.bhavna-wheels-panvel-kia.com",
+            "dealerName": "Bhavna Kia, Panvel",
+            "address3": "New Panvel, Dist, Raigad    ",
+            "lng": "73.10557",
+            "address2": "Sector 17    ",
+            "cityCode": "W70",
+            "address1": "Shop No. 6 & 106, Bhoomi Landmark,     ",
+            "phone2": "9115142477",
+            "phone1": "9115142477",
+            "cityName": "Panvel",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH103",
+            "email": "info@bhavnakia.com",
+            "lat": "19.0088"
+        },
+        {
+            "website": "https://bhavna-wheels-nerul-kia.com",
+            "dealerName": "Bhavna Kia, Mumbai-Pune old Highway",
+            "address3": "Panvel,Dist-Raigad, MH -410221.",
+            "lng": "78.13680556",
+            "address2": "59/A,At-Kolkhe village",
+            "cityCode": "W70",
+            "address1": "Near D-Mart,Mumbai-Pune old Highway, Tal",
+            "phone2": "9930193000",
+            "phone1": "8655994173",
+            "cityName": "Panvel",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH204",
+            "email": "ccmservicepanvel@bhavnakia.com",
+            "lat": "18.96611111"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

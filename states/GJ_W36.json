@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.destination-kia-karamsad.com",
+            "dealerName": "Destination Kia, Karamsad",
+            "address3": "Karamsad, Anand-388325",
+            "lng": "72.91433978",
+            "address2": "Opp GMM, Anand-Sojitra Road",
+            "cityCode": "W36",
+            "address1": "Plot No. 535",
+            "phone2": "7948058224",
+            "phone1": "7948058224",
+            "cityName": "Anand",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ303",
+            "email": "sales@destinationkia.in",
+            "lat": "22.54052659"
+        },
+        {
+            "website": "https://www.destination-kia-karamsad.com",
+            "dealerName": "Destination Kia, Karamsad",
+            "address3": "Karamsad, Anand-388325",
+            "lng": "72.91433978",
+            "address2": "Opp GMM, Anand-Sojitra Road",
+            "cityCode": "W36",
+            "address1": "Plot No. 535",
+            "phone2": "999999999",
+            "phone1": "8320022065",
+            "cityName": "Anand",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ303",
+            "email": "servicemanager@destinationkia.in",
+            "lat": "22.54052659"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

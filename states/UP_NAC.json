@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.shiv-shakti-kia-barauli-baraut.com",
+            "dealerName": "Shree Shiv Shakti Kia, Baraut",
+            "address3": "Badili, Teh. Baraut, Baghpat, UP- 250611",
+            "lng": "77.21868",
+            "address2": "Shahpur Badoli Terahe Tak, Vill. Shahpur",
+            "cityCode": "NAC",
+            "address1": "Vanijyik Vjawan, Baraut, Patti Mehar, Si",
+            "phone2": "9520806111",
+            "phone1": "9520897021",
+            "cityName": "Baraut",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP522",
+            "email": "agmsales.kia@shreeshivshakti.com",
+            "lat": "29.08294"
+        },
+        {
+            "dealerName": "Shree Shiv Shakti Kia, Baraut",
+            "address3": "Badili, Teh. Baraut, Baghpat, UP- 250611",
+            "lng": "77.25165",
+            "address2": "Shahpur Badoli Terahe Tak, Vill. Shahpur",
+            "cityCode": "NAC",
+            "address1": "Vanijyik Vjawan, Baraut, Patti Mehar, Si",
+            "phone2": "9520998245",
+            "phone1": "9520806111",
+            "cityName": "Baraut",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP522",
+            "email": "gmservice.kia@shreeshivshakti.com",
+            "lat": "20.07921"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

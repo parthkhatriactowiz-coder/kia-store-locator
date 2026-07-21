@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.elite-kia-delhi-road.com",
+            "dealerName": "Elite Kia, Delhi Road",
+            "address3": "Haryana- 123401",
+            "lng": "76.640752",
+            "address2": "Delhi Road, Rewari ",
+            "cityCode": "N13",
+            "address1": "Near Abhay Singh Chowk,",
+            "phone2": "7419980700",
+            "phone1": "7419980700",
+            "cityName": "Rewari",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR305",
+            "email": "Gm.Sales@elitekia.in",
+            "lat": "28.200574"
+        },
+        {
+            "website": "https://www.elite-kia-delhi-road.com",
+            "dealerName": "Elite Kia, Delhi Road",
+            "address3": "Haryana- 123401",
+            "lng": "76.640752",
+            "address2": "Delhi Road, Rewari ",
+            "cityCode": "N13",
+            "address1": "Near Abhay Singh Chowk,",
+            "phone2": "7419980621",
+            "phone1": "7419980621",
+            "cityName": "Rewari",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR305",
+            "email": "Gm.service@elitekia.in",
+            "lat": "28.200574"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

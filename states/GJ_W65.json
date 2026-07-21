@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.surat-motorcars-navsari-kia.com",
+            "dealerName": "Surat Kia, Navsari",
+            "address3": "Gujarat - 396445",
+            "lng": "72.96395666137694",
+            "address2": "Grid Char Rasta, Kabilpore, Navsari",
+            "cityCode": "W65",
+            "address1": "Opp. Funcity Hotel, Nr.Bhana Petrol Pump",
+            "phone2": "9328941241",
+            "phone1": "9328941241",
+            "cityName": "Navsari",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ406",
+            "email": "sm.navsari@suratkia.in",
+            "lat": "20.94566117244489"
+        },
+        {
+            "website": "https://www.surat-motorcars-navsari-kia.com",
+            "dealerName": "Surat Kia, Navsari",
+            "address3": "Gujarat - 396463",
+            "lng": "72.96863492498052",
+            "address2": "Sisodra to itadva Road, Navsari,",
+            "cityCode": "W65",
+            "address1": "Next to Ahir Vas-Sisodra Village,",
+            "phone2": "9898902452",
+            "phone1": "9898902452",
+            "cityName": "Navsari",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ406",
+            "email": "smservice.navsari@suratkia.in",
+            "lat": "20.927954168752695"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.maharia-kia-jaipur-road.com",
+            "dealerName": "Maharia Kia, Jaipur Road",
+            "address3": "Rajasthan - 332001",
+            "lng": "75.16593",
+            "address2": "Jaipur Road, Sikar,",
+            "cityCode": "N78",
+            "address1": "Plot No 484 A/B,",
+            "phone2": "8107710001",
+            "phone1": "7300003127",
+            "cityName": "Sikar",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ303",
+            "email": "gm.sales@mahariakia.co.in",
+            "lat": "27.59484"
+        },
+        {
+            "website": "https://www.maharia-kia-jaipur-road.com",
+            "dealerName": "Maharia Kia, Jaipur Road",
+            "address3": "Rajasthan - 332001",
+            "lng": "75.16593",
+            "address2": "Jaipur Road, Sikar,",
+            "cityCode": "N78",
+            "address1": "Plot No 484 A/B,",
+            "phone2": "8107710001",
+            "phone1": "7300003119",
+            "cityName": "Sikar",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ303",
+            "email": "gm.service@mahariakia.co.in",
+            "lat": "27.59484"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

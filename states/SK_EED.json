@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Kaanha Kia, Ranipool, Gangtok",
+            "address3": ", Gangtok, Sikkim-737135",
+            "lng": "88.5857",
+            "address2": "758, Rumtek, Adampool, Rawtey, ",
+            "cityCode": "EED",
+            "address1": "Ground Floor, Kasra No:366, Khatiyan No ",
+            "phone2": "9046236300",
+            "phone1": "9046236300",
+            "cityName": "Gangtok",
+            "stateName": "Sikkim",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "SK",
+            "id": "SK501",
+            "email": "info@kaanhakia.com",
+            "lat": "27.30504"
+        },
+        {
+            "dealerName": "Kaanha Kia, Ranipool, Gangtok",
+            "address3": "Dist. Gangtok, Sikkim -737102",
+            "lng": "88.58477",
+            "address2": ", Lower Samdur, Adampool, Upper Tadong, ",
+            "cityCode": "EED",
+            "address1": "Khatiyan No 1059, P No 945/1334, Ranipoo",
+            "phone2": "9046236301",
+            "phone1": "9046236300",
+            "cityName": "Gangtok",
+            "stateName": "Sikkim",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "SK",
+            "id": "SK501",
+            "email": "info@kaanhakia.com",
+            "lat": "27.30735"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

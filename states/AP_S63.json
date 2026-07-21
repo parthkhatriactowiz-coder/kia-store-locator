@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.hoshi-auto-bangalore-byepass-kia.com",
+            "dealerName": "Hoshi Kia, Bangalore byepass",
+            "address3": "Chittur Tirupathi-517520",
+            "lng": "79.4760023",
+            "address2": "Chennai, Bangalore Bypass",
+            "cityCode": "S63",
+            "address1": "Hitec Nissan, 714/ 2B, Tukivakam, 200 ft",
+            "phone2": "999999999",
+            "phone1": "8688829739",
+            "cityName": "Tirupati",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP304",
+            "email": "mgrsaltpt@hoshikia.com",
+            "lat": "13.6149688"
+        },
+        {
+            "website": "https://www.hoshi-auto-bangalore-byepass-kia.com",
+            "dealerName": "Hoshi Kia, Bangalore byepass",
+            "address3": "Chittur Tirupathi-517520",
+            "lng": "79.4760023",
+            "address2": "Chennai, Bangalore Bypass",
+            "cityCode": "S63",
+            "address1": "Hitec Nissan, 714/ 2B, Tukivakam, 200 ft",
+            "phone2": "8688829737",
+            "phone1": "8688829737",
+            "cityName": "Tirupati",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP304",
+            "email": "Mgrsertpt@hoshikia.com",
+            "lat": "13.6149688"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

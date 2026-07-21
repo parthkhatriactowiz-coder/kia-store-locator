@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.raja-kia-kaithal.com",
+            "dealerName": "Raja Kia, Kaithal",
+            "address3": "Opposite Arena Showroom, Kaithal-136027",
+            "lng": "76.42086",
+            "address2": "Rect No.69,Ambala Road",
+            "cityCode": "N15",
+            "address1": "Khewat No.827/1,Khatoni No. 1006/1",
+            "phone2": "7710105600",
+            "phone1": "07948060002",
+            "cityName": "Kaithal",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR306",
+            "email": "gmsales@rajakia.in",
+            "lat": "29.82514"
+        },
+        {
+            "website": "https://www.raja-kia-kaithal.com",
+            "dealerName": "Raja Kia, Kaithal",
+            "address3": "Opposite Arena Showroom, Kaithal-136027",
+            "lng": "76.42086",
+            "address2": "Rect No.69,Ambala Road",
+            "cityCode": "N15",
+            "address1": "Khewat No.827/1,Khatoni No. 1006/1",
+            "phone2": "7710105601",
+            "phone1": "07948060002",
+            "cityName": "Kaithal",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR306",
+            "email": "smservice@rajakia.in",
+            "lat": "29.82514"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

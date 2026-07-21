@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.pipada-kia-beed.com",
+            "dealerName": "Pipada Kia, Beed",
+            "address3": "Maharashtra-431122",
+            "lng": "75.75428",
+            "address2": "Ghospuri, Taluka and Dist- Beed,",
+            "cityCode": "WBT",
+            "address1": "Gut no 61, Near Pagariya Auto,",
+            "phone2": "7507611111",
+            "phone1": "7507611111",
+            "cityName": "BEED",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH510",
+            "email": "priteshpipada11@gmail.com",
+            "lat": "19.0446269"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

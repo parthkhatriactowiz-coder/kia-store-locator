@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.kumar-kia-gulbarga.com",
+            "dealerName": "Kumar Kia, Gulbarga",
+            "address3": "Pin: 585104",
+            "lng": "76.8548292",
+            "address2": "Humnabad Road",
+            "cityCode": "S85",
+            "address1": "Sy No 80, Kapnoor Industrial Area",
+            "phone2": "7829990740",
+            "phone1": "7829990740",
+            "cityName": "Gulbarga",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA310",
+            "email": "gmsales@kumarkia.com",
+            "lat": "17.3742403"
+        },
+        {
+            "website": "https://www.kumar-kia-gulbarga.com",
+            "dealerName": "Kumar Kia, Gulbarga",
+            "address3": "Pin: 585104",
+            "lng": "76.8548292",
+            "address2": "Humnabad Road",
+            "cityCode": "S85",
+            "address1": "Sy No 80, Kapnoor Industrial Area",
+            "phone2": "7829990752",
+            "phone1": "7829990752",
+            "cityName": "Gulbarga",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA310",
+            "email": "Bilgundimotors.glb@gmail.com",
+            "lat": "17.3742403"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

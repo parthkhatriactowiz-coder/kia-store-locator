@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Updesh Kia, Neemuch",
+            "address3": " Madhya Pradesh -458441",
+            "lng": "74.878424",
+            "address2": ", In Front Jio Petrol Pump , Neemuch,",
+            "cityCode": "WDA",
+            "address1": "Building No.20/50, Mhowmain Neemuch Road",
+            "phone2": "9144444473",
+            "phone1": "6232323915",
+            "cityName": "Neemuch",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP313",
+            "email": "gmsales@updeshkia.in",
+            "lat": "24.438038"
+        },
+        {
+            "dealerName": "Updesh Kia, Neemuch",
+            "address3": " Madhya Pradesh -458441",
+            "lng": "74.877429",
+            "address2": ", In Front Jio Petrol Pump , Neemuch,",
+            "cityCode": "WDA",
+            "address1": "Building No.20/50, Mhowmain Neemuch Road",
+            "phone2": "6232323913",
+            "phone1": "6232323913",
+            "cityName": "Neemuch",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP313",
+            "email": "gmservice@updeshkia.in",
+            "lat": "24.439127"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

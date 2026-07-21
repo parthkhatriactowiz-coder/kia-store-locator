@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.incheon-kia-thodupuzha.com",
+            "dealerName": "Incheon Kia, Thodupuzha",
+            "address3": "Manakkad Post, Thodupuzha, Kerala-685608",
+            "lng": "76.6994307",
+            "address2": "Vengaloor-Kolani Byepass Road, Manakkad Jn. ",
+            "cityCode": "SIM",
+            "address1": "Sy.No.570/2, ",
+            "phone2": "8111879117",
+            "phone1": "8111879111",
+            "cityName": "Thodupuzha",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL509",
+            "email": "enquiry@incheonkia.com",
+            "lat": "9.9031262"
+        },
+        {
+            "website": "https://www.incheon-kia-thodupuzha.com",
+            "dealerName": "Incheon Kia, Thodupuzha",
+            "address3": "Manakkad Post, Thodupuzha, Kerala-685608",
+            "lng": "76.6170288",
+            "address2": "Vengaloor-Kolani Byepass Road, Manakkad Jn.",
+            "cityCode": "SIM",
+            "address1": "Sy.No.570/2, ",
+            "phone2": "6282016152",
+            "phone1": "6282016152",
+            "cityName": "Thodupuzha",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL509",
+            "email": "Servicemanager.thodupuzha@gmail.com",
+            "lat": "9.9031162"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

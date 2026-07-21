@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.hoshi-auto-kadapa-kia.com",
+            "dealerName": "Hoshi Kia, Kadapa",
+            "address3": "Ysr District",
+            "lng": "78.86189",
+            "address2": "Cuddapah, Ysr District",
+            "cityCode": "SEL",
+            "address1": "No.38/173-10-5-1,Chinna Chowk,",
+            "phone2": "9849492619",
+            "phone1": "9100773485",
+            "cityName": "Kadappa",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP502",
+            "email": "mgrsaltpt@hoshikia.com",
+            "lat": "14.46656"
+        },
+        {
+            "website": "https://www.hoshi-auto-kadapa-kia.com",
+            "dealerName": "Hoshi Kia, Kadapa",
+            "address3": "Ysr District",
+            "lng": "78.86189",
+            "address2": "Cuddapah, Ysr District",
+            "cityCode": "SEL",
+            "address1": "No.38/173-10-5-1,Chinna Chowk,",
+            "phone2": "6301015262",
+            "phone1": "6301015262",
+            "cityName": "Kadappa",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP502",
+            "email": "i2skdp@hoshikia.com",
+            "lat": "14.46656"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

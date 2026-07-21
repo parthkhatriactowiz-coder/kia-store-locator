@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.incheon-kia-vadanappally-thrissur.com",
+            "dealerName": "Incheon Kia, Vadanappally",
+            "address3": "Vadanappally, Thrissur, Kerala -680619,",
+            "lng": "76.0670600",
+            "address2": "Ezham Kallu Road, Trittallur,",
+            "cityCode": "SIK",
+            "address1": "Sy.No.52/4-4,Sy.No 52/4-5, Sy.No 53/2-5,",
+            "phone2": "9995479780",
+            "phone1": "8111879111",
+            "cityName": "Vadanappally",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL312",
+            "email": "enquiry@incheonkia.com",
+            "lat": "10.4924946"
+        },
+        {
+            "website": "https://www.incheon-kia-vadanappally-thrissur.com",
+            "dealerName": "Incheon Kia, Vadanappally",
+            "address3": "Vadanappally, Thrissur, Kerala -680619,",
+            "lng": "75.7810831",
+            "address2": "Ezham Kallu Road, Trittallur,",
+            "cityCode": "SIK",
+            "address1": "Sy.No.52/4-4,Sy.No 52/4-5, Sy.No 53/2-5,",
+            "phone2": "8111879150",
+            "phone1": "8111879150",
+            "cityName": "Vadanappally",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL312",
+            "email": "service.vadanappally@incheonkia.com",
+            "lat": "11.7629068"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

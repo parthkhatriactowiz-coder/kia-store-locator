@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.sant-autocraft-kangra-kia.com",
+            "dealerName": "Sant Kia, Kangra",
+            "address3": "Himachal Pradesh -176056",
+            "lng": "76.312333",
+            "address2": "V.P.O. Tanda Kholi, Teh. & Distt Kangra,",
+            "cityCode": "N82",
+            "address1": "KNo.1647, NH 154, Palampur Pathankot Rd",
+            "phone2": "01892-292655",
+            "phone1": "01892-292655",
+            "cityName": "Kangra",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP401",
+            "lat": "32.109335"
+        },
+        {
+            "dealerName": "Sant Kia, Kangra",
+            "address3": "Distt. Kangra, Himachal Pradesh-176047",
+            "lng": "76.40988",
+            "address2": "P.O. Malan, Teh. Nagrota Bhagwan,",
+            "cityCode": "N82",
+            "address1": "K No. 1141/111, Muhal Jhikli Ambari,",
+            "phone2": "7876906855",
+            "phone1": "7876906855",
+            "cityName": "Kangra",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP401",
+            "email": "service.kangra@santautocraft-kia.in",
+            "lat": "32.11331"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

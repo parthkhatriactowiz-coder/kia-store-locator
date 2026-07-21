@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.Kalra-kia-hazaribagh.com",
+            "dealerName": "Kalra Kia, Hazaribagh",
+            "address3": "Hazaribagh, JH- 825301",
+            "lng": "85.37341",
+            "address2": "Plot no. 1011:1005:1008:1022:1016:1017,",
+            "cityCode": "E67",
+            "address1": "Mauza Hudhudu, ward 32, Thana no. 147,",
+            "phone2": "8860969554",
+            "phone1": "8860969554",
+            "cityName": "Hazaribagh",
+            "stateName": "Jharkhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JH",
+            "id": "JH305",
+            "email": "kalraautomovers@gmail.com",
+            "lat": "23.97417"
+        },
+        {
+            "website": "https://www.kalra-kia-hazaribag.com",
+            "dealerName": "Kalra Kia, Hazaribagh",
+            "address3": "Hazaribagh, JH- 825301",
+            "lng": "85.37341",
+            "address2": "Plot no. 1011:1005:1008:1022:1016:1017,",
+            "cityCode": "E67",
+            "address1": "Mauza Hudhudu, ward 32, Thana no. 147,",
+            "phone2": "8860969554",
+            "phone1": "8241889325",
+            "cityName": "Hazaribagh",
+            "stateName": "Jharkhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "JH",
+            "id": "JH305",
+            "email": "Works@kalrakia.com",
+            "lat": "23.97417"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

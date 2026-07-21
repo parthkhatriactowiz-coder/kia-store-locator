@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.nigla-kia-nirjuli.com",
+            "dealerName": "Nigla Kia, Nirjuli",
+            "address3": "Itanagar, Arunachal Pradesh",
+            "lng": "93.725417",
+            "address2": "Naharlagun, District - Papumpare",
+            "cityCode": "E45",
+            "address1": "Nh-415 Lekhi",
+            "phone2": "6033858060",
+            "phone1": "6033858060",
+            "cityName": "Itanagar",
+            "stateName": "Arunachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AR",
+            "id": "AR301",
+            "email": "agm@niglakia.co.in",
+            "lat": "27.125011"
+        },
+        {
+            "website": "https://www.nigla-kia-nirjuli.com",
+            "dealerName": "Nigla Kia, Nirjuli",
+            "address3": "Itanagar, Arunachal Pradesh",
+            "lng": "93.725417",
+            "address2": "Naharlagun, District - Papumpare",
+            "cityCode": "E45",
+            "address1": "Nh-415 Lekhi",
+            "phone2": "6033858090",
+            "phone1": "6033858090",
+            "cityName": "Itanagar",
+            "stateName": "Arunachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AR",
+            "id": "AR301",
+            "email": "servicemanager@niglakia.co.in",
+            "lat": "27.125011"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

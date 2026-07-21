@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.gopinathji-kia-bharuch.com",
+            "dealerName": "Gopinathji Kia, Bharuch",
+            "address3": "Bharuch, Gujarat -392210",
+            "lng": "21.75812",
+            "address2": "N.H. No 8, AT Vaghusana,",
+            "cityCode": "W49",
+            "address1": "Near Aithi Resort,",
+            "phone2": "7874513131",
+            "phone1": "7874513131",
+            "cityName": "Bharuch",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ319",
+            "email": "salesmgr.bharuch@gopinathjikia.in",
+            "lat": "73.0194"
+        },
+        {
+            "website": "https://www.gopinathji-kia-bharuch.com",
+            "dealerName": "Gopinathji Kia, Bharuch",
+            "address3": "Bharuch, Gujarat -392210",
+            "lng": "73.0194",
+            "address2": "N.H. No 8, AT Vaghusana,",
+            "cityCode": "W49",
+            "address1": "Near Aithi Resort,",
+            "phone2": "9825128838",
+            "phone1": "9825128838",
+            "cityName": "Bharuch",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ319",
+            "email": "sm.bharuch@gopinathjikia.in",
+            "lat": "21.75812"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

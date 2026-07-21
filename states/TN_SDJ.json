@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.pressana-kia-namakkal.com",
+            "dealerName": "Pressana Kia, Namakkal",
+            "address3": "NAMAKKAL, TAMIL NADU - 637001",
+            "lng": "78.1433514",
+            "address2": "SALEM MAIN ROAD",
+            "cityCode": "SDJ",
+            "address1": "SF NO.137/1",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Namakkal",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN504",
+            "email": "info@pressanakia.in",
+            "lat": "11.247965"
+        },
+        {
+            "website": "https://www.pressana-kia-namakkal.com",
+            "dealerName": "Pressana Kia, Namakkal",
+            "address3": "NAMAKKAL, TAMIL NADU - 637001",
+            "lng": "78.1433514",
+            "address2": "SALEM MAIN ROAD",
+            "cityCode": "SDJ",
+            "address1": "SF NO.137/1",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Namakkal",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN504",
+            "email": "info@pressanakia.in",
+            "lat": "11.247965"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

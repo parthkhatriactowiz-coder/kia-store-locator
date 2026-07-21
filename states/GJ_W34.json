@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.bm-kia-airport-crossways.com",
+            "dealerName": "BM Kia, Airport Crossways",
+            "address3": "Vil.Galpadar, Gandhidham- 370240",
+            "lng": "70.10251536",
+            "address2": "National Highway No 8",
+            "cityCode": "W34",
+            "address1": "Land Survey No 93/2",
+            "phone2": "7567565452",
+            "phone1": "7567565452",
+            "cityName": "Gandhidham",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ311",
+            "email": "sales@bmkia.net",
+            "lat": "23.09430674"
+        },
+        {
+            "website": "https://www.bm-kia-airport-crossways.com",
+            "dealerName": "BM Kia, Airport Crossways",
+            "address3": "Vil.Galpadar, Gandhidham- 370240",
+            "lng": "70.10251536",
+            "address2": "National Highway No 8",
+            "cityCode": "W34",
+            "address1": "Land Survey No 93/2",
+            "phone2": "8980021051",
+            "phone1": "8980021051",
+            "cityName": "Gandhidham",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ311",
+            "email": "gmservice@bmkia.net",
+            "lat": "23.09430674"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

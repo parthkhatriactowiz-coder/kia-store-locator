@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.dada-kia-bughipura.com",
+            "dealerName": "Dada Kia, Moga",
+            "lng": "75.1876726",
+            "address2": "Moga, Punjab-142001",
+            "cityCode": "N71",
+            "address1": "Near Bugipura Chowk, ",
+            "phone2": "8557889999",
+            "phone1": "8557889999",
+            "cityName": "Moga",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB502",
+            "email": "kiamoga@dadamotors.com",
+            "lat": "30.8216575"
+        },
+        {
+            "website": "https://www.dada-kia-bughipura.com",
+            "dealerName": "Dada Kia, Moga",
+            "lng": "75.21149",
+            "address2": "Moga, Punjab-142001",
+            "cityCode": "N71",
+            "address1": "Near Bugipura Chowk, ",
+            "phone2": "8557889999",
+            "phone1": "8557889999",
+            "cityName": "Moga",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB502",
+            "email": "kiamoga@dadamotors.com",
+            "lat": "30.81602"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

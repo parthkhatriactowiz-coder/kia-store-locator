@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.bhagirath-kia-jaitapur.com",
+            "dealerName": "Bhagirath Kia, Khargone",
+            "address3": "Madhya Pradesh- 451001",
+            "lng": "21.8456483",
+            "address2": "Sanawad Road, Gram Balwadi, Khargone",
+            "cityCode": "WCZ",
+            "address1": "Patwari Halka No. 35/25,",
+            "phone2": "7354911000",
+            "phone1": "7354911000",
+            "cityName": "Khargone",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP508",
+            "email": "smkhargone@bhagirathkia.com",
+            "lat": "75.648525"
+        },
+        {
+            "website": "https://www.bhagirath-kia-jaitapur.com",
+            "dealerName": "Bhagirath Kia, Khargone",
+            "address3": "Madhya Pradesh- 451001",
+            "lng": "21.845806",
+            "address2": "Sanawad Road, Gram Balwadi, Khargone",
+            "cityCode": "WCZ",
+            "address1": "Patwari Halka No. 35/25,",
+            "phone2": "9981099999",
+            "phone1": "9981099999",
+            "cityName": "Khargone",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP508",
+            "email": "gmservice@bhagirathkia.com\t",
+            "lat": "75.648639"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

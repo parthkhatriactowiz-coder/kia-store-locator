@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.ramani-kia-elambalur.com",
+            "dealerName": "Ramani Kia, Perambalur",
+            "address3": "Tamil Nadu- 621212",
+            "lng": "78.896028",
+            "address2": "Elambalur Panchayat, Perumbalur,",
+            "cityCode": "SBF",
+            "address1": "Plot No. 103, Sf No. 383/2J2,",
+            "phone2": "9500944424",
+            "phone1": "9500944424",
+            "cityName": "Perambalur",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN601",
+            "email": "sashi@vw-ramanicars.co.in",
+            "lat": "11.247972"
+        },
+        {
+            "dealerName": "Ramani Kia, Perambalur",
+            "address3": "Tamil Nadu- 621212",
+            "lng": "78.8960",
+            "address2": "Elambalur Panchayat, Perumbalur,",
+            "cityCode": "SBF",
+            "address1": "Plot No. 103, Sf No. 383/2J2,",
+            "phone2": "8925978478",
+            "phone1": "8925978478",
+            "cityName": "Perambalur",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN601",
+            "email": "service.pmblr@ramani.com",
+            "lat": "11.2479"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.nrl-wheels-kia.com",
+            "dealerName": "NRL Kia, Greater Noida",
+            "address3": "Greater Noida, UP -201306",
+            "lng": "77.52364",
+            "address2": "Upsida Industrial Area, Surajpur Kasna Road,",
+            "cityCode": "N95",
+            "address1": "B-1, Surajpur Site 4,",
+            "phone2": "8929484657",
+            "phone1": "8929484657",
+            "cityName": "Greater Noida",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP316",
+            "email": "Contact@nrlkia.com",
+            "lat": "28.45611"
+        },
+        {
+            "website": "https://www.nrl-wheels-kia.com",
+            "dealerName": "NRL Kia, Greater Noida",
+            "address3": "Greater Noida, UP -201306",
+            "lng": "77.52505",
+            "address2": "Upsida Industrial Area, Surajpur Kasna Road,",
+            "cityCode": "N95",
+            "address1": "B-1, Surajpur Site 4,",
+            "phone2": "8929484657",
+            "phone1": "8929484657",
+            "cityName": "Greater Noida",
+            "stateName": "Uttar Pradesh",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "UP",
+            "id": "UP316",
+            "email": "md@nrlkia.in",
+            "lat": "28.4742"
+        },
+        {
+            "website": "https://www.nrl-wheels-kia.com",
+            "dealerName": "NRL Kia, Greater Noida",
+            "address3": "Greater Noida, UP -201306",
+            "lng": "77.52364",
+            "address2": "Upsida Industrial Area, Surajpur Kasna Road,",
+            "cityCode": "N95",
+            "address1": "B-1, Surajpur Site 4,",
+            "phone2": "8929484657",
+            "phone1": "8929484657",
+            "cityName": "Greater Noida",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP316",
+            "email": "gmservice@nrlkia.com",
+            "lat": "28.45611"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

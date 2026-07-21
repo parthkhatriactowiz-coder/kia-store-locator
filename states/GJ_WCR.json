@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.rathod-kia-valsad.com",
+            "dealerName": "Rathod Kia, Valsad",
+            "address3": "Gujarat -396007",
+            "lng": "72.95496",
+            "address2": "Parnera Pardi, Valsad,",
+            "cityCode": "WCR",
+            "address1": "Block No.861, 864, Nh48,",
+            "phone2": "9227799525",
+            "phone1": "9227799525",
+            "cityName": "VALSAD",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ513",
+            "email": "sm.salesvalsad@rathodkia.com",
+            "lat": "20.56908"
+        },
+        {
+            "dealerName": "Rathod Kia, Valsad",
+            "address3": "Gujarat -396007",
+            "lng": "72.95496",
+            "address2": "Parnera Pardi, Valsad,",
+            "cityCode": "WCR",
+            "address1": "Block No.861, 864, Nh48,",
+            "phone2": "7436090260",
+            "phone1": "7436090260",
+            "cityName": "VALSAD",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ513",
+            "email": "crm.service@rathodkia.com",
+            "lat": "20.56908"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Virendra Kia, Farrukhabad",
+            "address3": "Farrukhabad, Uttar Pradesh- 209625",
+            "lng": "79.605861",
+            "address2": "Petrol Pump, Central Jail Road Fatehghar",
+            "cityCode": "NDC",
+            "address1": "Khasra No.300 Narayanpur, Near Reliance",
+            "phone2": "7869572105/9425113838",
+            "phone1": "9520987005",
+            "cityName": "FARRUKHABAD",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP518",
+            "email": "bhavyasinghchaturvedi@virendrakia.net",
+            "lat": "27.367472"
+        },
+        {
+            "dealerName": "Virendra Kia, Farrukhabad",
+            "address3": "Farrukhabad, Uttar Pradesh- 209625",
+            "lng": "79.605859",
+            "address2": "Petrol Pump, Central Jail Road Fatehghar",
+            "cityCode": "NDC",
+            "address1": "Khasra No.300 Narayanpur, Near Reliance",
+            "phone2": "9520987001",
+            "phone1": "9520987001",
+            "cityName": "FARRUKHABAD",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP518",
+            "email": "gmservice@virendrakia.net",
+            "lat": "27.367146"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

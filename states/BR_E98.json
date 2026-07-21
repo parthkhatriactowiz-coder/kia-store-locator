@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Mavra Kia, Motihari",
+            "address3": "East Champaran, Bihar- 845401",
+            "lng": "84.92305",
+            "address2": "Near GD Goenka Public School, Motihari,",
+            "cityCode": "E98",
+            "address1": "GF, Plot No–353, NH-28,Chatauni Chowk,",
+            "phone2": "7070093843",
+            "phone1": "9117155002",
+            "cityName": "Motihari",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR504",
+            "email": "md@mavrakia.com",
+            "lat": "26.66786"
+        },
+        {
+            "dealerName": "Mavra Kia, Motihari",
+            "address3": "East Champaran, Bihar- 845401",
+            "lng": "84.9265",
+            "address2": "Near GD Goenka Public School, Motihari,",
+            "cityCode": "E98",
+            "address1": "GF, Plot No–353, NH-28,Chatauni Chowk,",
+            "phone2": "9031076907",
+            "phone1": "9031076907",
+            "cityName": "Motihari",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR504",
+            "email": "servicemth@mavrakia.com",
+            "lat": "26.6642"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

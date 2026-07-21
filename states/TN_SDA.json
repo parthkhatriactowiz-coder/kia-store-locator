@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "ARAS Kia, Theni",
+            "address3": "Theni, Tamil Nadu -625531",
+            "lng": "77.494772",
+            "address2": "Eswar Nagar, Vadaveeranaickenpatty,",
+            "cityCode": "SDA",
+            "address1": "No. 289, 2, Periyakulam Main Road,",
+            "phone2": "7845904898",
+            "phone1": "7845904898",
+            "cityName": "Theni",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN606",
+            "email": "sales.theni@aras-kia.in",
+            "lat": "10.041965"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.arm-kia-puttur.com",
+            "dealerName": "A.R.M Kia, Puttur",
+            "address3": " Dakshina Kannada (D), Karnataka -574202",
+            "lng": "75.218202",
+            "address2": " Mantapa, Kemminje Village, Puttur Taluk,",
+            "cityCode": "SEF",
+            "address1": "Sy. No: 210/8(P), Near Subhasra Kalyana",
+            "phone2": "9606912058",
+            "phone1": "9606048739",
+            "cityName": "Puttur",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA514",
+            "email": "gmsales@armkia.com",
+            "lat": "12.745019"
+        },
+        {
+            "dealerName": "A.R.M Kia, Puttur",
+            "address3": " Dakshina Kannada (D), Karnataka -574202",
+            "lng": "75.21819",
+            "address2": " Mantapa, Kemminje Village, Puttur Taluk,",
+            "cityCode": "SEF",
+            "address1": "Sy. No: 210/8(P), Near Subhasra Kalyana",
+            "phone2": "9606035520",
+            "phone1": "9606035520",
+            "cityName": "Puttur",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA514",
+            "email": "service.puttur@armkia.com",
+            "lat": "12.74508"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

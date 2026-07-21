@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.shiv-shakti-kia-shamli.com",
+            "dealerName": "Shree Shiv Shakti Kia, Shamli",
+            "address3": "Uttar Pradesh -247776",
+            "lng": "77.293474",
+            "address2": "Power House, Kheri Karmu, Shamli,",
+            "cityCode": "NBD",
+            "address1": "Shamli-Kairana Road, Near Kheri Karmu",
+            "phone2": "9760000117",
+            "phone1": "9520897020",
+            "cityName": "Shamli",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP601",
+            "lat": "29.43956"
+        },
+        {
+            "dealerName": "Shree Shiv Shakti Kia, Shamli",
+            "address3": "Uttar Pradesh -247776",
+            "lng": "77.29365",
+            "address2": "Power House, Kheri Karmu, Shamli,",
+            "cityCode": "NBD",
+            "address1": "Shamli-Kairana Road, Near Kheri Karmu",
+            "phone2": "9520998245",
+            "phone1": "9520806111",
+            "cityName": "Shamli",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP601",
+            "email": "gmservice.kia@shreeshivshakti.com",
+            "lat": "29.43943"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

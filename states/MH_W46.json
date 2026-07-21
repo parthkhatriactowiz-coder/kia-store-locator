@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.konduskar-kia-sangli.com",
+            "dealerName": "Konduskar Kia, Kolhapur Road, Sangli",
+            "address3": "Maharashtra -416416",
+            "lng": "74.564029",
+            "address2": "Kolhapur Road, Sangli,",
+            "cityCode": "W46",
+            "address1": "222/2, Sai Nagar,",
+            "phone2": "7796611118",
+            "phone1": "7796611118",
+            "cityName": "Sangli",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH310",
+            "email": "sm.sangli@konduskar-kia.in",
+            "lat": "16.836671"
+        },
+        {
+            "website": "https://www.konduskar-kia-sangli.com",
+            "dealerName": "Konduskar Kia, Kolhapur Road, Sangli",
+            "address3": "Maharashtra -416416",
+            "lng": "74.564029",
+            "address2": "Kolhapur Road, Sangli,",
+            "cityCode": "W46",
+            "address1": "222/2, Sai Nagar,",
+            "phone2": "7796611110",
+            "phone1": "7796611110",
+            "cityName": "Sangli",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH310",
+            "email": "rohit@konduskar-kia.in",
+            "lat": "16.8366708"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

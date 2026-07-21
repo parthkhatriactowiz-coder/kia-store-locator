@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.sandeep-cars-chittorgarh-kia.com",
+            "dealerName": "Sandeep Kia, Chittorgarh",
+            "address3": "Chittorgarh , Rajasthan-312001",
+            "lng": "74.624407",
+            "address2": "Plot No 3,",
+            "cityCode": "N57",
+            "address1": "Old Industrial Area,",
+            "phone2": "7230061245",
+            "phone1": "7230061245",
+            "cityName": "Chittorgarh",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ502",
+            "email": "cco.manager@sandeepkia.in",
+            "lat": "24.899311"
+        },
+        {
+            "website": "https://www.sandeep-cars-chittorgarh-kia.com",
+            "dealerName": "Sandeep Kia, Chittorgarh",
+            "address3": "Chittorgarh , Rajasthan-312001",
+            "lng": "74.624407",
+            "address2": "Plot No 3,",
+            "cityCode": "N57",
+            "address1": "Old Industrial Area,",
+            "phone2": "7230091634",
+            "phone1": "7230091634",
+            "cityName": "Chittorgarh",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ502",
+            "lat": "24.899311"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

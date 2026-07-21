@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Raja Kia, Safidon",
+            "address3": " Dist. Jind, Haryana -126112",
+            "lng": "76.674923",
+            "address2": "Near BRSK School, Panipat Road, Safidon,",
+            "cityCode": "NAL",
+            "address1": "P No. 171, Khevat No. 145, K No. 160,",
+            "phone2": "9728625777",
+            "phone1": "9728625777",
+            "cityName": "Safidon",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR602",
+            "lat": "29.411189"
+        },
+        {
+            "dealerName": "Raja Kia, Safidon",
+            "address3": " Dist. Jind, Haryana -126112",
+            "lng": "76.32360",
+            "address2": "Near BRSK School, Panipat Road, Safidon,",
+            "cityCode": "NAL",
+            "address1": "P No. 171, Khevat No. 145, K No. 160,",
+            "phone2": "9138800867",
+            "phone1": "9138800867",
+            "cityName": "Safidon",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR602",
+            "email": "smservices@rajakia.net",
+            "lat": "29.29238"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

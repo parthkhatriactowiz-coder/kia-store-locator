@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.automotive-kia-khammam.com",
+            "dealerName": "Automotive Kia, Wyra Road, Khammam",
+            "address3": "Telangana - 507002",
+            "lng": "80.19369046",
+            "address2": "Gopalapuram, Khammam Urban, Khammam",
+            "cityCode": "SEK",
+            "address1": "Sy. No. 89, Velugumatla Village,",
+            "phone2": "7702411221",
+            "phone1": "9704111425",
+            "cityName": "KHAMMAM",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS304",
+            "email": "smsales.kia@automotiveml.com",
+            "lat": "17.24103872"
+        },
+        {
+            "website": "https://www.automotive-kia-khammam.com",
+            "dealerName": "Automotive Kia, Wyra Road, Khammam",
+            "address3": "Telangana - 507002",
+            "lng": "80.1934361",
+            "address2": "Gopalapuram, Khammam Urban, Khammam,",
+            "cityCode": "SEK",
+            "address1": "Sy. No. 89, Velugumatla Village,",
+            "phone2": "6309908177",
+            "phone1": "6309908177",
+            "cityName": "KHAMMAM",
+            "stateName": "Telangana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TS",
+            "id": "TS304",
+            "email": "servicemanager.kiakhm@automotiveml.com",
+            "lat": "17.2413593"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

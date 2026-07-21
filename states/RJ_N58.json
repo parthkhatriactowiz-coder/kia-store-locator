@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.paras-kia-sriganganagar.com",
+            "dealerName": "Paras Kia, Sriganganagar",
+            "address3": "Sriganganagar, Rajasthan -335001",
+            "lng": "73.90104",
+            "address2": "Hanumangarh-Suratgarh Byepass Road,",
+            "cityCode": "N58",
+            "address1": "Vill. 3 ML,",
+            "phone2": "9001833525",
+            "phone1": "9001833525",
+            "cityName": "Sri Ganganagar",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ304",
+            "email": "sales@paraskia.com",
+            "lat": "29.88627"
+        },
+        {
+            "website": "https://www.paras-kia-sriganganagar.com",
+            "dealerName": "Paras Kia, Sriganganagar",
+            "address3": "Sriganganagar, Rajasthan -335001",
+            "lng": "73.90104",
+            "address2": "Hanumangarh-Suratgarh Byepass Road,",
+            "cityCode": "N58",
+            "address1": "Vill. 3 ML,",
+            "phone2": "9694055525",
+            "phone1": "9694055525",
+            "cityName": "Sri Ganganagar",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ304",
+            "email": "gmservice@paraskia.com",
+            "lat": "29.88627"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

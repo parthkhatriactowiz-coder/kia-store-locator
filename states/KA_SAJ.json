@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "website": "https://www.jansi-kia-chitradurga.com",
+            "dealerName": "Jansi Kia, Chitradurga",
+            "address3": "Karnataka-577501",
+            "lng": "76.422808",
+            "address2": "Industrial Area, Chitradurga,",
+            "cityCode": "SAJ",
+            "address1": "Plot No. 74/C, KIADB Kelakote",
+            "phone2": "9535774432",
+            "cityName": "Chitradurga",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA515",
+            "lat": "14.210895"
+        },
+        {
+            "dealerName": "Jansi Kia, Chitradurga",
+            "address3": "Karnataka-577501",
+            "lng": "76.422791",
+            "address2": "Industrial Area, Chitradurga,",
+            "cityCode": "SAJ",
+            "address1": "Plot No. 74/C, KIADB Kelakote",
+            "phone2": "6366980653",
+            "phone1": "6366980649",
+            "cityName": "Chitradurga",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA515",
+            "email": "ctdservice@jansikia.in",
+            "lat": "14.210888"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

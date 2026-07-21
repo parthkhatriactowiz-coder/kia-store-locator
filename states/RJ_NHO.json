@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.kumbhat-motors-jalora-kia.com",
+            "dealerName": "Kumbhat Kia, Jalore",
+            "address3": "Rajasthan - 343001",
+            "lng": "25.3726744",
+            "address2": "7073/729, Bishangarh Road, Jalore,",
+            "cityCode": "NHO",
+            "address1": "Khasra Number 1071/730,",
+            "phone2": "9829022241",
+            "phone1": "9829027060",
+            "cityName": "JALORE",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ508",
+            "email": "kumbhat.motors@kumbhatgroup.org",
+            "lat": "72.6052354"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

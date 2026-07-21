@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.ganges-kia-howrah.com",
+            "dealerName": "Ganges Kia, Howrah",
+            "address3": "West Bengal, 711403",
+            "lng": "88.264806",
+            "address2": "Munshidanga Jublimath Howrah,",
+            "cityCode": "E76",
+            "address1": "NH 6, Salap More,",
+            "phone2": "9830022060",
+            "phone1": "9230976151",
+            "cityName": "Howrah",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB306",
+            "email": "customercare@gangeskia.com",
+            "lat": "22.608750"
+        },
+        {
+            "website": "https://www.ganges-kia-howrah.com",
+            "dealerName": "Ganges Kia, Howrah",
+            "address3": "West Bengal, 711403",
+            "lng": "88.26493133",
+            "address2": "Munshidanga Jublimath Howrah,",
+            "cityCode": "E76",
+            "address1": "NH 6, Salap More,",
+            "phone2": "9230974680",
+            "phone1": "9230974680",
+            "cityName": "Howrah",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB306",
+            "email": "SERVICE.MANAGER@GANGESKIA.COM",
+            "lat": "22.60953854"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

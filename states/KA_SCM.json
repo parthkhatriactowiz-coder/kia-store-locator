@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.epitome-automobiles-kolar-kia.com",
+            "dealerName": "Epitome Kia, Kolar",
+            "address3": "Petechamanahally, Kolar-563101",
+            "lng": "78.132747",
+            "address2": "C.V.Ramaiah Layout, R.V.Gardens,",
+            "cityCode": "SCM",
+            "address1": "Plot No,14-2-11-148A/30,",
+            "phone2": "999999999",
+            "phone1": "7829244655",
+            "cityName": "Kolar",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA503",
+            "email": "ccm@epitomekia.in",
+            "lat": "13.1180133"
+        },
+        {
+            "website": "https://www.epitome-automobiles-kolar-kia.com",
+            "dealerName": "Epitome Kia, Kolar",
+            "address3": "Petechamanahally, Kolar-563101",
+            "lng": "78.132747",
+            "address2": "C.V.Ramaiah Layout, R.V.Gardens,",
+            "cityCode": "SCM",
+            "address1": "Plot No,14-2-11-148A/30,",
+            "phone2": "9620003287",
+            "phone1": "7829244731",
+            "cityName": "Kolar",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA503",
+            "email": "ccm.service@epitomekia.in",
+            "lat": "13.1180133"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Lakshita Kia, Agartala",
+            "address3": "West Tripura, Tripura -799005",
+            "lng": "91.33",
+            "address2": "Near Indian Oil Petrol Pump, Agartala,",
+            "cityCode": "E48",
+            "address1": "Assam Agartala ROAD, Khayerpur,",
+            "phone2": "9830555295",
+            "phone1": "9436762688",
+            "cityName": "Agartala",
+            "stateName": "Tripura",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TR",
+            "id": "TR401",
+            "email": "ashisdas@LakshitaKia.com",
+            "lat": "23.84"
+        },
+        {
+            "dealerName": "Lakshita Kia, Agartala",
+            "address3": "West Tripura, Tripura -799006",
+            "lng": "91.3415",
+            "address2": " East Champamura, Agartala,",
+            "cityCode": "E48",
+            "address1": "Old Agartala, Baipass Road, Kalitala,",
+            "phone2": "7085456406",
+            "phone1": "7630005130",
+            "cityName": "Agartala",
+            "stateName": "Tripura",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TR",
+            "id": "TR401",
+            "email": "Servicefrontoffice@lakshitakia.com",
+            "lat": "23.8331"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

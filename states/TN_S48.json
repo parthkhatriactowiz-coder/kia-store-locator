@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "website": "https://www.ramani-kia-thanjavur.com",
+            "dealerName": "Ramani Kia, Thanjavur",
+            "address3": "Vilar, Thanjavur, Tamil Nadu -613006",
+            "lng": "79.12023",
+            "address2": "Highway, Madhakottai Bypass, Nanchikottai Vill.,",
+            "cityCode": "S48",
+            "address1": "SF No.187/12,12A3, Trichy To Nagai",
+            "phone2": "9944144444",
+            "cityName": "Thanjavur",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN319",
+            "lat": "10.73928"
+        },
+        {
+            "dealerName": "Ramani Kia, Thanjavur",
+            "address3": "Vilar, Thanjavur, Tamil Nadu -613006",
+            "lng": "79.12014",
+            "address2": "Highway, Madhakottai Bypass, Nanchikottai Vill.,",
+            "cityCode": "S48",
+            "address1": "SF No.187/12,12A3, Trichy To Nagai",
+            "phone2": "8925985013",
+            "phone1": "8925985013",
+            "cityName": "Thanjavur",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN319",
+            "email": "workshop.tnj@ramanikia.com",
+            "lat": "10.73927"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

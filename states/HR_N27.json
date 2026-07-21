@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.ritu-kia-sirsa.com",
+            "dealerName": "Ritu Kia, Sirsa",
+            "address3": "Haryana-125055",
+            "lng": "75.039420",
+            "address2": "Near OHM Cinema, Sirsa,",
+            "cityCode": "N27",
+            "address1": "VPO Moriwala, Hisar Road,",
+            "phone2": "9910099706",
+            "phone1": "9053009900",
+            "cityName": "Sirsa",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR309",
+            "email": "gmsales@ritukia.in",
+            "lat": "29.534250"
+        },
+        {
+            "website": "https://www.ritu-kia-sirsa.com",
+            "dealerName": "Ritu Kia, Sirsa",
+            "address3": "Haryana-125055",
+            "lng": "75.039420",
+            "address2": "Near OHM Cinema, Sirsa,",
+            "cityCode": "N27",
+            "address1": "VPO Moriwala, Hisar Road,",
+            "phone2": "9053009848",
+            "phone1": "9053009848",
+            "cityName": "Sirsa",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR309",
+            "email": "service.sirsa@ritukia.in",
+            "lat": "29.534250"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

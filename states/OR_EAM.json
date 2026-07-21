@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://central-kia-angul.com",
+            "dealerName": "Central Kia, Angul",
+            "address3": "Angul - 759128",
+            "lng": "85.184062",
+            "address2": "Tahsil- Banapal",
+            "cityCode": "EAM",
+            "address1": "Plot no- 4123 Mouza- Gotamara,",
+            "phone2": "7440002936",
+            "phone1": "7440002901",
+            "cityName": "Angul",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD502",
+            "email": "customercare@centralkia.in",
+            "lat": "20.844864"
+        },
+        {
+            "website": "https://central-kia-angul.com",
+            "dealerName": "Central Kia, Angul",
+            "address3": "Angul - 759128",
+            "lng": "85.184062",
+            "address2": "Tahsil- Banapal",
+            "cityCode": "EAM",
+            "address1": "Plot no- 4123 Mouza- Gotamara,",
+            "phone2": "7440002937",
+            "phone1": "7440002936",
+            "cityName": "Angul",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD502",
+            "email": "i2sinchargeangul@centralkia.in",
+            "lat": "20.844864"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

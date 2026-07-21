@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Galaxy Kia, Jhalawar",
+            "address3": "Water Park, Jhalawar, Rajasthan-326001",
+            "lng": "76.117492",
+            "address2": "NH-12, Kota Road, In Front of Mukundra",
+            "cityCode": "NFX",
+            "address1": "K No.374/171, 376/172, Vill. Vrindavan,",
+            "phone2": "9829389955",
+            "phone1": "9829389955",
+            "cityName": "JHALAWAR",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ512",
+            "email": "MD@GALAXYKIA.IN",
+            "lat": "24.609278"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

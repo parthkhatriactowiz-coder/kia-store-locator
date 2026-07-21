@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "United Kia, Pratapgarh",
+            "address3": "Uttar Pradesh -230131",
+            "lng": "81.966385",
+            "address2": "Faizabad - Allahabad Road, Pratapgarh,",
+            "cityCode": "NCX",
+            "address1": "Sarai Sagar, Bahlolpur,",
+            "phone2": "9005450742",
+            "phone1": "9005450742",
+            "cityName": "Pratapgarh",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP524",
+            "email": "QGYmFG9vsz7BoK",
+            "lat": "25.864567"
+        },
+        {
+            "dealerName": "United Kia, Pratapgarh",
+            "address3": "Uttar Pradesh -230131",
+            "lng": "81.96626",
+            "address2": "Faizabad - Allahabad Road, Pratapgarh,",
+            "cityCode": "NCX",
+            "address1": "Sarai Sagar, Bahlolpur,",
+            "phone2": "9005950435",
+            "phone1": "8601788888",
+            "cityName": "Pratapgarh",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP524",
+            "email": "manish@unitedkia.in",
+            "lat": "25.86482"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

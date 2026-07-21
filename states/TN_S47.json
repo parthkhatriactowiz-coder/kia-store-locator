@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.aras-kia-nagecoil.com",
+            "dealerName": "ARAS Kia, Nagercoil",
+            "address3": "Nagercoil, Tamilnadu-629003",
+            "lng": "77.40656682195869",
+            "address2": " Rd, Opp Ayyapan Temple, Parvathipuram,",
+            "cityCode": "S47",
+            "address1": "254A, No-27/1, 4-1, Kottar-Parvathipuram",
+            "phone2": "8110000801",
+            "phone1": "8110000801",
+            "cityName": "Nagercoil",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN515",
+            "email": "asm.ngl@aras-kia.in",
+            "lat": "8.187052897750014"
+        },
+        {
+            "website": "https://www.aras-kia-nagecoil.com",
+            "dealerName": "ARAS Kia, Nagercoil",
+            "address3": "Tamilnadu-629001",
+            "lng": "77.461334",
+            "address2": "Agastheswaram Taluk, Nagercoil,",
+            "cityCode": "S47",
+            "address1": "Sy No 49/9A, Kanyakumari Highway,",
+            "phone2": "7305015100",
+            "phone1": "7305015100",
+            "cityName": "Nagercoil",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN515",
+            "email": "asmservice.ngl@aras-kia.in",
+            "lat": "8.191328"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

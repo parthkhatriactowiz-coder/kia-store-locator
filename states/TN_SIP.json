@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.SVM-kia-Chennai.com",
+            "dealerName": "SVM Kia, Guduvancherry",
+            "address3": "Guduvancherry, TN -603203",
+            "lng": "80.047023",
+            "address2": "Next To HP Fuel Station, Nandivaram,",
+            "cityCode": "SIP",
+            "address1": "5/1B, GST Road, Near Zoho,",
+            "phone2": "8939880000",
+            "phone1": "8939980000",
+            "cityName": "Guduvancheri",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN512",
+            "email": "smgdc@svmkia.com",
+            "lat": "12.831343"
+        },
+        {
+            "website": "https://www.SVM-kia-Chennai.com",
+            "dealerName": "SVM Kia, Guduvancherry",
+            "address3": "Guduvancherry, TN -603203",
+            "lng": "80.047139",
+            "address2": "Next To HP Fuel Station, Nandivaram,",
+            "cityCode": "SIP",
+            "address1": "5/1B, GST Road, Near Zoho,",
+            "phone2": "8939880000",
+            "phone1": "8939880000",
+            "cityName": "Guduvancheri",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN512",
+            "email": "smgdr@svmkia.com",
+            "lat": "12.831394"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

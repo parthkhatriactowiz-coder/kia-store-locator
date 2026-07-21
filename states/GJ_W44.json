@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "dealerName": "Vibrant Kia, Kudasan",
+            "address3": "Gandhinagar, Gujarat -382421",
+            "lng": "72.638972",
+            "address2": "Kudasan-Dholakuva, Moje-Kudasan,",
+            "cityCode": "W44",
+            "address1": "Shop No. E-1&2 , Radhe Infinity,",
+            "phone2": "9099016196",
+            "phone1": "9099016196",
+            "cityName": "Gandhinagar",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ605",
+            "email": "kia.gandhinagar@karnavati.co",
+            "lat": "23.184508"
+        },
+        {
+            "website": "https://www.vibrant-kia-sector-28-gidc.com",
+            "dealerName": "Vibrant Kia, Sector 28 GIDC",
+            "address3": "Gandhinagar-382028",
+            "lng": "72.65319965",
+            "address2": "Sec-28 GIDC",
+            "cityCode": "W44",
+            "address1": "Plot-1001/1002",
+            "phone2": "9099033325",
+            "phone1": "9099033325",
+            "cityName": "Gandhinagar",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ301",
+            "email": "kia.sales@karnavati.co",
+            "lat": "23.25584732"
+        },
+        {
+            "website": "https://www.vibrant-kia-sector-28-gidc.com",
+            "dealerName": "Vibrant Kia, Sector 28 GIDC",
+            "address3": "Gandhinagar-382028",
+            "lng": "72.65319965",
+            "address2": "Sec-28 GIDC",
+            "cityCode": "W44",
+            "address1": "Plot-1001/1002",
+            "phone2": "9909039711",
+            "phone1": "9909039711",
+            "cityName": "Gandhinagar",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ301",
+            "email": "worksmanager@vibrantkia.com",
+            "lat": "23.25584732"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

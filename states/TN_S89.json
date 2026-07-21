@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.vst-central-kia-thorapalli-agraharam-hosur.com",
+            "dealerName": "VST Kia, Hosur",
+            "address3": "Hosur, TN - 635109",
+            "lng": "77.87469444",
+            "address2": "Thorapalli Agragharam,",
+            "cityCode": "S89",
+            "address1": "Survey no.42/2A1B,",
+            "phone2": "7845805068",
+            "phone1": "7845805068",
+            "cityName": "Hosur",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN309",
+            "email": "salesmanager.hosur@vstcentral-kia.in",
+            "lat": "12.71736111"
+        },
+        {
+            "website": "https://www.vst-central-kia-thorapalli-agraharam-hosur.com",
+            "dealerName": "VST Kia, Hosur",
+            "address3": "TN - 635109",
+            "lng": "77.8746944",
+            "address2": "Thorapalli Agragharam, Housur",
+            "cityCode": "S89",
+            "address1": "Survey no.42/2A1B,",
+            "phone2": "8870243334",
+            "phone1": "8870243334",
+            "cityName": "Hosur",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN309",
+            "email": "servicemanager.hosur@vstcentral-kia.in",
+            "lat": "12.71736111"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

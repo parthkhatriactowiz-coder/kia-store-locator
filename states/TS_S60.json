@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.automotive-kia-nalgonda.com",
+            "dealerName": "Automotive Kia, Nalgonda",
+            "lng": "79.253345",
+            "address2": "Nalgonda 508001",
+            "cityCode": "S60",
+            "address1": "Marriguda  By-Pass Near Nrs Garden,",
+            "phone2": "6309908176",
+            "phone1": "6309908183",
+            "cityName": "Nalgonda",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS503",
+            "email": "service.kianlg@automotiveml.com",
+            "lat": "17.093873"
+        },
+        {
+            "website": "https://www.automotive-kia-nalgonda.com",
+            "dealerName": "Automotive Kia, Nalgonda",
+            "lng": "79.253345",
+            "address2": "Nalgonda 508001",
+            "cityCode": "S60",
+            "address1": "Marriguda  By-Pass Near Nrs Garden,",
+            "phone2": "6309908176",
+            "phone1": "6309908176",
+            "cityName": "Nalgonda",
+            "stateName": "Telangana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TS",
+            "id": "TS503",
+            "email": "service.kianlg@automotiveml.com",
+            "lat": "17.093873"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Ratan Kia, Village - Guleria",
+            "address3": "Tehsil Sujangarh, Rajasthan-331507",
+            "lng": "74.455795",
+            "address2": "Tilokchand College, Village Guleria,",
+            "cityCode": "NIM",
+            "address1": "Khasra No. 492/200, Near Parmanand",
+            "phone2": "9257026671",
+            "phone1": "9257026671",
+            "cityName": "Sujangarh",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ602",
+            "lat": "27.750902"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

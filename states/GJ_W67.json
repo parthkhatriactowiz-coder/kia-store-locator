@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.halleys-kia-near-gayatri-temple.com",
+            "dealerName": "Halleys Kia, Near Gayatri Temple",
+            "address3": "Near Gayatri Temple, Dist: Banaskantha",
+            "lng": "72.430618",
+            "address2": "B/s Shivam Auto Mall,",
+            "cityCode": "W67",
+            "address1": "NH No. 27, Palanpur",
+            "phone2": "999999999",
+            "phone1": "8758221111",
+            "cityName": "Palanpur",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ310",
+            "email": "sales@halleyskia.com",
+            "lat": "24.191063"
+        },
+        {
+            "website": "https://www.halleys-kia-near-gayatri-temple.com",
+            "dealerName": "Halleys Kia CPO, Palanpur",
+            "address3": "Near Gayatri Temple, Dist: Banaskantha",
+            "lng": "72.4303692",
+            "address2": "B/s Shivam Auto Mall,",
+            "cityCode": "W67",
+            "address1": "NH No. 27, Palanpur",
+            "phone2": "999999999",
+            "phone1": "9512014017",
+            "cityName": "Palanpur",
+            "stateName": "Gujarat",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "GJ",
+            "id": "GJ310",
+            "email": "cpo@halleyskia.com",
+            "lat": "24.1910812"
+        },
+        {
+            "website": "https://www.halleys-kia-near-gayatri-temple.com",
+            "dealerName": "Halleys Kia, Near Gayatri Temple",
+            "address3": "Near Gayatri Temple, Dist: Banaskantha",
+            "lng": "72.430618",
+            "address2": "B/s Shivam Auto Mall,",
+            "cityCode": "W67",
+            "address1": "NH No. 27, Palanpur",
+            "phone2": "8758303333",
+            "phone1": "8758303333",
+            "cityName": "Palanpur",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ310",
+            "email": "service@halleyskia.com",
+            "lat": "24.191063"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

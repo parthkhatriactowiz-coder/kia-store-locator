@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.Incheon-kia-Ayathil.com",
+            "dealerName": "Incheon Kia, Ayathil, Kollam",
+            "address3": "Kollam, Kerala 691021",
+            "lng": "76.6319825",
+            "address2": "GF & FF, AJ Towers, Ayathil, Kottamkara,",
+            "cityCode": "S91",
+            "address1": "KMC-3137/148, 3138/148,",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Kollam",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL405",
+            "email": "enquiry@incheonkia.com",
+            "lat": "8.8882599"
+        },
+        {
+            "website": "https://www.Incheon-kia-Ayathil.com",
+            "dealerName": "Incheon Kia CPO, Kollam",
+            "address3": "Kerala 691010",
+            "lng": "76.6204",
+            "address2": "P.O, P.A. Aziz Esplanade, Kollam_Sh,",
+            "cityCode": "S91",
+            "address1": "Pallimukku,Vadakkevila,",
+            "phone2": "8111879117",
+            "phone1": "8111879117",
+            "cityName": "Kollam",
+            "stateName": "Kerala",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "KL",
+            "id": "KL405",
+            "email": "usedcar@incheonkia.com",
+            "lat": "8.8759"
+        },
+        {
+            "website": "https://www.Incheon-kia-Ayathil.com",
+            "dealerName": "Incheon Kia, Ayathil, Kollam",
+            "address3": "Kollam, Kerala 691017",
+            "lng": "76.63186",
+            "address2": "Kollam-Ayoor Rd, Anugraha Nagar, Ayathil,",
+            "cityCode": "S91",
+            "address1": "KMC 30/567,",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Kollam",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL405",
+            "email": "enquire@incheonkia.com",
+            "lat": "8.89392"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

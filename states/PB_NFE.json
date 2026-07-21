@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Gitansh Kia, Faridkot",
+            "address3": "Faridkot, Punjab -151203",
+            "lng": "74.6702744",
+            "address2": "Near Baba Farid Law College, Faridkot,",
+            "cityCode": "NFE",
+            "address1": "Faridkot, Kotakpura Road,",
+            "phone2": "8264633033",
+            "phone1": "8288081854",
+            "cityName": "FARIDKOT",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB511",
+            "email": "salesmgr.frdkot@gitanshkia.in",
+            "lat": "30.6637376"
+        },
+        {
+            "dealerName": "Gitansh Kia, Faridkot",
+            "address3": "Faridkot, Punjab -151203",
+            "lng": "74.6702744",
+            "address2": "Near Baba Farid Law College, Faridkot,",
+            "cityCode": "NFE",
+            "address1": "Faridkot, Kotakpura Road,",
+            "phone2": "8264633033",
+            "phone1": "8288081868",
+            "cityName": "FARIDKOT",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB511",
+            "email": "service@gitanshkia.in",
+            "lat": "30.6637376"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

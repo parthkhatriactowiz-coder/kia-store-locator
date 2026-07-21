@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Karma Kia, Etah",
+            "address3": ", Uttar Pradesh-207001",
+            "lng": "78.634258",
+            "address2": "Warehouse, Village Asroli G.T Road, Etah",
+            "cityCode": "NHH",
+            "address1": "Gata No-164/2 &170/172/173, Near FCI",
+            "phone2": "7617666456",
+            "phone1": "7617666456",
+            "cityName": "Etah",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP322",
+            "email": "gmsales@karmakia.com",
+            "lat": "27.577038"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

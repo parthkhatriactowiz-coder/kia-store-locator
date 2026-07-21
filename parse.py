@@ -1,84 +1,19 @@
-from parsel import Selector
-
-
-def parse_cities(states_file):
-    html = states_file.read_text(encoding="utf-8")
-    selector = Selector(text=html)
-
+def parse_cities(states_json):
+    base_url = "https://www.kia.com/in/buy/find-a-dealer/result.html"
     locations = []
 
-    stores = selector.xpath('//div[@class="panel panel-default custom-panel"]')
+    for data in states_json:
 
-    for store in stores:
-
-        branch = (
-            store.xpath('.//p[contains(@class,"city-main-sub-title")]/text()')
-            .get(default="")
-            .strip()
-        )
-
-        address = (
-            store.xpath('.//p[contains(@class,"grey-text")][1]/text()')
-            .get(default="")
-            .strip()
-        )
-
-        delivery_time = (
-            store.xpath('.//p[contains(@class,"red-text")]/text()')
-            .get(default="")
-            .strip()
-        )
-
-        cost = (
-            store.xpath('.//div[contains(@class,"res-cost")]//span[last()]/text()')
-            .get(default="")
-            .strip()
-        )
-
-        hours = (
-            store.xpath(
-                './/div[contains(@class,"res-timing")]//div[contains(@class,"search-grid-right-text")]/text()[1]'
-            )
-            .get(default="")
-            .strip()
-        )
-
-        status = (
-            store.xpath(
-                './/div[contains(@class,"res-timing")]//span[contains(@class,"green")]/text()'
-            )
-            .get(default="")
-            .strip()
-        )
-
-        good_for = (
-            store.xpath('.//div[contains(@class,"clearfix")]//p[@class="mb-0"]/text()')
-            .get(default="")
-            .strip()
-        )
-
-        store_url = store.xpath(
-            '(//div[contains(@class, "media-body")]/a/@href)[1]'
-        ).get()
-        phone = (
-            store.xpath(
-                './/div[contains(@class,"modal-body")]/p[contains(@class,"zred")]/text()'
-            )
-            .get(default="")
-            .strip()
-        )
+        address = f"{data.get('address1', '')} {data.get('address2', '')}".strip()
 
         locations.append(
             {
-                "branch": branch,
+                "url": f'{base_url}?state={data["stateCode"]}&city={data["cityCode"]}',
                 "address": address,
-                "delivery_time": delivery_time,
-                "cost": cost,
-                "hours": hours,
-                "status": status,
-                "good_for": good_for,
-                "phone": phone,
-                "store_url": "https://www.dominos.co.in" + store_url,
+                "state_name": data.get("stateName", ""),
+                "city_name": data.get("cityName", ""),
+                "phone_number": data.get("phone1", ""),
+                "email": data.get("email", ""),
             }
         )
 

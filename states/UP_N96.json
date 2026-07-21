@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.virendra-kia-etawah.com",
+            "dealerName": "Virendra Kia, Etawah",
+            "address3": "Kanpur Road, Etawah, UP-206001",
+            "lng": "26.767301",
+            "address2": "Chaturvedi Nagar, Pakka Bagh,",
+            "cityCode": "N96",
+            "address1": "Khasra No.  10-70, Khatoni No 140,",
+            "phone2": "9520987005",
+            "phone1": "9520987005",
+            "cityName": "Etawah",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP311",
+            "email": "gmsales@virendrakia.net",
+            "lat": "26.767301"
+        },
+        {
+            "website": "https://www.virendra-kia-etawah.com",
+            "dealerName": "Virendra Kia, Etawah",
+            "address3": "Kanpur Road, Etawah, UP-206001",
+            "lng": "79.038762",
+            "address2": "Chaturvedi Nagar, Pakka Bagh,",
+            "cityCode": "N96",
+            "address1": "Khasra No.  10-70, Khatoni No 140,",
+            "phone2": "9520987001",
+            "phone1": "9520987001",
+            "cityName": "Etawah",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP311",
+            "lat": "26.767301"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

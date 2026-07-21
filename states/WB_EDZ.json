@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.rudra-kia-burdwan.com",
+            "dealerName": "Rudra Kia, Burdwan",
+            "address3": "Dist- Purba Burdwan, WB -713104",
+            "lng": "87.893688",
+            "address2": "Ullash More, Burdwan NH Bypass, PO-Joteram,",
+            "cityCode": "EDZ",
+            "address1": "P No 231, Opp Mahila ITI College,",
+            "phone2": "7479003543",
+            "phone1": "7479003543",
+            "cityName": "Burdwan",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB502",
+            "email": "smbwn@rudrakia.com",
+            "lat": "23.21829"
+        },
+        {
+            "dealerName": "Rudra Kia, Burdwan",
+            "address3": "Dist- Purba Burdwan, WB -713104",
+            "lng": "87.893757",
+            "address2": "Ullash More, Burdwan NH Bypass,",
+            "cityCode": "EDZ",
+            "address1": "P No 231, Opp Mahila ITI College,",
+            "phone2": "7479003543",
+            "phone1": "7479003543",
+            "cityName": "Burdwan",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB502",
+            "email": "smbwn@rudrakia.in",
+            "lat": "23.218225"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

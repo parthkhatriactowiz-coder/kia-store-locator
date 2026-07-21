@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.maosaji-kia-raigarh.com",
+            "dealerName": "Maosaji Kia, Raigarh",
+            "address3": "Raigarh, Chhattisgarh- 496001",
+            "lng": "83.394272",
+            "address2": "61/28, Ward No. 45,",
+            "cityCode": "WCW",
+            "address1": "Bhagwanpur, Jindal Road,",
+            "phone2": "9770511222",
+            "phone1": "9343604983",
+            "cityName": "RAIGARH",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG502",
+            "email": "salesraigarh@maosajikia.com",
+            "lat": "21.894291"
+        },
+        {
+            "website": "https://www.maosaji-kia-raigarh.com",
+            "dealerName": "Maosaji Kia, Raigarh",
+            "address3": "Raigarh, Chhattisgarh- 496001",
+            "lng": "21.920604",
+            "address2": "61/28, Ward No. 45,",
+            "cityCode": "WCW",
+            "address1": "Bhagwanpur, Jindal Road,",
+            "phone2": "9770511222",
+            "phone1": "9770511222",
+            "cityName": "RAIGARH",
+            "stateName": "Chhattisgarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CG",
+            "id": "CG502",
+            "email": "Khandelwalnitish@hotmail.com",
+            "lat": "21.920604"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

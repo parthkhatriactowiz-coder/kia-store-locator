@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.ransh-kia-bahadurgarh-haryana.com",
+            "dealerName": "Ransh Kia, Bahadurgarh",
+            "address3": "Jhajjar, Haryana, 124507",
+            "lng": "76.9486648",
+            "address2": "Delhi Rohtak Rd, MIE Part B, Bahadurgarh,",
+            "cityCode": "NBE",
+            "address1": "K No 33/12/2, 13/1 & 18/2, Pillar No 787",
+            "phone2": "9996176000",
+            "phone1": "7419004160",
+            "cityName": "Bahadurgarh",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR409",
+            "email": "gm.salesbh@ranshkia.com",
+            "lat": "28.6893802"
+        },
+        {
+            "dealerName": "Ransh Kia, Bahadurgarh",
+            "address3": "Dist Jhajjar Haryana -124507",
+            "lng": "76.94533",
+            "address2": "Near Sainik Public School, Bahadurgarh,",
+            "cityCode": "NBE",
+            "address1": "K No-1520/57 Sec-9 Bypass Road,",
+            "phone2": "7082200426",
+            "phone1": "7082200427",
+            "cityName": "Bahadurgarh",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR409",
+            "email": "gm.servicebh@ranshkia.com",
+            "lat": "28.67249"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

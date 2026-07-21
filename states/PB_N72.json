@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.joshi-kia-phase-7-mohali.com",
+            "dealerName": "Joshi Kia, Industrial Area, Phase 7",
+            "address3": "Mohali, Punjab- 160055",
+            "lng": "76.703683",
+            "address2": "Industrial Area, Phase 7,",
+            "cityCode": "N72",
+            "address1": "Plot No. C-108,",
+            "phone2": "7087000222",
+            "phone1": "7087000222",
+            "cityName": "Mohali",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB402",
+            "email": "gaurav.misra@joshikia.in",
+            "lat": "30.72003"
+        },
+        {
+            "website": "https://joshi-kia-industrial-area-phase-1.com",
+            "dealerName": "Joshi Kia, Industrial Area, Phase 7",
+            "address3": "Punjab -160055",
+            "lng": "76.699664",
+            "address2": "Industrial Area, Phase 7, Mohali,",
+            "cityCode": "N72",
+            "address1": "Plot No. C-144,",
+            "phone2": "7087919100",
+            "phone1": "7087919100",
+            "cityName": "Mohali",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB402",
+            "email": "servicemanager.mhl@joshikia.in",
+            "lat": "30.716648"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

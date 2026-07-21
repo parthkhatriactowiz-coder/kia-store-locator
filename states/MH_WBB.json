@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.aryodaya-kia-gondia.com",
+            "dealerName": "Aryodaya Kia, Fulchor Road Gondia",
+            "address3": " Fulchor Rd, Gondia, Maharashtra -441601",
+            "lng": "80.201045",
+            "address2": "Nagar Parisad Malmatta No 11/491, Upper Ground Flo",
+            "cityCode": "WBB",
+            "address1": "City Survey Ghat No. 443/11/1, Gondia",
+            "phone2": "8007673767",
+            "phone1": "9112225200",
+            "cityName": "Gondia",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH601",
+            "email": "himanshu.arya@aryodayagroup.com",
+            "lat": "21.448458"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

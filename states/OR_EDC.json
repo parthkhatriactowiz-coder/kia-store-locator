@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.majesty-kia-bariniput.com",
+            "dealerName": "Majesty Kia, Jeypore",
+            "address3": "Jeypore, Odisha -764001",
+            "lng": "82.601571",
+            "address2": "Plot No 333/561, Mouza Bariniput,",
+            "cityCode": "EDC",
+            "address1": "Khata No -63/705,",
+            "phone2": "9124572378",
+            "phone1": "9124572378",
+            "cityName": "Jeypore",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD307",
+            "email": "gmsales@majestykia.com",
+            "lat": "18.849157"
+        },
+        {
+            "website": "https://www.majesty-kia-bariniput.com",
+            "dealerName": "Majesty Kia, Jeypore",
+            "address3": "Jeypore, Odisha -764001",
+            "lng": "78.962883",
+            "address2": "Plot No 333/561, Mouza Bariniput,",
+            "cityCode": "EDC",
+            "address1": "Khata No -63/705,",
+            "phone2": "9437074762",
+            "phone1": "9124825643",
+            "cityName": "Jeypore",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD307",
+            "email": "ccmservice@majestykia.com",
+            "lat": "20.593683"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

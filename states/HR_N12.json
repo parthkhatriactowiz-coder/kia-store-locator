@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "website": "https://www.ransh-motors-jind-byepass-road-kia.com",
+            "dealerName": "Ransh Kia, Jind byepass road",
+            "lng": "76.57732",
+            "address2": "d, Opp New Power House, Rohtak",
+            "cityCode": "N12",
+            "address1": "Khasra No. 14664/4895, Jind Bye Pass Roa",
+            "phone2": "999999999",
+            "phone1": "9817979125",
+            "cityName": "Rohtak",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR402",
+            "email": "sales@ranshkia.com",
+            "lat": "28.91707"
+        },
+        {
+            "website": "https://www.ransh-motors-jind-byepass-road-kia.com",
+            "dealerName": "Ransh Kia CPO, Rohtak",
+            "address3": "Haryana -124001",
+            "lng": "76.57732",
+            "address2": ", Opp. New Power House, Rohtak",
+            "cityCode": "N12",
+            "address1": "Khasra No 14664/4895, Jind Bye Pass Road",
+            "phone2": "9817979121",
+            "phone1": "9817979121",
+            "cityName": "Rohtak",
+            "stateName": "Haryana",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "HR",
+            "id": "HR402",
+            "email": "gmsales@ranshkia.com",
+            "lat": "28.91707"
+        },
+        {
+            "website": "https://www.ransh-motors-jind-byepass-road-kia.com",
+            "dealerName": "Ransh Kia, Jind byepass road",
+            "address3": ", Rohtak, Haryana-124001",
+            "lng": "76.5189",
+            "address2": "Kila No.-61/3/2/2, Hissar Road, Vill-Bahujamalpur",
+            "cityCode": "N12",
+            "address1": "Khewat No-97 Min, Khata No.-101 Min, ",
+            "phone2": "9817979122",
+            "phone1": "9817979145",
+            "cityName": "Rohtak",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR402",
+            "email": "gm.service@ranshkia.com",
+            "lat": "28.9047"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

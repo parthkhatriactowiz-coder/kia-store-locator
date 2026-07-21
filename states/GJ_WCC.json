@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.bm-kia-bhuj.com",
+            "dealerName": "BM Kia, Bhuj",
+            "address3": "Kachchh, Gujarat- 370001",
+            "lng": "69.62833333",
+            "address2": "Bhuj Mandvi Road,  Mirzapur, Bhuj,",
+            "cityCode": "WCC",
+            "address1": "R S No.6/1, AT Mirzapar, P No 1 and 2,",
+            "phone2": "9638688597",
+            "phone1": "8980021036",
+            "cityName": "Bhuj",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ510",
+            "email": "dmr@bmkia.net",
+            "lat": "23.21972222"
+        },
+        {
+            "website": "https://www.bm-kia-bhuj.com",
+            "dealerName": "BM Kia, Bhuj",
+            "address3": "Kachchh, Gujarat- 370001",
+            "lng": "69.62833333",
+            "address2": "Bhuj Mandvi Road,  Mirzapur, Bhuj,",
+            "cityCode": "WCC",
+            "address1": "R S No.6/1, AT Mirzapar, P No 1 and 2,",
+            "phone2": "6359999803",
+            "phone1": "6359999803",
+            "cityName": "Bhuj",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ510",
+            "email": "customercare.bhuj@bmkia.net",
+            "lat": "23.21972222"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

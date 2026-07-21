@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.basanti-kia-biruan.com",
+            "dealerName": "Basanti Kia, Balasore",
+            "address3": "Dist.-Balasore-756060",
+            "lng": "86.8587483",
+            "address2": "At-Biruan,PO-Sergarh,",
+            "cityCode": "E78",
+            "address1": "Basanti Kia, N.H-16,",
+            "phone2": "7077732182",
+            "phone1": "7077732182",
+            "cityName": "Balasore",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD303",
+            "email": "smsales@basantikia.com",
+            "lat": "21.4485826"
+        },
+        {
+            "website": "https://www.basanti-kia-biruan.com",
+            "dealerName": "Basanti Kia, Balasore",
+            "address3": "Dist.-Balasore-756060",
+            "lng": "86.8587483",
+            "address2": "At-Biruan,PO-Sergarh,",
+            "cityCode": "E78",
+            "address1": "Basanti Kia, N.H-16,",
+            "phone2": "7077732172",
+            "phone1": "7077732172",
+            "cityName": "Balasore",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD303",
+            "email": "smservice@basantikia.com",
+            "lat": "21.4485826"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

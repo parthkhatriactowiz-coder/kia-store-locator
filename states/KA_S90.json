@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "dealerName": "Athena Kia, Sanklapur Road",
+            "address3": "Hosapete Taluk, Ballari, Karnataka-58320",
+            "address2": " Area, Hosapete - Ballari Main Road,",
+            "cityCode": "S90",
+            "address1": "Sy.No 124/2,124/2 and 124/7 of Sanklapur",
+            "phone2": "7338248293",
+            "phone1": "7338248293",
+            "cityName": "Hospet",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA321"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

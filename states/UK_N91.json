@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "website": "https://www.classic-motors-bareilly-road-kia.com",
+            "dealerName": "Classic Kia, Bareilly Road",
+            "lng": "79.52133",
+            "address2": "Haldwani Distt. Nainital- 263139",
+            "cityCode": "N91",
+            "address1": "Bareilly Road Goraparao",
+            "phone2": "999999999",
+            "phone1": "7900679006",
+            "cityName": "Haldwani",
+            "stateName": "Uttarakhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UK",
+            "id": "UK301",
+            "email": "sm@classickia.in",
+            "lat": "29.16492"
+        },
+        {
+            "website": "https://www.classic-motors-bareilly-road-kia.com",
+            "dealerName": "Classic Kia, Bareilly Road",
+            "lng": "79.52088",
+            "address2": "Haldwani Distt. Nainital- 263139",
+            "cityCode": "N91",
+            "address1": "Bareilly Road Goraparao",
+            "phone2": "999999999",
+            "phone1": "7900679006",
+            "cityName": "Haldwani",
+            "stateName": "Uttarakhand",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UK",
+            "id": "UK301",
+            "email": "service@classickia.in",
+            "lat": "29.1648"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

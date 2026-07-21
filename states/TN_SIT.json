@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.ramani-kia-puddukottai.com",
+            "dealerName": "Ramani Kia, Pudukkottai",
+            "address3": ", Tamil Nadu -622001",
+            "lng": "78.8010",
+            "address2": "North Street, Thirukokarnam, Pudukkottai",
+            "cityCode": "SIT",
+            "address1": "6871/2, Opposite To Pragathambal Kovil,",
+            "phone2": "8925886514",
+            "phone1": "8925886514",
+            "cityName": "Pudukkottai",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN603",
+            "email": "service.pdk@ramanikia.com",
+            "lat": "10.3902"
+        },
+        {
+            "dealerName": "Ramani Kia, Pudukkottai",
+            "address3": ", Tamil Nadu -622001",
+            "lng": "78.8010",
+            "address2": "North Street, Thirukokarnam, Pudukkottai",
+            "cityCode": "SIT",
+            "address1": "6871/2, Opposite To Pragathambal Kovil,",
+            "phone2": "8925886514",
+            "phone1": "8925886514",
+            "cityName": "Pudukkottai",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN603",
+            "email": "service.pdk@ramanikia.com",
+            "lat": "10.3902"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

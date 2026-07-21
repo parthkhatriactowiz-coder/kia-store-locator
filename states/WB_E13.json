@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.shanvi-kia-kharagpur.com",
+            "dealerName": "Shanvi KIA, Kharagpur",
+            "address3": "West Bengal - 721301",
+            "lng": "87.35653",
+            "address2": "Dist.- Paschim Medinipur, Kharagpur, WB",
+            "cityCode": "E13",
+            "address1": "Plot No-221, NH-16,",
+            "phone2": "9046986611",
+            "phone1": "9046986611",
+            "cityName": "Kharagpur",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB305",
+            "email": "gmsales@shanvikia.in",
+            "lat": "22.37717"
+        },
+        {
+            "website": "https://www.shanvi-kia-kharagpur.com",
+            "dealerName": "Shanvi KIA, Kharagpur",
+            "address3": "West Bengal - 721301",
+            "lng": "87.35653",
+            "address2": "Dist.- Paschim Medinipur, Kharagpur, WB",
+            "cityCode": "E13",
+            "address1": "Plot No-221, NH-16,",
+            "phone2": "9046985511",
+            "phone1": "9046985511",
+            "cityName": "Kharagpur",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB305",
+            "email": "smservice@shanvikia.in",
+            "lat": "22.37717"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

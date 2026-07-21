@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dealerName": "Meher Kia, Hindaun",
+            "address3": "Rajasthan -322230",
+            "lng": "77.018091",
+            "address2": "Phulwara, Hindaun City,",
+            "cityCode": "NJH",
+            "address1": "Plot No. 81, Karauli Road,",
+            "phone2": "9950512351",
+            "cityName": "Hindaun",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ517",
+            "lat": "26.704091"
+        },
+        {
+            "dealerName": "Meher Kia, Hindaun",
+            "address3": "Rajasthan -322230",
+            "lng": "77.01824",
+            "address2": "Phulwara, Hindaun City,",
+            "cityCode": "NJH",
+            "address1": "Plot No. 81, Karauli Road,",
+            "phone2": "9772463911",
+            "phone1": "9772463911",
+            "cityName": "Hindaun",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ517",
+            "email": "service@meherkia.com",
+            "lat": "26.70416"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

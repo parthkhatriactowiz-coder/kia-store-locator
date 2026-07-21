@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.pressana-kia-pollachi.com",
+            "dealerName": "Pressana Kia, Pollachi",
+            "address3": "Pollachi, TN -642002",
+            "lng": "77.00519",
+            "address2": "Pollachi Coimbatore Road,",
+            "cityCode": "S33",
+            "address1": "SF No 121/2A, Next to Sri Kantha Mahal,",
+            "phone2": "6384444500",
+            "phone1": "6384444500 ",
+            "cityName": "Pollachi",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN313",
+            "email": "smpol@pressanakia.in",
+            "lat": "10.6817"
+        },
+        {
+            "website": "https://www.pressana-kia-pollachi.com",
+            "dealerName": "Pressana Kia CPO, Pollachi",
+            "address3": "Pollachi, TN -642002",
+            "lng": "77.00519",
+            "address2": "Pollachi Coimbatore Road,",
+            "cityCode": "S33",
+            "address1": "SF No 121/2A, Next to Sri Kantha Mahal,",
+            "phone2": "06384444500",
+            "phone1": "06384444500",
+            "cityName": "Pollachi",
+            "stateName": "Tamil Nadu",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "TN",
+            "id": "TN313",
+            "email": "smpol@pressanakia.in",
+            "lat": "10.6817"
+        },
+        {
+            "website": "https://www.pressana-kia-pollachi.com",
+            "dealerName": "Pressana Kia, Pollachi",
+            "address3": "Pollachi, TN -642002",
+            "lng": "77.00519",
+            "address2": "Pollachi Coimbatore Road,",
+            "cityCode": "S33",
+            "address1": "SF No 121/2A, Next to Sri Kantha Mahal,",
+            "phone2": "6384444500",
+            "phone1": "6384444500",
+            "cityName": "Pollachi",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN313",
+            "email": "ceo@pressanagroup.com",
+            "lat": "10.6817"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

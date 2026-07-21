@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.kumar-kia-ibrahimpur.com",
+            "dealerName": "Kumar Kia, Manguli road",
+            "address3": "Near Ring Road, Vijayapur (Bijapur)",
+            "lng": "75.733354",
+            "address2": "NH 13 Managuli Road",
+            "cityCode": "SBI",
+            "address1": "Sy. No 7/1+2/A/1",
+            "phone2": "7829999999",
+            "phone1": "9606458511",
+            "cityName": "Bijapur",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA313",
+            "email": "sales@kumarkia.com",
+            "lat": "16.798338"
+        },
+        {
+            "website": "https://www.kumar-kia-ibrahimpur.com",
+            "dealerName": "Kumar Kia, Manguli road",
+            "address3": "Near Ring Road, Vijayapur (Bijapur)",
+            "lng": "75.733354",
+            "address2": "NH 13 Managuli Road",
+            "cityCode": "SBI",
+            "address1": "Sy. No 7/1+2/A/1",
+            "phone2": "9606458540",
+            "phone1": "9606458540",
+            "cityName": "Bijapur",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA313",
+            "lat": "16.798338"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

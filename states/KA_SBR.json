@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.kumar-kia-rajendra-gunj.com",
+            "dealerName": "Kumar Kia, Raichur",
+            "address3": "Raichur, Karnataka -584101",
+            "lng": "16.23120957",
+            "address2": "Hyderabad Road, Opp RIMS Hospital,",
+            "cityCode": "SBR",
+            "address1": "Plot No 7, Sy No 269,",
+            "phone2": "7829990745",
+            "phone1": "7829990745",
+            "cityName": "Raichur",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA509",
+            "email": "gmsalesgroup@kumarkia.com",
+            "lat": "77.3548455"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

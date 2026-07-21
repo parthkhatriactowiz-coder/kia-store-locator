@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.kantipudi-kia-kakinada.com",
+            "dealerName": "Kantipudi Kia, Kakinada",
+            "address3": "Kakinada, A.P., 533001",
+            "lng": "82.247467",
+            "address2": "Ramanayyapeta, Near Post Office,",
+            "cityCode": "S34",
+            "address1": "#10/07/36,Shed No G2A,Industrial Area,",
+            "phone2": "7799977468",
+            "phone1": "7799977468",
+            "cityName": "Kakinada",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP504",
+            "email": "info@kantipudikia.co.in",
+            "lat": "16.989065"
+        },
+        {
+            "website": "https://www.kantipudi-kia-kakinada.com",
+            "dealerName": "Kantipudi Kia, Kakinada",
+            "address3": "Kakinada, A.P., 533001",
+            "lng": "82.247467",
+            "address2": "Ramanayyapeta, Near Post Office,",
+            "cityCode": "S34",
+            "address1": "#10/07/36,Shed No G2A,Industrial Area,",
+            "phone2": "7799977468",
+            "phone1": "7799977468",
+            "cityName": "Kakinada",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP504",
+            "email": "i2s.kkd@kantipudikia.co.in",
+            "lat": "16.989065"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

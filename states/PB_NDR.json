@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.joshi-kia-zirakpur.com",
+            "dealerName": "Joshi Kia, Mohali Citi Square, Zirakpur",
+            "address3": "Road, Zirakpur, Sas Nagar,Punjab- 140603",
+            "lng": "76.8021724",
+            "address2": "Near Hotel Radisson, Zirakpur- Patiala",
+            "cityCode": "NDR",
+            "address1": "Sco 16,17,18,19, Mohali Citi Square,",
+            "phone2": "9501117575",
+            "phone1": "7087070333",
+            "cityName": "Zirakpur",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB105",
+            "email": "info.zkr@joshikia.in",
+            "lat": "30.6392820"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

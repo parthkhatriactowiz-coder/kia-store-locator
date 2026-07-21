@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.maosaji-kia-parsada.com",
+            "dealerName": "Maosaji Kia, Parsada",
+            "address3": "Parsada,",
+            "lng": "82.118354",
+            "address2": "Raipur Road,",
+            "cityCode": "W56",
+            "address1": "Near Transport Nagar Gate",
+            "phone2": "8815103912",
+            "phone1": "8815103912",
+            "cityName": "Bilaspur",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG302",
+            "email": "sales@maosajikia.com",
+            "lat": "22.043594"
+        },
+        {
+            "website": "https://www.maosaji-kia-parsada.com",
+            "dealerName": "Maosaji Kia, Parsada",
+            "address3": "Parsada,",
+            "lng": "82.118354",
+            "address2": "Raipur Road,",
+            "cityCode": "W56",
+            "address1": "Near Transport Nagar Gate",
+            "phone2": "8815103920",
+            "phone1": "8815103920",
+            "cityName": "Bilaspur",
+            "stateName": "Chhattisgarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CG",
+            "id": "CG302",
+            "email": "sales@maosajikia.com",
+            "lat": "22.043594"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

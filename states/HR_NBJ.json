@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "dealerName": "Ritu Kia, Charkhi Dadri",
+            "address3": "Haryana -127306",
+            "lng": "76.249118",
+            "address2": "Bridge Loharu Road, Charkhi Dadri,",
+            "cityCode": "NBJ",
+            "address1": "Khasra No- 107//14-17/1, Near Over",
+            "phone2": "9992800000",
+            "cityName": "Charkhi Dadri",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR601",
+            "lat": "28.592613"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

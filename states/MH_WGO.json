@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.akshay-kia-khamgaon.com",
+            "dealerName": "Akshay Kia, Khamgaon",
+            "address3": "Maharashtra -444303",
+            "lng": "76.57934",
+            "address2": "Januna Shivar, Khamgaon,",
+            "cityCode": "WGO",
+            "address1": "Gut No 25, Sr. 08, Akola-Buldhana Bypass",
+            "phone2": "8408881100",
+            "phone1": "7770060804",
+            "cityName": "Khamgaon",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH514",
+            "email": "Info.kham@akshaykia.com",
+            "lat": "20.69338"
+        },
+        {
+            "dealerName": "Akshay Kia, Khamgaon",
+            "address3": "Maharashtra -444303",
+            "lng": "76.57932",
+            "address2": "Januna Shivar, Khamgaon,",
+            "cityCode": "WGO",
+            "address1": "Gut No 25, Sr. 08, Akola-Buldhana Bypass",
+            "phone2": "8007683397",
+            "phone1": "8007683397",
+            "cityName": "Khamgaon",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH514",
+            "email": "service.kham@akshaykia.com",
+            "lat": "20.6934"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.rc-kia-solan.com",
+            "dealerName": "RC Kia, NH-22",
+            "address3": "Barog Bypass",
+            "lng": "77.1097",
+            "address2": "Village Anji, NH-22",
+            "cityCode": "N81",
+            "address1": "Platinum Mall VI",
+            "phone2": "8894778888",
+            "phone1": "8894778888",
+            "cityName": "Solan",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP302",
+            "email": "info@rc-kia.com",
+            "lat": "30.8941"
+        },
+        {
+            "website": "https://www.rc-kia-solan.com",
+            "dealerName": "RC Kia, NH-22",
+            "address3": "Barog Bypass",
+            "lng": "77.1097",
+            "address2": "Village Anji, NH-22",
+            "cityCode": "N81",
+            "address1": "Platinum Mall VI",
+            "phone2": "8894778889",
+            "phone1": "8894778889",
+            "cityName": "Solan",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP302",
+            "email": "info@rc-kia.com",
+            "lat": "30.8941"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

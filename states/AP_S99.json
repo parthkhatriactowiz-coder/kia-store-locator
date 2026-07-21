@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.mg-brothers-nh44-bangalore-hwy-kia.com",
+            "dealerName": "MG Brothers Kia, NH44, Bangalore Hwy",
+            "address3": "Anantapur 515002",
+            "lng": "77.58245",
+            "address2": " Kakkalapalli Vill,",
+            "cityCode": "S99",
+            "address1": "1-374, NH44, Bangalore Hwy,",
+            "phone2": "999999999",
+            "phone1": "8333099186",
+            "cityName": "Anantpur",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP301",
+            "email": "gmsalesatp@mgbrotherskia.in",
+            "lat": "14.64879"
+        },
+        {
+            "website": "https://www.mg-brothers-nh44-bangalore-hwy-kia.com",
+            "dealerName": "MG Brothers Kia CPO, Anantpur",
+            "address3": "Anantapur, 515002",
+            "lng": "77.58245",
+            "address2": " Kakkalapalli Vill,",
+            "cityCode": "S99",
+            "address1": "1-374, NH44, Bangalore Hwy,",
+            "phone2": "8333929195",
+            "phone1": "8333929195",
+            "cityName": "Anantpur",
+            "stateName": "Andhra Pradesh",
+            "sortId": "2",
+            "dealerType": "Pre-owned Cars",
+            "stateCode": "AP",
+            "id": "AP301",
+            "email": "ykainkeatp@gmail.com",
+            "lat": "14.64879"
+        },
+        {
+            "website": "https://www.mg-brothers-nh44-bangalore-hwy-kia.com",
+            "dealerName": "MG Brothers Kia, NH44, Bangalore Hwy",
+            "address3": "Anantapur 515002",
+            "lng": "77.58245",
+            "address2": "Kakkalapalli Vill,",
+            "cityCode": "S99",
+            "address1": "1-374, NH44, Bangalore Hwy,",
+            "phone2": "999999999",
+            "phone1": "9494436198",
+            "cityName": "Anantpur",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP301",
+            "email": "serviceatp@mgbrotherskia.in",
+            "lat": "14.64879"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

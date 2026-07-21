@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Majesty Kia, Bhawanipatna",
+            "address3": "Bhawanipatna, Kalahandi, Odisha-766002",
+            "lng": "83.17717",
+            "address2": "168/530, Bhawanipatna Kesinga Road,",
+            "cityCode": "ECY",
+            "address1": "Mouza-Dakabahali, Plot No-1263, Khata No",
+            "phone2": "9953848737",
+            "phone1": "9124572956",
+            "cityName": "Bhawanipatna",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD505",
+            "email": "smsalesbpt@Majestykia.Com",
+            "lat": "19.94872"
+        },
+        {
+            "dealerName": "Majesty Kia, Bhawanipatna",
+            "address3": "Bhawanipatna, Kalahandi, Odisha-766002",
+            "lng": "83.4587",
+            "address2": "168/530, Bhawanipatna Kesinga Road,",
+            "cityCode": "ECY",
+            "address1": "Mouza-Dakabahali, Plot No-1263, Khata No",
+            "phone2": "9124824240",
+            "phone1": "9124824240",
+            "cityName": "Bhawanipatna",
+            "stateName": "Odisha",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "OR",
+            "id": "OD505",
+            "email": "smservice@majestykia.com",
+            "lat": "19.82793"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

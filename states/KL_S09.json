@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.dkh-motors-kia-kondotty.com",
+            "dealerName": "DKH Kia, Kondotty",
+            "address3": "Malappuram, Kerala, 673638 ",
+            "lng": "11.15227778",
+            "address2": "EDAVANAPPARA -AIRPORT ROAD, Kondotty, ",
+            "cityCode": "S09",
+            "address1": "149/2-1,DKH MOTORS LLP, ",
+            "phone2": "9947445566",
+            "phone1": "9947445566",
+            "cityName": "Kondotty",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL505",
+            "email": "info@dkhkia.com",
+            "lat": "75.95833333"
+        },
+        {
+            "website": "https://www.dkh-motors-kia-kondotty.com",
+            "dealerName": "DKH Kia, Kondotty",
+            "address3": "Malappuram, Kerala, 673638",
+            "lng": "11.15227778",
+            "address2": "EDAVANAPPARA -AIRPORT ROAD, Kondotty, ",
+            "cityCode": "S09",
+            "address1": "149/2-1,DKH MOTORS LLP, ",
+            "phone2": "9207024000",
+            "phone1": "9207626000",
+            "cityName": "Kondotty",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL505",
+            "email": "ceo@dkhkia.com",
+            "lat": "75.95833333"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.epitome-kia-avalahalli-bangalore.com",
+            "dealerName": "Epitome Kia, Avalahalli",
+            "address3": "Avalahalli, Bangalore, KA-560026",
+            "lng": "77.73375",
+            "address2": "Township, Virgonagar, Old Madras Road,",
+            "cityCode": "SJB",
+            "address1": "45 Poojambika Layout, NS Paradise",
+            "phone2": "6366244353",
+            "phone1": "6366244353",
+            "cityName": "Aavalahalli- Bangalore",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA510",
+            "email": "corporate.accounts@epitomekia.in",
+            "lat": "13.033833"
+        },
+        {
+            "website": "https://www.epitome-kia-avalahalli-bangalore.com",
+            "dealerName": "Epitome Kia, Avalahalli",
+            "address3": "Avalahalli, Bangalore, KA-560026",
+            "lng": "77.7337981",
+            "address2": "Township, Virgonagar, Old Madras Road,",
+            "cityCode": "SJB",
+            "address1": "45 Poojambika Layout, NS Paradise",
+            "phone2": "6366229722",
+            "phone1": "6366229722",
+            "cityName": "Aavalahalli- Bangalore",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA510",
+            "email": "ccmservice.avl@epitomekia.in",
+            "lat": "13.0338912"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

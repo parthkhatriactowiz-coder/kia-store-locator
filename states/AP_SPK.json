@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Seho Kia, Guttur, Penukonda",
+            "address3": " Dist., Andhra Pradesh 515164",
+            "lng": "77.63002",
+            "address2": " Pump, Gutturu,Penukonda, Sri Sathyasai",
+            "cityCode": "SPK",
+            "address1": "Building No.354-3A, Beside Nayara Petrol",
+            "phone2": "9959090673",
+            "phone1": "8712460050",
+            "cityName": "Penukonda",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP310",
+            "lat": "14.18511"
+        },
+        {
+            "dealerName": "Seho Kia, Guttur, Penukonda",
+            "address3": " Dist., Andhra Pradesh 515164",
+            "lng": "77.63002",
+            "address2": " Pump, Gutturu,Penukonda, Sri Sathyasai",
+            "cityCode": "SPK",
+            "address1": "Building No.354-3A, Beside Nayara Petrol",
+            "phone2": "9030329111",
+            "phone1": "9030329111",
+            "cityName": "Penukonda",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP310",
+            "email": "servicemanager@sehokia.com",
+            "lat": "14.18511"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

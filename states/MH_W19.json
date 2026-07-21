@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Unnati Kia, Ichalkaranji",
+            "address3": "Dist Kolhapur, Maharashtra -416129",
+            "lng": "74.4225769",
+            "address2": "Rui Phata, Kabnoor, Ichalkaranji,",
+            "cityCode": "W19",
+            "address1": "Gat no 748, Ichalkaranji Kolhapur Rd,",
+            "phone2": "9960209700",
+            "phone1": "9890437500",
+            "cityName": "Ichalkaranji",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH317",
+            "email": "gmklp@unnatikia.com",
+            "lat": "16.7075021"
+        },
+        {
+            "dealerName": "Unnati Kia, Ichalkaranji",
+            "address3": "Dist Kolhapur, Maharashtra -416129",
+            "lng": "74.422528 ",
+            "address2": "Rui Phata, Kabnoor, Ichalkaranji,",
+            "cityCode": "W19",
+            "address1": "Gat no 748, Ichalkaranji Kolhapur Rd,",
+            "phone2": "9890674500",
+            "phone1": "9271270806",
+            "cityName": "Ichalkaranji",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH317",
+            "email": "crmklp@unnatikia.com",
+            "lat": "16.708113"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

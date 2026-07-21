@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.aadarsh-kia-mandya.com",
+            "dealerName": "Aadarsh Kia, Mandya",
+            "address3": "Near Acetate Town,Mandya-571404",
+            "lng": "76.919417",
+            "address2": "Belur Gramapanchayath",
+            "cityCode": "SCQ",
+            "address1": "99/145,MC Road",
+            "phone2": "999999999",
+            "phone1": "9606034070",
+            "cityName": "Mandya",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA505",
+            "email": "sales@volanzokia.in",
+            "lat": "12.540778"
+        },
+        {
+            "website": "https://www.aadarsh-kia-mandya.com",
+            "dealerName": "Aadarsh Kia, Mandya",
+            "address3": "Near Acetate Town,Mandya-571404",
+            "lng": "76.919417",
+            "address2": "Belur Gramapanchayath",
+            "cityCode": "SCQ",
+            "address1": "99/145,MC Road",
+            "phone2": "9606039194",
+            "phone1": "9606039194",
+            "cityName": "Mandya",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA505",
+            "email": "Servicemandya@volanzokia.in",
+            "lat": "12.540778"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

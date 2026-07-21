@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "dealerName": "Paras Kia, Hanumangarh",
+            "address3": "Junction, Rajasthan - 335513",
+            "lng": "74.3313517626021",
+            "address2": "NGC, Silver Palm Colony, Hanumangarh",
+            "cityCode": "NFS",
+            "address1": "Plot No. S-02, Chak No.49",
+            "phone2": "9694355525",
+            "phone1": "9694055525",
+            "cityName": "HANUMANGARH",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ515",
+            "email": "paraskiahmh@paraskia.com",
+            "lat": "29.6372397248126"
+        },
+        {
+            "dealerName": "Paras Kia, Hanumangarh",
+            "address3": "Junction, Rajasthan - 335513",
+            "lng": "74.3204",
+            "address2": "NGC, Silver Palm Colony, Hanumangarh",
+            "cityCode": "NFS",
+            "address1": "Plot No. S-02, Chak No.49",
+            "phone2": "9829211525",
+            "phone1": "9784130525",
+            "cityName": "HANUMANGARH",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ515",
+            "email": "servicehmh@paraskia.com",
+            "lat": "29.6122"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

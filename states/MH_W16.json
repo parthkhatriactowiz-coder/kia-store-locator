@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Aryodaya Kia, Kolkata- Nagpur Highway",
+            "address3": "Colony, Bhandara, Maharashtra-441904",
+            "lng": "21.156546",
+            "address2": "Head Post Office, Opp. Mahatma Fule",
+            "cityCode": "W16",
+            "address1": "P No. 01, At 964, Main Road, Bhandara",
+            "phone2": "9156767956",
+            "phone1": "9156767956",
+            "cityName": "Bhandara",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH605",
+            "lat": "79.618196"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

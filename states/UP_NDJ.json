@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.adyant-automovers-mirzapur-kia.com",
+            "dealerName": "Adyant Kia, Mirzapur",
+            "address3": "Uttar Pradesh-231001",
+            "lng": "82.588965",
+            "address2": "Chunar Road, Mirzapur, ",
+            "cityCode": "NDJ",
+            "address1": "Mirzapur Bharuhan, ",
+            "phone2": "6392505236",
+            "phone1": "07290070425",
+            "cityName": "MIRZAPUR",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP504",
+            "email": "gmsales@adyantkia.in",
+            "lat": "25.133492"
+        },
+        {
+            "website": "https://www.adyant-automovers-mirzapur-kia.com",
+            "dealerName": "Adyant Kia, Mirzapur",
+            "address3": "Uttar Pradesh-231001",
+            "lng": "82.588965",
+            "address2": "Chunar Road, Mirzapur, ",
+            "cityCode": "NDJ",
+            "address1": "Mirzapur Bharuhan, ",
+            "phone2": "6392505236",
+            "phone1": "6392505236",
+            "cityName": "MIRZAPUR",
+            "stateName": "Uttar Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "UP",
+            "id": "UP504",
+            "email": "servicemirzapur@adyantkia.in",
+            "lat": "25.133492"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

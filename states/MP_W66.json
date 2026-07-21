@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.royal-kia-guna.com",
+            "dealerName": "Royal Kia, Guna",
+            "address3": "Guna 473001",
+            "lng": "77.3017482",
+            "address2": "Aron Bypass, AB Road,",
+            "cityCode": "W66",
+            "address1": "Royal Kia, Badawar House,",
+            "phone2": "9893926555",
+            "phone1": "9893926555",
+            "cityName": "Guna",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP504",
+            "email": "sales@kia.royalgroupindia.biz",
+            "lat": "24.6338652"
+        },
+        {
+            "website": "https://www.royal-kia-guna.com",
+            "dealerName": "Royal Kia, Guna",
+            "address3": "Guna 473001",
+            "lng": "77.3017482",
+            "address2": "Aron Bypass, AB Road,",
+            "cityCode": "W66",
+            "address1": "Royal Kia, Badawar House,",
+            "phone2": "9893926555",
+            "phone1": "9893926555",
+            "cityName": "Guna",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP504",
+            "email": "mgr.service@kia.royalgroupindia.biz",
+            "lat": "24.6338652"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

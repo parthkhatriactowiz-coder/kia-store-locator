@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.hoshi-auto-kakuturu-v-kia.com",
+            "dealerName": "Hoshi Kia, Kakuturu(V)",
+            "address3": "Nellore 524320",
+            "lng": "79.932673",
+            "address2": "Kakuturu(V), Venkatachalam M P S R",
+            "cityCode": "S54",
+            "address1": "48 A1 Kolkata to Chennai High way",
+            "phone2": "999999999",
+            "phone1": "8688829729",
+            "cityName": "Nellore",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP303",
+            "email": "mgrsalnlr@hoshikia.com",
+            "lat": "14.370655"
+        },
+        {
+            "website": "https://www.hoshi-auto-kakuturu-v-kia.com",
+            "dealerName": "Hoshi Kia, Kakuturu(V)",
+            "address3": "Nellore 524320",
+            "lng": "79.932913",
+            "address2": "Kakuturu(V), Venkatachalam M P S R",
+            "cityCode": "S54",
+            "address1": "48 A1 Kolkata to Chennai High way,",
+            "phone2": "8688829738",
+            "phone1": "8688829738",
+            "cityName": "Nellore",
+            "stateName": "Andhra Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AP",
+            "id": "AP303",
+            "email": "mgrsernlr@hoshikia.com",
+            "lat": "14.370664"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

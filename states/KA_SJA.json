@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.jsp-kia-dommasandra.com",
+            "dealerName": "JSP Kia, Sarjarpur Road",
+            "address3": "Bangalore, Karnataka -562125",
+            "lng": "12.88689",
+            "address2": "Muthanlore Cross, Opp BB Jewelery,",
+            "cityCode": "SJA",
+            "address1": "Sy No 184/4, Dommasandra,",
+            "phone2": "9513056750",
+            "phone1": "8095553636 ",
+            "cityName": "Sarjapur - Bangalore",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA508",
+            "email": "sales.srjp@jspkia.com",
+            "lat": "77.742537"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

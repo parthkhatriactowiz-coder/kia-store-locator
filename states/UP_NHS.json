@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.nrl-kia-firozabad.com",
+            "dealerName": "NRL Kia, Firozabad",
+            "address3": "Uttar Pradesh-283203",
+            "lng": "78.360718",
+            "address2": "Chameli Bagh, Agra Road, NH-2, Firozabad,",
+            "cityCode": "NHS",
+            "address1": "Khasra No 732, Alinagar Kenjra,",
+            "phone2": "7217040010",
+            "phone1": "7217040010",
+            "cityName": "FIROZABAD",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP514",
+            "email": "rohit.garg@nrlgroup.in",
+            "lat": "27.176915"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Fortune Kia, Bongaigaon",
+            "address3": "Assam -783385",
+            "lng": "90.548977",
+            "address2": " Bongaigaon,",
+            "cityCode": "E53",
+            "address1": "Chapaguri Road,",
+            "phone2": "9365076573",
+            "phone1": "9365467758",
+            "cityName": "Bongaigaon",
+            "stateName": "Assam",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AS",
+            "id": "AS405",
+            "lat": "26.504763"
+        },
+        {
+            "dealerName": "Fortune Kia, Bongaigaon",
+            "address3": "Assam -783380",
+            "lng": "90.55614",
+            "address2": "Bhakarivita, Bongaigaon,",
+            "cityCode": "E53",
+            "address1": "Bongaigaon Town Pt.05,",
+            "phone2": "9365770119",
+            "phone1": "9365770119",
+            "cityName": "Bongaigaon",
+            "stateName": "Assam",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "AS",
+            "id": "AS405",
+            "email": "crmfortunekia@gmail.com",
+            "lat": "26.46832"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.pipada-kia-sangamner.com",
+            "dealerName": "Pipada Kia, sangamner",
+            "address3": "Sangamner , Maharashtra",
+            "lng": "74.194374",
+            "address2": "pune Nashik Highway , Ghulewadi",
+            "cityCode": "WBX",
+            "address1": "Plot No –Survey No -259/11",
+            "phone2": "9511792371",
+            "phone1": "9511792371",
+            "cityName": "Sangamner",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH506",
+            "email": "smkiasangamner@gmail.com",
+            "lat": "19.5958940"
+        },
+        {
+            "website": "https://www.pipada-kia-sangamner.com",
+            "dealerName": "Pipada Kia, sangamner",
+            "address3": "Sangamner , Maharashtra",
+            "lng": "74.194374",
+            "address2": "pune Nashik Highway , Ghulewadi",
+            "cityCode": "WBX",
+            "address1": "Plot No –Survey No -259/11",
+            "phone2": "7507611111",
+            "phone1": "7507611111",
+            "cityName": "Sangamner",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH506",
+            "lat": "19.5958940 "
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

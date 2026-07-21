@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Kalra Kia, Ramgarh",
+            "address3": "Civil Township, Ramgarh,Jharkhand-829122",
+            "lng": "85.5227475",
+            "address2": "Murram Kala Bijuliya, Ramgarh Cantonment",
+            "cityCode": "EAL",
+            "address1": "K No 59 P No 187, Ramgarh Cantt, Village",
+            "phone2": "8860969554",
+            "phone1": "8860969554",
+            "cityName": "RAMGARH",
+            "stateName": "Jharkhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "JH",
+            "id": "JH601",
+            "email": "kalraautomovers@gmail.com",
+            "lat": "23.6103928"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

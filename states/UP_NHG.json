@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.empire-kia-mau.com",
+            "dealerName": "Empire Kia, Badagaon, Mau",
+            "address3": "Mau, Uttar Pradesh -275101",
+            "lng": "25.974921",
+            "address2": "Oppo Electric Hydil, Mau-Azamgarh Road,",
+            "cityCode": "NHG",
+            "address1": "Khasra No 1364, Badagaon,",
+            "phone2": "8601541786",
+            "phone1": "8601541786",
+            "cityName": "Mau",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP513",
+            "email": "mohdhashim_azmi@yahoo.com",
+            "lat": "83.508951"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

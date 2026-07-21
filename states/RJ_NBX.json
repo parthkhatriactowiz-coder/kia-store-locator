@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.kumbhat-kia-pali.com",
+            "dealerName": "Kumbhat Kia, Jodhpur Road",
+            "address3": "Pali, Rajasthan",
+            "lng": "73.296188",
+            "address2": "Khasra No. 769/3, Opp. Krishi Mandi,",
+            "cityCode": "NBX",
+            "address1": "V square multiplex, Jodhpur Road,",
+            "phone2": "6377205296",
+            "phone1": "6377205251",
+            "cityName": "Pali",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ503",
+            "email": "neerajmathur@kumbhatkia.in",
+            "lat": "25.798382"
+        },
+        {
+            "website": "https://www.kumbhat-kia-pali.com",
+            "dealerName": "Kumbhat Kia, Jodhpur Road",
+            "address3": "Pali, Rajasthan",
+            "lng": "73.2963",
+            "address2": "Khasra No. 769/3, Opp. Krishi Mandi",
+            "cityCode": "NBX",
+            "address1": "V square multiplex, Jodhpur Road",
+            "phone2": "6377205296",
+            "phone1": "6377205251",
+            "cityName": "Pali",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ503",
+            "email": "Service@kumbhatkia.in",
+            "lat": "25.798537"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

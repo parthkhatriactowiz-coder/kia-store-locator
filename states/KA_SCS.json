@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.pps-kia-sira-road.com",
+            "dealerName": "PPS Kia, Sira Road",
+            "address3": "Karnataka -572106",
+            "lng": "77.1031243",
+            "address2": "Kalyana Mantapa, Sira Road, Tumkur,",
+            "cityCode": "SCS",
+            "address1": "Sy.297/2 & 297/6, Bavi Katte",
+            "phone2": "6303622210",
+            "phone1": "6303622210",
+            "cityName": "Tumkur",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA320",
+            "email": "salesmanagertmk@automotivemotors.in",
+            "lat": "13.21102"
+        },
+        {
+            "website": "https://www.pps-kia-sira-road.com",
+            "dealerName": "PPS Kia, Sira Road",
+            "address3": "Karnataka -572106",
+            "lng": "77.06113",
+            "address2": "Kalyana Mantapa, Sira Road, Tumkur,",
+            "cityCode": "SCS",
+            "address1": "Sy.297/2 & 297/6, Bavi Katte",
+            "phone2": "6303622210",
+            "phone1": "9391725753",
+            "cityName": "Tumkur",
+            "stateName": "Karnataka",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KA",
+            "id": "KA320",
+            "email": "servicemanagertmk@automotivemotors.in",
+            "lat": "13.21102"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "website": "https://www.mohan-vehicles-ambala-jagadhri-highway-kia.com",
+            "dealerName": "Mohan Kia, Ambala-Jagadhri highway",
+            "address3": "Ambala, Haryana-133104",
+            "lng": "76.942644",
+            "address2": "Ambala-Jagadhri Highway",
+            "cityCode": "N24",
+            "address1": "13/40 KM Stone, Tepla",
+            "phone2": "999999999",
+            "phone1": "8607807100",
+            "cityName": "Ambala",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR303",
+            "email": "sales@mohankia.in",
+            "lat": "30.310832"
+        },
+        {
+            "website": "https://www.mohan-kia-baldev-nagar.com",
+            "dealerName": "Mohan Kia, Chandigarh Road",
+            "address3": "Haryana -134007",
+            "lng": "76.79099",
+            "address2": "Ambala Chandigarh Highway, Ambala City,",
+            "cityCode": "N24",
+            "address1": "Near IOCL Pump, Baldev Nagar,",
+            "phone2": "9896100250",
+            "phone1": "7973215219",
+            "cityName": "Ambala",
+            "stateName": "Haryana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HR",
+            "id": "HR102",
+            "email": "md@mohankia.in",
+            "lat": "30.39268"
+        },
+        {
+            "website": "https://www.mohan-vehicles-ambala-jagadhri-highway-kia.com",
+            "dealerName": "Mohan Kia, Ambala-Jagadhri highway",
+            "address3": "Ambala, Haryana-133104",
+            "lng": "76.942644",
+            "address2": "Ambala-Jagadhri Highway",
+            "cityCode": "N24",
+            "address1": "13/40 KM Stone, Tepla",
+            "phone2": "999999999",
+            "phone1": "8607157100",
+            "cityName": "Ambala",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "HR303",
+            "email": "service@mohankia.com",
+            "lat": "30.310832"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

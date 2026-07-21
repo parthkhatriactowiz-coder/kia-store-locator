@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "dealerName": "Kun Kia, Avadi",
+            "address3": "Tamil Nadu - 600054",
+            "address2": "Chennai,",
+            "cityCode": "SIW",
+            "address1": "No. 444 CTH Road,",
+            "phone2": "7823957285",
+            "phone1": "7823957285",
+            "cityName": "Avadi",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN605",
+            "email": "sm.avd@kunkia.in"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "dealerName": "Sant Kia, Kullu",
+            "address3": "Himachal Pradesh -175101",
+            "lng": "77.11704",
+            "address2": "P.O. Mohal, Tehsil & District Kullu,",
+            "cityCode": "NCM",
+            "address1": "Khasra no. 3456/1559, Vill. Badah,",
+            "phone2": "7876908055",
+            "phone1": "7876902155",
+            "cityName": "Kullu",
+            "stateName": "Himachal Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "HP",
+            "id": "HP504",
+            "lat": "31.929023"
+        },
+        {
+            "dealerName": "Sant Kia, Kullu",
+            "address3": "Himachal Pradesh -175101",
+            "lng": "77.11692",
+            "address2": "P.O. Mohal, Tehsil & District Kullu,",
+            "cityCode": "NCM",
+            "address1": "Khasra no. 3456/1559, Vill. Badah,",
+            "phone2": "7876900855",
+            "phone1": "9167246163",
+            "cityName": "Kullu",
+            "stateName": "Himachal Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HP",
+            "id": "HP504",
+            "email": "service.Kullu@santautocraft-kia.in",
+            "lat": "31.92899"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

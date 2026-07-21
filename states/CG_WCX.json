@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "website": "https://www.mahamaya-kia-mg-road.com",
+            "dealerName": "Mahamaya Kia, M.G Road, Ambikapur",
+            "address3": " Chhattisgarh- 497001",
+            "lng": "83.17052",
+            "address2": "Besides Mahamaya Honda 2W, Ambikapur,",
+            "cityCode": "WCX",
+            "address1": "Plot No. 213/42, Manendragarh Road,",
+            "phone2": "6262600961",
+            "phone1": "6262600961",
+            "cityName": "AMBIKAPUR",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG402",
+            "email": "sales@mahamayakia.com",
+            "lat": "23.13636"
+        },
+        {
+            "dealerName": "Mahamaya Kia, M.G Road, Ambikapur",
+            "address3": "Chhattisgarh- 497001",
+            "lng": "83.18228",
+            "address2": "Bilaspur Highway, Ambikapur,",
+            "cityCode": "WCX",
+            "address1": "40, NH130,",
+            "phone2": "7970123461",
+            "phone1": "7970123461",
+            "cityName": "AMBIKAPUR",
+            "stateName": "Chhattisgarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CG",
+            "id": "CG402",
+            "email": "service@mahamayakia.com",
+            "lat": "23.10064"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "website": "https://www.modi-kia-dombivli.com",
+            "dealerName": "Modi Kia, Dombivali",
+            "address3": " Dombivli, Thane, Maharashtra -421204",
+            "lng": "73.0554205",
+            "address2": "Heights, Village Padle, Kalyan Shill Rd,",
+            "cityCode": "WBK",
+            "address1": "Showroom No. 2, Building B-1, Parvati",
+            "phone2": "8655741577",
+            "phone1": "8655741577",
+            "cityName": "Dombivli",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH112",
+            "lat": "19.1502172"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

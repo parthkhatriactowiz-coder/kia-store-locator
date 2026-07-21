@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.avs-kia-roorkee.com",
+            "dealerName": "AVS KIA, Roorkee",
+            "address3": "Haridwar, Uttarakhand, 247667",
+            "lng": "77.8829",
+            "address2": "274/3, Asafnagar,",
+            "cityCode": "N48",
+            "address1": "Delhi Road, Roorkee,",
+            "phone2": "9897036244",
+            "phone1": "9105910018",
+            "cityName": "Roorkee",
+            "stateName": "Uttarakhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UK",
+            "id": "UK101",
+            "email": "smsales.rrk@avskia.in",
+            "lat": "29.8281"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

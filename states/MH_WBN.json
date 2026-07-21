@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.autobahn-kia-vasai.com",
+            "dealerName": "Autobahn Kia, Vasai",
+            "address3": "Vasai East, Maharashtra -401208",
+            "lng": "72.87760045",
+            "address2": " Opp. Gavdevi Temple Sativali",
+            "cityCode": "WBN",
+            "address1": "Arihant Eastate S.No 5,",
+            "phone2": "9821240254",
+            "phone1": "9029292929",
+            "cityName": "Vasai",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH414",
+            "email": "info@kia-autobahn.com",
+            "lat": "19.40481548"
+        },
+        {
+            "website": "https://www.autobahn-kia-vasai.com",
+            "dealerName": "Autobahn Kia, Vasai",
+            "address3": "Vasai East, Dist -Palghar, Mh -401208",
+            "lng": "19.408692",
+            "address2": "Colaso Complex Next to Morya Naka,",
+            "cityCode": "WBN",
+            "address1": "Waliv Vill. Sy No 75 P No 96",
+            "phone2": "9769715840 ",
+            "phone1": "9769715840 ",
+            "cityName": "Vasai",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH414",
+            "email": "smservice.v@kia-autobahn.com",
+            "lat": "72.869571"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

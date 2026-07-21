@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.sahib-kia-gorakhpur-road.com",
+            "dealerName": "Sahib Kia, Deoria",
+            "address3": "Deoria, Uttar Pradesh -274001",
+            "lng": "83.768",
+            "address2": "P.O. GI State, Gorakhpur Road,",
+            "cityCode": "NHT",
+            "address1": "Plot No 889, Village -Mehra,",
+            "phone2": "9151685555",
+            "phone1": "9151685555",
+            "cityName": "DEORIA",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP511",
+            "email": "md@sahibkia.in",
+            "lat": "26.52285"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

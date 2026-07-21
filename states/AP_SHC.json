@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "MG Brothers Kia, Hindupur",
+            "address3": "Sr Satyasai Dist, Andhra Pradesh- 515201",
+            "lng": "77.50586",
+            "address2": "Mandal, Kotnur Village, Hindupur,",
+            "cityCode": "SHC",
+            "address1": "Sy No 443, 443-5, 29Th Ward, Hindupur",
+            "phone2": "9550098738",
+            "phone1": "8333929195",
+            "cityName": "Hindupur",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP601",
+            "lat": "13.842"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "website": "https://www.landmark-kia-bowenpally.com",
+            "dealerName": "Landmark Kia, Bowenpally",
+            "address3": "Secunderabad Cantonment, Telangana- 5000",
+            "lng": "78.472867424",
+            "address2": "Glr Sy 505, NH-44, Old NH-7, Bowenpally,",
+            "cityCode": "SEJ",
+            "address1": "Door No. Na/6-R5-012, Sy.33(Part),",
+            "phone2": "9265873519",
+            "phone1": "9100075700",
+            "cityName": "Secunderabad",
+            "stateName": "Telangana",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TS",
+            "id": "TS110",
+            "email": "sales@landmark-kia.in",
+            "lat": "17.480164218"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

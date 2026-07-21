@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "website": "https://www.raj-kia.com",
+            "dealerName": "Raj KIA, Gaya",
+            "address3": "GAYA, BIHAR -823004",
+            "lng": "84.967408",
+            "address2": "BODH-GAYA ROAD, NEAR TEKUNA FARM",
+            "cityCode": "E65",
+            "address1": "PLOT NO.-1233, NH-83,",
+            "phone2": "9031057100",
+            "phone1": "9031057100",
+            "cityName": "Gaya",
+            "stateName": "Bihar",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "BR",
+            "id": "BR302",
+            "email": "smsales@rajkia.com",
+            "lat": "24.731657"
+        },
+        {
+            "website": "https://www.raj-kia.com",
+            "dealerName": "Raj KIA, Gaya",
+            "address3": "GAYA, BIHAR-823004",
+            "lng": "84.96788889",
+            "address2": "BODH-GAYA ROAD, NEAR TEKUNA FARM",
+            "cityCode": "E65",
+            "address1": "PLOT NO.-1233, NH-83,",
+            "phone2": "9031057101",
+            "phone1": "9031057101",
+            "cityName": "Gaya",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR302",
+            "email": "smservice@rajkia.com",
+            "lat": "24.73175000"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}
