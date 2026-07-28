@@ -20,23 +20,6 @@
             "lat": "22.27411"
         },
         {
-            "dealerName": "Shreenath Cars Kia, Gotri",
-            "address3": "Gujarat-391101",
-            "lng": "73.120766",
-            "address2": "Gotri-Sevasi Road, Gotri, Vadodara,",
-            "cityCode": "W33",
-            "address1": "Sears II, GF 1 & 2, Upper Ground 101 & 1",
-            "phone2": "9081026777",
-            "phone1": "9081026777",
-            "cityName": "Vadodara",
-            "stateName": "Gujarat",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "GJ",
-            "id": "GJ109",
-            "lat": "22.31863"
-        },
-        {
             "website": "https://www.shreenath-kia-vadodara.com",
             "dealerName": "Shreenath Cars Kia, Chhani, Vadodara",
             "address3": "Ram Wadi, Vadodara, Gujarat -390020",
@@ -54,6 +37,23 @@
             "id": "GJ320",
             "email": "gmsalesvadodara@shreenathkia.in",
             "lat": "22.3399654"
+        },
+        {
+            "dealerName": "Shreenath Cars Kia, Gotri",
+            "address3": "Gujarat-391101",
+            "lng": "73.120766",
+            "address2": "Gotri-Sevasi Road, Gotri, Vadodara,",
+            "cityCode": "W33",
+            "address1": "Sears II, GF 1 & 2, Upper Ground 101 & 1",
+            "phone2": "9081026777",
+            "phone1": "9081026777",
+            "cityName": "Vadodara",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ109",
+            "lat": "22.31863"
         },
         {
             "website": "https://www.gopinathji-kia-atladra.com",

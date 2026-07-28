@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Incheon Kia, Thiruvalla",
+            "address3": "Kerala -689115",
+            "lng": "76.585",
+            "address2": "Thirumoolapuram, Thiruvalla,",
+            "cityCode": "SHV",
+            "address1": "Somanpady, MC Road,",
+            "phone2": "8111879111",
+            "phone1": "8111879111",
+            "cityName": "Thiruvalla",
+            "stateName": "Kerala",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KL",
+            "id": "KL513",
+            "email": "Enquiry@Incheonkia.Com",
+            "lat": "9.363"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

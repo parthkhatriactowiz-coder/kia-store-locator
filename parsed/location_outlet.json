@@ -196,6 +196,14 @@
         "address": "Building No.354-3A, Beside Nayara Petrol  Pump, Gutturu,Penukonda, Sri Sathyasai",
         "state_name": "Andhra Pradesh",
         "city_name": "Penukonda",
+        "phone_number": "9030027333",
+        "email": "suresh@sehokia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=AP&city=SPK",
+        "address": "Building No.354-3A, Beside Nayara Petrol  Pump, Gutturu,Penukonda, Sri Sathyasai",
+        "state_name": "Andhra Pradesh",
+        "city_name": "Penukonda",
         "phone_number": "9030329111",
         "email": "servicemanager@sehokia.com"
     },
@@ -305,18 +313,18 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=AP&city=P33",
-        "address": "D/No 2-35-73/8, Towards Beach Rd, Sec 10 , MVP Colony, M.V.P Double Rd Ending,",
-        "state_name": "Andhra Pradesh",
-        "city_name": "Vishakhapatnam",
-        "phone_number": "8712688871",
-        "email": ""
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=AP&city=P33",
         "address": "32-6-1/13,Opp Bharath Petrol Bunk, Sheela Nagar, Visakhapatnam,",
         "state_name": "Andhra Pradesh",
         "city_name": "Vishakhapatnam",
         "phone_number": "8712688860",
+        "email": ""
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=AP&city=P33",
+        "address": "D/No 2-35-73/8, Towards Beach Rd, Sec 10 , MVP Colony, M.V.P Double Rd Ending,",
+        "state_name": "Andhra Pradesh",
+        "city_name": "Vishakhapatnam",
+        "phone_number": "8712688871",
         "email": ""
     },
     {
@@ -713,18 +721,18 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=BR&city=E60",
-        "address": "Pandey Motors Campus Bhoothnath Road, Kankarbagh",
-        "state_name": "Bihar",
-        "city_name": "Patna",
-        "phone_number": "7903173010",
-        "email": "service@amarjyotikia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=BR&city=E60",
         "address": "Kurji More, Kurji Kia Service",
         "state_name": "Bihar",
         "city_name": "Patna",
         "phone_number": "8102922004",
+        "email": "service@amarjyotikia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=BR&city=E60",
+        "address": "Pandey Motors Campus Bhoothnath Road, Kankarbagh",
+        "state_name": "Bihar",
+        "city_name": "Patna",
+        "phone_number": "7903173010",
         "email": "service@amarjyotikia.com"
     },
     {
@@ -769,19 +777,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CH&city=N70",
-        "address": "Plot  No. 182/1, Industrial Area, Phase 1",
-        "state_name": "Chandigarh",
-        "city_name": "Chandigarh",
-        "phone_number": "9875923025",
-        "email": "gmaftersales@joshikia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CH&city=N70",
         "address": "Plot No. 33,  Industrial Area, Phase 1",
         "state_name": "Chandigarh",
         "city_name": "Chandigarh",
         "phone_number": "0172-5305366",
         "email": "joshikiachandigarh@gmail.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CH&city=N70",
+        "address": "Plot  No. 182/1, Industrial Area, Phase 1",
+        "state_name": "Chandigarh",
+        "city_name": "Chandigarh",
+        "phone_number": "9875923025",
+        "email": "gmaftersales@joshikia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CG&city=WCX",
@@ -913,19 +921,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CG&city=W54",
-        "address": "Raipur Bypass Ring Road No.1, Aamnaka, Raipur,",
-        "state_name": "Chhattisgarh",
-        "city_name": "Raipur",
-        "phone_number": "9425550666",
-        "email": ""
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CG&city=W54",
         "address": "778/3 & 778/2, Vidhan Sabha Road Opposite Ambuja Mall Mowa, Raipur,",
         "state_name": "Chhattisgarh",
         "city_name": "Raipur",
         "phone_number": "7880144292",
         "email": "salesmanager@mahadevakia.co.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CG&city=W54",
+        "address": "Raipur Bypass Ring Road No.1, Aamnaka, Raipur,",
+        "state_name": "Chhattisgarh",
+        "city_name": "Raipur",
+        "phone_number": "9425550666",
+        "email": ""
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=CG&city=W54",
@@ -1001,14 +1009,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
-        "address": "Plot No. 65/9, New Rohtak Road, Karol Bagh,",
-        "state_name": "Delhi",
-        "city_name": "Delhi",
-        "phone_number": "08045888886",
-        "email": "customercare.kb@allied-kia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "Connaught Place No.5 Scindia House,",
         "state_name": "Delhi",
         "city_name": "Delhi",
@@ -1017,11 +1017,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
-        "address": "Plot No-230, Sector 9,  Dwarka, New Delhi,",
+        "address": "Plot No. 65/9, New Rohtak Road, Karol Bagh,",
         "state_name": "Delhi",
         "city_name": "Delhi",
-        "phone_number": "7780755133",
-        "email": "digitalsales.kiadelhi@automotiveml.com"
+        "phone_number": "08045888886",
+        "email": "customercare.kb@allied-kia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
@@ -1033,6 +1033,14 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
+        "address": "Plot No-230, Sector 9,  Dwarka, New Delhi,",
+        "state_name": "Delhi",
+        "city_name": "Delhi",
+        "phone_number": "7780755133",
+        "email": "digitalsales.kiadelhi@automotiveml.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "A2/8, Safdarjung Enclave New Delhi 110029",
         "state_name": "Delhi",
         "city_name": "Delhi",
@@ -1041,19 +1049,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
-        "address": "Plot No. 31, Shivaji Marg, Motinagar,",
-        "state_name": "Delhi",
-        "city_name": "Delhi",
-        "phone_number": "9254076931",
-        "email": "crmdelhi.mn@ritukia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "D-13, RING ROAD, Rajouri Garden, New Delhi,",
         "state_name": "Delhi",
         "city_name": "Delhi",
         "phone_number": "7419798999",
         "email": "gmsalesdelhi@ritukia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
+        "address": "Plot No. 31, Shivaji Marg, Motinagar,",
+        "state_name": "Delhi",
+        "city_name": "Delhi",
+        "phone_number": "9254076931",
+        "email": "crmdelhi.mn@ritukia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
@@ -1097,14 +1105,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
-        "address": "RR4,  Mianwali Nagar, Peeragarhi,",
-        "state_name": "Delhi",
-        "city_name": "Delhi",
-        "phone_number": "8929294444",
-        "email": "gm.sales@lohiakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "E-48, Prashant Vihar, Sector 14, Rohini,",
         "state_name": "Delhi",
         "city_name": "Delhi",
@@ -1121,6 +1121,14 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
+        "address": "RR4,  Mianwali Nagar, Peeragarhi,",
+        "state_name": "Delhi",
+        "city_name": "Delhi",
+        "phone_number": "8929294444",
+        "email": "gm.sales@lohiakia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "Plot no. 23, Industrial Area, Najafgarh Road, Shivaji Marg, New Delhi",
         "state_name": "Delhi",
         "city_name": "Delhi",
@@ -1129,19 +1137,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
-        "address": "485/A-4 & A-4A, Dilshard Garden, Opposite Dilshad Garden Metro Satation,",
-        "state_name": "Delhi",
-        "city_name": "Delhi",
-        "phone_number": "",
-        "email": "salesmanager.dg@speedingo-kia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "C-184, 186, 185, 174, Wazirabad main road, East Gokulpuri,",
         "state_name": "Delhi",
         "city_name": "Delhi",
         "phone_number": "9555289289",
         "email": "CRM.GP@SPEEDINGO-KIA.IN"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
+        "address": "485/A-4 & A-4A, Dilshard Garden, Opposite Dilshad Garden Metro Satation,",
+        "state_name": "Delhi",
+        "city_name": "Delhi",
+        "phone_number": "",
+        "email": "salesmanager.dg@speedingo-kia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
@@ -1201,6 +1209,14 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
+        "address": "B-1, Shankar Garden, Vikas Puri, New Delhi,",
+        "state_name": "Delhi",
+        "city_name": "Delhi",
+        "phone_number": "7428030360",
+        "email": "crmsales@vsmobility.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "Phase-1, New Delhi A-1, Mayapuri Industrial Estate,",
         "state_name": "Delhi",
         "city_name": "Delhi",
@@ -1249,19 +1265,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
-        "address": "H-1, Peeragarhi Flyover, Manufacturers Co Operative Ind. Estate Limited, Udyog",
-        "state_name": "Delhi",
-        "city_name": "Delhi",
-        "phone_number": "9289996422",
-        "email": "servicemanager.pg@lohiakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
         "address": "BLOCK A, LAWRENCE ROAD, PLOT NO 16,",
         "state_name": "Delhi",
         "city_name": "Delhi",
         "phone_number": "9355005114",
         "email": "service.lr@lohiakia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
+        "address": "H-1, Peeragarhi Flyover, Manufacturers Co Operative Ind. Estate Limited, Udyog",
+        "state_name": "Delhi",
+        "city_name": "Delhi",
+        "phone_number": "9289996422",
+        "email": "servicemanager.pg@lohiakia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=DL&city=N10",
@@ -1369,19 +1385,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
-        "address": "Survey-28/6,28/7, Plot.44 Nikol Kathvada S.P Ring Road",
-        "state_name": "Gujarat",
-        "city_name": "Ahmedabad",
-        "phone_number": "7043733733",
-        "email": "gmnikol@supernovakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
         "address": "Westgate D block, Showrooms-1,2,3, Besides YMCA club, SG highway,",
         "state_name": "Gujarat",
         "city_name": "Ahmedabad",
         "phone_number": "7043722722",
         "email": "info@supernovakia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
+        "address": "Survey-28/6,28/7, Plot.44 Nikol Kathvada S.P Ring Road",
+        "state_name": "Gujarat",
+        "city_name": "Ahmedabad",
+        "phone_number": "7043733733",
+        "email": "gmnikol@supernovakia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
@@ -1465,19 +1481,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
-        "address": "PLOT 197/2, SR.NO-173/3/2 NR.SK FARM, B/H- RAJPATH CLUB",
-        "state_name": "Gujarat",
-        "city_name": "Ahmedabad",
-        "phone_number": "7043722722",
-        "email": "servicemanager@supernovakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
         "address": "Survey-28/6,28/7, Plot.44 Nikol Kathvada S.P Ring Road",
         "state_name": "Gujarat",
         "city_name": "Ahmedabad",
         "phone_number": "7043733733",
         "email": "servicemgrnikol@supernovakia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
+        "address": "PLOT 197/2, SR.NO-173/3/2 NR.SK FARM, B/H- RAJPATH CLUB",
+        "state_name": "Gujarat",
+        "city_name": "Ahmedabad",
+        "phone_number": "7043722722",
+        "email": "servicemanager@supernovakia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
@@ -1497,19 +1513,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
-        "address": "Satyam Ceramics Plot No 34, Phase 3, GIDC, Naroda, Ahmedabad,",
-        "state_name": "Gujarat",
-        "city_name": "Ahmedabad",
-        "phone_number": "9925144993",
-        "email": "wm.kianaroda@karnavati.co"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
         "address": "Survey No. 345/1, Sola, Science City Road",
         "state_name": "Gujarat",
         "city_name": "Ahmedabad",
         "phone_number": "9825043256",
         "email": ""
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
+        "address": "Satyam Ceramics Plot No 34, Phase 3, GIDC, Naroda, Ahmedabad,",
+        "state_name": "Gujarat",
+        "city_name": "Ahmedabad",
+        "phone_number": "9925144993",
+        "email": "wm.kianaroda@karnavati.co"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W30",
@@ -1548,8 +1564,8 @@
         "address": "Opp. Varsha Hotel, N.H. No: 8, Rajpipla Road, Gadkhol, Ankleshwar,",
         "state_name": "Gujarat",
         "city_name": "Ankleshwar",
-        "phone_number": "9727738488",
-        "email": ""
+        "phone_number": "9712914717",
+        "email": "smserviceankleshwar@gopinathjikia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W73",
@@ -1700,8 +1716,8 @@
         "address": "Jamnagar, Rajkot Highway Plot No. 24, HAPA",
         "state_name": "Gujarat",
         "city_name": "Jamnagar",
-        "phone_number": "9925099977",
-        "email": ""
+        "phone_number": "7227979511",
+        "email": "bodyshop-jamnagar@shivamkia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W39",
@@ -1953,22 +1969,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
-        "address": "Plot No. 49/1 Harihar Plot, Near Valenti ne Cinema, Piplod- Surat 395007",
-        "state_name": "Gujarat",
-        "city_name": "Surat",
-        "phone_number": "9725077777",
-        "email": "sales@shreenathkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
-        "address": "G 6-7, Marvella Shopping centre. Opposite Pal RTO.",
-        "state_name": "Gujarat",
-        "city_name": "Surat",
-        "phone_number": "9081924777",
-        "email": "gmsalesadajan@shreenathkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
         "address": "Plot No 76-A, Nr Awadh Textile Market, Puna Kumbharia Road,",
         "state_name": "Gujarat",
         "city_name": "Surat",
@@ -1982,6 +1982,30 @@
         "city_name": "Surat",
         "phone_number": "9081020777",
         "email": "gmsalesvip@shreenathkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
+        "address": "G 6-7, Marvella Shopping centre. Opposite Pal RTO.",
+        "state_name": "Gujarat",
+        "city_name": "Surat",
+        "phone_number": "9081924777",
+        "email": "gmsalesadajan@shreenathkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
+        "address": "Plot No. 49/1 Harihar Plot, Near Valenti ne Cinema, Piplod- Surat 395007",
+        "state_name": "Gujarat",
+        "city_name": "Surat",
+        "phone_number": "9725077777",
+        "email": "sales@shreenathkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
+        "address": "GR 1- 4, 1ST FLR 101-104, SY 332, FP-11, Mahek IT Park, Katargam, B/S RJD Park,",
+        "state_name": "Gujarat",
+        "city_name": "Surat",
+        "phone_number": "9913381000",
+        "email": "anish@suratkia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
@@ -2001,27 +2025,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
-        "address": "GR 1- 4, 1ST FLR 101-104, SY 332, FP-11, Mahek IT Park, Katargam, B/S RJD Park,",
-        "state_name": "Gujarat",
-        "city_name": "Surat",
-        "phone_number": "9913381000",
-        "email": "anish@suratkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
         "address": "Manbhari Farm  opp VIP plaza, Near Shyam Baba Mandir,VIP road,",
         "state_name": "Gujarat",
         "city_name": "Surat",
         "phone_number": "9725077777",
         "email": "konfidence@shreenathkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
-        "address": "Manbhari Farm, Vip Road, Opp. Vip Plaza, Near Shyam Baba Temple, Bharthana,",
-        "state_name": "Gujarat",
-        "city_name": "Surat",
-        "phone_number": "9081022777",
-        "email": "Cmd@Shreenathkia.In"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
@@ -2033,7 +2041,15 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
-        "address": "Site No  B-171 New Industrial Estate, Udhyognnagar",
+        "address": "Manbhari Farm, Vip Road, Opp. Vip Plaza, Near Shyam Baba Temple, Bharthana,",
+        "state_name": "Gujarat",
+        "city_name": "Surat",
+        "phone_number": "9081022777",
+        "email": "Cmd@Shreenathkia.In"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
+        "address": "New Industrial Estate, Udhyognnagar Site No  B-171",
         "state_name": "Gujarat",
         "city_name": "Surat",
         "phone_number": "8930833333",
@@ -2041,7 +2057,7 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W32",
-        "address": "New Industrial Estate, Udhyognnagar Site No  B-171",
+        "address": "Site No  B-171 New Industrial Estate, Udhyognnagar",
         "state_name": "Gujarat",
         "city_name": "Surat",
         "phone_number": "8930833333",
@@ -2081,19 +2097,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W33",
-        "address": "Sears II, GF 1 & 2, Upper Ground 101 & 1 Gotri-Sevasi Road, Gotri, Vadodara,",
-        "state_name": "Gujarat",
-        "city_name": "Vadodara",
-        "phone_number": "9081026777",
-        "email": ""
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W33",
         "address": "Sub P No. 4, Old Chhani Rd, Near Chhani Jakat Naka, Navi Ashapuri,",
         "state_name": "Gujarat",
         "city_name": "Vadodara",
         "phone_number": "9112077777",
         "email": "gmsalesvadodara@shreenathkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W33",
+        "address": "Sears II, GF 1 & 2, Upper Ground 101 & 1 Gotri-Sevasi Road, Gotri, Vadodara,",
+        "state_name": "Gujarat",
+        "city_name": "Vadodara",
+        "phone_number": "9081026777",
+        "email": ""
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W33",
@@ -2145,19 +2161,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W37",
-        "address": "Block No. 1496, Nr. Rathod Toyota,  N.H.No. 48, Balitha",
-        "state_name": "Gujarat",
-        "city_name": "Vapi",
-        "phone_number": "7436090260",
-        "email": "crm.service@rathodkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W37",
         "address": "Plot no.39, First Phase GIDC Vapi,",
         "state_name": "Gujarat",
         "city_name": "Vapi",
         "phone_number": "8511180518",
         "email": "service@rathodkia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W37",
+        "address": "Block No. 1496, Nr. Rathod Toyota,  N.H.No. 48, Balitha",
+        "state_name": "Gujarat",
+        "city_name": "Vapi",
+        "phone_number": "7436090260",
+        "email": "crm.service@rathodkia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=GJ&city=W99",
@@ -2177,19 +2193,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N24",
-        "address": "13/40 KM Stone, Tepla Ambala-Jagadhri Highway",
-        "state_name": "Haryana",
-        "city_name": "Ambala",
-        "phone_number": "8607807100",
-        "email": "sales@mohankia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N24",
         "address": "Near IOCL Pump, Baldev Nagar, Ambala Chandigarh Highway, Ambala City,",
         "state_name": "Haryana",
         "city_name": "Ambala",
         "phone_number": "7973215219",
         "email": "md@mohankia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N24",
+        "address": "13/40 KM Stone, Tepla Ambala-Jagadhri Highway",
+        "state_name": "Haryana",
+        "city_name": "Ambala",
+        "phone_number": "8607807100",
+        "email": "sales@mohankia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N24",
@@ -2241,14 +2257,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N22",
-        "address": "Plot No.63, Neelam Bata Road, NIT Faridabad,",
-        "state_name": "Haryana",
-        "city_name": "Faridabad",
-        "phone_number": "7056661905",
-        "email": "tdm@salujakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N22",
         "address": "Plot No.1, sector 27A HUDA Industrial Area",
         "state_name": "Haryana",
         "city_name": "Faridabad",
@@ -2257,10 +2265,10 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N22",
-        "address": "Behind Tara Chand Saluja & Sons Petrol Pump, 36Km Stone NH-2, Mathura Road",
+        "address": "Plot No. 63 Neelam Bata Road, NIT Faridabad,",
         "state_name": "Haryana",
         "city_name": "Faridabad",
-        "phone_number": "7056661942",
+        "phone_number": "9953757023",
         "email": ""
     },
     {
@@ -2476,7 +2484,7 @@
         "address": "Main Bus Stand, Khasra No. 42, Kila No.  25/3/2/2-30/2/2, Opp Kasan Road, NH 48,",
         "state_name": "Haryana",
         "city_name": "MANESAR",
-        "phone_number": "9971500229",
+        "phone_number": "7056662703",
         "email": ""
     },
     {
@@ -2673,19 +2681,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N14",
-        "address": "43/6, Jat Joshi Bahalgarh Road, Sonipat",
-        "state_name": "Haryana",
-        "city_name": "Sonipat",
-        "phone_number": "7496969920",
-        "email": "gmservice@legacykia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N14",
         "address": "Khasra No-79, GT Road Kundli, Near KFC Kundli, Sonipat,",
         "state_name": "Haryana",
         "city_name": "Sonipat",
         "phone_number": "7419788801",
         "email": "cgmservice@malwakia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N14",
+        "address": "43/6, Jat Joshi Bahalgarh Road, Sonipat",
+        "state_name": "Haryana",
+        "city_name": "Sonipat",
+        "phone_number": "7496969920",
+        "email": "gmservice@legacykia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=HR&city=N25",
@@ -3089,18 +3097,18 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=JH&city=E63",
-        "address": "RS Plot No 2158, Khata No 263, Opposite Maple Plaza, Near Road No.2, Ashok Nagar, Argora",
-        "state_name": "Jharkhand",
-        "city_name": "Ranchi",
-        "phone_number": "7520000101",
-        "email": "sales@horizonkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=JH&city=E63",
         "address": "RS Plot No 36-37, Khata No 27, Village Hehal, Ratu Road, Beside Aastha Residency,",
         "state_name": "Jharkhand",
         "city_name": "Ranchi",
         "phone_number": "7520001101",
+        "email": "sales@horizonkia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=JH&city=E63",
+        "address": "RS Plot No 2158, Khata No 263, Opposite Maple Plaza, Near Road No.2, Ashok Nagar, Argora",
+        "state_name": "Jharkhand",
+        "city_name": "Ranchi",
+        "phone_number": "7520000101",
         "email": "sales@horizonkia.com"
     },
     {
@@ -3193,19 +3201,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
-        "address": "No. 48 Survey No 12/17 & 12/18, Hosahalli, Gollarapalya, Magadi Main",
-        "state_name": "Karnataka",
-        "city_name": "Bangalore",
-        "phone_number": "6364871023",
-        "email": "salesmanager.magadird@advaithkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
         "address": "Fortuna House, #184 GF, Outer Ring Rd, Kesari Nandana, Banashankari 3rd Stage,",
         "state_name": "Karnataka",
         "city_name": "Bangalore",
         "phone_number": "6364871022",
         "email": "salesmanager.bsk@advaithkia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
+        "address": "No. 48 Survey No 12/17 & 12/18, Hosahalli, Gollarapalya, Magadi Main",
+        "state_name": "Karnataka",
+        "city_name": "Bangalore",
+        "phone_number": "6364871023",
+        "email": "salesmanager.magadird@advaithkia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
@@ -3265,19 +3273,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
-        "address": "No.8A/8B, 24th Main Road,  Jeewan Griha Colony",
-        "state_name": "Karnataka",
-        "city_name": "Bangalore",
-        "phone_number": "7406528200",
-        "email": "sm@naarakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
         "address": "807/10/1(Old No 9/8) Kanakapura Rd, Near Thalaghattapura Metro Station,",
         "state_name": "Karnataka",
         "city_name": "Bangalore",
         "phone_number": "9071010099",
         "email": "Smtlg@naarakia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
+        "address": "No.8A/8B, 24th Main Road,  Jeewan Griha Colony",
+        "state_name": "Karnataka",
+        "city_name": "Bangalore",
+        "phone_number": "7406528200",
+        "email": "sm@naarakia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
@@ -3385,19 +3393,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
-        "address": "No. 71& 71/1 Lalbagh Main Road",
-        "state_name": "Karnataka",
-        "city_name": "Bangalore",
-        "phone_number": "6366355151",
-        "email": "agm@advithkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
         "address": "No. 2, Industrial Layout, Bhanshankari 2nd Stage",
         "state_name": "Karnataka",
         "city_name": "Bangalore",
         "phone_number": "6366355145",
         "email": "service.bsk@advaithkia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
+        "address": "No. 71& 71/1 Lalbagh Main Road",
+        "state_name": "Karnataka",
+        "city_name": "Bangalore",
+        "phone_number": "6366355151",
+        "email": "agm@advithkia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
@@ -3457,19 +3465,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
-        "address": "No.10, NS Palya, 1st Main Rd 7th Cross Rd, Opposite PM Kalyana Mantapa",
-        "state_name": "Karnataka",
-        "city_name": "Bangalore",
-        "phone_number": "8867685092",
-        "email": "Servicemanager@naarakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
         "address": "No 8/3 &10, Kanakapura Road, Near Thalagattapura Metro Station,",
         "state_name": "Karnataka",
         "city_name": "Bangalore",
         "phone_number": "9071010099",
         "email": "ccmtlg@naarakia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
+        "address": "No.10, NS Palya, 1st Main Rd 7th Cross Rd, Opposite PM Kalyana Mantapa",
+        "state_name": "Karnataka",
+        "city_name": "Bangalore",
+        "phone_number": "8867685092",
+        "email": "Servicemanager@naarakia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S80",
@@ -3633,19 +3641,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S81",
-        "address": "16/2, Opp New Bus Stand, Gokul Road, Hubli,",
-        "state_name": "Karnataka",
-        "city_name": "Hubli",
-        "phone_number": "8088752342",
-        "email": "arunagadi@nagshanti.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S81",
         "address": "Block No. 54 Amargol, Hubli- 580025",
         "state_name": "Karnataka",
         "city_name": "Hubli",
         "phone_number": "9148432469",
         "email": "hblsh@nagshantikia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S81",
+        "address": "16/2, Opp New Bus Stand, Gokul Road, Hubli,",
+        "state_name": "Karnataka",
+        "city_name": "Hubli",
+        "phone_number": "8088752342",
+        "email": "arunagadi@nagshanti.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KA&city=S81",
@@ -3937,14 +3945,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S70",
-        "address": "DKH MOTORS LLP, Building No./Flat No.: 39/39/910-A1, ATHANIKKAL,",
-        "state_name": "Kerala",
-        "city_name": "Calicut",
-        "phone_number": "9207649000",
-        "email": "servicemanagerclt@dkhkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S70",
         "address": "Survey No.18/2-5, 18/2-1, 18/2-2, 18/9-1 , Service Road NH 66, Azhinjilam,",
         "state_name": "Kerala",
         "city_name": "Calicut",
@@ -3952,11 +3952,19 @@
         "email": "info@dkhkia.com"
     },
     {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S70",
+        "address": "DKH MOTORS LLP, Building No./Flat No.: 39/39/910-A1, ATHANIKKAL,",
+        "state_name": "Kerala",
+        "city_name": "Calicut",
+        "phone_number": "9207649000",
+        "email": "servicemanagerclt@dkhkia.com"
+    },
+    {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S72",
-        "address": "6/13A (Old No 273/5-1) NH 544,  Kochi-Salem Highway, Desom, Parambayam,",
+        "address": "Plot  No – 11/336 ,  NH -47 ,Bypass Netoor PO ,",
         "state_name": "Kerala",
         "city_name": "Cochin",
-        "phone_number": "8111879111",
+        "phone_number": "7012998614",
         "email": "enquiry@incheonkia.com"
     },
     {
@@ -3969,10 +3977,18 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S72",
-        "address": "Plot  No – 11/336 ,  NH -47 ,Bypass Netoor PO ,",
+        "address": "6/13A (Old No 273/5-1) NH 544,  Kochi-Salem Highway, Desom, Parambayam,",
         "state_name": "Kerala",
         "city_name": "Cochin",
-        "phone_number": "7012998614",
+        "phone_number": "8111879111",
+        "email": "enquiry@incheonkia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S72",
+        "address": "Ground Floor, AMV Towers, Building Number 11-585-A-UA, Old NH 47",
+        "state_name": "Kerala",
+        "city_name": "Cochin",
+        "phone_number": "8111879111",
         "email": "enquiry@incheonkia.com"
     },
     {
@@ -3985,7 +4001,7 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S72",
-        "address": "Ground Floor, AMV Towers, Building Number 11-585-A-UA, Old NH 47",
+        "address": "Plot  No – 11/336 ,  NH -47 ,Bypass Netoor PO ,",
         "state_name": "Kerala",
         "city_name": "Cochin",
         "phone_number": "8111879111",
@@ -3994,14 +4010,6 @@
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S72",
         "address": "6/13A (Old No 273/5-1) NH 544,  Kochi-Salem Highway, Desom, Parambayam,",
-        "state_name": "Kerala",
-        "city_name": "Cochin",
-        "phone_number": "8111879111",
-        "email": "enquiry@incheonkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=S72",
-        "address": "Plot  No – 11/336 ,  NH -47 ,Bypass Netoor PO ,",
         "state_name": "Kerala",
         "city_name": "Cochin",
         "phone_number": "8111879111",
@@ -4198,6 +4206,14 @@
         "city_name": "Palakkad",
         "phone_number": "8848001239",
         "email": "service.palakkad@incheonkia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=SHV",
+        "address": "Somanpady, MC Road, Thirumoolapuram, Thiruvalla,",
+        "state_name": "Kerala",
+        "city_name": "Thiruvalla",
+        "phone_number": "8111879111",
+        "email": "Enquiry@Incheonkia.Com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=SIM",
@@ -4449,19 +4465,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W53",
-        "address": "Main Highway, Sirol Bypass, Rammua, Lakhnoti Kalan, Gwalior,",
-        "state_name": "Madhya Pradesh",
-        "city_name": "Gwalior",
-        "phone_number": "7880083887",
-        "email": "service@kia.royalgroupindia.biz"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W53",
         "address": "Survey No 44, 48/2 Shivpuri Link Road, Kedarpur",
         "state_name": "Madhya Pradesh",
         "city_name": "Gwalior",
         "phone_number": "9109179261",
         "email": "mgrservice@kia.royalgroupindia.biz"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W53",
+        "address": "Main Highway, Sirol Bypass, Rammua, Lakhnoti Kalan, Gwalior,",
+        "state_name": "Madhya Pradesh",
+        "city_name": "Gwalior",
+        "phone_number": "7880083887",
+        "email": "service@kia.royalgroupindia.biz"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W51",
@@ -4545,14 +4561,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W51",
-        "address": "38/1/1/1,2 Bicholi Hapsy, Opp Pride Hotel, Unnamed Road, Indore,",
-        "state_name": "Madhya Pradesh",
-        "city_name": "Indore",
-        "phone_number": "6262626824",
-        "email": "crmservice.shrikia2s@sbil.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W51",
         "address": "Plot No. 7-10, Niranjanpur AB Road, New Dewas  Naka, Indore",
         "state_name": "Madhya Pradesh",
         "city_name": "Indore",
@@ -4560,8 +4568,16 @@
         "email": "wmservice.shrikia@sbil.in"
     },
     {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W51",
+        "address": "38/1/1/1,2 Bicholi Hapsy, Opp Pride Hotel, Unnamed Road, Indore,",
+        "state_name": "Madhya Pradesh",
+        "city_name": "Indore",
+        "phone_number": "6262626824",
+        "email": "crmservice.shrikia2s@sbil.in"
+    },
+    {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W52",
-        "address": "Tripuri Chowk, 519/4/D Garha",
+        "address": "16/1 -17/1, Tilwaraghat-Nagpur Road Before Little World School",
         "state_name": "Madhya Pradesh",
         "city_name": "Jabalpur",
         "phone_number": "9516648888",
@@ -4569,7 +4585,7 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MP&city=W52",
-        "address": "16/1 -17/1, Tilwaraghat-Nagpur Road Before Little World School",
+        "address": "Tripuri Chowk, 519/4/D Garha",
         "state_name": "Madhya Pradesh",
         "city_name": "Jabalpur",
         "phone_number": "9516648888",
@@ -5161,19 +5177,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W10",
-        "address": "Unit-2,GF, Opp.PVR Milap Cinema, Sanjar Enclave Premises Co-Op Soc Ltd.,Kandivali West",
-        "state_name": "Maharashtra",
-        "city_name": "Mumbai",
-        "phone_number": "9967154841",
-        "email": "Sales@salasarkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W10",
         "address": "C Wing Shop No. 1,2,3 & 4, Raj Akshay Building, Miragaon, Mira Road East,",
         "state_name": "Maharashtra",
         "city_name": "Mumbai",
         "phone_number": "7304485355",
         "email": ""
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W10",
+        "address": "Unit-2,GF, Opp.PVR Milap Cinema, Sanjar Enclave Premises Co-Op Soc Ltd.,Kandivali West",
+        "state_name": "Maharashtra",
+        "city_name": "Mumbai",
+        "phone_number": "9967154841",
+        "email": "Sales@salasarkia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W10",
@@ -5185,18 +5201,18 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W10",
-        "address": "Ground Floor, First Avenue, Goregaon, -  Mulund Link Road, Malad, (W)",
-        "state_name": "Maharashtra",
-        "city_name": "Mumbai",
-        "phone_number": "+912248966161",
-        "email": "sales.kia@shreenath-kia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W10",
         "address": "Chalet Amar, CD Burfiwala Lane,  Juhu , Andheri West",
         "state_name": "Maharashtra",
         "city_name": "Mumbai",
         "phone_number": "+912248966464",
+        "email": "sales.kia@shreenath-kia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W10",
+        "address": "Ground Floor, First Avenue, Goregaon, -  Mulund Link Road, Malad, (W)",
+        "state_name": "Maharashtra",
+        "city_name": "Mumbai",
+        "phone_number": "+912248966161",
         "email": "sales.kia@shreenath-kia.in"
     },
     {
@@ -5281,14 +5297,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
-        "address": "P no. 04 Laxmi Vihar, GF, Beside Airport Center Point, Wardha rd,",
-        "state_name": "Maharashtra",
-        "city_name": "Nagpur",
-        "phone_number": "9766522223",
-        "email": "sales@aryodayakia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
         "address": "Plot No.39, Timber Market, Sardar Patel Sq., Great Nag Road,",
         "state_name": "Maharashtra",
         "city_name": "Nagpur",
@@ -5297,11 +5305,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
-        "address": "Plot No. P122, 123, 124  Hinga Road, MIDC",
+        "address": "P no. 04 Laxmi Vihar, GF, Beside Airport Center Point, Wardha rd,",
         "state_name": "Maharashtra",
         "city_name": "Nagpur",
-        "phone_number": "8975768392",
-        "email": "salesmidc@jaikakia.in"
+        "phone_number": "9766522223",
+        "email": "sales@aryodayakia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
@@ -5310,6 +5318,14 @@
         "city_name": "Nagpur",
         "phone_number": "7666905263",
         "email": "sales3s@jaikakia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
+        "address": "Plot No. P122, 123, 124  Hinga Road, MIDC",
+        "state_name": "Maharashtra",
+        "city_name": "Nagpur",
+        "phone_number": "8975768392",
+        "email": "salesmidc@jaikakia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
@@ -5337,19 +5353,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
-        "address": "C18/1, MIDC Indudtrial Area, Hingna Road, Nagpur,",
-        "state_name": "Maharashtra",
-        "city_name": "Nagpur",
-        "phone_number": "8799918377",
-        "email": "bodyshopmanager.midc@jaikakia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
         "address": "House No. 2302, Wanjri Layout, Pili Nadi,",
         "state_name": "Maharashtra",
         "city_name": "Nagpur",
         "phone_number": "7666900300",
         "email": "service.manager@jaikakia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W20",
+        "address": "C18/1, MIDC Indudtrial Area, Hingna Road, Nagpur,",
+        "state_name": "Maharashtra",
+        "city_name": "Nagpur",
+        "phone_number": "8799918377",
+        "email": "bodyshopmanager.midc@jaikakia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W41",
@@ -5441,14 +5457,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
-        "address": "SNo. 41/4/3/1B/1/2B, TSB Capital, Katraj  Navale Bridge, By Pass Road, Ambegaon",
-        "state_name": "Maharashtra",
-        "city_name": "Pune",
-        "phone_number": "7391066632",
-        "email": "gm.psr@modicarskia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
         "address": "S No.71, Hissa No.10B1, Shop No.1, 2, 3,  4 & 5, Dodke Palazzo, Jijai Nagar,",
         "state_name": "Maharashtra",
         "city_name": "Pune",
@@ -5457,11 +5465,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
-        "address": "S. No. 82/2, Pune Solapur Highway Manjri, Hadapsar",
+        "address": "SNo. 41/4/3/1B/1/2B, TSB Capital, Katraj  Navale Bridge, By Pass Road, Ambegaon",
         "state_name": "Maharashtra",
         "city_name": "Pune",
-        "phone_number": "9607930496",
-        "email": "sm.hadapsar@dhonekia.com"
+        "phone_number": "7391066632",
+        "email": "gm.psr@modicarskia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
@@ -5473,11 +5481,27 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
+        "address": "S. No. 82/2, Pune Solapur Highway Manjri, Hadapsar",
+        "state_name": "Maharashtra",
+        "city_name": "Pune",
+        "phone_number": "9607930496",
+        "email": "sm.hadapsar@dhonekia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
         "address": "Commercial Building -2 S.No. 20/2A/2B/1/2, Plot-B Kharadi,",
         "state_name": "Maharashtra",
         "city_name": "Pune",
         "phone_number": "9341300400",
         "email": "gmsales@dhonekia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
+        "address": "Nyati Unitree, Showroom No. 3&4 UG Floor, Survey No.103/129, Nagar Road",
+        "state_name": "Maharashtra",
+        "city_name": "Pune",
+        "phone_number": "+912071177770",
+        "email": "sales.yerwada@amankia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
@@ -5497,11 +5521,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
-        "address": "Nyati Unitree, Showroom No. 3&4 UG Floor, Survey No.103/129, Nagar Road",
+        "address": "Vasudha Equinox, Old Mumbai Pune Highway, Nr Khadki Railway Station",
         "state_name": "Maharashtra",
         "city_name": "Pune",
-        "phone_number": "+912071177770",
-        "email": "sales.yerwada@amankia.in"
+        "phone_number": "020-68280000",
+        "email": "kothariswapnil@gmail.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
@@ -5518,14 +5542,6 @@
         "city_name": "Pune",
         "phone_number": "020-68280000",
         "email": "Saleshead.tr@ crystalauto.co.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
-        "address": "Vasudha Equinox, Old Mumbai Pune Highway, Nr Khadki Railway Station",
-        "state_name": "Maharashtra",
-        "city_name": "Pune",
-        "phone_number": "020-68280000",
-        "email": "kothariswapnil@gmail.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
@@ -5569,19 +5585,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
-        "address": "S. No. 82/2, Pune Solapur Highway Manjri, Hadapsar",
-        "state_name": "Maharashtra",
-        "city_name": "Pune",
-        "phone_number": "7745861007",
-        "email": "wm.hadapsar@dhonekia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
         "address": "S No 24/5, Punyadham Ashram Road,  Near D Mart, Kondhwa, Pune,",
         "state_name": "Maharashtra",
         "city_name": "Pune",
         "phone_number": "9307300340",
         "email": "wm.satararoad@dhonekia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
+        "address": "S. No. 82/2, Pune Solapur Highway Manjri, Hadapsar",
+        "state_name": "Maharashtra",
+        "city_name": "Pune",
+        "phone_number": "7745861007",
+        "email": "wm.hadapsar@dhonekia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
@@ -5617,19 +5633,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
-        "address": "19/1 Patil Nagar,  Off Mumbai Bangalore Highway",
-        "state_name": "Maharashtra",
-        "city_name": "Pune",
-        "phone_number": "9373134100",
-        "email": "servicemanager.bv@crystalauto.co.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
         "address": "Mumbai Bangalore National Highway, Taluk S No. 320/1/1A, Bavdhan Badruk",
         "state_name": "Maharashtra",
         "city_name": "Pune",
         "phone_number": "8956415135",
         "email": "smservice@crystalauto.co.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
+        "address": "19/1 Patil Nagar,  Off Mumbai Bangalore Highway",
+        "state_name": "Maharashtra",
+        "city_name": "Pune",
+        "phone_number": "9373134100",
+        "email": "servicemanager.bv@crystalauto.co.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=MH&city=W22",
@@ -5985,19 +6001,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=OR&city=E70",
-        "address": "DLF Cybercity, DCB 001 To DCB 006, Chandaka Indl. Estate, Bhubaneswar,",
-        "state_name": "Odisha",
-        "city_name": "Bhubaneshwar",
-        "phone_number": "8144264161",
-        "email": "gdsamal@Samalgroup.Com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=OR&city=E70",
         "address": "Khata No- 565/392, Plot No-16, Unit-31, Laxmisagar-2, Bhubaneswar,",
         "state_name": "Odisha",
         "city_name": "Bhubaneshwar",
         "phone_number": "9124401544",
         "email": ""
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=OR&city=E70",
+        "address": "DLF Cybercity, DCB 001 To DCB 006, Chandaka Indl. Estate, Bhubaneswar,",
+        "state_name": "Odisha",
+        "city_name": "Bhubaneshwar",
+        "phone_number": "8144264161",
+        "email": "gdsamal@Samalgroup.Com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=OR&city=E70",
@@ -6200,6 +6216,14 @@
         "email": "service@kiaspeedways.in"
     },
     {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=PB&city=NFH",
+        "address": "Khatauni No. 195, Mansa Road, Opp. Max Auto, Handiaya, Barnala,",
+        "state_name": "Punjab",
+        "city_name": "BARNALA",
+        "phone_number": "8283827580",
+        "email": "service@yashodha-kia.in"
+    },
+    {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=PB&city=NES",
         "address": "G T Road Opposite VMS College,  Batala Amritsar Highway, Batala,",
         "state_name": "Punjab",
@@ -6321,7 +6345,7 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=PB&city=N61",
-        "address": "GT ROAD, KOT KALAN MEHTAB COMPLEX, NEAR MCDONALD",
+        "address": "G T Road, Opp Best Price, Paragpur, Jalandhar",
         "state_name": "Punjab",
         "city_name": "Jalandhar",
         "phone_number": "9976600009",
@@ -6361,7 +6385,7 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=PB&city=N60",
-        "address": "Village Gahaur, Ferozepur Road, Mullanpur Dakha,Ludhiana,",
+        "address": "SCO 17, 18 Sukhmani Square, Canal Road, Barewal Awana,",
         "state_name": "Punjab",
         "city_name": "Ludhiana",
         "phone_number": "8558844400",
@@ -6369,7 +6393,7 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=PB&city=N60",
-        "address": "SCO 17, 18 Sukhmani Square, Canal Road, Barewal Awana,",
+        "address": "Village Gahaur, Ferozepur Road, Mullanpur Dakha,Ludhiana,",
         "state_name": "Punjab",
         "city_name": "Ludhiana",
         "phone_number": "8558844400",
@@ -6625,19 +6649,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=RJ&city=N44",
-        "address": "Jaipur Road, Plot No.-08A, 08B, Amar Colony,",
-        "state_name": "Rajasthan",
-        "city_name": "Bikaner",
-        "phone_number": "7230036326",
-        "email": "sales1s@morvikia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=RJ&city=N44",
         "address": "Opposite Rail Dada Bari Gangashahar Road,",
         "state_name": "Rajasthan",
         "city_name": "Bikaner",
         "phone_number": "8094936666",
         "email": "sales@morvikia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=RJ&city=N44",
+        "address": "Jaipur Road, Plot No.-08A, 08B, Amar Colony,",
+        "state_name": "Rajasthan",
+        "city_name": "Bikaner",
+        "phone_number": "7230036326",
+        "email": "sales1s@morvikia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=RJ&city=N44",
@@ -7137,19 +7161,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "Old Sy 91/1B, New No: 91/11A, P No 142, Old Mahabalipuram Road,",
+        "address": "79, L.B. Road Baktavathsalam Nagar",
         "state_name": "Tamil Nadu",
         "city_name": "Chennai",
-        "phone_number": "9962216800",
-        "email": "sales@capitalkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "Plot No 16 17, OMR Dr Vikram Sarabhai Industrial Estate",
-        "state_name": "Tamil Nadu",
-        "city_name": "Chennai",
-        "phone_number": "9962216800",
-        "email": "sm.omr@capitalkia.in"
+        "phone_number": "9962720000",
+        "email": "sm.adyar@capitalkia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
@@ -7161,19 +7177,27 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "79, L.B. Road Baktavathsalam Nagar",
+        "address": "Plot No 16 17, OMR Dr Vikram Sarabhai Industrial Estate",
         "state_name": "Tamil Nadu",
         "city_name": "Chennai",
-        "phone_number": "9962720000",
-        "email": "sm.adyar@capitalkia.in"
+        "phone_number": "9962216800",
+        "email": "sm.omr@capitalkia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "No: 69 & 70, South Avenue Ambattur Industrial Estate",
+        "address": "Old Sy 91/1B, New No: 91/11A, P No 142, Old Mahabalipuram Road,",
         "state_name": "Tamil Nadu",
         "city_name": "Chennai",
-        "phone_number": "9884970000",
-        "email": "Rajesh.motilal@kunkia.in"
+        "phone_number": "9962216800",
+        "email": "sales@capitalkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
+        "address": "No.69, Grand Northern Trunk Rd, Kanakachatram, Ponniammanmedu,",
+        "state_name": "Tamil Nadu",
+        "city_name": "Chennai",
+        "phone_number": "9962590080",
+        "email": ""
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
@@ -7185,11 +7209,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "No.69, Grand Northern Trunk Rd, Kanakachatram, Ponniammanmedu,",
+        "address": "No: 69 & 70, South Avenue Ambattur Industrial Estate",
         "state_name": "Tamil Nadu",
         "city_name": "Chennai",
-        "phone_number": "9962590080",
-        "email": ""
+        "phone_number": "9884970000",
+        "email": "Rajesh.motilal@kunkia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
@@ -7257,14 +7281,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "109, 110, 111, 112, 23/2B1,B2,Ward C, Block N 26, 200 Ft Radial Road, Zamin",
-        "state_name": "Tamil Nadu",
-        "city_name": "Chennai",
-        "phone_number": "9677773824",
-        "email": "servicemanager.rar@capitalkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
         "address": "Survey 138, Burma colony  Perungudi, Chennai- 600096",
         "state_name": "Tamil Nadu",
         "city_name": "Chennai",
@@ -7281,19 +7297,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "No.69, Grand Northern Trunk Rd, Kanakachatram, Ponniammanmedu,",
+        "address": "109, 110, 111, 112, 23/2B1,B2,Ward C, Block N 26, 200 Ft Radial Road, Zamin",
         "state_name": "Tamil Nadu",
         "city_name": "Chennai",
-        "phone_number": "9884470169",
-        "email": "edp.kltr@kunkia"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "No.422, Poonamallee High Road, Arumbakkam,",
-        "state_name": "Tamil Nadu",
-        "city_name": "Chennai",
-        "phone_number": "7824082874",
-        "email": "ccm.arm@kunkia.in"
+        "phone_number": "9677773824",
+        "email": "servicemanager.rar@capitalkia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
@@ -7305,11 +7313,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
-        "address": "# 223/2, Poonamallee Trunk Road,  Kattupakkam,",
+        "address": "No.422, Poonamallee High Road, Arumbakkam,",
         "state_name": "Tamil Nadu",
         "city_name": "Chennai",
-        "phone_number": "7825874060",
-        "email": "servicemgrktp@svmkia.com  "
+        "phone_number": "7824082874",
+        "email": "ccm.arm@kunkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
+        "address": "No.69, Grand Northern Trunk Rd, Kanakachatram, Ponniammanmedu,",
+        "state_name": "Tamil Nadu",
+        "city_name": "Chennai",
+        "phone_number": "9884470169",
+        "email": "edp.kltr@kunkia"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
@@ -7318,6 +7334,14 @@
         "city_name": "Chennai",
         "phone_number": "7825874123",
         "email": "servicemgrekt@svmkia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
+        "address": "# 223/2, Poonamallee Trunk Road,  Kattupakkam,",
+        "state_name": "Tamil Nadu",
+        "city_name": "Chennai",
+        "phone_number": "7825874060",
+        "email": "servicemgrktp@svmkia.com  "
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TN&city=S10",
@@ -7833,19 +7857,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
-        "address": "Ground floor, NCL Pearl, Beside Rail Nilayam, SD Road,",
-        "state_name": "Telangana",
-        "city_name": "Hyderabad",
-        "phone_number": "9738312345",
-        "email": "gmsales.kiasec@automoitveml.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
         "address": "SY.NO:93, Mallikarjun Nagar,",
         "state_name": "Telangana",
         "city_name": "Hyderabad",
         "phone_number": "6309908117",
         "email": "gmsales.kiarcp@automotiveml.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
+        "address": "Ground floor, NCL Pearl, Beside Rail Nilayam, SD Road,",
+        "state_name": "Telangana",
+        "city_name": "Hyderabad",
+        "phone_number": "9738312345",
+        "email": "gmsales.kiasec@automoitveml.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
@@ -7865,18 +7889,18 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
-        "address": "Sy No 316,317,321 & 322 Narsingi, P No 2 Marva Township Narsingi Main Rd,",
-        "state_name": "Telangana",
-        "city_name": "Hyderabad",
-        "phone_number": "7330888041",
-        "email": "enquiry.sales@carkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
         "address": "Plot No. 796, Road No 36, Jubilee Hills,  Hyderabad 500033, Telangana",
         "state_name": "Telangana",
         "city_name": "Hyderabad",
         "phone_number": "7997720333",
+        "email": "enquiry.sales@carkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
+        "address": "Sy No 316,317,321 & 322 Narsingi, P No 2 Marva Township Narsingi Main Rd,",
+        "state_name": "Telangana",
+        "city_name": "Hyderabad",
+        "phone_number": "7330888041",
         "email": "enquiry.sales@carkia.in"
     },
     {
@@ -7953,11 +7977,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
-        "address": "Sy No:42,47&48 Situated at IDA-Phase-1, Bandlaguda Vill. Patancheruvu(M),Sanga Reddy(D),",
+        "address": "P. No 14/1/2, Sy No: 66/1 & 64 Part, IDA Uppal Mandal, Medhal-Malkajgiri Dist,",
         "state_name": "Telangana",
         "city_name": "Hyderabad",
-        "phone_number": "9154224015",
-        "email": "crmservice.kiarcpm@automotiveml.com"
+        "phone_number": "9100311169",
+        "email": "serviceheadkia@automotiveml.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
@@ -7969,11 +7993,11 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
-        "address": "P. No 14/1/2, Sy No: 66/1 & 64 Part, IDA Uppal Mandal, Medhal-Malkajgiri Dist,",
+        "address": "Sy No:42,47&48 Situated at IDA-Phase-1, Bandlaguda Vill. Patancheruvu(M),Sanga Reddy(D),",
         "state_name": "Telangana",
         "city_name": "Hyderabad",
-        "phone_number": "9100311169",
-        "email": "serviceheadkia@automotiveml.com"
+        "phone_number": "9154224015",
+        "email": "crmservice.kiarcpm@automotiveml.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
@@ -8001,14 +8025,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
-        "address": "7-67/2, Survey No. 19 & 20, Dundigal- Gandimaisamma Mandal, Kompally Village,",
-        "state_name": "Telangana",
-        "city_name": "Hyderabad",
-        "phone_number": "9281409640",
-        "email": "vinay.pathak@landmark-kia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
         "address": "Bajrang Mills, 6-54, Peerzadiguda, Medipally Mandal, Medchal, Malkajgiri Dist.,",
         "state_name": "Telangana",
         "city_name": "Hyderabad",
@@ -8025,7 +8041,15 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
-        "address": "H.No. 12-6/36/4/3, P No. 4 & 3 Part Kukatpally,",
+        "address": "7-67/2, Survey No. 19 & 20, Dundigal- Gandimaisamma Mandal, Kompally Village,",
+        "state_name": "Telangana",
+        "city_name": "Hyderabad",
+        "phone_number": "9281409640",
+        "email": "vinay.pathak@landmark-kia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
+        "address": "D.No. 5-5-33/22/E, N Gardens, Behind Metro Cash And Carry Kukatpally,",
         "state_name": "Telangana",
         "city_name": "Hyderabad",
         "phone_number": "7995999379",
@@ -8033,7 +8057,7 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=TS&city=S50",
-        "address": "D.No. 5-5-33/22/E, N Gardens, Behind Metro Cash And Carry Kukatpally,",
+        "address": "H.No. 12-6/36/4/3, P No. 4 & 3 Part Kukatpally,",
         "state_name": "Telangana",
         "city_name": "Hyderabad",
         "phone_number": "7995999379",
@@ -8465,14 +8489,6 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UP&city=N90",
-        "address": "C 15, Basement and First Floor, Lohiya Nagar, Ghaziabad,",
-        "state_name": "Uttar Pradesh",
-        "city_name": "Ghaziabad",
-        "phone_number": "8505815555",
-        "email": "kia.gzb@asbkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UP&city=N90",
         "address": "143/1, Pandav Nagar, Hapur Road, Ghaziabad,",
         "state_name": "Uttar Pradesh",
         "city_name": "Ghaziabad",
@@ -8485,6 +8501,14 @@
         "state_name": "Uttar Pradesh",
         "city_name": "Ghaziabad",
         "phone_number": "8505935555",
+        "email": "kia.gzb@asbkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UP&city=N90",
+        "address": "C 15, Basement and First Floor, Lohiya Nagar, Ghaziabad,",
+        "state_name": "Uttar Pradesh",
+        "city_name": "Ghaziabad",
+        "phone_number": "8505815555",
         "email": "kia.gzb@asbkia.in"
     },
     {
@@ -8709,6 +8733,14 @@
         "state_name": "Uttar Pradesh",
         "city_name": "Kanpur Dehat",
         "phone_number": "7985072496",
+        "email": ""
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UP&city=NJQ",
+        "address": "Plot No 10, Industrial Area Khalilabad,",
+        "state_name": "Uttar Pradesh",
+        "city_name": "Khalilabad",
+        "phone_number": "9151685555",
         "email": ""
     },
     {
@@ -9185,19 +9217,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UK&city=N37",
-        "address": "Mothro Wala Chowk  Haridwar bypass Road",
-        "state_name": "Uttarakhand",
-        "city_name": "Dehradun",
-        "phone_number": "7088170881",
-        "email": "sales@shubhkia.com"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UK&city=N37",
         "address": "130/1, Chakrata Road, Bindaal Tiraha, Yamuna Colony, Connaught Place, Dehradun,",
         "state_name": "Uttarakhand",
         "city_name": "Dehradun",
         "phone_number": "7088170881",
         "email": "SMSALESDEHRADUN@SHUBHKIA.COM"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UK&city=N37",
+        "address": "Mothro Wala Chowk  Haridwar bypass Road",
+        "state_name": "Uttarakhand",
+        "city_name": "Dehradun",
+        "phone_number": "7088170881",
+        "email": "sales@shubhkia.com"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UK&city=N37",
@@ -9481,19 +9513,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E10",
-        "address": "Plot No-IID/9/1 ACTION AREA IID, New Town",
-        "state_name": "West Bengal",
-        "city_name": "Kolkata",
-        "phone_number": "9147007477",
-        "email": "gmservice@easternkia.in"
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E10",
         "address": "Paragana Balia, PS Maheshtalla, Budge Budge Trunk Road,",
         "state_name": "West Bengal",
         "city_name": "Kolkata",
         "phone_number": "9147007499",
         "email": "bpmanager@easternkia.in"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E10",
+        "address": "Plot No-IID/9/1 ACTION AREA IID, New Town",
+        "state_name": "West Bengal",
+        "city_name": "Kolkata",
+        "phone_number": "9147007477",
+        "email": "gmservice@easternkia.in"
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E10",
@@ -9537,19 +9569,19 @@
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E11",
-        "address": "Holding No.50/490, Salugara, Sevoke Road, 3rd Mile, Siliguri,",
-        "state_name": "West Bengal",
-        "city_name": "Siliguri",
-        "phone_number": "9046241826",
-        "email": ""
-    },
-    {
-        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E11",
         "address": "AH-2, Gossainpur, Besides City Dhaba, Bagdogra,",
         "state_name": "West Bengal",
         "city_name": "Siliguri",
         "phone_number": "9046236300",
         "email": "manager.sales@kaanhakia.com"
+    },
+    {
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E11",
+        "address": "Holding No.50/490, Salugara, Sevoke Road, 3rd Mile, Siliguri,",
+        "state_name": "West Bengal",
+        "city_name": "Siliguri",
+        "phone_number": "9046241826",
+        "email": ""
     },
     {
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=WB&city=E11",

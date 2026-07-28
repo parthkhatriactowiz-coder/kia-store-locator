@@ -9,7 +9,30 @@ connection = mysql.connector.connect(
 
 cursor = connection.cursor()
 
+def insert_dealer_urls(dealer_urls):
 
+    sql = """
+    INSERT INTO dealer_urls (state_name, city_name, url)
+    VALUES (%s, %s, %s)
+    """
+
+    values = []
+
+    for dealer in dealer_urls:
+        values.append(
+            (
+                dealer.get("state"),
+                dealer.get("city"),
+                dealer.get("url"),
+            )
+        )
+
+    cursor.executemany(sql, values)
+
+    connection.commit()
+
+    print(f"{cursor.rowcount} dealer URLs inserted.")
+    
 def insert_locations(locations):
 
     sql = """

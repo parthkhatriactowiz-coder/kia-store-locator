@@ -39,6 +39,24 @@
             "lat": "11.30607986"
         },
         {
+            "dealerName": "DKH Kia, Service Rd, NH 66, Azhinjilam",
+            "address3": "Kozhikoide, Kerala -673632",
+            "lng": "75.866076",
+            "address2": ", Service Road NH 66, Azhinjilam,",
+            "cityCode": "S70",
+            "address1": "Survey No.18/2-5, 18/2-1, 18/2-2, 18/9-1",
+            "phone2": "7559898000",
+            "phone1": "9947445566",
+            "cityName": "Calicut",
+            "stateName": "Kerala",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "KL",
+            "id": "KL315",
+            "email": "info@dkhkia.com",
+            "lat": "11.2010348"
+        },
+        {
             "website": "https://www.dkh-motors-kia-kozhikode-calicut.com",
             "dealerName": "DKH Kia, Calicut",
             "address3": "WEST HILL, Kozhikode, Kerala- 673005",
@@ -56,24 +74,6 @@
             "id": "KL305",
             "email": "servicemanagerclt@dkhkia.com",
             "lat": "11.298734835316141"
-        },
-        {
-            "dealerName": "DKH Kia, Service Rd, NH 66, Azhinjilam",
-            "address3": "Kozhikoide, Kerala -673632",
-            "lng": "75.866076",
-            "address2": ", Service Road NH 66, Azhinjilam,",
-            "cityCode": "S70",
-            "address1": "Survey No.18/2-5, 18/2-1, 18/2-2, 18/9-1",
-            "phone2": "7559898000",
-            "phone1": "9947445566",
-            "cityName": "Calicut",
-            "stateName": "Kerala",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "KL",
-            "id": "KL315",
-            "email": "info@dkhkia.com",
-            "lat": "11.2010348"
         }
     ],
     "resultCode": "0000",

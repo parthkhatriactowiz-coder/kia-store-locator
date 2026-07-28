@@ -39,6 +39,24 @@
             "lat": "19.114772146181313"
         },
         {
+            "website": "https://www.salasar-kia-miraroad.com",
+            "dealerName": "Salasar Kia, Mira Road",
+            "address3": "Mira Bhayandar, Maharashtra- 401107",
+            "lng": "72.88075278",
+            "address2": "Building, Miragaon, Mira Road East,",
+            "cityCode": "W10",
+            "address1": "C Wing Shop No. 1,2,3 & 4, Raj Akshay",
+            "phone2": "7304485355",
+            "phone1": "7304485355",
+            "cityName": "Mumbai",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH417",
+            "lat": "19.27474496"
+        },
+        {
             "website": "https://www.salasar-kia-kandivali-west-mumbai.com",
             "dealerName": "Salasar Kia, Kandivali",
             "address3": "Mumbai, Maharashtra-400067",
@@ -56,24 +74,6 @@
             "id": "MH111",
             "email": "Sales@salasarkia.com",
             "lat": "19.19632237"
-        },
-        {
-            "website": "https://www.salasar-kia-miraroad.com",
-            "dealerName": "Salasar Kia, Mira Road",
-            "address3": "Mira Bhayandar, Maharashtra- 401107",
-            "lng": "72.88075278",
-            "address2": "Building, Miragaon, Mira Road East,",
-            "cityCode": "W10",
-            "address1": "C Wing Shop No. 1,2,3 & 4, Raj Akshay",
-            "phone2": "7304485355",
-            "phone1": "7304485355",
-            "cityName": "Mumbai",
-            "stateName": "Maharashtra",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "MH",
-            "id": "MH417",
-            "lat": "19.27474496"
         },
         {
             "website": "https://www.shivaay-kia-ghatkopar.com",
@@ -95,24 +95,6 @@
             "lat": "19.081494"
         },
         {
-            "website": "https://www.shreenath-malad-kia.com",
-            "dealerName": "Shreenath Kia, Malad",
-            "lng": "72.6797513",
-            "address2": "Mulund Link Road, Malad, (W)",
-            "cityCode": "W10",
-            "address1": "Ground Floor, First Avenue, Goregaon, - ",
-            "phone2": "+912248966161",
-            "phone1": "+912248966161",
-            "cityName": "Mumbai",
-            "stateName": "Maharashtra",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "MH",
-            "id": "MH105",
-            "email": "sales.kia@shreenath-kia.in",
-            "lat": "23.041755"
-        },
-        {
             "website": "https://www.shreenath-andheri-kia.com",
             "dealerName": "Shreenath Kia, Andheri",
             "address3": "Mumbai, Maharashtra -400058",
@@ -130,6 +112,24 @@
             "id": "MH408",
             "email": "sales.kia@shreenath-kia.in",
             "lat": "19.11619842"
+        },
+        {
+            "website": "https://www.shreenath-malad-kia.com",
+            "dealerName": "Shreenath Kia, Malad",
+            "lng": "72.6797513",
+            "address2": "Mulund Link Road, Malad, (W)",
+            "cityCode": "W10",
+            "address1": "Ground Floor, First Avenue, Goregaon, - ",
+            "phone2": "+912248966161",
+            "phone1": "+912248966161",
+            "cityName": "Mumbai",
+            "stateName": "Maharashtra",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MH",
+            "id": "MH105",
+            "email": "sales.kia@shreenath-kia.in",
+            "lat": "23.041755"
         },
         {
             "website": "https://www.shreenath-andheri-kia.com",

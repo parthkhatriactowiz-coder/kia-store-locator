@@ -150,25 +150,6 @@
             "lat": "88.361048"
         },
         {
-            "website": "https://www.eastern-kia-new-town.com",
-            "dealerName": "Eastern Kia,New town",
-            "address3": "New Town",
-            "lng": "88.463",
-            "address2": "ACTION AREA IID, New Town",
-            "cityCode": "E10",
-            "address1": "Plot No-IID/9/1",
-            "phone2": "9147007477",
-            "phone1": "9147007477",
-            "cityName": "Kolkata",
-            "stateName": "West Bengal",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "WB",
-            "id": "WB301",
-            "email": "gmservice@easternkia.in",
-            "lat": "22.62"
-        },
-        {
             "website": "https://eastern-kianew-town.com",
             "dealerName": "Eastern Kia, Maheshtalla",
             "address3": "Kolkata - 700143",
@@ -186,6 +167,25 @@
             "id": "WB201",
             "email": "bpmanager@easternkia.in",
             "lat": "22.3053"
+        },
+        {
+            "website": "https://www.eastern-kia-new-town.com",
+            "dealerName": "Eastern Kia,New town",
+            "address3": "New Town",
+            "lng": "88.463",
+            "address2": "ACTION AREA IID, New Town",
+            "cityCode": "E10",
+            "address1": "Plot No-IID/9/1",
+            "phone2": "9147007477",
+            "phone1": "9147007477",
+            "cityName": "Kolkata",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB301",
+            "email": "gmservice@easternkia.in",
+            "lat": "22.62"
         },
         {
             "dealerName": "Gajraj Kia, Kalikapur",

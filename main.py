@@ -4,7 +4,7 @@ from pathlib import Path
 from get_state_urls import get_state_urls
 from urllib.parse import urlsplit, parse_qs
 import json
-from database import insert_locations, close_connection
+from database import insert_locations, close_connection, insert_dealer_urls
 
 BASE_DIR = Path(__file__).resolve().parent
 base_url = "https://www.kia.com/api/kia2_in/findAdealer.getStateCity.do"
@@ -31,38 +31,44 @@ dominos_headers = {
 
 
 def main():
-    states = get_state_urls(url=base_url, headers=dominos_headers)
+    try:
+        states = get_state_urls(url=base_url, headers=dominos_headers)
+        insert_dealer_urls(states)
 
-    all_locations = []
-    for data in states:
-        query = parse_qs(urlsplit(data["url"]).query)
-        payload = {
-            "state": query["state"][0],
-            "city": query["city"][0],
-            "dealerType": "A",
-        }
-        cities = do_search(
-            domain_api_url="https://www.kia.com/api/kia2_in/findAdealer.getDealerList.do",
-            payload=payload,
-            headers=dominos_headers,
-        )
+        all_locations = []
 
-        locations = parse_cities(cities)
-        all_locations.extend(locations)
+        for data in states:
+            query = parse_qs(urlsplit(data["url"]).query)
 
-    output_dir = BASE_DIR / "parsed"
-    output_dir.mkdir(parents=True, exist_ok=True)
+            payload = {
+                "state": query["state"][0],
+                "city": query["city"][0],
+                "dealerType": "A",
+            }
 
-    output_json_path = output_dir / "location_outlet.json"
+            cities = do_search(
+                domain_api_url="https://www.kia.com/api/kia2_in/findAdealer.getDealerList.do",
+                payload=payload,
+                headers=dominos_headers,
+            )
 
-    with open(output_json_path, "w", encoding="utf-8") as out_file:
-        json.dump(all_locations, out_file, indent=4, ensure_ascii=False)
+            locations = parse_cities(cities)
+            all_locations.extend(locations)
 
-    insert_locations(all_locations)
+        output_dir = BASE_DIR / "parsed"
+        output_dir.mkdir(parents=True, exist_ok=True)
 
-    close_connection()
+        output_json_path = output_dir / "location_outlet.json"
 
-    print(f"Successfully saved {len(all_locations)} locations.")
+        with open(output_json_path, "w", encoding="utf-8") as out_file:
+            json.dump(all_locations, out_file, indent=4, ensure_ascii=False)
+
+        insert_locations(all_locations)
+
+        print(f"Successfully saved {len(all_locations)} locations.")
+
+    finally:
+        close_connection()
 
 
 if __name__ == "__main__":

@@ -1,25 +1,6 @@
 {
     "data": [
         {
-            "website": "https://www.asb-automobiles-delhi-meerut-road-kia.com",
-            "dealerName": "ASB Kia, Delhi Meerut Road",
-            "address3": "Uttar Pradesh-201001",
-            "lng": "77.4506468",
-            "address2": "Lohiya Nagar, Ghaziabad, ",
-            "cityCode": "N90",
-            "address1": "C 15, Basement and First Floor,",
-            "phone2": "999999999",
-            "phone1": "8505815555",
-            "cityName": "Ghaziabad",
-            "stateName": "Uttar Pradesh",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "UP",
-            "id": "UP307",
-            "email": "kia.gzb@asbkia.in",
-            "lat": "28.7034447"
-        },
-        {
             "website": "https://www.asb-kia-pandav-nagar.com",
             "dealerName": "ASB Kia, Hapur Road",
             "address3": "Uttar Pradesh -201002",
@@ -56,6 +37,25 @@
             "id": "UP102",
             "email": "kia.gzb@asbkia.in",
             "lat": "28.6585104"
+        },
+        {
+            "website": "https://www.asb-automobiles-delhi-meerut-road-kia.com",
+            "dealerName": "ASB Kia, Delhi Meerut Road",
+            "address3": "Uttar Pradesh-201001",
+            "lng": "77.4506468",
+            "address2": "Lohiya Nagar, Ghaziabad, ",
+            "cityCode": "N90",
+            "address1": "C 15, Basement and First Floor,",
+            "phone2": "999999999",
+            "phone1": "8505815555",
+            "cityName": "Ghaziabad",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP307",
+            "email": "kia.gzb@asbkia.in",
+            "lat": "28.7034447"
         },
         {
             "website": "https://www.asb-automobiles-delhi-meerut-road-kia.com",

@@ -20,25 +20,6 @@
             "lat": "22.974475"
         },
         {
-            "website": "https://www.supernova-nikol-kia.com",
-            "dealerName": "Supernova Kia, Nikol",
-            "address3": "Nikol, Ahmedabad-382350",
-            "lng": "72.678617",
-            "address2": "Nikol Kathvada S.P Ring Road",
-            "cityCode": "W30",
-            "address1": "Survey-28/6,28/7, Plot.44",
-            "phone2": "7043733733",
-            "phone1": "7043733733",
-            "cityName": "Ahmedabad",
-            "stateName": "Gujarat",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "GJ",
-            "id": "GJ314",
-            "email": "gmnikol@supernovakia.com",
-            "lat": "23.0369732"
-        },
-        {
             "website": "https://www.supernova-sg-highway-south-kia.com",
             "dealerName": "Supernova Kia, SG Highway South",
             "address3": "Ahmedabad - 380051",
@@ -56,6 +37,25 @@
             "id": "GJ402",
             "email": "info@supernovakia.com",
             "lat": "23.00338341"
+        },
+        {
+            "website": "https://www.supernova-nikol-kia.com",
+            "dealerName": "Supernova Kia, Nikol",
+            "address3": "Nikol, Ahmedabad-382350",
+            "lng": "72.678617",
+            "address2": "Nikol Kathvada S.P Ring Road",
+            "cityCode": "W30",
+            "address1": "Survey-28/6,28/7, Plot.44",
+            "phone2": "7043733733",
+            "phone1": "7043733733",
+            "cityName": "Ahmedabad",
+            "stateName": "Gujarat",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GJ",
+            "id": "GJ314",
+            "email": "gmnikol@supernovakia.com",
+            "lat": "23.0369732"
         },
         {
             "website": "https://www.Supernova-kia-Ahmedabad.com",
@@ -244,25 +244,6 @@
             "lat": "22.9526462013998"
         },
         {
-            "website": "https://www.supernova-sg-highway-south-kia.com",
-            "dealerName": "Supernova Kia, SG Highway South",
-            "address3": "SG HIGHWAY,BODAKDEV, AHMEDABAD-380054",
-            "lng": "72.50097923",
-            "address2": "NR.SK FARM, B/H- RAJPATH CLUB",
-            "cityCode": "W30",
-            "address1": "PLOT 197/2, SR.NO-173/3/2",
-            "phone2": "999999999",
-            "phone1": "7043722722",
-            "cityName": "Ahmedabad",
-            "stateName": "Gujarat",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "GJ",
-            "id": "GJ402",
-            "email": "servicemanager@supernovakia.com",
-            "lat": "23.03468138"
-        },
-        {
             "website": "https://www.supernova-nikol-kia.com",
             "dealerName": "Supernova Kia, Nikol",
             "address3": "Nikol, Ahmedabad-382350",
@@ -280,6 +261,25 @@
             "id": "GJ314",
             "email": "servicemgrnikol@supernovakia.com",
             "lat": "23.037129"
+        },
+        {
+            "website": "https://www.supernova-sg-highway-south-kia.com",
+            "dealerName": "Supernova Kia, SG Highway South",
+            "address3": "SG HIGHWAY,BODAKDEV, AHMEDABAD-380054",
+            "lng": "72.50097923",
+            "address2": "NR.SK FARM, B/H- RAJPATH CLUB",
+            "cityCode": "W30",
+            "address1": "PLOT 197/2, SR.NO-173/3/2",
+            "phone2": "999999999",
+            "phone1": "7043722722",
+            "cityName": "Ahmedabad",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ402",
+            "email": "servicemanager@supernovakia.com",
+            "lat": "23.03468138"
         },
         {
             "website": "https://www.Supernova-kia-Ahmedabad.com",
@@ -320,24 +320,6 @@
             "lat": "22.9727062"
         },
         {
-            "dealerName": "West Coast Kia, Naroda",
-            "address3": "Gujarat-382330",
-            "lng": "72.672000",
-            "address2": "Phase 3, GIDC, Naroda, Ahmedabad,",
-            "cityCode": "W30",
-            "address1": "Satyam Ceramics Plot No 34,",
-            "phone2": "9925144993",
-            "phone1": "9925144993",
-            "cityName": "Ahmedabad",
-            "stateName": "Gujarat",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "GJ",
-            "id": "GJ408",
-            "email": "wm.kianaroda@karnavati.co",
-            "lat": "23.102200"
-        },
-        {
             "website": "https://www.west-coast-sg-highway-north-kia.com",
             "dealerName": "West Coast Kia, SG Highway North",
             "address3": "Ahmedabad-380060",
@@ -354,6 +336,24 @@
             "stateCode": "GJ",
             "id": "GJ405",
             "lat": "23.077017"
+        },
+        {
+            "dealerName": "West Coast Kia, Naroda",
+            "address3": "Gujarat-382330",
+            "lng": "72.672000",
+            "address2": "Phase 3, GIDC, Naroda, Ahmedabad,",
+            "cityCode": "W30",
+            "address1": "Satyam Ceramics Plot No 34,",
+            "phone2": "9925144993",
+            "phone1": "9925144993",
+            "cityName": "Ahmedabad",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ408",
+            "email": "wm.kianaroda@karnavati.co",
+            "lat": "23.102200"
         },
         {
             "website": "https://www.west-coast-ambawadi-kia.com",

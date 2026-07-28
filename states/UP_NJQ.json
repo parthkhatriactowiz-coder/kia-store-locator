@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "dealerName": "Sahib Kia, Khalilabad",
+            "address3": "Uttar Pradesh -272175",
+            "lng": "83.083456",
+            "address2": "Industrial Area Khalilabad,",
+            "cityCode": "NJQ",
+            "address1": "Plot No 10,",
+            "phone2": "9839001111",
+            "phone1": "9151685555",
+            "cityName": "Khalilabad",
+            "stateName": "Uttar Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UP",
+            "id": "UP607",
+            "lat": "26.765772"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

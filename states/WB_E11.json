@@ -1,23 +1,6 @@
 {
     "data": [
         {
-            "dealerName": "Kaanha Kia, Salugara, Sevoke Road",
-            "address3": "Jalpaiguri, West Bengal -734008",
-            "lng": "88.4412",
-            "address2": "Sevoke Road, 3rd Mile, Siliguri,",
-            "cityCode": "E11",
-            "address1": "Holding No.50/490, Salugara,",
-            "phone2": "9046241826",
-            "phone1": "9046241826",
-            "cityName": "Siliguri",
-            "stateName": "West Bengal",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "WB",
-            "id": "WB601",
-            "lat": "26.7551"
-        },
-        {
             "website": "https://www.kaanha-kia-gosainpur.com",
             "dealerName": "Kaanha Kia, Bagdogra",
             "address3": "West Bengal -734014",
@@ -35,6 +18,23 @@
             "id": "WB307",
             "email": "manager.sales@kaanhakia.com",
             "lat": "26.704202"
+        },
+        {
+            "dealerName": "Kaanha Kia, Salugara, Sevoke Road",
+            "address3": "Jalpaiguri, West Bengal -734008",
+            "lng": "88.4412",
+            "address2": "Sevoke Road, 3rd Mile, Siliguri,",
+            "cityCode": "E11",
+            "address1": "Holding No.50/490, Salugara,",
+            "phone2": "9046241826",
+            "phone1": "9046241826",
+            "cityName": "Siliguri",
+            "stateName": "West Bengal",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "WB",
+            "id": "WB601",
+            "lat": "26.7551"
         },
         {
             "website": "https://www.kaanha-kia-gosainpur.com",

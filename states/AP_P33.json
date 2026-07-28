@@ -1,23 +1,6 @@
 {
     "data": [
         {
-            "dealerName": "CASA Kia, MVP",
-            "address3": "Visakhapatnam, Andhra Pradesh -530017",
-            "lng": "83.342411",
-            "address2": ", MVP Colony, M.V.P Double Rd Ending,",
-            "cityCode": "P33",
-            "address1": "D/No 2-35-73/8, Towards Beach Rd, Sec 10",
-            "phone2": "8712688860",
-            "phone1": "8712688871",
-            "cityName": "Vishakhapatnam",
-            "stateName": "Andhra Pradesh",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "AP",
-            "id": "AP101",
-            "lat": "17.73962"
-        },
-        {
             "dealerName": "CASA Kia, Gajuwaka",
             "address3": "Andra Pradesh -530012",
             "lng": "83.203775",
@@ -33,6 +16,23 @@
             "stateCode": "AP",
             "id": "AP404",
             "lat": "17.715515"
+        },
+        {
+            "dealerName": "CASA Kia, MVP",
+            "address3": "Visakhapatnam, Andhra Pradesh -530017",
+            "lng": "83.342411",
+            "address2": ", MVP Colony, M.V.P Double Rd Ending,",
+            "cityCode": "P33",
+            "address1": "D/No 2-35-73/8, Towards Beach Rd, Sec 10",
+            "phone2": "8712688860",
+            "phone1": "8712688871",
+            "cityName": "Vishakhapatnam",
+            "stateName": "Andhra Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "AP",
+            "id": "AP101",
+            "lat": "17.73962"
         },
         {
             "website": "https://www.lakshmi-kia-birla-junction.com",

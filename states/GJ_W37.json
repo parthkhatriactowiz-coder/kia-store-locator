@@ -39,25 +39,6 @@
             "lat": "20.40702"
         },
         {
-            "website": "https://www.rathod-autolinks-balitha-kia.com",
-            "dealerName": "Rathod Kia, Balitha",
-            "address3": "Vapi, Gujarat-396191",
-            "lng": "72.54507708",
-            "address2": "N.H.No. 48, Balitha",
-            "cityCode": "W37",
-            "address1": "Block No. 1496, Nr. Rathod Toyota, ",
-            "phone2": "7436090260",
-            "phone1": "7436090260",
-            "cityName": "Vapi",
-            "stateName": "Gujarat",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "GJ",
-            "id": "GJ306",
-            "email": "crm.service@rathodkia.com",
-            "lat": "20.2358506"
-        },
-        {
             "website": "https://rathod-autolinks-balitha-kia.com",
             "dealerName": "Rathod Kia, GIDC Vapi",
             "address3": "Gujarat- 396195",
@@ -75,6 +56,25 @@
             "id": "GJ205",
             "email": "service@rathodkia.com",
             "lat": "20.357567"
+        },
+        {
+            "website": "https://www.rathod-autolinks-balitha-kia.com",
+            "dealerName": "Rathod Kia, Balitha",
+            "address3": "Vapi, Gujarat-396191",
+            "lng": "72.54507708",
+            "address2": "N.H.No. 48, Balitha",
+            "cityCode": "W37",
+            "address1": "Block No. 1496, Nr. Rathod Toyota, ",
+            "phone2": "7436090260",
+            "phone1": "7436090260",
+            "cityName": "Vapi",
+            "stateName": "Gujarat",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GJ",
+            "id": "GJ306",
+            "email": "crm.service@rathodkia.com",
+            "lat": "20.2358506"
         }
     ],
     "resultCode": "0000",

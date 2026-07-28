@@ -846,6 +846,11 @@
     },
     {
         "state": "Kerala",
+        "city": "Thiruvalla",
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=SHV"
+    },
+    {
+        "state": "Kerala",
         "city": "Thodupuzha",
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=KL&city=SIM"
     },
@@ -1283,6 +1288,11 @@
         "state": "Punjab",
         "city": "Amritsar",
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=PB&city=N63"
+    },
+    {
+        "state": "Punjab",
+        "city": "BARNALA",
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=PB&city=NFH"
     },
     {
         "state": "Punjab",
@@ -1853,6 +1863,11 @@
         "state": "Uttar Pradesh",
         "city": "Kanpur Dehat",
         "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UP&city=NJO"
+    },
+    {
+        "state": "Uttar Pradesh",
+        "city": "Khalilabad",
+        "url": "https://www.kia.com/in/buy/find-a-dealer/result.html?state=UP&city=NJQ"
     },
     {
         "state": "Uttar Pradesh",

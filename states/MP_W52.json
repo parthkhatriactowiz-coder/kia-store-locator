@@ -1,25 +1,6 @@
 {
     "data": [
         {
-            "website": "https://khatwani-kia-tripuri-chowk.com",
-            "dealerName": "Khatwani Kia, Tripuri chowk",
-            "address3": "Nagpur Road, Jabalpur, MP",
-            "lng": "79.8913054",
-            "address2": "519/4/D Garha",
-            "cityCode": "W52",
-            "address1": "Tripuri Chowk,",
-            "phone2": "9516648888",
-            "phone1": "9516648888",
-            "cityName": "Jabalpur",
-            "stateName": "Madhya Pradesh",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "MP",
-            "id": "MP101",
-            "email": "khatwanikia@gmail.com",
-            "lat": "23.157048"
-        },
-        {
             "website": "https://www.khatwani-kia-tilwaranagpur-road.com",
             "dealerName": "Khatwani Kia, Tilwara - Nagpur Road",
             "address3": "Jabalpur-482003",
@@ -37,6 +18,25 @@
             "id": "MP304",
             "email": "khatwanikia@gmail.com",
             "lat": "23.12335"
+        },
+        {
+            "website": "https://khatwani-kia-tripuri-chowk.com",
+            "dealerName": "Khatwani Kia, Tripuri chowk",
+            "address3": "Nagpur Road, Jabalpur, MP",
+            "lng": "79.8913054",
+            "address2": "519/4/D Garha",
+            "cityCode": "W52",
+            "address1": "Tripuri Chowk,",
+            "phone2": "9516648888",
+            "phone1": "9516648888",
+            "cityName": "Jabalpur",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP101",
+            "email": "khatwanikia@gmail.com",
+            "lat": "23.157048"
         },
         {
             "dealerName": "Khatwani Kia, Karmeta",

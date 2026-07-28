@@ -39,24 +39,6 @@
             "lat": "26.16185"
         },
         {
-            "dealerName": "Royal Kia, Laknoti",
-            "address3": "Madhya Pradesh - 474009",
-            "lng": "78.212",
-            "address2": "Rammua, Lakhnoti Kalan, Gwalior,",
-            "cityCode": "W53",
-            "address1": "Main Highway, Sirol Bypass,",
-            "phone2": "7880083887",
-            "phone1": "7880083887",
-            "cityName": "Gwalior",
-            "stateName": "Madhya Pradesh",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "MP",
-            "id": "MP202",
-            "email": "service@kia.royalgroupindia.biz",
-            "lat": "26.127139"
-        },
-        {
             "website": "https://www.royal-motor-shivpuri-link-road-kia.com",
             "dealerName": "Royal Kia, Shivpuri link road",
             "address3": "Gwalior,Madhya Pradesh- 475001",
@@ -74,6 +56,24 @@
             "id": "MP303",
             "email": "mgrservice@kia.royalgroupindia.biz",
             "lat": "26.16218392"
+        },
+        {
+            "dealerName": "Royal Kia, Laknoti",
+            "address3": "Madhya Pradesh - 474009",
+            "lng": "78.212",
+            "address2": "Rammua, Lakhnoti Kalan, Gwalior,",
+            "cityCode": "W53",
+            "address1": "Main Highway, Sirol Bypass,",
+            "phone2": "7880083887",
+            "phone1": "7880083887",
+            "cityName": "Gwalior",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP202",
+            "email": "service@kia.royalgroupindia.biz",
+            "lat": "26.127139"
         }
     ],
     "resultCode": "0000",

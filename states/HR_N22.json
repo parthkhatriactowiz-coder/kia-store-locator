@@ -1,25 +1,6 @@
 {
     "data": [
         {
-            "website": "https://www.saluja-kia-nit-faridabad.com",
-            "dealerName": "Saluja Kia, Neelam Bata Road, Faridabad",
-            "address3": "Haryana -121001",
-            "lng": "77.30700",
-            "address2": "Neelam Bata Road, NIT Faridabad,",
-            "cityCode": "N22",
-            "address1": "Plot No.63,",
-            "phone2": "7056661901",
-            "phone1": "7056661905",
-            "cityName": "Faridabad",
-            "stateName": "Haryana",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "HR",
-            "id": "HR411",
-            "email": "tdm@salujakia.com",
-            "lat": "28.38850"
-        },
-        {
             "website": "https://www.dhingra-motors-faridabad-kia.com",
             "dealerName": "Dhingra Kia, Faridabad",
             "address3": "Faridabad- 12103, Haryana",
@@ -39,22 +20,21 @@
             "lat": "28.397047"
         },
         {
-            "website": "https://www.saluja-kia-nit-faridabad.com",
-            "dealerName": "Saluja Kia, Neelam Bata Road, Faridabad",
-            "address3": ", Ballabgarh, Haryana -121004",
-            "lng": "77.30700",
-            "address2": "Pump, 36Km Stone NH-2, Mathura Road",
+            "dealerName": "Universal Kia, Neelam Bata Road",
+            "address3": "Haryana, 121001",
+            "lng": "77.3072318",
+            "address2": "NIT Faridabad,",
             "cityCode": "N22",
-            "address1": "Behind Tara Chand Saluja & Sons Petrol",
-            "phone2": "7056661902",
-            "phone1": "7056661942",
+            "address1": "Plot No. 63 Neelam Bata Road,",
+            "phone2": "9953757023",
+            "phone1": "9953757023",
             "cityName": "Faridabad",
             "stateName": "Haryana",
-            "sortId": "3",
-            "dealerType": "Service",
+            "sortId": "1",
+            "dealerType": "Sales",
             "stateCode": "HR",
-            "id": "HR411",
-            "lat": "28.38850"
+            "id": "HR413",
+            "lat": "28.3888736"
         },
         {
             "website": "https://www.dhingra-motors-faridabad-kia.com",

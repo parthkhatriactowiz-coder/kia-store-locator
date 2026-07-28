@@ -188,24 +188,6 @@
             "lat": "22.787471"
         },
         {
-            "dealerName": "Shri Kia, Bocholi Hapsy, Indore",
-            "address3": "Madhya Pradesh -452016",
-            "lng": "22.707804",
-            "address2": "Opp Pride Hotel, Unnamed Road, Indore,",
-            "cityCode": "W51",
-            "address1": "38/1/1/1,2 Bicholi Hapsy,",
-            "phone2": "6262626824",
-            "phone1": "6262626824",
-            "cityName": "Indore",
-            "stateName": "Madhya Pradesh",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "MP",
-            "id": "MP203",
-            "email": "crmservice.shrikia2s@sbil.in",
-            "lat": "75.93111"
-        },
-        {
             "website": "https://www.shri-kia-new-devas-naka.com",
             "dealerName": "Shri Kia, New Devas naka",
             "address3": "Madhya Pradesh-452010",
@@ -223,6 +205,24 @@
             "id": "MP302",
             "email": "wmservice.shrikia@sbil.in",
             "lat": "22.76889"
+        },
+        {
+            "dealerName": "Shri Kia, Bocholi Hapsy, Indore",
+            "address3": "Madhya Pradesh -452016",
+            "lng": "22.707804",
+            "address2": "Opp Pride Hotel, Unnamed Road, Indore,",
+            "cityCode": "W51",
+            "address1": "38/1/1/1,2 Bicholi Hapsy,",
+            "phone2": "6262626824",
+            "phone1": "6262626824",
+            "cityName": "Indore",
+            "stateName": "Madhya Pradesh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MP",
+            "id": "MP203",
+            "email": "crmservice.shrikia2s@sbil.in",
+            "lat": "75.93111"
         }
     ],
     "resultCode": "0000",

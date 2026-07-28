@@ -76,25 +76,6 @@
             "lat": "25.599767"
         },
         {
-            "website": "https://www.amar-jyoti-exhibition-road-kia.com",
-            "dealerName": "Amar Jyoti Kia, Exhibition Road",
-            "address3": "Patna- 800020",
-            "lng": "85.17453",
-            "address2": "Bhoothnath Road, Kankarbagh",
-            "cityCode": "E60",
-            "address1": "Pandey Motors Campus",
-            "phone2": "7903173010",
-            "phone1": "7903173010",
-            "cityName": "Patna",
-            "stateName": "Bihar",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "BR",
-            "id": "BR401",
-            "email": "service@amarjyotikia.com",
-            "lat": "25.59693"
-        },
-        {
             "website": "https://amar-jyoti-exhibition-road-kia.com",
             "dealerName": "Amar Jyoti Kia, Kurji",
             "address3": "Patna, Bihar-800010",
@@ -112,6 +93,25 @@
             "id": "BR201",
             "email": "service@amarjyotikia.com",
             "lat": "25.639782"
+        },
+        {
+            "website": "https://www.amar-jyoti-exhibition-road-kia.com",
+            "dealerName": "Amar Jyoti Kia, Exhibition Road",
+            "address3": "Patna- 800020",
+            "lng": "85.17453",
+            "address2": "Bhoothnath Road, Kankarbagh",
+            "cityCode": "E60",
+            "address1": "Pandey Motors Campus",
+            "phone2": "7903173010",
+            "phone1": "7903173010",
+            "cityName": "Patna",
+            "stateName": "Bihar",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "BR",
+            "id": "BR401",
+            "email": "service@amarjyotikia.com",
+            "lat": "25.59693"
         },
         {
             "website": "https://www.prema-kia-jaiprakash-nagar-anishabad.com/",

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealerName": "Yashodha Kia, Barnala",
+            "address3": "Punjab -148107",
+            "lng": "75.511634",
+            "address2": "Opp. Max Auto, Handiaya, Barnala,",
+            "cityCode": "NFH",
+            "address1": "Khatauni No. 195, Mansa Road,",
+            "phone2": "8751900003",
+            "phone1": "8283827580",
+            "cityName": "BARNALA",
+            "stateName": "Punjab",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "PB",
+            "id": "PB602",
+            "email": "service@yashodha-kia.in",
+            "lat": "30.328317"
+        }
+    ],
+    "resultCode": "0000",
+    "message": ""
+}

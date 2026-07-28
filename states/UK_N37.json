@@ -1,25 +1,6 @@
 {
     "data": [
         {
-            "website": "https://www.shubh-kia-mothro-wala-chowk.com",
-            "dealerName": "Shubh Kia, Mothro Wala Chowk",
-            "address3": "Dehradun, Uttarakhand-248001",
-            "lng": "78.0418264",
-            "address2": "Haridwar bypass Road",
-            "cityCode": "N37",
-            "address1": "Mothro Wala Chowk ",
-            "phone2": "999999999",
-            "phone1": "7088170881",
-            "cityName": "Dehradun",
-            "stateName": "Uttarakhand",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "UK",
-            "id": "UK401",
-            "email": "sales@shubhkia.com",
-            "lat": "30.2894256"
-        },
-        {
             "website": "https://www.shubh-kia-dehradun.com",
             "dealerName": "Shubh Kia, Yamuna Colony",
             "address3": "Uttarakhand -248001",
@@ -37,6 +18,25 @@
             "id": "UK102",
             "email": "SMSALESDEHRADUN@SHUBHKIA.COM",
             "lat": "30.331122"
+        },
+        {
+            "website": "https://www.shubh-kia-mothro-wala-chowk.com",
+            "dealerName": "Shubh Kia, Mothro Wala Chowk",
+            "address3": "Dehradun, Uttarakhand-248001",
+            "lng": "78.0418264",
+            "address2": "Haridwar bypass Road",
+            "cityCode": "N37",
+            "address1": "Mothro Wala Chowk ",
+            "phone2": "999999999",
+            "phone1": "7088170881",
+            "cityName": "Dehradun",
+            "stateName": "Uttarakhand",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "UK",
+            "id": "UK401",
+            "email": "sales@shubhkia.com",
+            "lat": "30.2894256"
         },
         {
             "website": "https://www.shubh-kia-mothro-wala-chowk.com",

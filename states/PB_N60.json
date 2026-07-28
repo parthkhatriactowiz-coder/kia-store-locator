@@ -1,25 +1,6 @@
 {
     "data": [
         {
-            "website": "https://www.vidhata-kia-ludhiana.com",
-            "dealerName": "Vidhata KIA, Ludhiana",
-            "address3": "Punjab -141101",
-            "lng": "75.72056",
-            "address2": "Mullanpur Dakha,Ludhiana,",
-            "cityCode": "N60",
-            "address1": "Village Gahaur, Ferozepur Road,",
-            "phone2": "8558844400",
-            "phone1": "8558844400",
-            "cityName": "Ludhiana",
-            "stateName": "Punjab",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "PB",
-            "id": "PB307",
-            "email": "Sales@vidhatakia.com",
-            "lat": "30.86274"
-        },
-        {
             "website": "https://www.vidhata-kia-sukhmani-enclave.com",
             "dealerName": "Vidhata Kia, South City",
             "address3": "Ludhiana, Punjab -141012",
@@ -37,6 +18,25 @@
             "id": "PB103",
             "email": "Sales@vidhatakia.com",
             "lat": "30.90483"
+        },
+        {
+            "website": "https://www.vidhata-kia-ludhiana.com",
+            "dealerName": "Vidhata KIA, Ludhiana",
+            "address3": "Punjab -141101",
+            "lng": "75.72056",
+            "address2": "Mullanpur Dakha,Ludhiana,",
+            "cityCode": "N60",
+            "address1": "Village Gahaur, Ferozepur Road,",
+            "phone2": "8558844400",
+            "phone1": "8558844400",
+            "cityName": "Ludhiana",
+            "stateName": "Punjab",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "PB",
+            "id": "PB307",
+            "email": "Sales@vidhatakia.com",
+            "lat": "30.86274"
         },
         {
             "website": "https://www.dada-kia-dhandari-kalan.com",

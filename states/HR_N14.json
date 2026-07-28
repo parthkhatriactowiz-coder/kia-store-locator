@@ -39,6 +39,24 @@
             "lat": "28.97026"
         },
         {
+            "dealerName": "Malwa Kia, Narela",
+            "address3": "Haryana -131028",
+            "lng": "77.12360",
+            "address2": "Near KFC Kundli, Sonipat,",
+            "cityCode": "N14",
+            "address1": "Khasra No-79, GT Road Kundli,",
+            "phone2": "7419788801",
+            "phone1": "7419788801",
+            "cityName": "Sonipat",
+            "stateName": "Haryana",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "HR",
+            "id": "DL413",
+            "email": "cgmservice@malwakia.in",
+            "lat": "28.86941"
+        },
+        {
             "website": "https://www.malwa-kia-gt-road.com",
             "dealerName": "Malwa Kia, GT Road",
             "address3": "Haryana-131021",
@@ -56,24 +74,6 @@
             "id": "HR404",
             "email": "gmservice@legacykia.in",
             "lat": "28.97023"
-        },
-        {
-            "dealerName": "Malwa Kia, Narela",
-            "address3": "Haryana -131028",
-            "lng": "77.12360",
-            "address2": "Near KFC Kundli, Sonipat,",
-            "cityCode": "N14",
-            "address1": "Khasra No-79, GT Road Kundli,",
-            "phone2": "7419788801",
-            "phone1": "7419788801",
-            "cityName": "Sonipat",
-            "stateName": "Haryana",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "HR",
-            "id": "DL413",
-            "email": "cgmservice@malwakia.in",
-            "lat": "28.86941"
         }
     ],
     "resultCode": "0000",
