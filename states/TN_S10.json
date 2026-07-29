@@ -1,23 +1,23 @@
 {
     "data": [
         {
-            "website": "https://www.capital-kia-adyar.com",
-            "dealerName": "Capital Kia, Adyar",
-            "address3": "Adyar-600020",
-            "lng": "80.256228",
-            "address2": "Baktavathsalam Nagar",
+            "website": "https://www.capital-kia-egattur.com",
+            "dealerName": "Capital Kia, OMR Chennai",
+            "address3": "Egattur, Tamil Nadu -603103",
+            "lng": "80.229734",
+            "address2": "P No 142, Old Mahabalipuram Road,",
             "cityCode": "S10",
-            "address1": "79, L.B. Road",
-            "phone2": "9962720000",
-            "phone1": "9962720000",
+            "address1": "Old Sy 91/1B, New No: 91/11A,",
+            "phone2": "9962216800",
+            "phone1": "9962216800",
             "cityName": "Chennai",
             "stateName": "Tamil Nadu",
             "sortId": "1",
             "dealerType": "Sales",
             "stateCode": "TN",
-            "id": "TN103",
-            "email": "sm.adyar@capitalkia.in",
-            "lat": "13.002181"
+            "id": "TN104",
+            "email": "sales@capitalkia.in",
+            "lat": "12.829690"
         },
         {
             "dealerName": "Capital Kia, Chromepet",
@@ -35,6 +35,25 @@
             "stateCode": "TN",
             "id": "TN317",
             "lat": "12.951473"
+        },
+        {
+            "website": "https://www.capital-kia-adyar.com",
+            "dealerName": "Capital Kia, Adyar",
+            "address3": "Adyar-600020",
+            "lng": "80.256228",
+            "address2": "Baktavathsalam Nagar",
+            "cityCode": "S10",
+            "address1": "79, L.B. Road",
+            "phone2": "9962720000",
+            "phone1": "9962720000",
+            "cityName": "Chennai",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN103",
+            "email": "sm.adyar@capitalkia.in",
+            "lat": "13.002181"
         },
         {
             "website": "https://www.capital-kia-omr-perungudi.com",
@@ -56,25 +75,6 @@
             "lat": "12.955351"
         },
         {
-            "website": "https://www.capital-kia-egattur.com",
-            "dealerName": "Capital Kia, OMR Chennai",
-            "address3": "Egattur, Tamil Nadu -603103",
-            "lng": "80.229734",
-            "address2": "P No 142, Old Mahabalipuram Road,",
-            "cityCode": "S10",
-            "address1": "Old Sy 91/1B, New No: 91/11A,",
-            "phone2": "9962216800",
-            "phone1": "9962216800",
-            "cityName": "Chennai",
-            "stateName": "Tamil Nadu",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "TN",
-            "id": "TN104",
-            "email": "sales@capitalkia.in",
-            "lat": "12.829690"
-        },
-        {
             "dealerName": "Kun Kia, Kolathur",
             "address3": "Chennai, Tamil Nadu -600110",
             "lng": "80.22877",
@@ -90,25 +90,6 @@
             "stateCode": "TN",
             "id": "TN318",
             "lat": "12.13781"
-        },
-        {
-            "website": "https://www.productivity-arumbakkam-kia.com",
-            "dealerName": "Kun Kia, Arumbakkam",
-            "address3": "Chennai, TN -600106",
-            "lng": "80.212026",
-            "address2": "Arumbakkam,",
-            "cityCode": "S10",
-            "address1": "No.422, Poonamallee High Road,",
-            "phone2": "+919962477771",
-            "phone1": "+919962477771",
-            "cityName": "Chennai",
-            "stateName": "Tamil Nadu",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "TN",
-            "id": "TN312",
-            "email": "sales@kunkia.in",
-            "lat": "13.0749943"
         },
         {
             "website": "https://www.kun-kia-ambattur.com",
@@ -128,6 +109,25 @@
             "id": "TN307",
             "email": "Rajesh.motilal@kunkia.in",
             "lat": "13.088583"
+        },
+        {
+            "website": "https://www.productivity-arumbakkam-kia.com",
+            "dealerName": "Kun Kia, Arumbakkam",
+            "address3": "Chennai, TN -600106",
+            "lng": "80.212026",
+            "address2": "Arumbakkam,",
+            "cityCode": "S10",
+            "address1": "No.422, Poonamallee High Road,",
+            "phone2": "+919962477771",
+            "phone1": "+919962477771",
+            "cityName": "Chennai",
+            "stateName": "Tamil Nadu",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "TN",
+            "id": "TN312",
+            "email": "sales@kunkia.in",
+            "lat": "13.0749943"
         },
         {
             "website": "https://www.svm-cars-guindy-kia.com",
@@ -300,24 +300,6 @@
             "lat": "12.95535"
         },
         {
-            "dealerName": "Capital Kia, Sholinganallur",
-            "address3": ", Chennai, Tamil Nadu -600119",
-            "lng": "80.2286",
-            "address2": "Rajiv Gandhi Road, OMR, Shollinganallur",
-            "cityCode": "S10",
-            "address1": "Survey No. 1/138, S.V.Ekambara,",
-            "phone2": "8939024334",
-            "phone1": "8939024334",
-            "cityName": "Chennai",
-            "stateName": "Tamil Nadu",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "TN",
-            "id": "TN203",
-            "email": "servicemanager.shr@capitalkia.in",
-            "lat": "12.8946"
-        },
-        {
             "dealerName": "Capital Kia, Chromepet",
             "address3": "Pallavaram, Chennai, Tamil Nadu- 600043",
             "lng": "80.17190 ",
@@ -334,6 +316,24 @@
             "id": "TN317",
             "email": "servicemanager.rar@capitalkia.in",
             "lat": "12.95110"
+        },
+        {
+            "dealerName": "Capital Kia, Sholinganallur",
+            "address3": ", Chennai, Tamil Nadu -600119",
+            "lng": "80.2286",
+            "address2": "Rajiv Gandhi Road, OMR, Shollinganallur",
+            "cityCode": "S10",
+            "address1": "Survey No. 1/138, S.V.Ekambara,",
+            "phone2": "8939024334",
+            "phone1": "8939024334",
+            "cityName": "Chennai",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN203",
+            "email": "servicemanager.shr@capitalkia.in",
+            "lat": "12.8946"
         },
         {
             "website": "https://www.kun-kia-ambattur.com",
@@ -392,24 +392,6 @@
             "lat": "13.137945"
         },
         {
-            "dealerName": "SVM Kia, Ekkattuthangal",
-            "address3": " Nagar, Chennai, Tamil Nadu -600032",
-            "lng": "80.20482",
-            "address2": "Door No. 36, 38A & 38B, NP, 5th Cross",
-            "cityCode": "S10",
-            "address1": "Street, Jawaharlal Nehru RD, Kalaimagal",
-            "phone2": "7825874123",
-            "phone1": "7825874123",
-            "cityName": "Chennai",
-            "stateName": "Tamil Nadu",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "TN",
-            "id": "TN202",
-            "email": "servicemgrekt@svmkia.com",
-            "lat": "13.02643"
-        },
-        {
             "website": "https://www.svm-cars-porur-kia.com",
             "dealerName": "SVM Kia, Porur",
             "address3": "Chennai – 600 056",
@@ -427,6 +409,24 @@
             "id": "TN303",
             "email": "servicemgrktp@svmkia.com  ",
             "lat": "13.0444"
+        },
+        {
+            "dealerName": "SVM Kia, Ekkattuthangal",
+            "address3": " Nagar, Chennai, Tamil Nadu -600032",
+            "lng": "80.20482",
+            "address2": "Door No. 36, 38A & 38B, NP, 5th Cross",
+            "cityCode": "S10",
+            "address1": "Street, Jawaharlal Nehru RD, Kalaimagal",
+            "phone2": "7825874123",
+            "phone1": "7825874123",
+            "cityName": "Chennai",
+            "stateName": "Tamil Nadu",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "TN",
+            "id": "TN202",
+            "email": "servicemgrekt@svmkia.com",
+            "lat": "13.02643"
         },
         {
             "dealerName": "VST Kia, Poonamallee",

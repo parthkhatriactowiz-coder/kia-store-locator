@@ -20,6 +20,24 @@
             "lat": "81.7008752"
         },
         {
+            "website": "https://www.mahadeva-kia-ringroad.com",
+            "dealerName": "Mahadeva Kia, Ring Road",
+            "address3": "Chhattisgarh -492010",
+            "lng": "81.5833389",
+            "address2": "Aamnaka, Raipur,",
+            "cityCode": "W54",
+            "address1": "Raipur Bypass Ring Road No.1,",
+            "phone2": "9755211111",
+            "phone1": "9425550666",
+            "cityName": "Raipur",
+            "stateName": "Chhattisgarh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "CG",
+            "id": "CG101",
+            "lat": "21.2374756"
+        },
+        {
             "website": "https://www.mahadeva-kia-mowa.com",
             "dealerName": "Mahadeva Kia, Vidhansabha Road",
             "address3": "Chhattisgarh- 492007",
@@ -37,24 +55,6 @@
             "id": "CG305",
             "email": "salesmanager@mahadevakia.co.in",
             "lat": "21.269078"
-        },
-        {
-            "website": "https://www.mahadeva-kia-ringroad.com",
-            "dealerName": "Mahadeva Kia, Ring Road",
-            "address3": "Chhattisgarh -492010",
-            "lng": "81.5833389",
-            "address2": "Aamnaka, Raipur,",
-            "cityCode": "W54",
-            "address1": "Raipur Bypass Ring Road No.1,",
-            "phone2": "9755211111",
-            "phone1": "9425550666",
-            "cityName": "Raipur",
-            "stateName": "Chhattisgarh",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "CG",
-            "id": "CG101",
-            "lat": "21.2374756"
         },
         {
             "website": "https://www.sairam-wheels-tatibandh-kia.com",

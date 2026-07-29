@@ -9,6 +9,32 @@ connection = mysql.connector.connect(
 
 cursor = connection.cursor()
 
+
+def get_dealer_url_batches(batch_size=5):
+    offset = 0
+
+    while True:
+        cursor.execute(
+            """
+            SELECT url
+            FROM dealer_urls
+            LIMIT %s OFFSET %s
+            """,
+            (batch_size, offset),
+        )
+
+        rows = cursor.fetchall()
+
+        if not rows:
+            break
+
+        batch = [row[0] for row in rows]
+
+        yield batch
+
+        offset += batch_size
+
+
 def insert_dealer_urls(dealer_urls):
 
     sql = """
@@ -32,7 +58,8 @@ def insert_dealer_urls(dealer_urls):
     connection.commit()
 
     print(f"{cursor.rowcount} dealer URLs inserted.")
-    
+
+
 def insert_locations(locations):
 
     sql = """

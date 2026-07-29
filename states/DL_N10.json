@@ -1,25 +1,6 @@
 {
     "data": [
         {
-            "website": "https://www.allied-kia-connaught-place.com",
-            "dealerName": "Allied Kia, Connaught Place",
-            "address3": "Delhi-110001",
-            "lng": "77.21989",
-            "address2": "No.5 Scindia House,",
-            "cityCode": "N10",
-            "address1": "Connaught Place",
-            "phone2": "8047363017",
-            "phone1": "08047363017",
-            "cityName": "Delhi",
-            "stateName": "Delhi",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "DL",
-            "id": "DL408",
-            "email": "gmsalescp@allied-kia.in",
-            "lat": "28.62959"
-        },
-        {
             "website": "https://www.allied-kia-karol-bagh.com",
             "dealerName": "Allied Kia, Karol Bagh",
             "address3": "New Delhi - 110005",
@@ -39,23 +20,23 @@
             "lat": "28.658576"
         },
         {
-            "website": "https://www.automotive-kia-raja-puri.com",
-            "dealerName": "Automotive Kia, Rajapuri",
-            "address3": "Dwarka, New Delhi-110059",
-            "lng": "77.058125",
-            "address2": "Main Road, Rajapuri,",
+            "website": "https://www.allied-kia-connaught-place.com",
+            "dealerName": "Allied Kia, Connaught Place",
+            "address3": "Delhi-110001",
+            "lng": "77.21989",
+            "address2": "No.5 Scindia House,",
             "cityCode": "N10",
-            "address1": "Plot No. K-1 5A, Kh No. 107/17/2,",
-            "phone2": "7780758423",
-            "phone1": "7780758423",
+            "address1": "Connaught Place",
+            "phone2": "8047363017",
+            "phone1": "08047363017",
             "cityName": "Delhi",
             "stateName": "Delhi",
             "sortId": "1",
             "dealerType": "Sales",
             "stateCode": "DL",
-            "id": "DL602",
-            "email": "gmsales.kiadelhi@automotiveml.com",
-            "lat": "28.602447"
+            "id": "DL408",
+            "email": "gmsalescp@allied-kia.in",
+            "lat": "28.62959"
         },
         {
             "website": "https://www.automotive-kia-dwarka.com",
@@ -75,6 +56,25 @@
             "id": "DL409",
             "email": "digitalsales.kiadelhi@automotiveml.com",
             "lat": "28.57487"
+        },
+        {
+            "website": "https://www.automotive-kia-raja-puri.com",
+            "dealerName": "Automotive Kia, Rajapuri",
+            "address3": "Dwarka, New Delhi-110059",
+            "lng": "77.058125",
+            "address2": "Main Road, Rajapuri,",
+            "cityCode": "N10",
+            "address1": "Plot No. K-1 5A, Kh No. 107/17/2,",
+            "phone2": "7780758423",
+            "phone1": "7780758423",
+            "cityName": "Delhi",
+            "stateName": "Delhi",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "DL",
+            "id": "DL602",
+            "email": "gmsales.kiadelhi@automotiveml.com",
+            "lat": "28.602447"
         },
         {
             "website": "https://www.frontier-kia-safdarjung.com",
@@ -207,13 +207,13 @@
             "lat": "28.31237"
         },
         {
-            "website": "https://www.lohia-kia-wazirpur.com",
-            "dealerName": "Lohia Kia, Wazirpur",
-            "address3": "North West Delhi, Delhi -110052",
-            "lng": "77.169250",
-            "address2": "Wazirpur Industrial Area, New Delhi, ",
+            "website": "https://www.lohia-kia-peeragarhi.com",
+            "dealerName": "Lohia Kia, Peeragarhi",
+            "address3": "New Delhi-110087",
+            "lng": "77.0891631",
+            "address2": "Mianwali Nagar, Peeragarhi, ",
             "cityCode": "N10",
-            "address1": "A-10, Wazirpur Industrial Area, ",
+            "address1": "RR4, ",
             "phone2": "999999999",
             "phone1": "8929294444",
             "cityName": "Delhi",
@@ -221,9 +221,9 @@
             "sortId": "1",
             "dealerType": "Sales",
             "stateCode": "DL",
-            "id": "DL406",
-            "email": "gmsales.wzp@lohiakia.com",
-            "lat": "28.703260"
+            "id": "DL101",
+            "email": "gm.sales@lohiakia.com",
+            "lat": "28.6797717"
         },
         {
             "website": "https://www.lohia-kia-prashant-vihar.com",
@@ -260,13 +260,13 @@
             "id": "DL607"
         },
         {
-            "website": "https://www.lohia-kia-peeragarhi.com",
-            "dealerName": "Lohia Kia, Peeragarhi",
-            "address3": "New Delhi-110087",
-            "lng": "77.0891631",
-            "address2": "Mianwali Nagar, Peeragarhi, ",
+            "website": "https://www.lohia-kia-wazirpur.com",
+            "dealerName": "Lohia Kia, Wazirpur",
+            "address3": "North West Delhi, Delhi -110052",
+            "lng": "77.169250",
+            "address2": "Wazirpur Industrial Area, New Delhi, ",
             "cityCode": "N10",
-            "address1": "RR4, ",
+            "address1": "A-10, Wazirpur Industrial Area, ",
             "phone2": "999999999",
             "phone1": "8929294444",
             "cityName": "Delhi",
@@ -274,9 +274,9 @@
             "sortId": "1",
             "dealerType": "Sales",
             "stateCode": "DL",
-            "id": "DL101",
-            "email": "gm.sales@lohiakia.com",
-            "lat": "28.6797717"
+            "id": "DL406",
+            "email": "gmsales.wzp@lohiakia.com",
+            "lat": "28.703260"
         },
         {
             "website": "https://www.sparsh-kia-moti-nagar.com",
@@ -317,24 +317,6 @@
             "lat": "28.70087"
         },
         {
-            "website": "https://www.speedingo-dilshadgarden-kia.com",
-            "dealerName": "Speedingo Kia, Dilshad Garden",
-            "address3": "Delhi -110095",
-            "lng": "77.319235",
-            "address2": "Opposite Dilshad Garden Metro Satation,",
-            "cityCode": "N10",
-            "address1": "485/A-4 & A-4A, Dilshard Garden,",
-            "phone2": "011-49867130",
-            "cityName": "Delhi",
-            "stateName": "Delhi",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "DL",
-            "id": "DL606",
-            "email": "salesmanager.dg@speedingo-kia.in",
-            "lat": "28.676490"
-        },
-        {
             "website": "https://www.speedingo-kia-patparganj.com",
             "dealerName": "Speedingo Kia, Patparganj",
             "address3": "Delhi",
@@ -352,6 +334,24 @@
             "id": "DL404",
             "email": "salesmanager@speedingo-kia.in",
             "lat": "28.63749"
+        },
+        {
+            "website": "https://www.speedingo-dilshadgarden-kia.com",
+            "dealerName": "Speedingo Kia, Dilshad Garden",
+            "address3": "Delhi -110095",
+            "lng": "77.319235",
+            "address2": "Opposite Dilshad Garden Metro Satation,",
+            "cityCode": "N10",
+            "address1": "485/A-4 & A-4A, Dilshard Garden,",
+            "phone2": "011-49867130",
+            "cityName": "Delhi",
+            "stateName": "Delhi",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "DL",
+            "id": "DL606",
+            "email": "salesmanager.dg@speedingo-kia.in",
+            "lat": "28.676490"
         },
         {
             "website": "https://www.shuban-sai-kia-shankar-garden.com",

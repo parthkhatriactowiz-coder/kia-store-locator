@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "website": "https://www.adc-kia-mapusa.com",
+            "dealerName": "ADC Kia, North Goa",
+            "address3": "Goa - 403526",
+            "lng": "73.827507",
+            "address2": "Tivim Industrial Estate, Karaswada, North Goa,",
+            "cityCode": "W60",
+            "address1": "Plot No. 45/46,",
+            "phone2": "7447747047",
+            "phone1": "7447747043",
+            "cityName": "Goa",
+            "stateName": "Goa",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "GA",
+            "id": "GA401",
+            "email": "salesmanager.map@adckia.in",
+            "lat": "15.612361"
+        },
+        {
             "website": "https://www.automotiveis-de-cristal-verna-kia.com",
             "dealerName": "ADC Kia, Verna",
             "address3": "Goa",
@@ -39,25 +58,6 @@
         },
         {
             "website": "https://www.adc-kia-mapusa.com",
-            "dealerName": "ADC Kia, North Goa",
-            "address3": "Goa - 403526",
-            "lng": "73.827507",
-            "address2": "Tivim Industrial Estate, Karaswada, North Goa,",
-            "cityCode": "W60",
-            "address1": "Plot No. 45/46,",
-            "phone2": "7447747047",
-            "phone1": "7447747043",
-            "cityName": "Goa",
-            "stateName": "Goa",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "GA",
-            "id": "GA401",
-            "email": "salesmanager.map@adckia.in",
-            "lat": "15.612361"
-        },
-        {
-            "website": "https://www.adc-kia-mapusa.com",
             "dealerName": "ADC Kia CPO, Goa",
             "address3": "Goa -403526",
             "lng": "73.827507",
@@ -74,25 +74,6 @@
             "id": "GA401",
             "email": "cpomanager@adckia.in",
             "lat": "15.612361"
-        },
-        {
-            "website": "https://www.adc-kia-mapusa.com",
-            "dealerName": "ADC Kia, North Goa",
-            "address3": "Goa - 403526",
-            "lng": "73.81015",
-            "address2": "Dangui Colony, Mapusa, North Goa",
-            "cityCode": "W60",
-            "address1": "Plot No. A, Opp. St. Xaviers College,",
-            "phone2": "8956258295",
-            "phone1": "8956258295",
-            "cityName": "Goa",
-            "stateName": "Goa",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "GA",
-            "id": "GA401",
-            "email": "ccmservice.map@adckia.in",
-            "lat": "15.59744"
         },
         {
             "website": "https://www.automotiveis-de-cristal-verna-kia.com",
@@ -112,6 +93,25 @@
             "id": "GA301",
             "email": "servicemanager@adckia.in",
             "lat": "15.37411"
+        },
+        {
+            "website": "https://www.adc-kia-mapusa.com",
+            "dealerName": "ADC Kia, North Goa",
+            "address3": "Goa - 403526",
+            "lng": "73.81015",
+            "address2": "Dangui Colony, Mapusa, North Goa",
+            "cityCode": "W60",
+            "address1": "Plot No. A, Opp. St. Xaviers College,",
+            "phone2": "8956258295",
+            "phone1": "8956258295",
+            "cityName": "Goa",
+            "stateName": "Goa",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "GA",
+            "id": "GA401",
+            "email": "ccmservice.map@adckia.in",
+            "lat": "15.59744"
         }
     ],
     "resultCode": "0000",

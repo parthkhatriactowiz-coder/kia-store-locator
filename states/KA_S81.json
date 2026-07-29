@@ -1,24 +1,6 @@
 {
     "data": [
         {
-            "website": "https://www.nagshanti-kia-amargol.com",
-            "dealerName": "Nagshanti Kia, Amargol",
-            "lng": "75.08869",
-            "address2": "Amargol, Hubli- 580025",
-            "cityCode": "S81",
-            "address1": "Block No. 54",
-            "phone2": "9148432469",
-            "phone1": "9148432469",
-            "cityName": "Hubli",
-            "stateName": "Karnataka",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "KA",
-            "id": "KA402",
-            "email": "hblsh@nagshantikia.com",
-            "lat": "15.39427"
-        },
-        {
             "website": "https://www.nagshanti-kia-hubli.com",
             "dealerName": "Nagshanti Kia, Airport Road",
             "address3": "Karnataka -580030",
@@ -36,6 +18,24 @@
             "id": "KA103",
             "email": "arunagadi@nagshanti.com",
             "lat": "15.35153"
+        },
+        {
+            "website": "https://www.nagshanti-kia-amargol.com",
+            "dealerName": "Nagshanti Kia, Amargol",
+            "lng": "75.08869",
+            "address2": "Amargol, Hubli- 580025",
+            "cityCode": "S81",
+            "address1": "Block No. 54",
+            "phone2": "9148432469",
+            "phone1": "9148432469",
+            "cityName": "Hubli",
+            "stateName": "Karnataka",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "KA",
+            "id": "KA402",
+            "email": "hblsh@nagshantikia.com",
+            "lat": "15.39427"
         },
         {
             "website": "https://www.nagshanti-kia-amargol.com",

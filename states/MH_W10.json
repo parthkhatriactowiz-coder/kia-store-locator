@@ -226,25 +226,6 @@
             "lat": "19.089037"
         },
         {
-            "website": "https://www.shreenath-andheri-kia.com",
-            "dealerName": "Shreenath Kia, Andheri",
-            "address3": "Andheri(W)- 400053",
-            "lng": "72.8353597",
-            "address2": "Veera Desai Road",
-            "cityCode": "W10",
-            "address1": "Plot No.23A, Shah Industrial Estate",
-            "phone2": "999999999",
-            "phone1": "9773526666",
-            "cityName": "Mumbai",
-            "stateName": "Maharashtra",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "MH",
-            "id": "MH408",
-            "email": "rupesh.karekar@shreenath-kia.in",
-            "lat": "19.1325864"
-        },
-        {
             "website": "https://shreenath-andheri-kia.com",
             "dealerName": "Shreenath Kia, Kandivali West",
             "address3": "Charkop Gaon, Kandivali West- 400067",
@@ -262,6 +243,25 @@
             "id": "MH203",
             "email": "rupesh.karekar@shreenath-kia.in",
             "lat": "19.2049149"
+        },
+        {
+            "website": "https://www.shreenath-andheri-kia.com",
+            "dealerName": "Shreenath Kia, Andheri",
+            "address3": "Andheri(W)- 400053",
+            "lng": "72.8353597",
+            "address2": "Veera Desai Road",
+            "cityCode": "W10",
+            "address1": "Plot No.23A, Shah Industrial Estate",
+            "phone2": "999999999",
+            "phone1": "9773526666",
+            "cityName": "Mumbai",
+            "stateName": "Maharashtra",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "MH",
+            "id": "MH408",
+            "email": "rupesh.karekar@shreenath-kia.in",
+            "lat": "19.1325864"
         }
     ],
     "resultCode": "0000",

@@ -4,7 +4,13 @@ from pathlib import Path
 from get_state_urls import get_state_urls
 from urllib.parse import urlsplit, parse_qs
 import json
-from database import insert_locations, close_connection, insert_dealer_urls
+from database import (
+    insert_locations,
+    close_connection,
+    insert_dealer_urls,
+    get_dealer_url_batches,
+)
+import threading
 
 BASE_DIR = Path(__file__).resolve().parent
 base_url = "https://www.kia.com/api/kia2_in/findAdealer.getStateCity.do"
@@ -30,30 +36,84 @@ dominos_headers = {
 }
 
 
+
+def process_url(url, all_locations, lock):
+    thread_name = threading.current_thread().name
+
+    print(f"[{thread_name}] Started")
+    print(f"[{thread_name}] URL: {url}")
+
+    query = parse_qs(urlsplit(url).query)
+
+    payload = {
+        "state": query["state"][0],
+        "city": query["city"][0],
+        "dealerType": "A",
+    }
+
+    cities = do_search(
+        domain_api_url="https://www.kia.com/api/kia2_in/findAdealer.getDealerList.do",
+        payload=payload,
+        headers=dominos_headers,
+    )
+
+    locations = parse_cities(cities)
+
+    print(f"[{thread_name}] Found {len(locations)} locations")
+
+    with lock:
+        print(f"[{thread_name}] Acquired lock")
+        all_locations.extend(locations)
+        print(f"[{thread_name}] Total locations: {len(all_locations)}")
+        print(f"[{thread_name}] Released lock")
+
+    print(f"[{thread_name}] Finished\n")
+
+
 def main():
     try:
         states = get_state_urls(url=base_url, headers=dominos_headers)
+
         insert_dealer_urls(states)
 
         all_locations = []
+        lock = threading.Lock()
 
-        for data in states:
-            query = parse_qs(urlsplit(data["url"]).query)
+        batch_number = 1
 
-            payload = {
-                "state": query["state"][0],
-                "city": query["city"][0],
-                "dealerType": "A",
-            }
+        for batch in get_dealer_url_batches(batch_size=5):
+            print("=" * 60)
+            print(f"Starting Batch {batch_number}")
+            print("=" * 60)
 
-            cities = do_search(
-                domain_api_url="https://www.kia.com/api/kia2_in/findAdealer.getDealerList.do",
-                payload=payload,
-                headers=dominos_headers,
-            )
+            threads = []
 
-            locations = parse_cities(cities)
-            all_locations.extend(locations)
+            for url in batch:
+                thread = threading.Thread(
+                    target=process_url,
+                    args=(url, all_locations, lock),
+                )
+
+                print(f"Creating {thread.name}")
+
+                thread.start()
+
+                print(f"Started {thread.name}")
+
+                threads.append(thread)
+
+            print(f"Waiting for Batch {batch_number} to finish...")
+
+            for thread in threads:
+                thread.join()
+                print(f"{thread.name} has completed.")
+
+            print(f"Batch {batch_number} completed.")
+            print(f"Locations collected so far: {len(all_locations)}\n")
+
+            batch_number += 1
+
+        print(f"Locations scraped: {all_locations}")
 
         output_dir = BASE_DIR / "parsed"
         output_dir.mkdir(parents=True, exist_ok=True)

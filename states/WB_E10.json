@@ -150,25 +150,6 @@
             "lat": "88.361048"
         },
         {
-            "website": "https://eastern-kianew-town.com",
-            "dealerName": "Eastern Kia, Maheshtalla",
-            "address3": "Kolkata - 700143",
-            "lng": "88.1719",
-            "address2": "Budge Budge Trunk Road,",
-            "cityCode": "E10",
-            "address1": "Paragana Balia, PS Maheshtalla,",
-            "phone2": "9147007499",
-            "phone1": "9147007499",
-            "cityName": "Kolkata",
-            "stateName": "West Bengal",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "WB",
-            "id": "WB201",
-            "email": "bpmanager@easternkia.in",
-            "lat": "22.3053"
-        },
-        {
             "website": "https://www.eastern-kia-new-town.com",
             "dealerName": "Eastern Kia,New town",
             "address3": "New Town",
@@ -186,6 +167,25 @@
             "id": "WB301",
             "email": "gmservice@easternkia.in",
             "lat": "22.62"
+        },
+        {
+            "website": "https://eastern-kianew-town.com",
+            "dealerName": "Eastern Kia, Maheshtalla",
+            "address3": "Kolkata - 700143",
+            "lng": "88.1719",
+            "address2": "Budge Budge Trunk Road,",
+            "cityCode": "E10",
+            "address1": "Paragana Balia, PS Maheshtalla,",
+            "phone2": "9147007499",
+            "phone1": "9147007499",
+            "cityName": "Kolkata",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB201",
+            "email": "bpmanager@easternkia.in",
+            "lat": "22.3053"
         },
         {
             "dealerName": "Gajraj Kia, Kalikapur",
@@ -206,6 +206,24 @@
             "lat": "22.48530"
         },
         {
+            "dealerName": "Landmark Kia, Bantala",
+            "address3": "Kolkata, West Bengal-743502",
+            "lng": "88.454775",
+            "address2": "Mouza Dhapa Manpur, South 24 Parganas,",
+            "cityCode": "E10",
+            "address1": "J L No 01, Basanti Highway,",
+            "phone2": "9147390692",
+            "phone1": "9147390692",
+            "cityName": "Kolkata",
+            "stateName": "West Bengal",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "WB",
+            "id": "WB203",
+            "email": "sahabuddin.s@landmark-kia.in",
+            "lat": "22.5237"
+        },
+        {
             "website": "https://www.landmark-kia-salt-lake.com",
             "dealerName": "Landmark Kia, Kalikapur ",
             "address3": "Kolkata, West Bengal -700152",
@@ -223,24 +241,6 @@
             "id": "WB405",
             "email": "tamalika.r@landmark-kia.in",
             "lat": "17.513800"
-        },
-        {
-            "dealerName": "Landmark Kia, Bantala",
-            "address3": "Kolkata, West Bengal-743502",
-            "lng": "88.454775",
-            "address2": "Mouza Dhapa Manpur, South 24 Parganas,",
-            "cityCode": "E10",
-            "address1": "J L No 01, Basanti Highway,",
-            "phone2": "9147390692",
-            "phone1": "9147390692",
-            "cityName": "Kolkata",
-            "stateName": "West Bengal",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "WB",
-            "id": "WB203",
-            "email": "sahabuddin.s@landmark-kia.in",
-            "lat": "22.5237"
         },
         {
             "website": "https://spl-cars-ajc-bose-road.com",

@@ -20,23 +20,6 @@
             "lat": "20.3492"
         },
         {
-            "dealerName": "Empreo Kia, Laxmisagar",
-            "address3": "Khordha, Odisha-751006",
-            "lng": "85.852561",
-            "address2": "Laxmisagar-2, Bhubaneswar,",
-            "cityCode": "E70",
-            "address1": "Khata No- 565/392, Plot No-16, Unit-31,",
-            "phone2": "9124401544",
-            "phone1": "9124401544",
-            "cityName": "Bhubaneshwar",
-            "stateName": "Odisha",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "OR",
-            "id": "OD103",
-            "lat": "20.275718"
-        },
-        {
             "website": "https://www.empreo-kia-patia.com",
             "dealerName": "Empreo Kia, Patia",
             "address3": "Odisha - 751024",
@@ -54,6 +37,23 @@
             "id": "OD402",
             "email": "gdsamal@Samalgroup.Com",
             "lat": "20.347066"
+        },
+        {
+            "dealerName": "Empreo Kia, Laxmisagar",
+            "address3": "Khordha, Odisha-751006",
+            "lng": "85.852561",
+            "address2": "Laxmisagar-2, Bhubaneswar,",
+            "cityCode": "E70",
+            "address1": "Khata No- 565/392, Plot No-16, Unit-31,",
+            "phone2": "9124401544",
+            "phone1": "9124401544",
+            "cityName": "Bhubaneshwar",
+            "stateName": "Odisha",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "OR",
+            "id": "OD103",
+            "lat": "20.275718"
         },
         {
             "website": "https://www.trupti-kia-patrapada.com",

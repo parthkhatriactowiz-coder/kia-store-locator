@@ -1,6 +1,23 @@
 {
     "data": [
         {
+            "dealerName": "SNR Kia, Khoefiza",
+            "address3": "Madhya Pradesh -462001",
+            "lng": "77.06694",
+            "address2": "Koh-E-Fiza, Bhopal,",
+            "cityCode": "W50",
+            "address1": "A16, Housing Board Colony,",
+            "phone2": "9171151313",
+            "phone1": "7999676798",
+            "cityName": "Bhopal",
+            "stateName": "Madhya Pradesh",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "MP",
+            "id": "MP104",
+            "lat": "23.192001"
+        },
+        {
             "website": "https://www.snr-kia-govindpura.com",
             "dealerName": "SNR Kia, Govindpura",
             "address3": "Madhya Pradesh-462023",
@@ -20,21 +37,23 @@
             "lat": "23.260975 "
         },
         {
-            "dealerName": "SNR Kia, Khoefiza",
-            "address3": "Madhya Pradesh -462001",
-            "lng": "77.06694",
-            "address2": "Koh-E-Fiza, Bhopal,",
+            "website": "https://somya-kia-chunnabhatti-bhopal.com/",
+            "dealerName": "Somya Kia, Hoshangabad Road, Bhopal",
+            "address3": "Madhya Pradesh -462026",
+            "lng": "77.459832",
+            "address2": "Village Bawadiya Kalal, Dist Bhopal,",
             "cityCode": "W50",
-            "address1": "A16, Housing Board Colony,",
-            "phone2": "9171151313",
-            "phone1": "7999676798",
+            "address1": "Khasra No 435/2/1(K) And 1(G),",
+            "phone2": "9111809777",
+            "phone1": "9111809777",
             "cityName": "Bhopal",
             "stateName": "Madhya Pradesh",
             "sortId": "1",
             "dealerType": "Sales",
             "stateCode": "MP",
-            "id": "MP104",
-            "lat": "23.192001"
+            "id": "MP311",
+            "email": "gmsaleskia@somyagroup.co.in",
+            "lat": "23.176255"
         },
         {
             "website": "https://www.somya-kia-chunnabhatti-bhopal.com",
@@ -54,25 +73,6 @@
             "id": "MP103",
             "email": "pravesh.agrawal@somyagroup.org",
             "lat": "23.208055"
-        },
-        {
-            "website": "https://somya-kia-chunnabhatti-bhopal.com/",
-            "dealerName": "Somya Kia, Hoshangabad Road, Bhopal",
-            "address3": "Madhya Pradesh -462026",
-            "lng": "77.459832",
-            "address2": "Village Bawadiya Kalal, Dist Bhopal,",
-            "cityCode": "W50",
-            "address1": "Khasra No 435/2/1(K) And 1(G),",
-            "phone2": "9111809777",
-            "phone1": "9111809777",
-            "cityName": "Bhopal",
-            "stateName": "Madhya Pradesh",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "MP",
-            "id": "MP311",
-            "email": "gmsaleskia@somyagroup.co.in",
-            "lat": "23.176255"
         },
         {
             "website": "https://www.snr-kia-govindpura.com",

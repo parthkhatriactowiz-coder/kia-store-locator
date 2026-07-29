@@ -1,25 +1,6 @@
 {
     "data": [
         {
-            "website": "https://rajesh-motors-vkia-sikar-road.com",
-            "dealerName": "Rajesh Kia, VKIA, Sikar Road",
-            "address3": "Jaipur",
-            "lng": "75.77258",
-            "address2": "Sikar Road",
-            "cityCode": "N40",
-            "address1": "F21 VKI Industrial Area",
-            "phone2": "999999999",
-            "phone1": "8824900972",
-            "cityName": "Jaipur",
-            "stateName": "Rajasthan",
-            "sortId": "1",
-            "dealerType": "Sales",
-            "stateCode": "RJ",
-            "id": "RJ101",
-            "email": "info.vki@rajeshkia.in",
-            "lat": "26.97523"
-        },
-        {
             "website": "https://rajesh-motors-ajmer-road-kia.com",
             "dealerName": "Rajesh Kia, Ajmer Road",
             "address3": " Jaipur - 302021",
@@ -37,6 +18,25 @@
             "id": "RJ404",
             "email": "info.ajrd@rajeshkia.in",
             "lat": "26.89126"
+        },
+        {
+            "website": "https://rajesh-motors-vkia-sikar-road.com",
+            "dealerName": "Rajesh Kia, VKIA, Sikar Road",
+            "address3": "Jaipur",
+            "lng": "75.77258",
+            "address2": "Sikar Road",
+            "cityCode": "N40",
+            "address1": "F21 VKI Industrial Area",
+            "phone2": "999999999",
+            "phone1": "8824900972",
+            "cityName": "Jaipur",
+            "stateName": "Rajasthan",
+            "sortId": "1",
+            "dealerType": "Sales",
+            "stateCode": "RJ",
+            "id": "RJ101",
+            "email": "info.vki@rajeshkia.in",
+            "lat": "26.97523"
         },
         {
             "website": "https://www.roshan-kia-jaipur.com",
@@ -208,24 +208,6 @@
             "lat": "26.9544215"
         },
         {
-            "dealerName": "Roshan Kia, Road No. 09, VKI",
-            "address3": "Rajasthan- 302013",
-            "lng": "75.77633",
-            "address2": "Vishwakarma Industria, Jaipur,",
-            "cityCode": "N40",
-            "address1": "Plot No. B-121, Road No. 09,",
-            "phone2": "8879883024",
-            "phone1": "8879883024",
-            "cityName": "Jaipur",
-            "stateName": "Rajasthan",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "RJ",
-            "id": "RJ412",
-            "email": "ccmservice-vki@roshankia.com",
-            "lat": "26.98715"
-        },
-        {
             "website": "https://www.roshan-kia-raja-park.com",
             "dealerName": "Roshan Kia, Malviya Nagar Industrial area",
             "address3": "Jaipur, Rajasthan -302017",
@@ -243,6 +225,24 @@
             "id": "RJ409",
             "email": "ccmservice-mia@roshankia.com",
             "lat": "26.98709"
+        },
+        {
+            "dealerName": "Roshan Kia, Road No. 09, VKI",
+            "address3": "Rajasthan- 302013",
+            "lng": "75.77633",
+            "address2": "Vishwakarma Industria, Jaipur,",
+            "cityCode": "N40",
+            "address1": "Plot No. B-121, Road No. 09,",
+            "phone2": "8879883024",
+            "phone1": "8879883024",
+            "cityName": "Jaipur",
+            "stateName": "Rajasthan",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "RJ",
+            "id": "RJ412",
+            "email": "ccmservice-vki@roshankia.com",
+            "lat": "26.98715"
         },
         {
             "website": "https://www.sanghi-inc-tonk-road-kia.com",

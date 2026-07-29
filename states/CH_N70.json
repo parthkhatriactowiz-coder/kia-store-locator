@@ -39,25 +39,6 @@
             "lat": "30.70737 "
         },
         {
-            "website": "https://joshi-kia-industrial-area-phase-1.com",
-            "dealerName": "Joshi Kia, Industrial area, Phase 1-2S",
-            "address3": "CHANDIGARH-160002",
-            "lng": "76.806541",
-            "address2": "Industrial Area, Phase 1",
-            "cityCode": "N70",
-            "address1": "Plot No. 33, ",
-            "phone2": "0172-5305366",
-            "phone1": "0172-5305366",
-            "cityName": "Chandigarh",
-            "stateName": "Chandigarh",
-            "sortId": "3",
-            "dealerType": "Service",
-            "stateCode": "CH",
-            "id": "CH201",
-            "email": "joshikiachandigarh@gmail.com",
-            "lat": "30.711601"
-        },
-        {
             "website": "https://www.joshi-kia-industrial-area-phase-1.com",
             "dealerName": "Joshi Kia, Industrial area, Phase 1",
             "address3": "CHANDIGARH-160002",
@@ -75,6 +56,25 @@
             "id": "CH401",
             "email": "gmaftersales@joshikia.in",
             "lat": "30.703070"
+        },
+        {
+            "website": "https://joshi-kia-industrial-area-phase-1.com",
+            "dealerName": "Joshi Kia, Industrial area, Phase 1-2S",
+            "address3": "CHANDIGARH-160002",
+            "lng": "76.806541",
+            "address2": "Industrial Area, Phase 1",
+            "cityCode": "N70",
+            "address1": "Plot No. 33, ",
+            "phone2": "0172-5305366",
+            "phone1": "0172-5305366",
+            "cityName": "Chandigarh",
+            "stateName": "Chandigarh",
+            "sortId": "3",
+            "dealerType": "Service",
+            "stateCode": "CH",
+            "id": "CH201",
+            "email": "joshikiachandigarh@gmail.com",
+            "lat": "30.711601"
         }
     ],
     "resultCode": "0000",
